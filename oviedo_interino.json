@@ -1,0 +1,574 @@
+[
+    {
+        "pregunta": "2.- Según artículo 5 de la Ley 2/86 de Fuerzas y Cuerpos de Seguridad, dentro de los principios básicos de actuación, el impedir en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral, dentro de qué principio básico de actuación está recogido, dentro del apartado: ",
+        "respuestas": {
+            "a": "a) Tratamiento de detenidos ",
+            "b": "b) Adecuación al ordenamiento jurídico ",
+            "c": "c) Relaciones con la comunidad ",
+            "d": "d) Responsabilidad "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "3.-  De acuerdo con lo especificado en el Anexo | del Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, circulación de vehículos a motor y seguridad vial, el Autobús o autocar, es un automóvil destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes, con el siguiente número de plazas: ",
+        "respuestas": {
+            "a": "a) Más de siete, sin incluir la del conductor. ",
+            "b": "b) Más de ocho, incluida la del conductor. ",
+            "c": "c) Más de nueve, incluida la del conductor. ",
+            "d": "d) Más de quince, sin incluir la del conductor. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "4.-  De acuerdo con lo dispuesto en el Código Penal, Ley Orgánica 10/95, de 23 de noviembre, ¿Cuándo se castigarán las acciones y omisiones imprudentes? ",
+        "respuestas": {
+            "a": "a) Cuando sean calificadas como graves y se dirijan contra las personas. ",
+            "b": "b) Cuando sean graves o muy graves, y causen lesiones o daños a las personas o al patrimonio. ",
+            "c": "c) Sólo cuando expresamente lo disponga la Ley. ",
+            "d": "d) Siempre, una vez se acredite a través de la oportuna sentencia. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "5.-  De acuerdo con lo dispuesto en la Constitución Española de 1978, facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social, corresponde a...: ",
+        "respuestas": {
+            "a": "a) Los partidos políticos. ",
+            "b": "b) Las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "c": "c) El Estado. ",
+            "d": "d) Los poderes públicos. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "6.-  En base al artículo 54 recogido en la Ley 2/86 de Fuerzas y Cuerpos de Seguridad, ¿Cómo se denomina el órgano competente para establecer las formas y procedimientos de colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en su ámbito territorial?: ",
+        "respuestas": {
+            "a": "a) Comité de Expertos ",
+            "b": "b) Junta de Seguridad ",
+            "c": "c) Junta Local de Seguridad ",
+            "d": "d) Consejo de Política de Seguridad "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "7.-  De acuerdo con lo dispuesto en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, circulación de vehículos a motor y seguridad vial, realizar en la vía obras sin la autorización correspondiente, así como la retirada, ocultación o deterioro de la señalización permanente u ocasional, constituye una infracción sancionada conmulta: ",
+        "respuestas": {
+            "a": "a) De 3.000 a 10.000 €. ",
+            "b": "b) De 5.000 a 20.000 €. ",
+            "c": "c) De 6.000 a 30.000 €. ",
+            "d": "d) De 3.000 a20.000 €. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "8.-  Siguiendo el Cédigo Penal, Ley Organica 10/95, de 23 de noviembre, la dilación extraordinaria e indebida en la tramitación del procedimiento, siempre que no sea atribuible al propio inculpado y que no guarde proporción con la complejidad de la causa, constituye una circunstancia...: ",
+        "respuestas": {
+            "a": "a) Atenuante. ",
+            "b": "b) Eximente. ",
+            "c": "c) Agravante. ",
+            "d": "d) Ninguna de los anteriores. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "9.-  De acuerdo con lo preceptuado por la Constitución Española de 1978, los miembros del Tribunal Constitucional serán designados...: ",
+        "respuestas": {
+            "a": "a) Por un periodo de doce años, y se renovarán por terceras partes cada tres. ",
+            "b": "b) Por un periodo de cuatro años, y se renovarán por terceras partes cada legislatura. ",
+            "c": "c) Porun periodo de nueve años, y se renovarán por terceras partes cada tres. ",
+            "d": "d) Porun periodo de doce años, y se renovarán por terceras partes cada cuatro años. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "10.-  Según el artículo 15 de la Ley Orgánica 4/2015, de 30 de Marzo, sobre Protección de la Seguridad Ciudadana, en el caso de las Fuerzas y Cuerpos de Seguridad accedan a un domicilio particular, remitirán el acta o atestado que instruyan a la autoridad judicial competente en el plazo de: ",
+        "respuestas": {
+            "a": "a) 72 horas. ",
+            "b": "b) 48 horas. ",
+            "c": "c) 24 horas. ",
+            "d": "d) Sin dilación. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "11.-  Siguiendo el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, circulación de vehículos a motor y seguridad vial, en las calzadas con doble sentido de circulación y dos carriles, separados o no por marcas viales, el conductor de un automóvil debe circular por...: ",
+        "respuestas": {
+            "a": "a) El de su derecha. ",
+            "b": "b) El de su izquierda. ",
+            "c": "c) Por cualquiera de ellos, indistintamente. ",
+            "d": "d) Por el que aconsejen las circunstancias del tráfico. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "12.-  Siguiendo el Código Penal, Ley Orgánica 10/95, de 23 de noviembre, con respecto al procedimiento de enjuiciamiento rápido de determinados delitos, la Policía Judicial requerirá la presencia de cualquier facultativo o personal sanitario que fuere habido para prestar, si fuere necesario, los oportunos auxilios al ofendido. El requerido, aunque sólo lo fuera verbalmente, que no atienda sin justa causa el requerimiento será sancionado con...: ",
+        "respuestas": {
+            "a": "a) Multa de 500 euros. ",
+            "b": "b) Multa de 300 a 3.000 euros. ",
+            "c": "c) Multa de 200 a 2.000 euros. ",
+            "d": "d) Multa de 500 a 5.000 euros. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "13.-  Según la Constitución Española de 1978, el Estado de Sitio será declarado...: ",
+        "respuestas": {
+            "a": "a) Por el Gobierno, dando cuenta inmediata al Congreso de los Diputados, reunido en sesión extraordinaria al efecto. ",
+            "b": "b) Por mayoría absoluta del Congreso de los Diputados, a propuesta exclusiva del Gobierno. ",
+            "c": "c) Porlas Cortes Generales, reunidas al efecto en sesión conjunta de carácter extraordinario, a propuesta exclusiva de la Diputación Permanente. ",
+            "d": "d) Por el Gobierno, a propuesta exclusiva del Congreso de los Diputados. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "14.-  Según el artículo 25 de la Ley Orgánica 4/2015, de 30 de Marzo, sobre Protección de la Seguridad Ciudadana, no requiere registro documental las siguientes actividades: ",
+        "respuestas": {
+            "a": "a) Comercio y reparación de objetos usados. ",
+            "b": "b) Acceso comercial a servicios telefónicos o telemáticos de uso público mediante establecimientos abiertos al público. ",
+            "c": "c) Titulares de embarcaciones de alta velocidad. ",
+            "d": "d) Establecimientos de comercio textil. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "15.-  El adelantamiento se realizará de la siguiente forma, tal y como se recoge en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial: ",
+        "respuestas": {
+            "a": "a) Siempre por la izquierda, en todas las carreteras. ",
+            "b": "b) Excepcionalmente por la derecha, cuando el conductor del vehículo al que se pretenda adelantar esté indicando claramente su propósito de cambiar de dirección a la izquierda o parar en ese lado. ",
+            "c": "c) Excepcionalmente por la derecha, en autopistas y autovías. ",
+            "d": "d) Indistintamente, por la derecha o por la izquierda, en las vías con circulación en ambos sentidos, a los tranvías que marchen por la zona central. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "16.-  Según la Ley de Enjuiciamiento Civil, Ley 1/2000, de 7 de enero, son apelables las sentencias dictadas en toda clase de juicio, los autos definitivos y aquéllos otros que la ley expresamente señale, con excepción de las sentencias dictadas en los juicios verbales por razón de la cuantía, cuando no sea superior a la siguiente cantidad: ",
+        "respuestas": {
+            "a": "a) 5.000 euros. ",
+            "b": "b) 3.000 euros. ",
+            "c": "c) 6.000 euros. ",
+            "d": "d) 4.000 euros. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "17.-  Siguiendo lo dispuesto en la Constitución Española de 1978, la cuestión de confianza...: ",
+        "respuestas": {
+            "a": "a) ",
+            "b": "b) ",
+            "c": "c) ",
+            "d": "d) Es planteada por el Presidente del Gobierno ante las Cortes Generales, reunidas al efecto en única sesión, y se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta de ambas Cámaras. Es planteada por el Presidente del Congreso ante las Cortes Generales, y se entenderá otorgada cuando vote a favor de la misma la mayoría simple de ambas Cámaras. Es planteada por el Presidente del Gobierno ante el Congreso de los Diputados, y se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados. Es planteada por el Presidente del Congreso de los Diputados, y se entenderá otorgada cuando vote a favor de la misma la mayoría absoluta de los Diputados en primera votación o la mayoría simple en segunda votación. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "18.-  Según el artículo 37 de la Ley Orgánica 4/2015, de 30 de Marzo, sobre Protección de la Seguridad Ciudadana, son infracciones leves: ",
+        "respuestas": {
+            "a": "a) La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta ley siempre que no constituya infracción penal. ",
+            "b": "b) El incumplimiento de las restricciones a la navegación reglamentariamente impuestas a las embarcaciones de alta velocidad y aeronaves ligeras. ",
+            "c": "c) La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma. ",
+            "d": "d) Ninguna de las anteriores es correcta. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "19.-  Respecto a las normas generales sobre la parada y el estacionamiento, el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, dispone: ",
+        "respuestas": {
+            "a": "a) La parada o estacionamiento en vías interurbanas, se efectuará siempre sobre la calzada. ",
+            "b": "b) La parada o estacionamiento en vías interurbanas, se efectuará siempre en el lado izquierdo de la calzada, según el sentido de la marcha. ",
+            "c": "c) La parada o estacionamiento en vías interurbanas, se efectuará dejando libre la parte transitable del arcén, cuando exista. ",
+            "d": "d) La parada o estacionamiento podrá hacerse sobre un carril de circulación, siempre que no obstaculice la visibilidad para el resto de usuarios. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "20.-  Conforme a lo dispuesto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en el procedimiento contencioso- administrativo ordinario, presentada la demanda, se dará traslado a la Administración demandada, que tendrá el siguiente plazo para contestar: ",
+        "respuestas": {
+            "a": "a) 15 días. ",
+            "b": "b) 20 días. ",
+            "c": "c) 10 días hábiles. ",
+            "d": "d) Un mes. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "21.-  Según la Constitución Española de 1978, la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte...: ",
+        "respuestas": {
+            "a": "a) A la averiguación de los delitos. ",
+            "b": "b) A la averiguación de infracciones administrativas. ",
+            "c": "c) Al funcionamiento de las instituciones. ",
+            "d": "d) A la actividad de las administraciones públicas. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "22.- .En virtud del artículo 5 de la Ley Orgánica 4/2010, de 20 de Mayo, del régimen disciplinario del Cuerpo Nacional de Policía, que responsabilidad tendrán los que induzcan a la comisión de una falta: ",
+        "respuestas": {
+            "a": "a) Incurrirán en la misma responsabilidad que los autores. ",
+            "b": "b) Incurrirán en una sanción inferior en un grado a los autores de la misma. ",
+            "c": "c) Incurrirán en una sanción inferior en uno o dos grados a los autores de la misma. ",
+            "d": "d) Se castigará la infracción como circunstancia atenuante ya que el inductor no participa. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "23.-  Conforme a lo dispuesto en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, en el orden de preferencia entre los distintos tipos de señales de circulación, los semáforos ocupan el lugar..: ",
+        "respuestas": {
+            "a": "a) El primero. ",
+            "b": "b) El segundo ",
+            "c": "c) El tercero. ",
+            "d": "d) El cuarto. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "26.- .Conforme el artículo 9 de la Ley Orgánica 4/2010, de 20 de mayo, del régimen disciplinario del Cuerpo Nacional de Policía, es considerada falta leve: ",
+        "respuestas": {
+            "a": "a) La infracción de las normas de prevención de riesgos laborales que pongan en grave riesgo la vida, la salud o integridad física propia o de sus compañeros o subordinados. ",
+            "b": "b) Solicitar y obtener cambios de destino mediando cualquier recompensa, ánimo de lucro o falseando las condiciones que lo regulan. ",
+            "c": "c) Asistir de uniforme a cualquier manifestación o reunión pública, salvo que se trate de actos de servicio, o actos oficiales en los que la asistencia de uniforme haya sido autorizada. ",
+            "d": "d) Ninguna de las anteriores es correcta. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "27.-  En relación con la Señalización, el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehiculos a Motor y Seguridad Vial dispone que “Reglamentariamente se establecerá el...: ",
+        "respuestas": {
+            "a": "a) Catálogo Oficial de Señalización Vial. ",
+            "b": "b) Reglamento General de Señalización Vial y circunstancial. ",
+            "c": "c) Catálogo Oficial de Señales de la Circulación y Marcas Viales. ",
+            "d": "d) Reglamento Oficial de Señalización Vial, Vertical y de Marcas Viales. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "28.-  Conforme al Real Decreto de 14 de septiembre de 1882 por el que se aprueba la Ley de Enjuiciamiento Criminal, cualquier persona podrá detener...: ",
+        "respuestas": {
+            "a": "a) Al procesado que estuviese localizado. ",
+            "b": "b) Al que se fugare estando detenido o preso por causa pendiente. ",
+            "c": "c) Al que pensare cometer un delito. ",
+            "d": "d) Al citado por un Juzgado, tras rehusar la asistencia al mismo. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "29.-  Conforme a lo dispuesto en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, respecto al Municipio...: ",
+        "respuestas": {
+            "a": "a) La creación o supresión de Municipios, así como la alteración de los términos municipales, se regulará por la legislación del Estado, sin que en ningún caso la alteración de los términos municipales pueda suponer modificación de los límites provinciales. ",
+            "b": "b) La creación o supresión de Municipios, así como la alteración de términos municipales, se regulará a iniciativa del Gobierno, previo informe de la Comisión Interterritorial de Comunidades Autónomas, a propuesta exclusiva del Ministerio de Administraciones Públicas, cuando la alteración de los términos municipales suponga modificación de los límites provinciales. ",
+            "c": "c) La creación o supresión de Municipios, así como la alteración de términos municipales, se regulará por la legislación de las Comunidades Autónomas sobre régimen local, sin que la alteración de términos municipales pueda suponer, en ningún caso, modificación de los límites provinciales. ",
+            "d": "d) La creación o supresión de Municipios, así como la alteración de términos municipales, se regulará por la legislación del Estado, sin que la alteración de términos municipales pueda suponer, en ningún caso, modificación de los límites de cada territorio. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "30.-  En base al artículo 8 de la Ley 2/2007 de Coordinación de Policías Locales del Principado de Asturias, el armamento y resto de medios les serán proporcionados por las respectivas administraciones locales, y tendrán un carácter: ",
+        "respuestas": {
+            "a": "a) Homogéneo ",
+            "b": "b) Funcional ",
+            "c": "c) Especifico ",
+            "d": "d) Proporcional "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "31.-  De acuerdo con lo dispuesto en el Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores, el permiso de conducción que autoriza para conducir cuatriciclos ligeros, es el de la clase...: ",
+        "respuestas": {
+            "a": "a) L1 ",
+            "b": "b) L ",
+            "c": "c) AM ",
+            "d": "d) LóL1, depende de la masa máxima autorizada (MMA), del vehiculo. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "32.-  Siguiendo el Código Penal, Ley Orgánica 10/95, de 23 de noviembre, el que matare a otro sera castigado, como reo de homicidio...: ",
+        "respuestas": {
+            "a": "a) Con la pena de prisión de diez a veinte años ",
+            "b": "b) Con la pena de prisión de doce a quince años ",
+            "c": "c) Con la pena de prisión de diez a quince años ",
+            "d": "d) Con la pena de prisión de quince a veinte años "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "33.-  A tenor de lo dispuesto en la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, el Pleno del Ayuntamiento tiene entre otras atribuciones...: ",
+        "respuestas": {
+            "a": "a) La asistencia al Alcalde en el ejercicio de sus atribuciones. ",
+            "b": "b) La sanción de las infracciones graves o muy graves a las Ordenanzas Municipales. ",
+            "c": "c) La aprobación del reglamento orgánico. ",
+            "d": "d) Revocar los Bandos municipales. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "34.- Según artículo 13 de la Ley 2/2007, la Comisión de Coordinación de las Policías Locales es, en materia de coordinación de las mismas, el: ",
+        "respuestas": {
+            "a": "a) Órgano deliberante y de participación ",
+            "b": "b) Máximo órgano deliberante y de decisión ",
+            "c": "c) Órgano deliberante y de decisión ",
+            "d": "d) Máximo órgano deliberante y de participación "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "35.-  De acuerdo con el Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, toda persona natural o jurídica que sea titular de un vehículo matriculado en España y que lo transmita a otra, deberá notificarlo a la Jefatura de Tráfico de la provincia en que tenga su domicilio legal o a aquélla en que fue matriculado el vehículo, en el plazo de...: ",
+        "respuestas": {
+            "a": "a) Un mes, desde la transmisión. ",
+            "b": "b) 15 días, desde la transmisión. ",
+            "c": "c) 10 dias, desde la transmisión. ",
+            "d": "d) En los 15 días hábiles, siguientes a la fecha de transmisión. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "37.-  En relación a los “límites a la extensión de la nulidad o anulabilidad de los actos”, la Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas dispone que: ",
+        "respuestas": {
+            "a": "a) La nulidad o anulabilidad de un acto implicará la de los sucesivos en el procedimiento, aunque sean independientes del primero, salvo que entre aquellos exista identidad de razón. ",
+            "b": "b) La nulidad o anulabilidad de una parte del acto implicará la de las demás partes del mismo aunque sean independientes. ",
+            "c": "c) La nulidad o anulabilidad de un acto no implicará la de los sucesivos en el procedimiento que sean independientes del primero. ",
+            "d": "d) La nulidad o anulabilidad en una parte del acto no implicará la de las partes del mismo que sean dependientes de aquella, aunque la parte viciada sea de tal importancia que sin ella el acto no hubiera sido dictado. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "39.-  Conforme a lo dispuesto en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, incumplir la obligación de todos los conductores de vehículos, y de los demás usuarios de la vía cuando se hallen implicados en algún accidente de tráfico o hayan cometido una infracción, de someterse a las pruebas que se establezcan para la detección de alcohol o de la presencia de drogas en el organismo, será sancionado con multa de....: ",
+        "respuestas": {
+            "a": "a) 500 euros. ",
+            "b": "b) 1000 euros ",
+            "c": "c) Hasta 500 euros. ",
+            "d": "d) 200 euros. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "40.-  A tenor de lo dispuesto en el Código Penal, Ley Orgánica 10/95, de 23 de noviembre el delito se comete...: ",
+        "respuestas": {
+            "a": "a) De forma dolosa o imprudente. ",
+            "b": "b) De forma culposa, temeraria o premeditada. ",
+            "c": "c) De forma voluntaria, exclusivamente. ",
+            "d": "d) Solo de forma consciente. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "41.-  De acuerdo con lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público “el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin” se considera: ",
+        "respuestas": {
+            "a": "a) Personal directivo profesional ",
+            "b": "b) Personal de confianza ",
+            "c": "c) Personal interino ",
+            "d": "d) Personal eventual "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "42.-  Según refiere el artículo 544 ter de la Ley de Enjuiciamiento Criminal ¿Ante quién podrá solicitarse la Orden de Protección para víctimas de violencia de género?: ",
+        "respuestas": {
+            "a": "a) Autoridad Judicial o Ministerio Fiscal ",
+            "b": "b) Oficinas de atención a la víctima o instituciones asistenciales dependientes de las Administraciones públicas. ",
+            "c": "c) Fuerzas y Cuerpos de seguridad ",
+            "d": "d) Todas las anteriores "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "43.-  En relación con lo dispuesto en el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, se sanciona con multa de...: ",
+        "respuestas": {
+            "a": "a) 500 euros. ",
+            "b": "b) 1000 euros. ",
+            "c": "c) 6000 euros. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "44.-  En virtud de lo dispuesto en el Código Penal, Ley Orgánica 10/95, de 23 de noviembre, cuando el que sin estar legítimamente autorizado impidiere a otro hacer lo que la ley no prohibe utilizando la violencia o le compeliere a efectuar lo que no quiera, comete un delito de: ",
+        "respuestas": {
+            "a": "a) Coacciones. ",
+            "b": "b) Amenazas. ",
+            "c": "c) Delito de extorsión, si le pidiere cantidad de dinero. ",
+            "d": "d) Extorsión, halla o no exigencia de precio, recompensa o promesa. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "45.-  Conforme a lo dispuesto en el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, las retribuciones de los funcionarios de carrera se clasifican en..: ",
+        "respuestas": {
+            "a": "a) Fijas y periódicas. ",
+            "b": "b) Básicas y complementarias. ",
+            "c": "c) Obligatorias y voluntarias. ",
+            "d": "d) Ordinarias y extraordinarias. "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "46.- En base a la Ley 8/2002 sobre Espectáculos Públicos y Actividades Recreativas del Principado de Asturias, el incumplimiento de las condiciones de insonorización de los establecimientos, locales e instalaciones se considera una infracción: ",
+        "respuestas": {
+            "a": "a) Leve ",
+            "b": "b) Grave ",
+            "c": "c) Muy Grave ",
+            "d": "d) Menos grave "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "47.-  De acuerdo con el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, se entenderá que la notificación de una denuncia efectuada en la Dirección Electrónica Vial ha sido rechazada, si existiendo constancia de la recepción de la notificación y salvo que de oficio 0 a instancia del destinatario se compruebe la imposibilidad técnica o material del acceso, transcurra un plazo de...: ",
+        "respuestas": {
+            "a": "a) Diez días naturales sin que se acceda a su contenido. ",
+            "b": "b) Tres días hábiles sin que se acceda a su contenido. ",
+            "c": "c) Veinte días hábiles sin que se acceda a su contenido. ",
+            "d": "d) Veinte días naturales sin que se acceda a su contenido. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "48.-  En virtud de lo dispuesto en el Código Penal, Ley Orgánica 10/95, de 23 de noviembre, cuando se sustraigan cosas de valor artístico, histórico, cultural o científico, el hurto será castigado...: ",
+        "respuestas": {
+            "a": "a) Con la pena de prisión de uno a cuatro años ",
+            "b": "b) Con la pena de prisión de 6 meses a tres años ",
+            "c": "c) Con la pena de prisión de uno a tres años ",
+            "d": "d) Con la pena de prisión de 6 meses a dos años "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "49.-  De acuerdo con lo dispuesto en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, las Entidades Locales no podrán exigir tasas por...: ",
+        "respuestas": {
+            "a": "a) Ocupación de espacios públicos. ",
+            "b": "b) Prestación del servicio de Protección civil. ",
+            "c": "c) Recogida de residuos urbanos. ",
+            "d": "d) Retirada de vehiculos de vias publicas. "
+        },
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "50.- . En virtud del Plan Municipal de Protección Civil del Ayuntamiento de Oviedo, ¿A quién corresponde la elaboración del Plan de Emergencia Municipal (P.E.M.O)?: ",
+        "respuestas": {
+            "a": "a) Comisión Nacional de Protección Civil y su homologación al Ministerio del Interior ",
+            "b": "b) Ayuntamiento de Oviedo y su homologación al Consejo Nacional de Protección Civil ",
+            "c": "c) Comisión Local de Protección Civil y su homologación a la Comunidad Autónoma del Principado de Asturias ",
+            "d": "d) Ayuntamiento de Oviedo y su homologación a la Comunidad Autónoma del Principado de Asturias "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "51.-  De acuerdo con el Real Decreto Legislativo 6/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, si nadie se hiciera cargo de la notificación en el domicilio del interesado, se dejará constancia de esta circunstancia en el procedimiento sancionador, junto con el día y la hora en que se intentó, y se practicará de nuevo...: ",
+        "respuestas": {
+            "a": "a) Dentro de las 24 horas siguientes. ",
+            "b": "b) Dentro de las 48 horas siguientes. ",
+            "c": "c) Dentro de los 3 dias siguientes ",
+            "d": "d) Dentro de los 10 dias siguientes  "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "52.-  De acuerdo con lo dispuesto en el vigente Código Penal, Ley Orgánica 10/95, de 23 de noviembre, el que con ánimo de lucro, tomare las cosas muebles ajenas sin la voluntad de su dueño, por un valor superior a 400 euros, será castigado, como reo de un delito de...: ",
+        "respuestas": {
+            "a": "a) robo ",
+            "b": "b) hurto ",
+            "c": "c) usurpación ",
+            "d": "d) estafa "
+        },
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "56.- Conforme al artículo 5 del R.D. 137/93, de 29 de enero, por el que se aprueba el Reglamento de armas, queda prohibida la publicidad, compraventa, tenencia y uso, salvo por funcionarios especialmente habilitados, y de acuerdo con lo que dispongan las respectivas normas reglamentarias de: ",
+        "respuestas": {
+            "a": "a) Las defensas de alambre o plomo. ",
+            "b": "b) Los rompecabezas. ",
+            "c": "c) Los \"sprays\" de defensa personal. ",
+            "d": "d) Los bastones-estoques. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "57.-  Durante la realización de los servicios de transporte escolar y de menores establecidos en el artículo 1 del Real Decreto 443/2001, de 27 de abril, sobre Condiciones de Seguridad en el Transporte Escolar y de Menores, los vehículos deberán encontrarse identificados mediante el siguiente distintivo: ",
+        "respuestas": {
+            "a": "a) Señal V-11, que figura en el Anexo IX del Reglamento General de Vehículos. ",
+            "b": "b) Señal V-12, que figura en el Anexo X del Reglamento General de Vehiculos. ",
+            "c": "c) Señal V-10, que figura en el Anexo XI del Reglamento General de Vehículos. ",
+            "d": "d) Señal V-13, que figura en el Anexo XII del Reglamento General de Vehículos. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "58.-  Conforme al Código Penal, Ley Orgánica 10/95, de 23 de noviembre, el conductor que, requerido por un agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcohol en día y la presencia de las drogas tóxicas, estupefacientes y sustancias psicotrópicas, incurrirá en un delito: ",
+        "respuestas": {
+            "a": "a) Contra la seguridad vial. ",
+            "b": "b) Contra la seguridad del tráfico y de desobediencia a agente de la autoridad. ",
+            "c": "c) Contra la seguridad del tráfico, castigado con la pena prevista para la desobediencia. ",
+            "d": "d) De desobediencia a la Autoridad o a sus Agentes, castigado con la pena prevista para el delito correspondiente. "
+        },
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "59.-  Según el Acuerdo sobre Transportes Internacionales de Mercancías Perecederas (ATP), la Unidad Calorífica, es la unidad isoterma que permite elevar la temperatura en el interior de la caja vacía y mantenerla después durante doce horas al menos sin repostado, a un valor prácticamente constante y no inferior a.. ",
+        "respuestas": {
+            "a": "a) +8°C ",
+            "b": "b) +10°C. ",
+            "c": "c) +12°C. ",
+            "d": "d) +14°C. "
+        },
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "pregunta": "60.-  En relación con el Código Penal, Ley Orgánica 10/95, de 23 de noviembre, identifique cual sería el delito cometido por un Policía Local que, requerido por un particular a prestar un auxilio a que venga obligado por razón de su cargo para evitar un delito contra la vida de las personas, se abstuviera de prestarlo: ",
+        "respuestas": {
+            "a": "a) Desobediencia ",
+            "b": "b) Cohecho ",
+            "c": "c) Denegación de auxilio ",
+            "d": "d) Omisión del deber de socorro"
+        },
+        "solucion": "c",
+        "explicacion": ""
+    }
+]
