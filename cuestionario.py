@@ -5,20 +5,19 @@ import json
 
 
 class Cuestionario ():
+    # todo crear init como dict para mejorar legibilidad
     def __init__(self, folder, file, backup_fails_folder, numero_preguntas=10):
         self.numero_preguntas = numero_preguntas
         self.folder = 'data'
-        self.file = 'seguridad_ciudadana.json'
+        self.file = file
         self.backup_fails_folder = backup_fails_folder
         self.path = os.path.join(folder, file) 
 
         # obtener data
-        self.opciones_respuesta =[] # pasar a tupla posteriormente
+        self.opciones_respuesta =[] # opciones con las que permite responder 
         self.data_brute = None
         self.cuestionario = []
         self.backup_file = None # archivo que importa lista con conteo de fallos
-
-
 
         # ejecutar programa
         self.main()
@@ -125,14 +124,51 @@ class Cuestionario ():
             self.importar_backup()
         self.generar_cuestionario()
         self.barajar_cuestionario()
-        self.iniciar_cuestionario(5)
+        self.iniciar_cuestionario()
         self.reordenar_fallos()
         self.guardar_fallos()
         
+
+    # otras funciones para mejorarlo
     def generar_resumen_fallos_aciertos(self):
+        pass
+
+    def reset_fallos(self):
+        # por ahora con eliminar el archivo apañamos
         pass
         
     
 
 if __name__ == "__main__":
-    cuestionario = Cuestionario('data', 'seguridad_ciudadana.json', "backup" ) 
+
+    carpeta_data = 'data'
+    archivo_seleccionado = None
+    # # que test tengo disponibles
+    
+    opciones_cuestionarios = os.listdir(carpeta_data)
+    print("#"*40)
+    for i, opt in enumerate(opciones_cuestionarios):
+        print(f"# {i+1}.-  {opt.replace("_", " ")[:-5].upper()}")
+    print("#"*40)
+    # seleccionar cuestionario
+    while True:
+        eleccion = int(input("Elige cuestionario: "))
+        if eleccion > 0 and eleccion <= len(opciones_cuestionarios):
+            print("SELECIONADO", opciones_cuestionarios[eleccion-1])
+            archivo_seleccionado = opciones_cuestionarios[eleccion-1]
+            break
+        else:
+            print(f"opcion no valida, introduce opcion del 1 al {len(opciones_cuestionarios)}")
+    print(archivo_seleccionado)
+            
+
+    # cuestionario = Cuestionario('data', 'seguridad_ciudadana.json', "backup" ) 
+    cuestionario = Cuestionario('data', archivo_seleccionado, "backup" ) 
+
+
+    # todo agregar infracciones lepar
+    # todo agregar infracciones animales
+    # todo agregar infracciones animales ppp
+    # todo agregar infracciones alchol y drogas
+    # todo agregar administrativo nulidades
+    # todo agregar modificacion penas penal
