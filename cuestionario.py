@@ -4,107 +4,135 @@ import random
 import json
 
 
-def generar_backup_fails(folder_to_check, file_to_check, cuestionario_original):
-    temp_dump = cuestionario_original.copy()
-    for item in temp_dump:
-        item["fallos"] = 0
-    with open(os.path.join(folder_to_check, file_to_check), 'w', encoding="utf-8") as f:
-        json.dump(temp_dump, f, indent=4, ensure_ascii=False)
+class Cuestionario ():
+    def __init__(self, folder, file, backup_fails_folder, numero_preguntas=10):
+        self.numero_preguntas = numero_preguntas
+        self.folder = 'data'
+        self.file = 'seguridad_ciudadana.json'
+        self.backup_fails_folder = backup_fails_folder
+        self.path = os.path.join(folder, file) 
+
+        # obtener data
+        self.opciones_respuesta =[] # pasar a tupla posteriormente
+        self.data_brute = None
+        self.cuestionario = []
+        self.backup_file = None # archivo que importa lista con conteo de fallos
 
 
 
-   
-    print("FAILLSS!!!")
-
-
-def main():
-    folder = 'data'
-    file = 'seguridad_ciudadana.json'
-    backup_fails_folder = "backup"
-    path = os.path.join(folder, file) 
-
-    # obtener data
-    opciones_respuesta =[] # pasar a tupla posteriormente
-    data_brute = None
-    cuestionario = []
-    # respuestas = []
-    backup_file = None # archivo que importa lista con conteo de fallos
-
-    with open(path, 'r', encoding='utf-8') as f:
-        data_brute = json.load(f)
-
-
-
-    # asignar opciones de respuesta, gestionar en funcion de clase
-    for key in data_brute.keys():
-    
-        if key != "abrr_opts":
-            # generar cuestionario
-            for value in data_brute[key]:
-                cuestionario.append({
-                    "pregunta": value,
-                    "respuesta": key
-                })    
-            
-            # agregar opciones de respuesta
-            opciones_respuesta.append(key)
-            for opt in data_brute["abrr_opts"][key]:
-                opciones_respuesta.append(opt)
-
-    
-    #comprobar si existe backup de fallos
-    if file not in os.listdir(backup_fails_folder):
-        generar_backup_fails(backup_fails_folder,file,cuestionario)
-
-
-    #cargamos el file en la variable
-    with open(os.path.join(backup_fails_folder, file), 'r', encoding='utf-8') as f:
-        backup_file = json.load(f)
+        # ejecutar programa
+        self.main()
+        
+    def cargar_data(self):
+        with open(self.path, 'r', encoding='utf-8') as f:
+            self.data_brute = json.load(f)
         
 
-    # barajar preguntas
-    random.shuffle(cuestionario)
-
-
-    # iteraciones del cuestionario
-    
-
-    # todo hacer bucle
-    #ejemplo con la pregunta[3]
-    print(cuestionario[3])
-    # realizar pregunta
-    print("3.- ",cuestionario[3]["pregunta"])
-    while True:
-        temp_resp = input("Respuesta: ")
-        if(temp_resp not in(opciones_respuesta)):
-            print(f"Error, Las opciones de respuesta son {opciones_respuesta}")
-        else:
-            print(f"Respondida { temp_resp.upper()}" )
-
-           
-            if temp_resp in data_brute["abrr_opts"][cuestionario[3]["respuesta"]]:
-                print("✅ ¡Correcto!")
-            else:
-                print(f"❌ Incorrecto. Respuesta correcta: {cuestionario[3]["respuesta"]}")
-                for _, item in enumerate(backup_file):
-                    if item["pregunta"] == cuestionario[3]["pregunta"]:
-                        print("Incrementamos error")
-                        item["fallos"] = item["fallos"] + 1
-
-
-            break
-
-   
-    print("FAILLSS!!!")
  
+    def generar_cuestionario_agregar_opciones_respuesta(self):
+        for key in self.data_brute.keys():
     
-    # reordenar
-    backup_file = sorted(backup_file, key=lambda x: x["fallos"], reverse=True)
-    #
-    with open(os.path.join(backup_fails_folder, file), 'w', encoding="utf-8") as f:
-            json.dump(backup_file, f, indent=4, ensure_ascii=False)
+            if key != "abrr_opts":
+                # generar cuestionario
+                for value in self.data_brute[key]:
+                    self.cuestionario.append({
+                        "pregunta": value,
+                        "respuesta": key
+                    })    
+                
+                # agregar opciones de respuesta
+                self.opciones_respuesta.append(key)
+                for opt in self.data_brute["abrr_opts"][key]:
+                    self.opciones_respuesta.append(opt)
 
+    def chekear_si_existe_backup_file(self):
+        if self.file not in os.listdir(self.backup_fails_folder):
+            return False
+        return True
+
+    def generar_backup_fails(self):
+        temp_dump = self.cuestionario.copy()
+        for item in temp_dump:
+            item["fallos"] = 0
+
+        print("Generar backup", self.file)
+        with open(os.path.join(self.backup_fails_folder, self.file), 'w', encoding="utf-8") as f:
+            json.dump(temp_dump, f, indent=4, ensure_ascii=False)
+    
+    def importar_backup(self):
+        with open(os.path.join(self.backup_fails_folder, self.file), 'r', encoding='utf-8') as f:
+            self.backup_file = json.load(f)
+
+
+    def generar_cuestionario(self):
+        for key in self.data_brute.keys():
+    
+            if key != "abrr_opts":
+                # generar cuestionario
+                for value in self.data_brute[key]:
+                    self.cuestionario.append({
+                        "pregunta": value,
+                        "respuesta": key
+                    })    
+
+    def barajar_cuestionario(self):
+        random.shuffle(self.cuestionario)
+
+    def realizar_pregunta(self, pregunta):
+
+        print(pregunta["pregunta"])
+        while True:
+            temp_resp = input("Respuesta: ")
+            if(temp_resp not in(self.opciones_respuesta)):
+                print(f"Error, Las opciones de respuesta son {self.opciones_respuesta}")
+            else:
+                print(f"Respondida { temp_resp.upper()}" )
+
+            
+                if temp_resp in self.data_brute["abrr_opts"][pregunta["respuesta"]]:
+                    print("✅ ¡Correcto!")
+                else:
+                    print(f"❌ Incorrecto. Respuesta correcta: {pregunta["respuesta"]}")    
+                    self.contabilizar_fallo(pregunta)
+                break
+
+
+
+    def contabilizar_fallo(self, pregunta_fallada):
+        for _, item in enumerate(self.backup_file):
+            if item["pregunta"] == pregunta_fallada["pregunta"]:
+                print("Incrementamos error")
+                item["fallos"] = item["fallos"] + 1
+
+    def guardar_fallos(self):
+        with open(os.path.join(self.backup_fails_folder, self.file), 'w', encoding="utf-8") as f:
+            json.dump(self.backup_file, f, indent=4, ensure_ascii=False)
+
+    def reordenar_fallos(self):
+        self.backup_file = sorted(self.backup_file, key=lambda x: x["fallos"], reverse=True)
+            
+    def iniciar_cuestionario(self):
+        for i, pregunta in enumerate(self.cuestionario[:self.numero_preguntas]):
+            print(f"Pregunta numero: {i+1} ")
+            self.realizar_pregunta(pregunta)
+
+    def main(self):
+        self.cargar_data()
+        self.generar_cuestionario_agregar_opciones_respuesta()
+        if not self.chekear_si_existe_backup_file(): # ojo a la iversion de logica
+            self.generar_backup_fails()
+        else:
+            self.importar_backup()
+        self.generar_cuestionario()
+        self.barajar_cuestionario()
+        self.iniciar_cuestionario(5)
+        self.reordenar_fallos()
+        self.guardar_fallos()
+        
+    def generar_resumen_fallos_aciertos(self):
+        pass
+        
     
 
 if __name__ == "__main__":
-    main()
+    cuestionario = Cuestionario('data', 'seguridad_ciudadana.json', "backup" ) 
