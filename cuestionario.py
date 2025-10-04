@@ -89,9 +89,10 @@ class Cuestionario ():
 
             
                 if temp_resp in self.data_brute["abrr_opts"][pregunta["respuesta"]]:
-                    print("✅ ¡Correcto!")
+                    print("✅✅✅ ¡Correcto!")
+                   
                 else:
-                    print(f"❌ Incorrecto. Respuesta correcta: {pregunta["respuesta"]}")    
+                    print(f"❌❌❌ Incorrecto. Respuesta correcta: ===> {pregunta["respuesta"].upper()} <===")    
                     self.contabilizar_fallo(pregunta)
                 break
 
@@ -143,8 +144,8 @@ if __name__ == "__main__":
 
     carpeta_data = 'data'
     archivo_seleccionado = None
-    # # que test tengo disponibles
     
+    # que test tengo disponibles
     opciones_cuestionarios = os.listdir(carpeta_data)
     print("#"*40)
     for i, opt in enumerate(opciones_cuestionarios):
@@ -161,14 +162,10 @@ if __name__ == "__main__":
             print(f"opcion no valida, introduce opcion del 1 al {len(opciones_cuestionarios)}")
     print(archivo_seleccionado)
             
+    cantidad_preguntas = int(input( "\n¿Cuantas preguntas quieres hacer?: " ))
 
-    # cuestionario = Cuestionario('data', 'seguridad_ciudadana.json', "backup" ) 
-    cuestionario = Cuestionario('data', archivo_seleccionado, "backup" ) 
+    cuestionario = Cuestionario('data', archivo_seleccionado, "backup", cantidad_preguntas ) 
 
 
-    # todo agregar infracciones lepar
-    # todo agregar infracciones animales
-    # todo agregar infracciones animales ppp
-    # todo agregar infracciones alchol y drogas
-    # todo agregar administrativo nulidades
-    # todo agregar modificacion penas penal
+   
+    # todo agregar opcion de articulo para la gravedad de la infraccion

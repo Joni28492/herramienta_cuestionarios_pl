@@ -1,0 +1,29 @@
+{
+ 
+    "abrr_opts": {
+        "leve": ["l", "leve", "LEVE", "L"],
+        "grave": ["g", "grave", "GRAVE", "G"],
+        "muy grave": ["mg", "muy grave", "MUY GRAVE", "MG"]
+    },
+
+    "leve":[
+        "el incumplimiento de cualquiera de las obligaciones establecidas en la presente Ley, no comprendidas en los números 1 y 2 de este artículo"
+    ],
+    "grave":[
+        "a) Dejar suelto un animal potencialmente peligroso o no haber adoptado las medidas necesarias para evitar su escapada o extravío.",
+        "b) Incumplir la obligación de identificar el animal.",
+        "c) Omitir la inscripción en el Registro.",
+        "d) Hallarse el perro potencialmente peligroso en lugares públicos sin bozal o no sujeto con cadena.",
+        "e) El transporte de animales potencialmente peligrosos con vulneración de lo dispuesto en el artículo 10 de esta Ley.",
+        "f) La negativa o resistencia a suministrar datos o facilitar la información requerida por las autoridades competentes o sus agentes, en orden al cumplimiento de funciones establecidas en esta Ley, así como el suministro de información inexacta o de documentación falsa."
+    ],
+    "muy grave":[
+        "a) Abandonar un animal potencialmente peligroso, de cualquier especie y cualquier perro, entendiéndose por animal abandonado, tanto aquél que vaya preceptivamente identificado, como los que no lleven ninguna identificación sobre su origen o propietario, siempre que no vayan acompañados de persona alguna.",
+        "b) Tener perros o animales potencialmente peligrosos sin licencia.",
+        "c) Vender o transmitir por cualquier título un perro o animal potencialmente peligroso a quien carezca de licencia.",
+        "d) Adiestrar animales para activar su agresividad o para finalidades prohibidas.",
+        "e) Adiestrar animales potencialmente peligrosos por quien carezca del certificado de capacitación.",
+        "f) La organización o celebración de concursos, ejercicios, exhibiciones o espectáculos de animales potencialmente peligrosos, o su participación en ellos, destinados a demostrar la agresividad de los animales."
+    ]
+
+}
