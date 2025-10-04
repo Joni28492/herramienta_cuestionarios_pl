@@ -1,4 +1,11 @@
 {
+
+
+           "abrr_opts": {
+            "leve": ["l", "leve", "LEVE", "L"],
+            "grave": ["g", "grave", "GRAVE", "G"],
+            "muy grave": ["mg", "muy grave", "MUY GRAVE", "G"]
+        },
         "leve": [
             "a) El retraso o la negligencia en el cumplimiento de las funciones y órdenes recibidas.",
             "b) La incorrección con los ciudadanos, o con otros miembros de los Cuerpos y Fuerzas de Seguridad, siempre que no merezcan una calificación más grave.",
