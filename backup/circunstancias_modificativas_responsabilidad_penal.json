@@ -1,0 +1,112 @@
+[
+    {
+        "pregunta": "El que al tiempo de cometer la infracción penal, a causa de cualquier anomalía o alteración psíquica, no pueda comprender la ilicitud del hecho o actuar conforme a esa comprensión. \nEl trastorno mental transitorio no eximirá de pena cuando hubiese sido provocado por el sujeto con el propósito de cometer el delito o hubiera previsto o debido prever su comisión.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "El que al tiempo de cometer la infracción penal se halle en estado de intoxicación plena por el consumo de bebidas alcohólicas, drogas tóxicas, estupefacientes, sustancias psicotrópicas u otras que produzcan efectos análogos, siempre que no haya sido buscado con el propósito de cometerla o no se hubiese previsto o debido prever su comisión, o se halle bajo la influencia de un síndrome de abstinencia, a causa de su dependencia de tales sustancias, que le impida comprender la ilicitud del hecho o actuar conforme a esa comprensión.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "El que, por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "El que obre en defensa de la persona o derechos propios o ajenos, siempre que concurran los requisitos siguientes: \nPrimero. Agresión ilegítima. En caso de defensa de los bienes se reputará agresión ilegítima el ataque a los mismos que constituya delito y los ponga en grave peligro de deterioro o pérdida inminentes. En caso de defensa de la morada o sus dependencias, se reputará agresión ilegítima la entrada indebida en aquélla o éstas. \nSegundo. Necesidad racional del medio empleado para impedirla o repelerla. \nTercero. Falta de provocación suficiente por parte del defensor.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "El que, en estado de necesidad, para evitar un mal propio o ajeno lesione un bien jurídico de otra persona o infrinja un deber, siempre que concurran los siguientes requisitos: \nPrimero. Que el mal causado no sea mayor que el que se trate de evitar. \nSegundo. Que la situación de necesidad no haya sido provocada intencionadamente por el sujeto. \nTercero. Que el necesitado no tenga, por su oficio o cargo, obligación de sacrificarse.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "El que obre impulsado por miedo insuperable.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "El que obre en cumplimiento de un deber o en el ejercicio legítimo de un derecho, oficio o cargo.",
+        "respuesta": "eximentes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "1.ª Las causas expresadas en el capítulo anterior, cuando no concurrieren todos los requisitos necesarios para eximir de responsabilidad en sus respectivos casos.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "2.ª La de actuar el culpable a causa de su grave adicción a las sustancias mencionadas en el número 2.º del artículo anterior.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "3.ª La de obrar por causas o estímulos tan poderosos que hayan producido arrebato, obcecación u otro estado pasional de entidad semejante.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "4.ª La de haber procedido el culpable, antes de conocer que el procedimiento judicial se dirige contra él, a confesar la infracción a las autoridades.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "5.ª La de haber procedido el culpable a reparar el daño ocasionado a la víctima, o disminuir sus efectos, en cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "6.ª La dilación extraordinaria e indebida en la tramitación del procedimiento, siempre que no sea atribuible al propio inculpado y que no guarde proporción con la complejidad de la causa.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "7.ª Cualquier otra circunstancia de análoga significación que las anteriores.",
+        "respuesta": "atenuantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "1.ª Ejecutar el hecho con alevosía.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "2.ª Ejecutar el hecho mediante disfraz, con abuso de superioridad o aprovechando las circunstancias de lugar, tiempo o auxilio de otras personas que debiliten la defensa del ofendido o faciliten la impunidad del delincuente.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "3.ª Ejecutar el hecho mediante precio, recompensa o promesa.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "4.ª Cometer el delito por motivos racistas, antisemitas, antigitanos u otra clase de discriminación referente a la ideología, religión o creencias de la víctima, la etnia, raza o nación a la que pertenezca, su sexo, edad, orientación o identidad sexual o de género, razones de género, de aporofobia o de exclusión social, la enfermedad que padezca o su discapacidad, con independencia de que tales condiciones o circunstancias concurran efectivamente en la persona sobre la que recaiga la conducta.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "5.ª Aumentar deliberada e inhumanamente el sufrimiento de la víctima, causando a ésta padecimientos innecesarios para la ejecución del delito.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "6.ª Obrar con abuso de confianza.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "7.ª Prevalerse del carácter público que tenga el culpable.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    },
+    {
+        "pregunta": "8.ª Ser reincidente.",
+        "respuesta": "agravantes",
+        "fallos": 0
+    }
+]

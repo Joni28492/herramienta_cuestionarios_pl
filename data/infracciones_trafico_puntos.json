@@ -1,0 +1,39 @@
+{
+
+    "abrr_opts": {
+        "3": ["3"],
+        "4": ["4"],
+        "6": ["6"]
+    },
+
+    "3": [
+        "19. Efectuar el cambio de sentido incumpliendo las disposiciones recogidas en esta Ley y en los términos establecidos reglamentariamente.",
+        "20. Conducir utilizando cualquier tipo de casco de audio o auricular conectado a aparatos receptores o reproductores de sonido u otros dispositivos que disminuyan la atención permanente a la conducción, o manteniendo ajustado entre el casco y la cabeza del usuario dispositivos de telefonía móvil mientras se conduce, o utilizando manualmente navegadores o cualquier otro medio o sistema de comunicación, así como dispositivos de telefonía móvil en condiciones distintas a las previstas en el ordinal 8.",
+        "21. Conducir vehículos que lleven mecanismos de detección de radares o cinemómetros."
+    ],
+    "4": [
+        "Conducir con una tasa de alcohol superior a la reglamentariamente establecida: Valores mg/l aire espirado, superior a 0,25 hasta 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,15 hasta 0,30 mg/l).",
+        "Incumplir las disposiciones legales sobre preferencia de paso, y la obligación de detenerse en la señal de stop, ceda el paso y en los semáforos con luz roja encendida.",
+        "Incumplir las disposiciones legales sobre adelantamiento poniendo en peligro o entorpeciendo a quienes circulen en sentido contrario y adelantar en lugares o circunstancias de visibilidad reducida.",
+        "No respetar las señales o las órdenes de la autoridad encargada de la regulación, ordenación, gestión, vigilancia y disciplina del tráfico, o de sus agentes.",
+        "No mantener la distancia de seguridad con el vehículo que le precede",
+        "No hacer uso, o no hacerlo de forma adecuada, del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección obligatorios.",
+        "Conducir un vehículo con un permiso o licencia de conducción que no le habilite para ello.",
+        "Conducir un vehículo teniendo suspendida la autorización administrativa para conducir o teniendo prohibido el uso del vehículo que se conduce.",
+        "Realizar la maniobra de marcha atrás en autopistas y autovías."
+    ],
+    "6": [
+        "Conducir con una tasa de alcohol superior a la reglamentariamente establecida: Valores mg/l aire espirado, más de 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,30 mg/l).",
+        "Conducir con presencia de drogas en el organismo.",
+        "Incumplir la obligación de someterse a las pruebas de detección de alcohol o de la presencia de drogas en el organismo.",
+        "Conducir de forma temeraria, circular en sentido contrario al establecido o participar en carreras o competiciones no autorizadas.",
+        "Conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico.",
+        "El exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transporte terrestre.",
+        "La participación o colaboración necesaria de los conductores en la colocación o puesta en funcionamiento de elementos que alteren el normal funcionamiento del tacógrafo o del limitador de velocidad.",
+        "Utilizar, sujetando con la mano, dispositivos de telefonía móvil mientras se conduce.",
+        "Arrojar a la vía o en sus inmediaciones objetos que puedan producir incendios o accidentes.",
+        "Adelantar poniendo en peligro o entorpeciendo a ciclistas o sin dejar la separación mínima de 1,5 metros"
+]
+
+
+}

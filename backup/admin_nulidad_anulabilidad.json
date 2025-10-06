@@ -1,0 +1,57 @@
+[
+    {
+        "pregunta": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
+        "respuesta": "anulable",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Los dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Los que tengan un contenido imposible.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Cualquier otro que se establezca expresamente en una disposición con rango de Ley.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 0
+    },
+    {
+        "pregunta": "disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Son ___ los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
+        "respuesta": "anulable",
+        "fallos": 0
+    },
+    {
+        "pregunta": "La realización de actuaciones administrativas fuera del tiempo establecido para ellas sólo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+        "respuesta": "anulable",
+        "fallos": 0
+    }
+]

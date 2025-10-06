@@ -1,0 +1,81 @@
+{
+
+    "abrr_opts": {
+        "leve": ["l", "leve", "LEVE", "L"],
+        "grave": ["g", "grave", "GRAVE", "G"],
+        "muy grave": ["mg", "muy grave", "MUY GRAVE", "MG"]
+    },
+
+    "leve": [
+        "a) Circular en una bicicleta sin hacer uso del alumbrado reglamentario.",
+        "b) No hacer uso de los elementos y prendas reflectantes por parte de los usuarios de bicicletas.",
+        "b) bis. El impago de peaje, tasa o precio público, cuando estos fueran exigibles.",
+        "b) ter. Incumplir la obligación de los conductores de estar en todo momento en condiciones de controlar su vehículo.",
+        "c) Incumplir las normas contenidas en esta Ley que no se califiquen expresamente como infracciones graves o muy graves en los artículos siguientes, especialmente en el caso de los conductores de bicicletas siempre que no comprometan la seguridad de los usuarios de la vía." 
+    ],
+    "grave": [
+        "a) No respetar los límites de velocidad reglamentariamente establecidos o circular en un tramo a una velocidad media superior a la reglamentariamente establecida, de acuerdo con lo recogido en el anexo IV.",
+        "b) Realizar obras en la vía sin comunicarlas con anterioridad a su inicio a la autoridad responsable de la regulación, ordenación y gestión del tráfico, así como no seguir las instrucciones de dicha autoridad referentes a las obras",
+        "c) Incumplir las disposiciones de esta ley en materia de preferencia de paso, adelantamientos, cambios de dirección o sentido y marcha atrás, sentido de la circulación, utilización de carriles y arcenes y, en general, toda vulneración de las ordenaciones especiales de tráfico por razones de seguridad o fluidez de la circulación.",
+        "d) Parar o estacionar en el carril bus, en carriles o vías ciclistas, en curvas, cambios de rasante, zonas de estacionamiento para uso exclusivo de personas con discapacidad, túneles, pasos inferiores, intersecciones o en cualquier otro lugar peligroso o en el que se obstaculice gravemente la circulación o constituya un riesgo, especialmente para los peatones.",
+        "e) Circular sin hacer uso del alumbrado reglamentario.",
+        "f) Conducir utilizando cualquier tipo de casco de audio o auricular conectado a aparatos receptores o reproductores de sonido u otros dispositivos que disminuyan la atención permanente a la conducción.",
+        "g) Utilizar, sujetándolo con la mano, o manteniéndolo ajustado entre el casco y la cabeza del usuario, dispositivos de telefonía móvil mientras se conduce, conducir utilizando manualmente dispositivos de telefonía móvil en condiciones distintas a las anteriores, conducir utilizando manualmente navegadores o cualquier otro medio o sistema de comunicación, así como llevar en los vehículos mecanismos de detección de radares o cinemómetros.",
+        "h) No hacer uso, o no hacerlo de forma adecuada, del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección obligatorios.»",
+        "i) Circular con menores de doce años como pasajeros de ciclomotores o motocicletas, o con menores en los asientos delanteros o traseros, cuando no esté permitido.",
+        "j) No respetar las señales o las órdenes de la autoridad encargada de la regulación, ordenación, gestión, vigilancia y disciplina del tráfico, o de sus agentes.",
+        "k) No respetar la luz roja de un semáforo.",
+        "l) No respetar la señal de stop o la señal de ceda el paso.",
+        "ll) Conducir un vehículo siendo titular de una autorización que carece de validez por no haber cumplido los requisitos administrativos exigidos reglamentariamente en España.",
+        "m) Conducción negligente.",
+        "n) Arrojar a la vía o en sus inmediaciones objetos que puedan obstaculizar la libre circulación.",
+        "ñ) No mantener la distancia de seguridad con el vehículo precedente.",
+        "o) Circular con un vehículo que incumpla las condiciones técnicas reglamentariamente establecidas, salvo que sea calificada como muy grave, así como las infracciones relativas a las normas que regulan la inspección técnica de vehículos.",
+        "p) Incumplir la obligación de todo conductor de verificar que las placas de matrícula del vehículo no presentan obstáculos que impidan o dificulten su lectura e identificación.",
+        "q) No facilitar al agente de la autoridad encargado de la vigilancia del tráfico en el ejercicio de las funciones que tenga encomendadas su identidad, ni los datos del vehículo solicitados por los afectados en un accidente de circulación, estando implicado en el mismo.",
+        "r) Conducir vehículos con la carga mal acondicionada o con peligro de caída.",
+        "s) Conducir un vehículo teniendo el permiso de conducción suspendido como medida cautelar o teniendo prohibido su uso.",
+        "t) Circular con un vehículo cuyo permiso de circulación está suspendido.",
+        "u) La ocupación excesiva del vehículo que suponga aumentar en un 50 por ciento el número de plazas autorizadas, excluida la del conductor.",
+        "v) Incumplir la obligación de impedir que el vehículo sea conducido por quien nunca haya obtenido el permiso o la licencia de conducción correspondiente.",
+        "w) Incumplir las normas sobre el régimen de autorización y funcionamiento de los centros de enseñanza y formación, de los centros de sensibilización y reeducación vial, y de los centros de reconocimiento de conductores acreditados por el Ministerio del Interior o por los órganos competentes de las comunidades autónomas, salvo que puedan calificarse como infracciones muy graves.",
+        "x) Circular por autopistas, autovías, vías interurbanas, travesías o túneles urbanos con vehículos que lo tienen prohibido.",
+        "y) No instalar los dispositivos de alerta al conductor en los garajes o aparcamientos en los términos legal y reglamentariamente previstos.",
+        "z) Circular en posición paralela con vehículos que lo tienen prohibido.",
+        "z1) Incumplir la normativa sobre los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, salvo que puedan calificarse como muy graves.",
+        "z2) Incumplir las normas de actuación por los operadores cuya actividad esté vinculada con el ejercicio de las competencias del organismo autónomo Jefatura Central de Tráfico, salvo que puedan calificarse como muy graves.",
+        "z3) No respetar las restricciones de circulación derivadas de la aplicación de los protocolos ante episodios de contaminación y de las zonas de bajas emisiones."
+    ],
+    "muy grave":[
+         "a) No respetar los límites de velocidad reglamentariamente establecidos o circular en un tramo a una velocidad media superior a la reglamentariamente establecida, de acuerdo con lo recogido en el anexo IV.",
+        "b) Circular con un vehículo cuya carga ha caído a la vía, por su mal acondicionamiento, creando grave peligro para el resto de los usuarios.",
+        "c) Conducir con tasas de alcohol superiores a las que reglamentariamente se establezcan, o con presencia en el organismo de drogas.",
+        "d) Incumplir la obligación de todos los conductores de vehículos, y de los demás usuarios de la vía cuando se hallen implicados en algún accidente de tráfico o hayan cometido una infracción, de someterse a las pruebas que se establezcan para la detección de alcohol o de la presencia de drogas en el organismo.",
+        "e) Conducción temeraria.",
+        "f) Circular en sentido contrario al establecido.",
+        "g) Participar en competiciones y carreras de vehículos no autorizadas.",
+        "h) Conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico.",
+        "i) Aumentar en más del 50 por ciento los tiempos de conducción o minorar en más del 50 por ciento los tiempos de descanso establecidos en la legislación sobre transporte terrestre.",
+        "j) Incumplir el titular o el arrendatario del vehículo con el que se haya cometido la infracción la obligación de identificar verazmente al conductor responsable de dicha infracción, cuando sean debidamente requeridos para ello en el plazo establecido. En el supuesto de las empresas de alquiler de vehículos sin conductor la obligación de identificar se ajustará a las previsiones al respecto del artículo 11.",
+        "k) Conducir un vehículo careciendo del permiso o licencia de conducción correspondiente.",
+        "l) Circular con un vehículo que carezca de la autorización administrativa correspondiente, con una autorización que no sea válida por no cumplir los requisitos exigidos reglamentariamente, o incumpliendo las condiciones de la autorización administrativa que habilita su circulación.",
+        "ll) Circular con un vehículo que incumpla las condiciones técnicas que afecten gravemente a la seguridad vial.",
+        "m) Participar o colaborar en la colocación o puesta en funcionamiento de elementos que alteren el normal funcionamiento del uso del tacógrafo o del limitador de velocidad.",
+        "n) Realizar en la vía obras sin la autorización correspondiente, así como la retirada, ocultación, alteración o deterioro de la señalización permanente u ocasional.",
+        "ñ) No instalar la señalización de obras o hacerlo incumpliendo la normativa vigente, poniendo en grave riesgo la seguridad vial.",
+        "o) Incumplir las normas que regulan las actividades industriales que afectan de manera directa a la seguridad vial.",
+        "p) Instalar inhibidores de radares o cinemómetros en los vehículos o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico.",
+        "q) Incumplir las normas sobre el régimen de autorización y funcionamiento de los centros de enseñanza y formación, de los centros de sensibilización y reeducación vial y de acreditación los centros de reconocimiento de conductores autorizados o acreditados por el Ministerio del Interior o por los órganos competentes de las comunidades autónomas, que afecten a la cualificación de los profesores o facultativos, al estado de los vehículos utilizados en la enseñanza, al cumplimiento del régimen lectivo, a elementos esenciales que incidan directamente en la seguridad vial, o que supongan un impedimento a las labores de control, inspección o auditoría.",
+        "r) Causar daños a la infraestructura de la vía, o alteraciones a la circulación debidos a la masa o a las dimensiones del vehículo, cuando se carezca de la correspondiente autorización administrativa o se hayan incumplido las condiciones de la misma, con independencia de la obligación de la reparación del daño causado.",
+        "s) Incumplir las normas sobre los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, que afecten a la cualificación de los profesores o facultativos, al estado de los vehículos utilizados, a elementos esenciales que incidan directamente en la seguridad vial, o que supongan un impedimento a las labores de control, inspección o auditoría.",
+        "t) Incumplir las normas de actuación por los operadores cuya actividad esté vinculada con el ejercicio de las competencias del organismo autónomo Jefatura Central de Tráfico que sean reiteración de errores de tramitación administrativa, o que supongan un impedimento a las labores de control, inspección o auditoría.",
+        "u) Utilizar dispositivos de intercomunicación no autorizados reglamentariamente, en las pruebas para la obtención y recuperación de permisos o licencias de conducción u otras autorizaciones administrativas para conducir, o colaborar o asistir con la utilización de dichos dispositivos.",
+        "v) Incumplir las normas en materia de auxilio en vías públicas.",
+        "w) Incumplir las normas sobre el uso de los alcoholímetros antiarranque.",
+        "x) Arrojar a la vía o sus inmediaciones objetos que puedan producir incendios o accidentes."
+    ]
+
+}
+
+
+
