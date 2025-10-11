@@ -5,6 +5,11 @@
         "fallos": 2
     },
     {
+        "pregunta": "q) La garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores, en todos los ámbitos regulados en esta ley.",
+        "respuesta": "ministerio del interior",
+        "fallos": 2
+    },
+    {
         "pregunta": "g) La restricción de la circulación a determinados vehículos en vías urbanas por motivos medioambientales.",
         "respuesta": "municipio",
         "fallos": 1
@@ -25,7 +30,22 @@
         "fallos": 1
     },
     {
-        "pregunta": "q) La garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores, en todos los ámbitos regulados en esta ley.",
+        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
+        "respuesta": "administracion general del estado",
+        "fallos": 1
+    },
+    {
+        "pregunta": "b) El canje, de acuerdo con las normas reglamentarias aplicables, de los permisos de conducción y de la autorización especial para conducir vehículos que transporten mercancías peligrosas expedidos en el ámbito militar y policial por los correspondientes en el ámbito civil, así como el canje, la inscripción o la renovación de los permisos expedidos en el extranjero cuando así lo prevea la legislación vigente.",
+        "respuesta": "ministerio del interior",
+        "fallos": 1
+    },
+    {
+        "pregunta": "e) Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
+        "respuesta": "ministerio del interior",
+        "fallos": 1
+    },
+    {
+        "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
         "respuesta": "ministerio del interior",
         "fallos": 1
     },
@@ -100,27 +120,12 @@
         "fallos": 0
     },
     {
-        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
-        "respuesta": "administracion general del estado",
-        "fallos": 0
-    },
-    {
         "pregunta": "a) La expedición y revisión de los permisos y licencias para conducir vehículos a motor y ciclomotores y de la autorización especial para conducir vehículos que transporten mercancías peligrosas, con los requisitos sobre conocimientos, aptitudes técnicas y psicofísicas y periodicidad que se determinen reglamentariamente, así como la declaración de la nulidad, lesividad o pérdida de vigencia de aquéllos.",
         "respuesta": "ministerio del interior",
         "fallos": 0
     },
     {
-        "pregunta": "b) El canje, de acuerdo con las normas reglamentarias aplicables, de los permisos de conducción y de la autorización especial para conducir vehículos que transporten mercancías peligrosas expedidos en el ámbito militar y policial por los correspondientes en el ámbito civil, así como el canje, la inscripción o la renovación de los permisos expedidos en el extranjero cuando así lo prevea la legislación vigente.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
         "pregunta": "c) Las autorizaciones de los centros de formación de conductores y de los centros de sensibilización y reeducación vial; la declaración de nulidad, lesividad o pérdida de vigencia de aquéllas; los cursos de sensibilización y reeducación vial; los certificados de aptitud y autorizaciones que permitan acceder a la actuación profesional en materia de enseñanza de la conducción y reeducación vial, y la acreditación de la destinada al reconocimiento de las aptitudes psicofísicas de los conductores, con los requisitos y condiciones que reglamentariamente se determinen.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
-        "pregunta": "e) Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
         "respuesta": "ministerio del interior",
         "fallos": 0
     },
@@ -186,11 +191,6 @@
     },
     {
         "pregunta": "t) La auditoría de los centros, operadores, servicios y trámites de competencia del organismo autónomo Jefatura Central de Tráfico, con objeto de supervisar y garantizar el correcto funcionamiento y la calidad de aquéllos, que se llevará a cabo, con arreglo a las normas legales que le sean de aplicación, directamente por empleados públicos formados para estas funciones, o mediante la colaboración de entidades acreditadas.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
-        "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
         "respuesta": "ministerio del interior",
         "fallos": 0
     }

@@ -2,7 +2,12 @@
     {
         "pregunta": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
         "respuesta": "anulable",
-        "fallos": 1
+        "fallos": 2
+    },
+    {
+        "pregunta": "Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 2
     },
     {
         "pregunta": "Los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
@@ -10,7 +15,7 @@
         "fallos": 1
     },
     {
-        "pregunta": "Los actos expresos o presuntos contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición.",
+        "pregunta": "Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
         "respuesta": "nulo pleno derecho",
         "fallos": 1
     },
@@ -26,11 +31,6 @@
     },
     {
         "pregunta": "Los que tengan un contenido imposible.",
-        "respuesta": "nulo pleno derecho",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Los que sean constitutivos de infracción penal o se dicten como consecuencia de ésta.",
         "respuesta": "nulo pleno derecho",
         "fallos": 0
     },

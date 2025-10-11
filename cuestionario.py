@@ -2,6 +2,7 @@
 import os
 import random
 import json
+# from colorama import init, Fore, Back, Style
 
 
 class Cuestionario ():
@@ -83,7 +84,7 @@ class Cuestionario ():
         while True:
             temp_resp = input("Respuesta: ")
             if(temp_resp not in(self.opciones_respuesta)):
-                print(f"Error, Las opciones de respuesta son {self.opciones_respuesta}")
+                print( f"Error, Las opciones de respuesta son {self.opciones_respuesta}")
             else:
                 print(f"Respondida { temp_resp.upper()}" )
 
@@ -142,6 +143,8 @@ class Cuestionario ():
 
 if __name__ == "__main__":
 
+    
+
     carpeta_data = 'data'
     archivo_seleccionado = None
     
@@ -149,6 +152,7 @@ if __name__ == "__main__":
     opciones_cuestionarios = os.listdir(carpeta_data)
     print("#"*40)
     for i, opt in enumerate(opciones_cuestionarios):
+        # print(Fore.RED, f"# {i+1}.-  {opt.replace("_", " ")[:-5].upper()}")
         print(f"# {i+1}.-  {opt.replace("_", " ")[:-5].upper()}")
     print("#"*40)
     # seleccionar cuestionario
