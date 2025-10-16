@@ -2,7 +2,17 @@
     {
         "pregunta": "v) Incumplir la obligación de impedir que el vehículo sea conducido por quien nunca haya obtenido el permiso o la licencia de conducción correspondiente.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 2
+    },
+    {
+        "pregunta": "b) ter. Incumplir la obligación de los conductores de estar en todo momento en condiciones de controlar su vehículo.",
+        "respuesta": "leve",
+        "fallos": 2
+    },
+    {
+        "pregunta": "g) Utilizar, sujetándolo con la mano, o manteniéndolo ajustado entre el casco y la cabeza del usuario, dispositivos de telefonía móvil mientras se conduce, conducir utilizando manualmente dispositivos de telefonía móvil en condiciones distintas a las anteriores, conducir utilizando manualmente navegadores o cualquier otro medio o sistema de comunicación, así como llevar en los vehículos mecanismos de detección de radares o cinemómetros.",
+        "respuesta": "grave",
+        "fallos": 2
     },
     {
         "pregunta": "r) Causar daños a la infraestructura de la vía, o alteraciones a la circulación debidos a la masa o a las dimensiones del vehículo, cuando se carezca de la correspondiente autorización administrativa o se hayan incumplido las condiciones de la misma, con independencia de la obligación de la reparación del daño causado.",
@@ -10,17 +20,17 @@
         "fallos": 1
     },
     {
-        "pregunta": "b) ter. Incumplir la obligación de los conductores de estar en todo momento en condiciones de controlar su vehículo.",
-        "respuesta": "leve",
-        "fallos": 1
-    },
-    {
-        "pregunta": "g) Utilizar, sujetándolo con la mano, o manteniéndolo ajustado entre el casco y la cabeza del usuario, dispositivos de telefonía móvil mientras se conduce, conducir utilizando manualmente dispositivos de telefonía móvil en condiciones distintas a las anteriores, conducir utilizando manualmente navegadores o cualquier otro medio o sistema de comunicación, así como llevar en los vehículos mecanismos de detección de radares o cinemómetros.",
+        "pregunta": "s) Conducir un vehículo teniendo el permiso de conducción suspendido como medida cautelar o teniendo prohibido su uso.",
         "respuesta": "grave",
         "fallos": 1
     },
     {
-        "pregunta": "s) Conducir un vehículo teniendo el permiso de conducción suspendido como medida cautelar o teniendo prohibido su uso.",
+        "pregunta": "b) Realizar obras en la vía sin comunicarlas con anterioridad a su inicio a la autoridad responsable de la regulación, ordenación y gestión del tráfico, así como no seguir las instrucciones de dicha autoridad referentes a las obras",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "n) Arrojar a la vía o en sus inmediaciones objetos que puedan obstaculizar la libre circulación.",
         "respuesta": "grave",
         "fallos": 1
     },
@@ -46,11 +56,6 @@
     },
     {
         "pregunta": "a) No respetar los límites de velocidad reglamentariamente establecidos o circular en un tramo a una velocidad media superior a la reglamentariamente establecida, de acuerdo con lo recogido en el anexo IV.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "b) Realizar obras en la vía sin comunicarlas con anterioridad a su inicio a la autoridad responsable de la regulación, ordenación y gestión del tráfico, así como no seguir las instrucciones de dicha autoridad referentes a las obras",
         "respuesta": "grave",
         "fallos": 0
     },
@@ -106,11 +111,6 @@
     },
     {
         "pregunta": "m) Conducción negligente.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "n) Arrojar a la vía o en sus inmediaciones objetos que puedan obstaculizar la libre circulación.",
         "respuesta": "grave",
         "fallos": 0
     },

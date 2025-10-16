@@ -1,5 +1,10 @@
 [
     {
+        "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
+        "respuesta": "ministerio del interior",
+        "fallos": 3
+    },
+    {
         "pregunta": "j) La regulación del transporte de mercancías, especialmente, el de mercancías peligrosas, perecederas y contenedores, de acuerdo con la reglamentación internacional, a los efectos relacionados con la seguridad vial.",
         "respuesta": "administracion general del estado",
         "fallos": 2
@@ -7,6 +12,11 @@
     {
         "pregunta": "q) La garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores, en todos los ámbitos regulados en esta ley.",
         "respuesta": "ministerio del interior",
+        "fallos": 2
+    },
+    {
+        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
+        "respuesta": "administracion general del estado",
         "fallos": 2
     },
     {
@@ -30,11 +40,6 @@
         "fallos": 1
     },
     {
-        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
-        "respuesta": "administracion general del estado",
-        "fallos": 1
-    },
-    {
         "pregunta": "b) El canje, de acuerdo con las normas reglamentarias aplicables, de los permisos de conducción y de la autorización especial para conducir vehículos que transporten mercancías peligrosas expedidos en el ámbito militar y policial por los correspondientes en el ámbito civil, así como el canje, la inscripción o la renovación de los permisos expedidos en el extranjero cuando así lo prevea la legislación vigente.",
         "respuesta": "ministerio del interior",
         "fallos": 1
@@ -45,7 +50,12 @@
         "fallos": 1
     },
     {
-        "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
+        "pregunta": "g) La suscripción de tratados y acuerdos internacionales relativos a la seguridad de los vehículos y de sus partes y piezas, así como dictar las disposiciones pertinentes para implantar en España la reglamentación internacional derivada de los mismos.",
+        "respuesta": "administracion general del estado",
+        "fallos": 1
+    },
+    {
+        "pregunta": "l) Las directrices básicas y esenciales para la formación y actuación de los agentes de la autoridad encargados de la vigilancia del tráfico, sin perjuicio de las atribuciones de las corporaciones locales, con cuyos órganos se instrumentará, de común acuerdo, la colaboración necesaria.",
         "respuesta": "ministerio del interior",
         "fallos": 1
     },
@@ -110,11 +120,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "g) La suscripción de tratados y acuerdos internacionales relativos a la seguridad de los vehículos y de sus partes y piezas, así como dictar las disposiciones pertinentes para implantar en España la reglamentación internacional derivada de los mismos.",
-        "respuesta": "administracion general del estado",
-        "fallos": 0
-    },
-    {
         "pregunta": "i) La regulación del transporte de personas y, especialmente, el transporte escolar y de menores, a los efectos relacionados con la seguridad vial.",
         "respuesta": "administracion general del estado",
         "fallos": 0
@@ -156,11 +161,6 @@
     },
     {
         "pregunta": "k) La regulación, ordenación y gestión del tráfico en vías interurbanas y en travesías, estableciendo para estas últimas fórmulas de cooperación o delegación con las Entidades Locales, y sin perjuicio de lo establecido en otras disposiciones y de las facultades de otros departamentos ministeriales.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
-        "pregunta": "l) Las directrices básicas y esenciales para la formación y actuación de los agentes de la autoridad encargados de la vigilancia del tráfico, sin perjuicio de las atribuciones de las corporaciones locales, con cuyos órganos se instrumentará, de común acuerdo, la colaboración necesaria.",
         "respuesta": "ministerio del interior",
         "fallos": 0
     },

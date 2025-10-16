@@ -113,4 +113,5 @@ class Order_system:
 if __name__ == '__main__':
     
 
-    order = Order_system('order', 'cp_art_30_soportes_difusion.json')
+    # order = Order_system('order', 'cp_art_30_soportes_difusion.json')
+    order = Order_system('order', 'art_62.json')
