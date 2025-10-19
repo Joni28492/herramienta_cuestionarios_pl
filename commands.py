@@ -13,6 +13,7 @@ os.chdir(init_path)
 try:
     subprocess.run(["git", "add", "."], shell=True)
     subprocess.run(["git", "commit", "-m", '"prueba script python"'], shell=True)
+    subprocess.run(["git", "push"], shell=True)
 
 except subprocess.CalledProcessError as e:
     print(e)
