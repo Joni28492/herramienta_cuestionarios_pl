@@ -17,11 +17,31 @@
 "Autobus o autocar": "Automóvil que tenga más de nueve plazas, incluida la del conductor, destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes. Se incluye en este término el trolebús, es decir, el vehículo conectado a unalínea eléctrica y que no circula por raíles.",
 "Autobus o autocar articulado": "Autobús o autocar compuesto por dos partes rígidas unidas entre sí por una sección articulada. En este tipo de vehículos, los compartimentos para viajeros de cada una de ambas partes rígidas se comunican entre sí. \nLa sección articulada permite la libre circulación de los viajeros entre las partes rígidas. \nLa conexión y disyunción entre las dos partes únicamente podrá realizarse en el taller.",
 "Camion": "Automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería y con un máximo de nueve plazas, incluido el conductor.",
-"Vehículo mixto adaptable": "Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías y personas hasta un máximo de nueve incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adición de asientos.",
+"Vehiculo mixto adaptable": "Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías y personas hasta un máximo de nueve incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adición de asientos.",
 "Remolque": "Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor.",
-"Remolque ligero": "Aquél cuya masa máxima autorizada no exceda de 750 kg. Aefectos de esta clasificación, se excluyen los agrícolas."
-
-
+"Remolque ligero": "Aquél cuya masa máxima autorizada no exceda de 750 kg. Aefectos de esta clasificación, se excluyen los agrícolas.",
+"Semirremolque":"Vehículo no autopropulsado diseñado y concebido para ser acoplado a un automóvil, sobre el que reposará parte del mismo, transfiriéndole una parte sustancial de su masa.",
+"Tractocamion": "Automóvil concebido y construido para realizar, principalmente, el arrastre de un semirremolque.",
+"Conjunto de vehiculos" :  "Tienen la condición de conjunto de vehículos: \na) Vehículo articulado. Automóvil constituido por un vehículo de motor acoplado a un semirremolque. \nb) Tren de carretera. Automóvil constituido por un vehículo de motor enganchado a un remolque.",
+"Vehiculo especial (V.E.)": "Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas reglamentariamente establecidas o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, así como la maquinaria agrícola y sus remolques.",
+"Tractor de obras":  "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar útiles, máquinas o vehículos de obras.",
+"Tractor de servicios":  "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar vehículos de servicio, vagones u otros aparatos.",
+"Tractor agricola":  "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas.",
+"Motocultor" : "Vehículo especial autopropulsado, de un eje, dirigible por manceras por un conductor que marche a pie. Ciertos motocultores pueden, también, ser dirigidos desde un asiento incorporado a un remolque o máquina agrícola o a un apero o bastidor auxiliar con ruedas.",
+"Tractocarro": "Vehículo especial autopropulsado, de dos o más ejes, especialmente concebido para el transporte en campo de productos agrícolas.",
+"Máquina agricola automotriz":"Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar trabajos agrícolas.",
+"Portador" :"Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para portar máquinas agrícolas.",
+"Máquina agricola remolcada": "Vehículo especial concebido y construido para efectuar trabajos agrícolas que, para trasladarse y maniobrar debe ser arrastrado o empujado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición los aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas, sin motor, concebidos y construidos para efectuar trabajos de preparación del terreno o laboreo, que, además, no se consideran vehículos, así como también el resto de la maquinaria agrícola remolcada de menos de 750 kilogramos de masa.",
+"Remolque agricola":"Vehículo especial de transporte construido y destinado para ser arrastrado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en esta definición a los semirremolques agrícolas.",
+"Tara": "Masa del vehículo con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios.",
+"Masa en carga": "La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.",
+"Masa maxima autorizada (M.M.A.)":"La masa máxima para la utilización de un vehículo con carga en circulación por las vías públicas.",
+"Masa por eje": "La que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.",
+"Grupo de ejes":"Los ejes que forman parte de un bogie. En el caso de dos ejes, el grupo se denominará tándem, y tándem triaxial en caso de tres ejes.",
+"Luz de carretera o de largo alcance": "Luz utilizada para alumbrar una distancia larga de la vía por delante del vehículo.",
+"Luz de cruce o de corto alcance": "Luz utilizada para alumbrar la vía por delante del vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario, ni a los demás usuarios de la vía.",
+"Luz de posición delantera": "Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde delante.",
+"Luz de posición trasera" : "Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde detrás."
 
 
 }

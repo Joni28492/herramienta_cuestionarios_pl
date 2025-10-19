@@ -32,12 +32,13 @@ def ejecutar_astro_asturpol_game():
         print(f"Error al ejecutar npm run dev: {e}")
 
 
-def print_hola():
-    print("Hola")
 
 if __name__ == '__main__':
 
-    commands = [ print_hola, ejecutar_astro_asturpol_game, crear_commit ]
+    commands = [ 
+        ejecutar_astro_asturpol_game,
+        crear_commit 
+    ]
 
     for opt, c in enumerate(commands):
         print(opt+1, c.__name__)
