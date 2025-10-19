@@ -5,12 +5,12 @@
         "fallos": 2
     },
     {
-        "pregunta": "f) No prestar servicio, alegando supuesta enfermedad.",
+        "pregunta": "g) La falta de rendimiento reiterada que ocasione un perjuicio a los ciudadanos, a las entidades con personalidad jurídica o a la eficacia de los servicios.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 2
     },
     {
-        "pregunta": "g) La falta de rendimiento reiterada que ocasione un perjuicio a los ciudadanos, a las entidades con personalidad jurídica o a la eficacia de los servicios.",
+        "pregunta": "f) No prestar servicio, alegando supuesta enfermedad.",
         "respuesta": "grave",
         "fallos": 1
     },
@@ -55,6 +55,36 @@
         "fallos": 1
     },
     {
+        "pregunta": "g) Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitar las mismas.\nQuedan exceptuadas del conducto reglamentario aquellas que se formulen por los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical.",
+        "respuesta": "leve",
+        "fallos": 1
+    },
+    {
+        "pregunta": "l) Exhibir armas sin causa justificada, así como utilizarlas en acto de servicio o fuera de él infringiendo las normas que regulan su empleo.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "j) La participación en huelgas, en acciones sustitutivas de estas o en actuaciones concertadas con el fin de alterar el normal funcionamiento de los servicios.",
+        "respuesta": "muy grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "r) Solicitar y obtener cambios de destino mediando cualquier recompensa, ánimo de lucro o falseando las condiciones que los regulan.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "e) La insubordinación individual o colectiva, respecto a las Autoridades o mandos de que dependan.",
+        "respuesta": "muy grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "f) El abandono de servicio, salvo que exista causa de fuerza mayor que impida comunicar a un superior dicho abandono.",
+        "respuesta": "muy grave",
+        "fallos": 1
+    },
+    {
         "pregunta": "c) La inasistencia al servicio que no constituya falta de mayor gravedad y el incumplimiento de la jornada de trabajo, así como las faltas repetidas de puntualidad, en los 30 días precedentes.",
         "respuesta": "leve",
         "fallos": 0
@@ -71,11 +101,6 @@
     },
     {
         "pregunta": "f) La exhibición de los distintivos de identificación sin causa justificada.",
-        "respuesta": "leve",
-        "fallos": 0
-    },
-    {
-        "pregunta": "g) Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitar las mismas.\nQuedan exceptuadas del conducto reglamentario aquellas que se formulen por los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical.",
         "respuesta": "leve",
         "fallos": 0
     },
@@ -150,11 +175,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "l) Exhibir armas sin causa justificada, así como utilizarlas en acto de servicio o fuera de él infringiendo las normas que regulan su empleo.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
         "pregunta": "m) Dar lugar al extravío, pérdida o sustracción por negligencia inexcusable de los distintivos de identificación o del arma reglamentaria.",
         "respuesta": "grave",
         "fallos": 0
@@ -171,11 +191,6 @@
     },
     {
         "pregunta": "q) La tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, excepto que esa tenencia se derive de actuaciones propias del servicio.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "r) Solicitar y obtener cambios de destino mediando cualquier recompensa, ánimo de lucro o falseando las condiciones que los regulan.",
         "respuesta": "grave",
         "fallos": 0
     },
@@ -245,16 +260,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "e) La insubordinación individual o colectiva, respecto a las Autoridades o mandos de que dependan.",
-        "respuesta": "muy grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "f) El abandono de servicio, salvo que exista causa de fuerza mayor que impida comunicar a un superior dicho abandono.",
-        "respuesta": "muy grave",
-        "fallos": 0
-    },
-    {
         "pregunta": "g) La publicación o la utilización indebida de secretos oficiales, declarados así con arreglo a la legislación específica en la materia.",
         "respuesta": "muy grave",
         "fallos": 0
@@ -266,11 +271,6 @@
     },
     {
         "pregunta": "i) El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad.",
-        "respuesta": "muy grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "j) La participación en huelgas, en acciones sustitutivas de estas o en actuaciones concertadas con el fin de alterar el normal funcionamiento de los servicios.",
         "respuesta": "muy grave",
         "fallos": 0
     },

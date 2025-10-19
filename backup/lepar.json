@@ -1,5 +1,15 @@
 [
     {
+        "pregunta": "h) La utilización del derecho de admisión de forma discriminatoria o arbitraria.",
+        "respuesta": "grave",
+        "fallos": 3
+    },
+    {
+        "pregunta": "j) La utilización de datos o circunstancias falsos para la obtención de los documentos previstos por la presente Ley, siempre que no constituya infracción penal.",
+        "respuesta": "grave",
+        "fallos": 3
+    },
+    {
         "pregunta": "g) El incumplimiento de las condiciones de insonorización de los establecimientos, locales e instalaciones.",
         "respuesta": "grave",
         "fallos": 2
@@ -7,16 +17,6 @@
     {
         "pregunta": "a) El retraso en el comienzo o finalización de los espectáculos y actividades recreativas o el incumplimiento de los horarios de apertura y cierre de los locales en los que se desarrollen los mismos.",
         "respuesta": "leve",
-        "fallos": 1
-    },
-    {
-        "pregunta": "h) La utilización del derecho de admisión de forma discriminatoria o arbitraria.",
-        "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "j) La utilización de datos o circunstancias falsos para la obtención de los documentos previstos por la presente Ley, siempre que no constituya infracción penal.",
-        "respuesta": "grave",
         "fallos": 1
     },
     {
@@ -50,6 +50,16 @@
         "fallos": 1
     },
     {
+        "pregunta": "d) El incumplimiento de las condiciones de venta de las entradas y abonos.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "b) La apertura de establecimientos, locales o instalaciones y la celebración de espectáculos públicos o actividades recreativas que, aun contando con la correspondiente licencia o autorización, no adopten, total o parcialmente, las medidas de seguridad o salubridad obligatorias o cuando aquéllas no funcionen o lo hagan defectuosamente.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
         "pregunta": "b) La falta de respeto de los espectadores, asistentes o usuarios a los artistas, deportistas y demás actuantes, así como al resto del público o viceversa.",
         "respuesta": "leve",
         "fallos": 0
@@ -67,16 +77,6 @@
     {
         "pregunta": "f) Todas aquellas infracciones que, no estando calificadas como graves o muy graves, constituyan incumplimientos de las obligaciones o vulneración de las prohibiciones establecidas en la presente Ley.",
         "respuesta": "leve",
-        "fallos": 0
-    },
-    {
-        "pregunta": "b) La apertura de establecimientos, locales o instalaciones y la celebración de espectáculos públicos o actividades recreativas que, aun contando con la correspondiente licencia o autorización, no adopten, total o parcialmente, las medidas de seguridad o salubridad obligatorias o cuando aquéllas no funcionen o lo hagan defectuosamente.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "d) El incumplimiento de las condiciones de venta de las entradas y abonos.",
-        "respuesta": "grave",
         "fallos": 0
     },
     {

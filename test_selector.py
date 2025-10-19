@@ -39,7 +39,7 @@ class Test_Selector():
         
 
 
-
+   
     def construir_log_pregunta(self, pregunta, path, opcion_elegida):
         question_log = {
             # todo optimizar timestamp
@@ -83,8 +83,8 @@ class Test_Selector():
             for p in temp_list:
                 print(Style.RESET_ALL, f"\t{p})", pregunta["respuestas"][p])
             print()
-            print(Style.BRIGHT, "Solucion", pregunta["solucion"])
-            print()
+            # print(Style.BRIGHT, "Solucion", pregunta["solucion"])
+            # print()
         else:
             if pregunta["solucion"] != seleccion:
                 # impresion correcion
@@ -118,10 +118,26 @@ class Test_Selector():
                     else:
                         print(Style.RESET_ALL, f"\t{p})", pregunta["respuestas"][p])
                 print()
-        print(self.listado_aciertos_errores)
+        # print(self.listado_aciertos_errores)
+        self.imprimir_listado_conteo_aciertos_errores()
         print(Style.RESET_ALL,"="*50)
 
+    def imprimir_listado_conteo_aciertos_errores(self):
+        fallos = self.listado_aciertos_errores.count("❌") 
+        aciertos = self.listado_aciertos_errores.count("✅")
+        blancos = self.listado_aciertos_errores.count(" ")
+        total = len(self.cuestionario)
+        print(f"{self.listado_aciertos_errores}\t", end="\t")
+        print(Style.DIM,blancos, Style.RESET_ALL, end="/")
+        print(Fore.RED, Style.BRIGHT,fallos, Style.RESET_ALL, end="/")
+        print(Fore.GREEN, Style.BRIGHT,aciertos, Style.RESET_ALL, end="/")
+        print( Style.BRIGHT,total, Style.RESET_ALL)
+
+        # todo imprimir calculo de puntuacion
+
         
+    
+
                 
     def comprobar_si_existe_registro_fallos_diario(self):
         hoy = datetime.date.today()
@@ -142,6 +158,7 @@ class Test_Selector():
             # importar archivo de hoy
         # print(self.listado_preguntas_respondidas)
         
+       
         
         
                
@@ -204,7 +221,6 @@ class Test_Selector():
 
                 # guardar todo el log de preguntas
                 self.volcar_logs_preguntas()
-                                
                 
                 break
 

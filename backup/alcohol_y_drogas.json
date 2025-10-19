@@ -2,7 +2,7 @@
     {
         "pregunta": "b) Permitir el consumo de bebidas alcohólicas por menores de 18 años por parte del titular de un establecimiento o local en que no esté prohibida su venta o dispensación, cuando el consumo se realice en el interior del local o en las terrazas o espacios asociados a su actividad, en los supuestos en que se hubieran dispensado a un mayor de edad, siempre que éste no sea el responsable legal del menor.",
         "respuesta": "leve",
-        "fallos": 4
+        "fallos": 5
     },
     {
         "pregunta": "g) La oposición a facilitar información así como el suministro de la misma a sabiendas de su inexactitud o la falta de colaboración con la actuación de control de las Administraciones Públicas, cuando impida o dificulte gravemente su realización.",
@@ -12,20 +12,20 @@
     {
         "pregunta": "h) La oposición a facilitar información o la falta de colaboración con la actuación de control de las Administraciones Públicas que perturbe o retrase la misma, pero que no impida o dificulte gravemente su realización.",
         "respuesta": "leve",
-        "fallos": 3
+        "fallos": 4
     },
     {
         "pregunta": "e) La venta, suministro o dispensación a menores de 18 años de cualquier producto que imite los envases de bebidas alcohólicas.",
         "respuesta": "leve",
-        "fallos": 3
-    },
-    {
-        "pregunta": "l) Todas aquellas que contravengan lo dispuesto en esta ley y conlleven un riesgo o perjuicio para la salud individual o colectiva.",
-        "respuesta": "grave",
-        "fallos": 3
+        "fallos": 4
     },
     {
         "pregunta": "c) La venta o dispensación de bebidas alcohólicas en los lugares en que esté prohibida.",
+        "respuesta": "grave",
+        "fallos": 4
+    },
+    {
+        "pregunta": "l) Todas aquellas que contravengan lo dispuesto en esta ley y conlleven un riesgo o perjuicio para la salud individual o colectiva.",
         "respuesta": "grave",
         "fallos": 3
     },
@@ -70,6 +70,16 @@
         "fallos": 1
     },
     {
+        "pregunta": "j) La venta, dispensación o publicidad de sustancias que, estando debidamente autorizadas por la normativa vigente para determinados usos y formas de administración se vendan o dispensen para otro uso o forma de administración, al objeto de que produzcan los efectos y consecuencias descritos para las drogas.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "e) El incumplimiento consciente y deliberado de los requisitos, obligaciones o prohibiciones establecidas en esta ley, siempre que ocasione alteraciones, riesgos o perjuicios graves para la salud individual o colectiva.",
+        "respuesta": "muy grave",
+        "fallos": 1
+    },
+    {
         "pregunta": "a) El consumo de bebidas alcohólicas por menores de 18 años.",
         "respuesta": "leve",
         "fallos": 0
@@ -105,11 +115,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "j) La venta, dispensación o publicidad de sustancias que, estando debidamente autorizadas por la normativa vigente para determinados usos y formas de administración se vendan o dispensen para otro uso o forma de administración, al objeto de que produzcan los efectos y consecuencias descritos para las drogas.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
         "pregunta": "k) La reincidencia en la comisión de infracciones leves, en los últimos doce meses.",
         "respuesta": "grave",
         "fallos": 0
@@ -126,11 +131,6 @@
     },
     {
         "pregunta": "d) La reincidencia en la comisión de infracciones graves, en los últimos cinco años.",
-        "respuesta": "muy grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "e) El incumplimiento consciente y deliberado de los requisitos, obligaciones o prohibiciones establecidas en esta ley, siempre que ocasione alteraciones, riesgos o perjuicios graves para la salud individual o colectiva.",
         "respuesta": "muy grave",
         "fallos": 0
     }

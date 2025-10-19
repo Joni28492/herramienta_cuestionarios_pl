@@ -1,5 +1,10 @@
 [
     {
+        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
+        "respuesta": "administracion general del estado",
+        "fallos": 4
+    },
+    {
         "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
         "respuesta": "ministerio del interior",
         "fallos": 3
@@ -15,18 +20,23 @@
         "fallos": 2
     },
     {
-        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
+        "pregunta": "h) La regulación de aquellas actividades industriales que tengan una incidencia directa sobre la seguridad vial y, en especial, la de los talleres de reparación de vehículos.",
         "respuesta": "administracion general del estado",
+        "fallos": 2
+    },
+    {
+        "pregunta": "e) Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
+        "respuesta": "ministerio del interior",
+        "fallos": 2
+    },
+    {
+        "pregunta": "h) Los registros de vehículos, de conductores e infractores, de profesionales de la enseñanza de la conducción, de centros de formación de conductores, de los centros de reconocimiento destinados a verificar las aptitudes psicofísicas de los conductores y de manipulación de placas de matrícula, en los términos que reglamentariamente se determine.",
+        "respuesta": "ministerio del interior",
         "fallos": 2
     },
     {
         "pregunta": "g) La restricción de la circulación a determinados vehículos en vías urbanas por motivos medioambientales.",
         "respuesta": "municipio",
-        "fallos": 1
-    },
-    {
-        "pregunta": "h) La regulación de aquellas actividades industriales que tengan una incidencia directa sobre la seguridad vial y, en especial, la de los talleres de reparación de vehículos.",
-        "respuesta": "administracion general del estado",
         "fallos": 1
     },
     {
@@ -45,17 +55,17 @@
         "fallos": 1
     },
     {
-        "pregunta": "e) Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
-        "respuesta": "ministerio del interior",
-        "fallos": 1
-    },
-    {
         "pregunta": "g) La suscripción de tratados y acuerdos internacionales relativos a la seguridad de los vehículos y de sus partes y piezas, así como dictar las disposiciones pertinentes para implantar en España la reglamentación internacional derivada de los mismos.",
         "respuesta": "administracion general del estado",
         "fallos": 1
     },
     {
         "pregunta": "l) Las directrices básicas y esenciales para la formación y actuación de los agentes de la autoridad encargados de la vigilancia del tráfico, sin perjuicio de las atribuciones de las corporaciones locales, con cuyos órganos se instrumentará, de común acuerdo, la colaboración necesaria.",
+        "respuesta": "ministerio del interior",
+        "fallos": 1
+    },
+    {
+        "pregunta": "ñ) La coordinación de la estadística y la investigación de accidentes de tráfico, así como las estadísticas de inspección técnica de vehículos, en colaboración con otros organismos oficiales y privados, en los términos que reglamentariamente se determine.",
         "respuesta": "ministerio del interior",
         "fallos": 1
     },
@@ -145,11 +155,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "h) Los registros de vehículos, de conductores e infractores, de profesionales de la enseñanza de la conducción, de centros de formación de conductores, de los centros de reconocimiento destinados a verificar las aptitudes psicofísicas de los conductores y de manipulación de placas de matrícula, en los términos que reglamentariamente se determine.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
         "pregunta": "i) La vigilancia y disciplina del tráfico en toda clase de vías interurbanas y en travesías cuando no exista policía local, así como la denuncia y sanción de las infracciones a las normas de circulación y de seguridad en dichas vías.",
         "respuesta": "ministerio del interior",
         "fallos": 0
@@ -171,11 +176,6 @@
     },
     {
         "pregunta": "n) El cierre a la circulación de carreteras o tramos de ellas por razones de seguridad o fluidez del tráfico o la restricción en ellas del acceso de determinados vehículos por motivos medioambientales, en los términos que reglamentariamente se determine.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
-        "pregunta": "ñ) La coordinación de la estadística y la investigación de accidentes de tráfico, así como las estadísticas de inspección técnica de vehículos, en colaboración con otros organismos oficiales y privados, en los términos que reglamentariamente se determine.",
         "respuesta": "ministerio del interior",
         "fallos": 0
     },
