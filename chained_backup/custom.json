@@ -1,0 +1,35 @@
+[
+
+
+    {
+        "tipo":"simple",
+        "pregunta": "pregunta simple",
+        "respuesta":"respuesta a pregunta simple"
+    },
+    {
+        "tipo":"list",
+        "pregunta": "pregunta simple",
+        "listado": ["item 1","item 2","item 3","item 4"]
+    },
+    {
+        "tipo":"encadenada",
+        "pregunta_inicial": "pregunta inicial",
+        "respuesta_inicial" : "respuesta_inicial",
+        "subpreguntas": [
+            {
+                "tipo":"sub",
+                "pregunta": "pregunta sub1",
+                "respuesta":"respuesta a pregunta sub1"
+            },
+            {
+                "tipo":"sub",
+                "pregunta": "pregunta sub2",
+                "respuesta":"respuesta a pregunta sub 2"
+            }
+        ]
+    }
+
+
+
+
+]

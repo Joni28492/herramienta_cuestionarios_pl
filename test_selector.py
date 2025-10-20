@@ -131,9 +131,13 @@ class Test_Selector():
         print(Style.DIM,blancos, Style.RESET_ALL, end="/")
         print(Fore.RED, Style.BRIGHT,fallos, Style.RESET_ALL, end="/")
         print(Fore.GREEN, Style.BRIGHT,aciertos, Style.RESET_ALL, end="/")
-        print( Style.BRIGHT,total, Style.RESET_ALL)
+        print( Style.BRIGHT,total, Style.RESET_ALL, end='\t')
 
         # todo imprimir calculo de puntuacion
+        valor_calculo = 100
+        valor_pregunta = total/valor_calculo
+        puntuacion_actual = (valor_pregunta*aciertos)-(fallos*1/3)
+        print(f"{puntuacion_actual}/{valor_calculo}")
 
         
     
