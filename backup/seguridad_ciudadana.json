@@ -2,6 +2,16 @@
     {
         "pregunta": "La negativa a la disolución de reuniones y manifestaciones en lugares de tránsito público ordenada por la autoridad competente cuando concurran los supuestos del artículo 5 de la Ley Orgánica 9/1983, de 15 de julio.",
         "respuesta": "grave",
+        "fallos": 3
+    },
+    {
+        "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
+        "respuesta": "grave",
+        "fallos": 2
+    },
+    {
+        "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
+        "respuesta": "leve",
         "fallos": 2
     },
     {
@@ -32,6 +42,21 @@
     {
         "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
         "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
+        "respuesta": "leve",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
+        "respuesta": "muy grave",
         "fallos": 1
     },
     {
@@ -66,16 +91,6 @@
     },
     {
         "pregunta": "La ocupación de cualquier inmueble, vivienda o edificio ajenos, o la permanencia en ellos, en ambos casos contra la voluntad de su propietario, arrendatario o titular de otro derecho sobre el mismo, cuando no sean constitutivas de infracción penal.\nAsimismo la ocupación de la vía pública con infracción de lo dispuesto por la Ley o contra la decisión adoptada en aplicación de aquella por la autoridad competente. Se entenderá incluida en este supuesto la ocupación de la vía pública para la venta ambulante no autorizada.",
-        "respuesta": "leve",
-        "fallos": 0
-    },
-    {
-        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
-        "respuesta": "leve",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
         "respuesta": "leve",
         "fallos": 0
     },
@@ -150,11 +165,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
         "pregunta": "La falta de colaboración con las Fuerzas y Cuerpos de Seguridad en la averiguación de delitos o en la prevención de acciones que puedan poner en riesgo la seguridad ciudadana en los supuestos previstos en el artículo 7.",
         "respuesta": "grave",
         "fallos": 0
@@ -185,11 +195,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
         "pregunta": "El incumplimiento de las restricciones a la navegación reglamentariamente impuestas a las embarcaciones de alta velocidad y aeronaves ligeras.",
         "respuesta": "grave",
         "fallos": 0
@@ -197,11 +202,6 @@
     {
         "pregunta": "El uso no autorizado de imágenes o datos personales o profesionales de autoridades o miembros de las Fuerzas y Cuerpos de Seguridad que pueda poner en peligro la seguridad personal o familiar de los agentes, de las instalaciones protegidas o en riesgo el éxito de una operación, con respeto al derecho fundamental a la información.",
         "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
-        "respuesta": "muy grave",
         "fallos": 0
     },
     {

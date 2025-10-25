@@ -148,6 +148,11 @@ class Custom_chained_questions():
     def randomizar_cuestionario(self):
         random.shuffle(self.quesion_list)
 
+    def actualizar_pregunta_simple(self, pregunta):
+        pass
+
+
+
     def run(self):
         self.importar_backup()
         # print(self.backup_importado)

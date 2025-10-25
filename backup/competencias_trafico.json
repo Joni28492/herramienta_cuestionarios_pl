@@ -7,7 +7,7 @@
     {
         "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
         "respuesta": "ministerio del interior",
-        "fallos": 3
+        "fallos": 4
     },
     {
         "pregunta": "j) La regulación del transporte de mercancías, especialmente, el de mercancías peligrosas, perecederas y contenedores, de acuerdo con la reglamentación internacional, a los efectos relacionados con la seguridad vial.",
@@ -70,6 +70,16 @@
         "fallos": 1
     },
     {
+        "pregunta": "b) La previa homologación, en su caso, de los elementos de los vehículos, remolques y semirremolques que afecten a la seguridad vial, así como dictar instrucciones y directrices en materia de inspección técnica de vehículos.",
+        "respuesta": "administracion general del estado",
+        "fallos": 1
+    },
+    {
+        "pregunta": "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.",
+        "respuesta": "administracion general del estado",
+        "fallos": 1
+    },
+    {
         "pregunta": "a) La regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas cuando no esté expresamente atribuida a otra Administración.",
         "respuesta": "municipio",
         "fallos": 0
@@ -101,16 +111,6 @@
     },
     {
         "pregunta": "a) La aprobación de la normativa técnica básica que afecte de manera directa a la seguridad vial.",
-        "respuesta": "administracion general del estado",
-        "fallos": 0
-    },
-    {
-        "pregunta": "b) La previa homologación, en su caso, de los elementos de los vehículos, remolques y semirremolques que afecten a la seguridad vial, así como dictar instrucciones y directrices en materia de inspección técnica de vehículos.",
-        "respuesta": "administracion general del estado",
-        "fallos": 0
-    },
-    {
-        "pregunta": "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.",
         "respuesta": "administracion general del estado",
         "fallos": 0
     },

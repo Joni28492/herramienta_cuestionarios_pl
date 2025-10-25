@@ -1664,6 +1664,1142 @@
         "mode": "test system"
     },
     {
+        "timestamp": 1760946108.9284322,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "9) Los permisos y licencias de conducción, así como las autorizaciones administrativas que provisionalmente los sustituyan, serán expedidos por:",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura Provincial de Tráfico. ",
+            "b": "b) La Dirección General de Tráfico. ",
+            "c": "c) La Jefatura Central de Tráfico. ",
+            "d": "d) Los Ayuntamientos respectivos. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946122.9604335,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "16) ¿Qué licencias de conducir existen? (señale la incorrecta)",
+        "opciones_respuesta": {
+            "a": "a) Licencia de ciclomotor ",
+            "b": "b) Licencia de vehículos especiales agrícolas autopropulsados. ",
+            "c": "c) Licencia de vehículos para personas con movilidad reducida. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946156.2244325,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "10) En relación a la pregunta anterior, que permisos se exceptúan de dicha expedición:",
+        "opciones_respuesta": {
+            "a": "a) Los que autorizan a conducir vehículos de las Fuerzas Armadas. ",
+            "b": "b) Los que autorizan a conducir vehículos de la Dirección General de Policía y de la Guardia Civil. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946168.8324332,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "34) Si un conductor posee permiso de conducción tipo A y tipo B , y comete con su motocicleta una infracción que supone la retirada de 3 puntos:",
+        "opciones_respuesta": {
+            "a": "a) Dicha cantidad será retirada del permiso de conducción tipo A. ",
+            "b": "b) Dicha cantidad será retirada del permiso de conducción tipo B. ",
+            "c": "c) El crédito de puntos es único para todas las autorizaciones administrativas. ",
+            "d": "d) El crédito de puntos es único para todas las autorizaciones administrativas, salvo para el permiso AM que será un crédito de puntos diferencial. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946173.4404385,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "22) La solicitud de prórroga de vigencia del permiso o licencia podrá presentarse con una antelación máxima de:",
+        "opciones_respuesta": {
+            "a": "a) 2 meses ",
+            "b": "b) 3 meses ",
+            "c": "c) 6 meses ",
+            "d": "d) 9 meses "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946180.2164567,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "12) La obtención del permiso de la clase A está condicionado a:",
+        "opciones_respuesta": {
+            "a": "a) La posesión del permiso A2 en vigor, con un año, al menos, de antigüedad. ",
+            "b": "b) La posesión del permiso A1 en vigor, con un año, al menos, de antigüedad. ",
+            "c": "c) La posesión del permiso A2 en vigor, con dos años, al menos, de antigüedad. ",
+            "d": "d) La posesión del permiso A1 en vigor, con dos años, al menos, de antigüedad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946189.920463,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "7) La conducción de vehículos a motor y ciclomotores exigirá haber obtenido previamente el preceptivo permiso o licencia de conducción dirigido a verificar que el conductor tenga los requisitos de:",
+        "opciones_respuesta": {
+            "a": "a) Capacidad, conocimientos y habilidad. ",
+            "b": "b) Aptitud y capacidad. ",
+            "c": "c) Aptitud, conocimientos y habilidad. ",
+            "d": "d) Conocimientos y aptitud. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946209.5534575,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "3) ¿Qué documentos son obligatorios llevar consigo por todo conductor de vehículos a motor y a su vez exhibirlos ante los Agentes de la Autoridad encargados de la vigilancia del tráfico?",
+        "opciones_respuesta": {
+            "a": "a) Permiso de conducir, permiso de circulación y tarjeta de inspección técnica. ",
+            "b": "b) Permiso de circulación y tarjeta de inspección técnica. ",
+            "c": "c) a) es correcta, y también documento acreditativo de poseer seguro de responsabilidad civil obligatorio. ",
+            "d": "d) b) es correcta, y también documento acreditativo de poseer seguro de responsabilidad civil obligatorio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946216.7844574,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "29) ¿Cuál es el máximo de puntos que se pueden tener?",
+        "opciones_respuesta": {
+            "a": "a) 12 puntos ",
+            "b": "b) 14 puntos ",
+            "c": "c) 15 puntos ",
+            "d": "d) 18 puntos "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946231.1844566,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "36) Un conductor posee el crédito máximo que un conductor puede poseer. Después pierde 6 puntos. Transcurridos 2 años sin haber sido sancionado en firme por la comisión de infracciones que lleven aparejada la pérdida de puntos, dicho conductor tendrá:",
+        "opciones_respuesta": {
+            "a": "a) 12 puntos ",
+            "b": "b) 8 puntos ",
+            "c": "c) Falta información para responder con certeza. ",
+            "d": "d) 9 puntos "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946254.0654557,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "38)  Mediante el curso de sensibilización y reeducación vial:",
+        "opciones_respuesta": {
+            "a": "a) Un conductor que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de 6 puntos, por una sola vez cada 2 años. ",
+            "b": "b) Un conductor que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de 4 puntos, por una sola vez cada año. ",
+            "c": "c) La opción a) es correcta, con la excepción de los conductores profesionales que podrán realizar el curso anualmente. ",
+            "d": "d) La opción b) es correcta, con la excepción de los conductores profesionales que podrán realizar el curso cada 6 meses. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946263.1214614,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "28) El titular de un permiso o licencia de conducción que, tras perder su asignación total de puntos, ha obtenido nuevamente el permiso o la licencia de conducción, tendrá:",
+        "opciones_respuesta": {
+            "a": "a) 6 puntos ",
+            "b": "b) 8 puntos ",
+            "c": "c) 12 puntos ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946267.816458,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "17) ¿A qué edad se puede obtener licencia de vehículos para personas con movilidad reducida?",
+        "opciones_respuesta": {
+            "a": "a) 14 años ",
+            "b": "b) 15 años ",
+            "c": "c) 16 años ",
+            "d": "d) 18 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946294.7214577,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "5) El titular de un permiso o licencia de conducción o del permiso de circulación de un vehículo comunicará a los registros del organismo autónomo Jefatura Central de Tráfico su domicilio. Éste se utilizará para efectuar las notificaciones respecto de todas las autorizaciones de que disponga. A estos efectos, ¿Quienes podrán comunicar al organismo autónomo Jefatura Central de Tráfico los nuevos domicilios de que tengan constancia?",
+        "opciones_respuesta": {
+            "a": "a) Únicamente los propios titulares de las referidas autorizaciones administrativas. ",
+            "b": "b) Los Ayuntamientos. ",
+            "c": "c) Los Ayuntamientos y la Agencia Estatal de Administración Tributaria. ",
+            "d": "d) c) es correcta, y también los centros de reconocimiento de conductores. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1760946306.8894575,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "33) Excepcionalmente, se asignará un crédito inicial de ___ puntos, en caso de que el titular de un permiso de conducción posea una antigüedad no superior a ___ años  salvo que ya fuera titular de otro permiso con aquella antigüedad.",
+        "opciones_respuesta": {
+            "a": "a) 6 / 3 años. ",
+            "b": "b) 8 / 3 años ",
+            "c": "c) 6 / 2 años ",
+            "d": "d) 8 / 2 años. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a",
+        "date": "2025-10-20",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031390.229235,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿A quién corresponde el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Al Rey. ",
+            "b": "b. Al Ministro del Interior. ",
+            "c": "c. Al Ministro de Defensa. ",
+            "d": "d. Al Director de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031395.756901,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Cuál de los siguientes no es un principio básico de actuación?",
+        "opciones_respuesta": {
+            "a": "a. Relaciones con la comunidad. ",
+            "b": "b. Dedicación Profesional. ",
+            "c": "c. Responsabilidad. ",
+            "d": "d. Cooperación institucional. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031410.789471,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "24. ¿Cuál de las siguientes no es una función de la Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. Instruir Atestados por accidentes de circulación en casco urbano y carreteras de titularidad municipal. ",
+            "b": "b. Participar en funciones de Policía Judicial. ",
+            "c": "c. Cooperar en la resolución de conflictos privados cuando sean requeridos para ello. ",
+            "d": "d. Todas son funciones. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031418.917152,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "13.Las Fuerzas y Cuerpos de Seguridad del Estado tienen como misión:",
+        "opciones_respuesta": {
+            "a": "a. Proteger el libre ejercicio de los derechos y libertades. ",
+            "b": "b. Garantizar la seguridad ciudadana. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031429.269874,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "4. Son Fuerzas y Cuerpos de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Los Cuerpos de Policía Local. ",
+            "b": "b. El Cuerpo Nacional de Policía y la Guardia Civil. ",
+            "c": "c. Los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031432.7817664,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Cuántos artículos tiene la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 56 ",
+            "b": "b. 36 ",
+            "c": "c. 65 ",
+            "d": "d. 54 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031437.7493637,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "14. Como norma general, ¿Quién ejerce sus funciones en el mar territorial?",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía. ",
+            "b": "b. La Guardia Civil. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. La Policía portuaria. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031451.702283,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cuál de las siguientes no es una función de la Guardia Civil?",
+        "opciones_respuesta": {
+            "a": "a. La conducción interurbana de presos y detenidos. ",
+            "b": "b. La custodia de puertos. ",
+            "c": "c. Resguardo fiscal del Estado. ",
+            "d": "d. Persecución de delitos relacionados con la droga. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031461.757585,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "25. Las funciones de los cuerpos de Policía Local se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 51 ",
+            "b": "b. 53 ",
+            "c": "c. 54 ",
+            "d": "d. 56 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031469.0456114,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "3. La seguridad pública es competencia…",
+        "opciones_respuesta": {
+            "a": "a. Del Estado y de las Comunidades Autónomas. ",
+            "b": "b. Exclusiva del Estado. ",
+            "c": "c. Del Estado, de las Comunidades Autónomas y de las Corporaciones Locales. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031476.6383517,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Cuándo dependerá la Guardia Civil, exclusivamente, del Ministerio de Defensa?",
+        "opciones_respuesta": {
+            "a": "a. En todo momento. ",
+            "b": "b. En ningún caso. ",
+            "c": "c. En tiempo de guerra y durante el estado de sitio. ",
+            "d": "d. En tiempo de guerra, exclusivamente. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031488.1341417,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Quiénes tienen especial obligación de auxiliar o colaborar con las Fuerzas y Cuerpos de Seguridad en todo momento?",
+        "opciones_respuesta": {
+            "a": "a. Todos. ",
+            "b": "b. Las personas que ejerzan funciones de vigilancia, seguridad o custodia referidas a personal y bienes o servicios de titularidad pública o privada. ",
+            "c": "c. Las entidades que ejerzan funciones de vigilancia, seguridad o custodia referidas a personal y bienes o servicios de titularidad pública o privada. ",
+            "d": "d. B) y c) son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031497.7344112,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Qué título habla de los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. Título 4 ",
+            "b": "b. Título 5 ",
+            "c": "c. Título 6 ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031508.8218002,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿Qué Comunidades Autónomas podrán crear cuerpos de Policía propios?",
+        "opciones_respuesta": {
+            "a": "a. Todas las que lo soliciten al Ministerio del Interior. ",
+            "b": "b. Las que lo prevean en sus Estatutos de Autonomía. ",
+            "c": "c. Las que firmen acuerdos de cooperación específica con el Estado. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031529.0224495,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "26. El órgano competente para establecer las formas y procedimientos de colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en el municipio, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. Junta de Seguridad ",
+            "b": "b. Junta Local de Seguridad ",
+            "c": "c. Junta de Gobierno Local ",
+            "d": "d. Centro Local de Cooperación Policial "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031537.0512304,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Qué ámbito territorial tienen los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. El municipio. ",
+            "b": "b. La provincia. ",
+            "c": "c. La Comunidad Autónoma. ",
+            "d": "d. El territorio nacional. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031546.7427304,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿A quién corresponde la coordinación de los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. A las respectivas Corporaciones Locales. ",
+            "b": "b. A la Comunidad Autónoma. ",
+            "c": "c. Al Ministerio del Interior. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031563.4864538,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "20. El título IV de la Ley Orgánica 2/86, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. De la colaboración y coordinación entre el Estado y las Comunidades Autónomas. ",
+            "b": "b. De la colaboración entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "c": "c. De la adscripción de Unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas. ",
+            "d": "d. De los órganos de coordinación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031571.4063096,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "21. Los artículos referidos a los Cuerpos de Policía Local, comprenden:",
+        "opciones_respuesta": {
+            "a": "a. Del 49 al 54 ",
+            "b": "b. Del 51 al 54 ",
+            "c": "c. Del 50 al 56. ",
+            "d": "d. Del 53 al 56. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031583.7267885,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "23. ¿Quién puede autorizar la prestación de determinadas funciones sin uniforme reglamentario a un Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. La Junta Local de Seguridad. ",
+            "b": "b. El Alcalde. ",
+            "c": "c. El Gobernador Civil (actual Subdelegado del Gobierno). ",
+            "d": "d. La Junta de Seguridad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031595.4304285,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "8. Las fuerzas y cuerpos de seguridad se regirán en la utilización de armas y medios a su alcance por los siguientes principios:",
+        "opciones_respuesta": {
+            "a": "a. Congruencia, Oportunidad y Proporcionalidad. ",
+            "b": "b. Intervención mínima y Seguridad. ",
+            "c": "c. Proporcionalidad y menor lesividad. ",
+            "d": "d. Decisión necesaria y sin demora. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031611.5831687,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Cuál de las siguientes no es una función del Cuerpo Nacional de Policía?",
+        "opciones_respuesta": {
+            "a": "a. Prestar auxilio a las Policías de otros países. ",
+            "b": "b. Inspección en materia de juego. ",
+            "c": "c. El control de las actuaciones del personal de seguridad privada. ",
+            "d": "d. Todas son funciones. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031622.3748658,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "18. Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas es una función:",
+        "opciones_respuesta": {
+            "a": "a. Que realizan los Cuerpos de Policía de las Comunidades Autónomas en colaboración con las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "b": "b. A) es correcta, y su ejercicio corresponderá con carácter prioritario a los Cuerpos de Policía de la Comunidad Autónoma. ",
+            "c": "c. A) es correcta, y su ejercicio corresponderá con carácter prioritario a las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "d": "d. Que realizan los Cuerpos de Policía de las Comunidades Autónomas, prestando dicho servicio de modo simultáneo e indiferenciado con las Fuerzas y Cuerpos de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031646.3745294,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "9. Los miembros de las Fuerzas y Cuerpos de Seguridad, respecto al derecho de huelga:",
+        "opciones_respuesta": {
+            "a": "a. No lo podrán ejercer en ningún caso, y tampoco acciones sustitutivas del mismo. ",
+            "b": "b. No lo podrán ejercer en ningún caso, pero sí acciones sustitutivas del mismo. ",
+            "c": "c. Lo podrán ejercer, exclusivamente, conforme a la legislación específica en la materia. ",
+            "d": "d. Lo podrán ejercer al ser considerado un derecho constitucional, salvo que se altere el normal funcionamiento del servicio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031657.2307942,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Qué consideración tienen los miembros de los Cuerpos de Policía Local en el ejercicio de sus funciones?",
+        "opciones_respuesta": {
+            "a": "a. Autoridad. ",
+            "b": "b. Agentes de la Autoridad. ",
+            "c": "c. Fuerza Armada. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761031663.8311412,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "6. Los principios básicos de actuación se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 4 ",
+            "b": "b. 5 ",
+            "c": "c. 6 ",
+            "d": "d. 7 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042263.7087038,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "43. Los vecinos que gocen del derecho de sufragio activo en las elecciones municipales podrán ejercer la iniciativa popular, presentando propuestas de acuerdos o actuaciones o proyectos de reglamentos en materias de la competencia municipal. Dichas iniciativas deberán ir suscritas al menos por el siguiente porcentaje de vecinos en un municipio de 50.000 habitantes:",
+        "opciones_respuesta": {
+            "a": "a. 20% ",
+            "b": "b. 15% ",
+            "c": "c. 10% ",
+            "d": "d. 5% "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042280.7416062,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "13. Existe alevosía…",
+        "opciones_respuesta": {
+            "a": "a. Cuando el culpable comete cualquier delito empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla. ",
+            "b": "b. Cuando el culpable comete cualquiera de los delitos contra las personas empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla, sin el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido. ",
+            "c": "c. Cuando se aumenta deliberada e inhumanamente el sufrimiento de la víctima, causando a ésta padecimientos innecesarios para la ejecución del delito. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042319.4196746,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Qué Comunidades Autónomas podrán solicitar, para el ejercicio de las funciones propias establecidas en el artículo 38.1 de la LOFCS, la adscripción de Unidades del Cuerpo Nacional de Policía?",
+        "opciones_respuesta": {
+            "a": "a. Todas las que lo soliciten al Gobierno, a través del Ministerio de Interior. ",
+            "b": "b. Aquellas que prevean en sus Estatutos la creación de un cuerpo de policía y procedan a su constitución. ",
+            "c": "c. Aquellas que prevean en sus Estatutos la creación de un cuerpo de policía, pero no hicieran uso de la posibilidad. ",
+            "d": "d. Aquellas que no prevean en sus Estatutos la creación de un cuerpo de policía. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042339.8046658,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "18. Indique quién de los siguientes NO se encuentra obligado a someterse a la prueba de detección de alcohol en aire espirado:",
+        "opciones_respuesta": {
+            "a": "a. Un jinete tras provocar un accidente. ",
+            "b": "b. El conductor de un patinete que presenta síntomas de haber consumido bebidas alcohólicas. ",
+            "c": "c. El conductor de un vehículo de movilidad personal en un control preventivo. ",
+            "d": "d. El conductor de una bicicleta que circula sobre la acera. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042372.1886477,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "55. La matriculación ordinaria será única para cada vehículo, salvo en los supuestos que se determinen reglamentariamente. Cuando concurran circunstancias que puedan afectar a la Seguridad Nacional, ¿Quién podrá autorizar una nueva matrícula distinta de la inicialmente asignada?",
+        "opciones_respuesta": {
+            "a": "a. El Director General de Tráfico ",
+            "b": "b. El Jefe Provincial de Tráfico de Madrid ",
+            "c": "c. El Secretario de Estado de Seguridad ",
+            "d": "d. El Ministro del Interior "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042393.9010577,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "69. ¿Cuántas armas de la categoría 4.2 se podrán documentar mediante tarjeta de armas?",
+        "opciones_respuesta": {
+            "a": "a. 6 armas ",
+            "b": "b. Un número ilimitado, si bien en cada impreso solamente se reseñarán 5 armas. ",
+            "c": "c. 12 armas ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042409.5655243,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "11. Los Mandos de los Cuerpos de Policía de las Comunidades Autónomas se designarán por las Autoridades competentes de la Comunidad Autónoma, entre Jefes, Oficiales y Mandos de:",
+        "opciones_respuesta": {
+            "a": "a. Las Fuerzas y Cuerpos de Seguridad. ",
+            "b": "b. Las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "c": "c. Las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042430.157011,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "3. La denuncia y sanción de las infracciones por incumplimiento de la obligación de someterse a la inspección técnica de vehículos, así como a las prescripciones derivadas de aquélla, y por razón del ejercicio de actividades industriales que afecten de manera directa a la seguridad vial, será competencia de:",
+        "opciones_respuesta": {
+            "a": "a. Administración General del Estado ",
+            "b": "b. Ministerio del Interior ",
+            "c": "c. Municipios para los casos en que se produzcan los hechos en el casco urbano ",
+            "d": "d. B) y C) son correctas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042444.309497,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "1. De acuerdo a la Constitución Española ¿A quién corresponde garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional?",
+        "opciones_respuesta": {
+            "a": "a. Al Rey ",
+            "b": "b. A las Cortes Generales ",
+            "c": "c. A las Fuerzas Armadas ",
+            "d": "d. A las Fuerzas y Cuerpos de Seguridad "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042459.3332307,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "65. Constituye infracción LEVE a la Ley 13/2002, de 23 de diciembre…",
+        "opciones_respuesta": {
+            "a": "a. La venta o cesión en lugares públicos no autorizados. ",
+            "b": "b. La participación a título de espectador o espectadora en espectáculos prohibidos por esta Ley. ",
+            "c": "c. No guardar las fichas clínicas de los animales durante cuatro años en los establecimientos veterinarios ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042479.5332363,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "60. Quedará exento de pena el particular que, habiendo accedido ocasionalmente a la solicitud de dádiva u otra retribución realizada por autoridad o funcionario público, denunciare el hecho a la autoridad que tenga el deber de proceder a su averiguación…",
+        "opciones_respuesta": {
+            "a": "a. Cuando lo denuncie antes de la apertura del procedimiento. ",
+            "b": "b. Siempre que no haya transcurrido más de 2 meses desde los hechos. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042496.685689,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "40. De acuerdo al artículo 241 del Código Penal, se considera casa habitada…",
+        "opciones_respuesta": {
+            "a": "a. Todo albergue que constituya morada de una o más personas, aunque accidentalmente se encuentren ausentes de ella cuando el robo tenga lugar. ",
+            "b": "b. Los patios, garajes y demás departamentos o sitios cercados y contiguos al edificio y en comunicación interior con él, y con el cual formen una unidad física. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042532.7415838,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "78. La renuncia voluntaria a la condición de funcionario habrá de ser manifestada por escrito y será aceptada expresamente por la Administración…",
+        "opciones_respuesta": {
+            "a": "a. No podrá ser aceptada la renuncia cuando el funcionario esté sujeto a expediente disciplinario, salvo que la posible sanción no incluya la separación de servicio. ",
+            "b": "b. No podrá ser aceptada la renuncia cuando haya sido dictado en su contra auto de procesamiento por algún delito. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042548.2775977,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "37. En relación a los agravantes establecidos en el artículo 148 del Código Penal…",
+        "opciones_respuesta": {
+            "a": "a. Que la víctima fuere o hubiere sido esposa, o mujer que estuviere o hubiere estado ligada al autor por una análoga relación de afectividad, requerirá la existencia de convivencia. ",
+            "b": "b. Que la víctima fuera una persona especialmente vulnerable, requerirá la existencia de convivencia. ",
+            "c": "c. Son aplicables a las lesiones constitutivas de delito contemplado en los artículos 147.1 y 147.2 del Código Penal. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042570.7023315,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "61. En el artículo 450 del Código Penal se castiga la omisión de los deberes de perseguir delitos al que, pudiendo hacerlo con su intervención inmediata y sin riesgo propio o ajeno, no impidiere la comisión de un delito que afecte a las personas..",
+        "opciones_respuesta": {
+            "a": "a. en su vida o integridad o salud. ",
+            "b": "b. en su vida, integridad o salud y libertad sexual. ",
+            "c": "c. en su vida, integridad o salud, libertad o libertad sexual. ",
+            "d": "d. en su vida, integridad o salud, libertad o libertad sexual y patrimonio. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042587.4779036,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "77. Las entidades locales podrán establecer __________ por la utilización privativa o el aprovechamiento especial del dominio público local, así como por la prestación de servicios públicos o la realización de actividades administrativas de competencia local que se refieran, afecten o beneficien de modo particular a los sujetos pasivos.",
+        "opciones_respuesta": {
+            "a": "a. Precios públicos ",
+            "b": "b. Contribuciones especiales ",
+            "c": "c. Tasas ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042641.4067159,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "9. Indica la opción correcta:",
+        "opciones_respuesta": {
+            "a": "a. Las poblaciones de Ceuta y Melilla elegirán cada una de ellas un Senador. ",
+            "b": "b. En cada provincia se elegirán cuatro Senadores por sufragio universal, libre, igual, directo y secreto por los votantes de cada una de ellas, en los términos que señale una ley orgánica. ",
+            "c": "c. En las provincias insulares, cada isla o agrupación de ellas, con Cabildo o Consejo Insular, constituirá una circunscripción a efectos de elección de Senadores, correspondiendo dos a cada una de las islas mayores – Gran Canaria, Mallorca y Tenerife. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042662.7427595,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "12. Podrán circular sin los cinturones u otros sistemas de retención homologados las personas provistas de un certificado de exención por razones médicas graves o discapacitadas. Este certificado deberá ser presentado cuando lo requiera cualquier agente de la autoridad responsable del tráfico. En relación a dicho certificado…",
+        "opciones_respuesta": {
+            "a": "a. Debe ser expedido por autoridad competente en territorio nacional. ",
+            "b": "b. Debe ser expedido por autoridad competente de un Estado miembro de la Unión Europea. ",
+            "c": "c. B) es correcta, pero debe ir acompañado de su traducción oficial. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042679.5268152,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "74. De acuerdo al artículo 526 de la LeCRIM, ¿Cada cuánto tiempo el Juez instructor visitará las prisiones de la localidad y haciéndolo sin previo aviso?",
+        "opciones_respuesta": {
+            "a": "a. De forma anual ",
+            "b": "b. De forma mensual ",
+            "c": "c. De forma semanal ",
+            "d": "d. En todo caso se requerirá previo aviso y establecimiento de día determinado. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042696.3591938,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "72. Son infracciones leves conforme la LSV:",
+        "opciones_respuesta": {
+            "a": "a. El impago de peaje, tasa o precio público, cuando estos fueran exigibles ",
+            "b": "b. Incumplir la obligación de los conductores de estar en todo momento en condiciones de controlar su vehículo. ",
+            "c": "c. No hacer uso de los elementos y prendas reflectantes por parte de los usuarios de bicicletas. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042734.0952113,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "4. Señale la opción CORRECTA:",
+        "opciones_respuesta": {
+            "a": "a. Tendrán efecto retroactivo aquellas leyes penales que favorezcan al reo, salvo que al entrar en vigor hubiera recaído sentencia firme y el sujeto estuviese cumpliendo condena. ",
+            "b": "b. No será castigado ningún delito con pena que no se halle prevista por ley anterior a su perpetración. Sin embargo, no carecerán de efecto retroactivo las leyes que establezcan medidas de seguridad. ",
+            "c": "c. En el caso de que un Juez o Tribunal, en el ejercicio de su jurisdicción, tenga conocimiento de alguna acción u omisión que, sin estar penada por la Ley, estime digna de represión, se abstendrá de todo procedimiento sobre ella y expondrá al Gobierno las razones que le asistan para creer que debiera ser objeto de sanción penal. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042765.5031605,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "58. A los efectos de la ley 8/2004, de 29 de octubre, por el que se aprueba el texto refundido de la ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor y su normativa de desarrollo, se entiende por vehículo a motor:",
+        "opciones_respuesta": {
+            "a": "a. Todo vehículo automóvil accionado exclusivamente mediante una fuerza mecánica que circula por el suelo y que no utiliza una vía férrea, con una velocidad máxima de fabricación superior a 20 km/h. ",
+            "b": "b. Todo vehículo automóvil accionado exclusivamente mediante una fuerza mecánica que circula por el suelo y que no utiliza una vía férrea, con un peso neto máximo superior a 25 kg y una velocidad máxima de fabricación superior a 14 km/h. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042788.2628431,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "79. Una de las cimas asturianas mas reconocidas es la denominada Peña de los Cuatro Jueces. ¿Entre qué cuatro concejos se encuentra?",
+        "opciones_respuesta": {
+            "a": "a. Gijón, Siero, Sariego y Nava ",
+            "b": "b. Gijón, Siero, Villaviciosa y Nava ",
+            "c": "c. Gijón, Siero, Villaviciosa y Sariego ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042802.855093,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "57. Están exentos de inspección técnica periódica:",
+        "opciones_respuesta": {
+            "a": "a. Ciclomotores clasificados como históricos, con independencia de su antigüedad. ",
+            "b": "b. Vehículos históricos con antigüedad superior a 60 años. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042812.9750323,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "53. La Comisión de Coordinación de las Policías Locales se reunirá en sesión ordinaria con carácter:",
+        "opciones_respuesta": {
+            "a": "a. Mensual ",
+            "b": "b. Trimestral ",
+            "c": "c. Semestral ",
+            "d": "d. Anual "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042826.8957522,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "27. De acuerdo al régimen disciplinario aplicable a las Policías Locales, las sanciones disciplinarias se anotarán en el registro de personal, con indicación de las faltas que las motivan. ¿Cuándo se acordará la cancelación de dichas anotaciones?",
+        "opciones_respuesta": {
+            "a": "a. Tras 6 meses desde el cumplimiento de la sanción por faltas leves. ",
+            "b": "b. Tras 2 años desde el cumplimiento de la sanción por faltas graves. ",
+            "c": "c. Tras 5 años desde el cumplimiento de la sanción por faltas muy graves. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042851.887453,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "41. Conforme el artículo 10 del Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local, las cuestiones que se susciten entre Municipios sobre deslinde de sus términos municipales serán resueltas por la correspondiente Comunidad Autónoma:",
+        "opciones_respuesta": {
+            "a": "a. previo informe del Instituto Nacional de Estadística y dictamen de la consejería competente por razón de la materia. ",
+            "b": "b. Previo informe del Consejo de Gobierno y dictamen del Instituto Geográfico Nacional. ",
+            "c": "c. previo informe del Instituto Geográfico Nacional y dictamen del órgano consultivo superior del Consejo de Gobierno de aquélla, si existiere o, en su defecto, del Consejo de Estado. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042865.2397265,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "47. La señal V-4 significa…",
+        "opciones_respuesta": {
+            "a": "a. Que el vehículo no puede sobrepasar los 40 km/h ",
+            "b": "b. Que el vehículo no puede sobrepasar la velocidad que figura en la señal ",
+            "c": "c. A) y B) son correctas ",
+            "d": "d. Que el vehículo tiene una longitud superior a 12 metros. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042886.4394279,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "75. Los que inutilicen o perturben el funcionamiento normal de los dispositivos técnicos que hubieran sido dispuestos para controlar el cumplimiento de penas, medidas de seguridad o medidas cautelares, no los lleven consigo u omitan las medidas exigibles para mantener su correcto estado de funcionamiento, incurrirán en:",
+        "opciones_respuesta": {
+            "a": "a. Encubrimiento ",
+            "b": "b. Obstrucción a la justicia ",
+            "c": "c. Quebrantamiento de condena ",
+            "d": "d. Realización arbitraria del propio derecho "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761042918.047771,
+        "path": "/otras-preparaciones/siero/_plan_pl_simulacro_siero_02.json",
+        "id": "id2340234",
+        "pregunta": "29. Conforme el artículo 183 bis del Código Penal, salvo en los casos en que concurra alguna de las circunstancias previstas en el apartado segundo del artículo 178, el libre consentimiento del menor de dieciséis años excluirá la responsabilidad penal por los delitos previstos en relación a las agresiones sexuales a menores de 16 años, cuando:",
+        "opciones_respuesta": {
+            "a": "a. El autor también sea menor de edad. ",
+            "b": "b. El autor sea una persona próxima al menor por edad y grado de desarrollo o madurez física y psicológica. ",
+            "c": "c. El consentimiento del menor de edad no será válido, debiendo obtenerse el perdón del padre, madre o tutor legal. ",
+            "d": "d. En ningún caso se excluirá la responsabilidad penal. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a",
+        "date": "2025-10-21",
+        "mode": "test system"
+    },
+    {
         "pregunta": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
         "respuesta": "anulable",
         "fallos": 2,
@@ -2093,7 +3229,7 @@
     {
         "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
         "respuesta": "ministerio del interior",
-        "fallos": 3,
+        "fallos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -2182,6 +3318,20 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "b) La previa homologación, en su caso, de los elementos de los vehículos, remolques y semirremolques que afecten a la seguridad vial, así como dictar instrucciones y directrices en materia de inspección técnica de vehículos.",
+        "respuesta": "administracion general del estado",
+        "fallos": 1,
+        "file_name_secction": "competencias trafico",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.",
+        "respuesta": "administracion general del estado",
+        "fallos": 1,
+        "file_name_secction": "competencias trafico",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "a) La regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas cuando no esté expresamente atribuida a otra Administración.",
         "respuesta": "municipio",
         "fallos": 0,
@@ -2225,20 +3375,6 @@
     },
     {
         "pregunta": "a) La aprobación de la normativa técnica básica que afecte de manera directa a la seguridad vial.",
-        "respuesta": "administracion general del estado",
-        "fallos": 0,
-        "file_name_secction": "competencias trafico",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "b) La previa homologación, en su caso, de los elementos de los vehículos, remolques y semirremolques que afecten a la seguridad vial, así como dictar instrucciones y directrices en materia de inspección técnica de vehículos.",
-        "respuesta": "administracion general del estado",
-        "fallos": 0,
-        "file_name_secction": "competencias trafico",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
         "file_name_secction": "competencias trafico",

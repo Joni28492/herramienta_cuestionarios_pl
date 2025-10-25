@@ -2,6 +2,11 @@
     {
         "pregunta": "b) Permitir el consumo de bebidas alcohólicas por menores de 18 años por parte del titular de un establecimiento o local en que no esté prohibida su venta o dispensación, cuando el consumo se realice en el interior del local o en las terrazas o espacios asociados a su actividad, en los supuestos en que se hubieran dispensado a un mayor de edad, siempre que éste no sea el responsable legal del menor.",
         "respuesta": "leve",
+        "fallos": 6
+    },
+    {
+        "pregunta": "e) La venta, suministro o dispensación a menores de 18 años de cualquier producto que imite los envases de bebidas alcohólicas.",
+        "respuesta": "leve",
         "fallos": 5
     },
     {
@@ -15,12 +20,17 @@
         "fallos": 4
     },
     {
-        "pregunta": "e) La venta, suministro o dispensación a menores de 18 años de cualquier producto que imite los envases de bebidas alcohólicas.",
-        "respuesta": "leve",
+        "pregunta": "c) La venta o dispensación de bebidas alcohólicas en los lugares en que esté prohibida.",
+        "respuesta": "grave",
         "fallos": 4
     },
     {
-        "pregunta": "c) La venta o dispensación de bebidas alcohólicas en los lugares en que esté prohibida.",
+        "pregunta": "b) La inducción a beber de un adulto sobre un menor",
+        "respuesta": "grave",
+        "fallos": 4
+    },
+    {
+        "pregunta": "i) El incumplimiento reiterado de los requerimientos específicos que se formulen por las autoridades sanitarias.",
         "respuesta": "grave",
         "fallos": 4
     },
@@ -30,23 +40,18 @@
         "fallos": 3
     },
     {
-        "pregunta": "b) La inducción a beber de un adulto sobre un menor",
-        "respuesta": "grave",
-        "fallos": 3
-    },
-    {
         "pregunta": "b) La negativa absoluta a facilitar información o prestar colaboración a los servicios de inspección y control.",
         "respuesta": "muy grave",
-        "fallos": 2
+        "fallos": 3
     },
     {
         "pregunta": "h) El incumplimiento o transgresión de las medidas cautelares adoptadas por las Administraciones Públicas o la resistencia a su ejecución.",
         "respuesta": "grave",
-        "fallos": 2
+        "fallos": 3
     },
     {
-        "pregunta": "i) El incumplimiento reiterado de los requerimientos específicos que se formulen por las autoridades sanitarias.",
-        "respuesta": "grave",
+        "pregunta": "e) El incumplimiento consciente y deliberado de los requisitos, obligaciones o prohibiciones establecidas en esta ley, siempre que ocasione alteraciones, riesgos o perjuicios graves para la salud individual o colectiva.",
+        "respuesta": "muy grave",
         "fallos": 2
     },
     {
@@ -72,11 +77,6 @@
     {
         "pregunta": "j) La venta, dispensación o publicidad de sustancias que, estando debidamente autorizadas por la normativa vigente para determinados usos y formas de administración se vendan o dispensen para otro uso o forma de administración, al objeto de que produzcan los efectos y consecuencias descritos para las drogas.",
         "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "e) El incumplimiento consciente y deliberado de los requisitos, obligaciones o prohibiciones establecidas en esta ley, siempre que ocasione alteraciones, riesgos o perjuicios graves para la salud individual o colectiva.",
-        "respuesta": "muy grave",
         "fallos": 1
     },
     {

@@ -20,6 +20,16 @@
         "fallos": 1
     },
     {
+        "pregunta": "Cualquier otro que se establezca expresamente en una disposición con rango de Ley.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 1
+    },
+    {
+        "pregunta": "disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 1
+    },
+    {
         "pregunta": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
         "respuesta": "nulo pleno derecho",
         "fallos": 0
@@ -31,16 +41,6 @@
     },
     {
         "pregunta": "Los que tengan un contenido imposible.",
-        "respuesta": "nulo pleno derecho",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Cualquier otro que se establezca expresamente en una disposición con rango de Ley.",
-        "respuesta": "nulo pleno derecho",
-        "fallos": 0
-    },
-    {
-        "pregunta": "disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
         "respuesta": "nulo pleno derecho",
         "fallos": 0
     },
