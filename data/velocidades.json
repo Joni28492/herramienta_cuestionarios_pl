@@ -1,0 +1,95 @@
+{
+
+    "abrr_opts": {
+        "120": ["120"],
+        "100": ["100"],
+        "90": ["90"],
+        "80": ["80"],
+        "70": ["70"],
+        "60": ["60"],
+        "50": ["50"],
+        "45": ["45"],
+        "40": ["40"],
+        "30": ["30"],
+        "25": ["25"],
+        "20": ["20"]
+    },
+
+    "120": [
+        "Autpistas y autovias Turismo",
+        "Autpistas y autovias autocaravana MMA =< 3.5kg",
+        "Autpistas y autovias pickup"
+    ],
+    "100": [
+        "Autopistas y autovias autobuses",
+        "Autopistas y autovias vehiculos derivados de turismo",
+        "Autopistas y autovias vehiculos mixtos adaptables",
+        "carretera convencional con separacion fisica de los 2 sentidos de circulacion turismos",
+        "carretera convencional con separacion fisica de los 2 sentidos de circulacion motocicletas",
+        "carretera convencional con separacion fisica de los 2 sentidos de circulacion autocaravana MMA=<3.5kg"
+    ],
+    "90": [
+        "Carretera convencional Autobuses",
+        "Carretera convencional vehiculos derivados de turismo",
+        "Carretera convencional vehiculos mixtos adaptables",
+        "Carretera convencional turismos (*)",
+        "Carretera convencional motocicletas (*)",
+        "Carretera convencional autocaravanas MMA =< 3.5kg  (*)",
+        "Carretera convencional Pick up  (*)",
+        "Autopistas y autovias Camiones ",
+        "Autopistas y autovias Tractocamiones ",
+        "Autopistas y autovias furgonetas ",
+        "Autopistas y autovias autocaravanas de MMA > 3.5kg ",
+        "Autopistas y autovias vehiculos articulados ",
+        "Autopistas y autovias automoviles con remolque",
+        "Autopistas y autovias resto de vehiculos"
+    ],
+    
+    "80": [
+        "autobus con viajeros a pie",
+        "Autovias y autopistas dentro de poblado (excepto mercancias peligrosas)",
+        "Carretera convencional camiones", 
+        "Carretera convencional tractocamiones", 
+        "Carretera convencional furgonetas", 
+        "Carretera convencional autocaravanas de MMA > 3.5kg", 
+        "Carretera convencional vehiculos articulados", 
+        "Carretera convencional automoviles con remolque", 
+        "Carretera convencional resto de vehiculos" 
+    ],
+    "70": [
+
+        "vehiculo especial con señalizacion de frenado, vel max "
+    ],
+    "60": [
+
+        "vehiculo especial con señalizacion de frenado, en llano "
+    ],
+    "50": [
+        "velociadad ampliada excepcionalmente por Autoridad municipal vias de unico carril por sentido",
+        "travesias"
+    ],
+    "45": [
+        "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior"
+    ],
+    "40": [
+        "transporte escolar y de menores via urbana",
+        "transporte mercancias peligrosas via urbana de 2 o mas carriles por sentido de circulacion",
+        "vehiculo especial con señalizacion de frenado"
+    ],
+    "30": [
+        "vias sin pavimentar",
+        "incremento vehiculos ensayo y experimentacion",
+        "via de unico sentido por carril de circulacion",
+        "via de 2 o mas carriles por sentido de la circulacion"
+    ],
+    "25": [
+        "vehiculo especial sin señalizacion de frenado, llevan remolque o son motocultores"
+        
+    ],
+    "20": [
+        "via de unica calzada y acera"
+    ]
+   
+
+
+}
