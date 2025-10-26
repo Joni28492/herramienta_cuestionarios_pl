@@ -66,21 +66,23 @@
     ],
     "50": [
         "velociadad ampliada excepcionalmente por Autoridad municipal vias de unico carril por sentido",
-        "travesias"
+        "travesias",
+        "transporte escolar y de menores via urbana",
+        "via de 2 o mas carriles por sentido de la circulacion"
     ],
     "45": [
         "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior"
     ],
     "40": [
-        "transporte escolar y de menores via urbana",
+        
         "transporte mercancias peligrosas via urbana de 2 o mas carriles por sentido de circulacion",
         "vehiculo especial con señalizacion de frenado"
     ],
     "30": [
         "vias sin pavimentar",
         "incremento vehiculos ensayo y experimentacion",
-        "via de unico sentido por carril de circulacion",
-        "via de 2 o mas carriles por sentido de la circulacion"
+        "via de unico sentido por carril de circulacion"
+        
     ],
     "25": [
         "vehiculo especial sin señalizacion de frenado, llevan remolque o son motocultores"

@@ -5,13 +5,13 @@
         "fallos": 4
     },
     {
-        "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
-        "respuesta": "grave",
-        "fallos": 2
-    },
-    {
         "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
         "respuesta": "leve",
+        "fallos": 3
+    },
+    {
+        "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
+        "respuesta": "grave",
         "fallos": 2
     },
     {

@@ -1,7 +1,27 @@
 [
     {
-        "pregunta": "Carretera convencional vehiculos mixtos adaptables",
+        "pregunta": "Carretera convencional vehiculos derivados de turismo",
         "respuesta": "90",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Carretera convencional turismos (*)",
+        "respuesta": "90",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Autopistas y autovias resto de vehiculos",
+        "respuesta": "90",
+        "fallos": 1
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
+        "respuesta": "70",
+        "fallos": 1
+    },
+    {
+        "pregunta": "via de unica calzada y acera",
+        "respuesta": "20",
         "fallos": 1
     },
     {
@@ -55,12 +75,7 @@
         "fallos": 0
     },
     {
-        "pregunta": "Carretera convencional vehiculos derivados de turismo",
-        "respuesta": "90",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Carretera convencional turismos (*)",
+        "pregunta": "Carretera convencional vehiculos mixtos adaptables",
         "respuesta": "90",
         "fallos": 0
     },
@@ -110,11 +125,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "Autopistas y autovias resto de vehiculos",
-        "respuesta": "90",
-        "fallos": 0
-    },
-    {
         "pregunta": "autobus con viajeros a pie",
         "respuesta": "80",
         "fallos": 0
@@ -160,11 +170,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
-        "respuesta": "70",
-        "fallos": 0
-    },
-    {
         "pregunta": "vehiculo especial con señalizacion de frenado, en llano ",
         "respuesta": "60",
         "fallos": 0
@@ -180,13 +185,18 @@
         "fallos": 0
     },
     {
-        "pregunta": "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior",
-        "respuesta": "45",
+        "pregunta": "transporte escolar y de menores via urbana",
+        "respuesta": "50",
         "fallos": 0
     },
     {
-        "pregunta": "transporte escolar y de menores via urbana",
-        "respuesta": "40",
+        "pregunta": "via de 2 o mas carriles por sentido de la circulacion",
+        "respuesta": "50",
+        "fallos": 0
+    },
+    {
+        "pregunta": "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior",
+        "respuesta": "45",
         "fallos": 0
     },
     {
@@ -215,18 +225,8 @@
         "fallos": 0
     },
     {
-        "pregunta": "via de 2 o mas carriles por sentido de la circulacion",
-        "respuesta": "30",
-        "fallos": 0
-    },
-    {
         "pregunta": "vehiculo especial sin señalizacion de frenado, llevan remolque o son motocultores",
         "respuesta": "25",
-        "fallos": 0
-    },
-    {
-        "pregunta": "via de unica calzada y acera",
-        "respuesta": "20",
         "fallos": 0
     }
 ]

@@ -2,7 +2,7 @@
     {
         "pregunta": "locales musica amplificada excepto discotecas - Cierre 15 JUNIO y 30 SEPT los jueves",
         "respuesta": "04:30",
-        "fallos": 2
+        "fallos": 3
     },
     {
         "pregunta": "Cierre General - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
@@ -17,6 +17,16 @@
     {
         "pregunta": "Cierre 15 JUNIO y 30 SEPT - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
         "respuesta": "06:00",
+        "fallos": 1
+    },
+    {
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
+        "respuesta": "05:30",
+        "fallos": 1
+    },
+    {
+        "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
+        "respuesta": "11:00",
         "fallos": 1
     },
     {
@@ -42,11 +52,6 @@
     {
         "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
         "respuesta": "03:30",
-        "fallos": 0
-    },
-    {
-        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
-        "respuesta": "05:30",
         "fallos": 0
     },
     {
@@ -76,11 +81,6 @@
     },
     {
         "pregunta": "locales destinados a menores 16 años, apertura dia NO lectivo",
-        "respuesta": "11:00",
-        "fallos": 0
-    },
-    {
-        "pregunta": "locales musica amplificada excepto discotecas - horario general",
         "respuesta": "11:00",
         "fallos": 0
     },

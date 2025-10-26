@@ -2800,6 +2800,1046 @@
         "mode": "test system"
     },
     {
+        "timestamp": 1761142186.8958907,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿Quién expide el permiso de circulación para vehículos en régimen de matrícula diplomática?",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura Provincial de Tráfico del domicilio del interesado. ",
+            "b": "b) La Jefatura Provincial de Tráfico de Madrid. ",
+            "c": "c) a) es correcta, a instancia del Ministerio de Interior. ",
+            "d": "d) b) es correcta, a instancia del Ministerio de Interior. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142194.983317,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Qué siglas utilizan las matrículas especiales de las oficinas consulares y su personal?",
+        "opciones_respuesta": {
+            "a": "a) OC ",
+            "b": "b) OCP ",
+            "c": "c) CC ",
+            "d": "d) CP "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142212.1037467,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "2. Toda persona natural o jurídica que sea titular de un vehículo matriculado en España y que lo transmita a otra, deberá notificarlo a la Jefatura de Tráfico de la provincia en que tenga su domicilio legal o a aquélla en que fue matriculado el vehículo:",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 10 días. ",
+            "b": "b) En el plazo de 15 días. ",
+            "c": "c) En el plazo de 20 días. ",
+            "d": "d) En el plazo de 30 días. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142224.7039645,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "1. El permiso de circulación, ¿debe renovarse?:",
+        "opciones_respuesta": {
+            "a": "a) No. ",
+            "b": "b) Si, cuando varíe la titularidad registral del vehículo. ",
+            "c": "c) Si, cuando cambie de domicilio habitual el titular del vehículo. ",
+            "d": "d) Si, periódicamente conforme a la legislación vigente. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142236.007558,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿De qué color es la matrícula temporal para empresa?",
+        "opciones_respuesta": {
+            "a": "a) Fondo verde y letras blancas. ",
+            "b": "b) Fondo rojo y letras blancas. ",
+            "c": "c) Fondo amarillo y letras negras. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142243.1601408,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "4. En el supuesto de transmisión motivada por el fallecimiento del titular del vehículo, la persona que tenga a su cargo la custodia y, en su caso, el uso del mismo mientras se adjudica a uno de los herederos deberá notificarlo a la Jefatura de Tráfico de su domicilio legal antes de transcurrir:",
+        "opciones_respuesta": {
+            "a": "a) 30 días de la defunción. ",
+            "b": "b) 60 días de la defunción. ",
+            "c": "c) 90 días de la defunción. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142260.223549,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "6. Toda persona natural o jurídica que sea titular de un vehículo matriculado en España y lo entregue, para su posterior transmisión, a un vendedor de vehículos con establecimiento abierto en España para esta actividad deberá solicitar:",
+        "opciones_respuesta": {
+            "a": "a) La baja temporal del mismo, en el plazo de 10 días desde la entrega. ",
+            "b": "b) La baja temporal del mismo, en el plazo de 20 días desde la entrega. ",
+            "c": "c) La baja definitiva del mismo, en el plazo de 10 días desde la entrega. ",
+            "d": "d) La baja definitiva del mismo, en el plazo de 20 días desde la entrega. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142271.175282,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "18. Un permiso de circulación temporal para particulares tendrá una duración de:",
+        "opciones_respuesta": {
+            "a": "a) 10 días, en todo caso. ",
+            "b": "b) 30 días, en todo caso. ",
+            "c": "c) 10 días o 30 días, según el caso. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142284.0561047,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "3. El adquirente deberá solicitar de la Jefatura de Tráfico de la provincia de su domicilio legal o de aquélla en que se matriculó el vehículo, la renovación del permiso o licencia de circulación:",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 10 días. ",
+            "b": "b) En el plazo de 15 días. ",
+            "c": "c) En el plazo de 20 días. ",
+            "d": "d) En el plazo de 30 días. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142301.4236631,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿En qué registros se inscriben los vehículos especiales agrícolas?",
+        "opciones_respuesta": {
+            "a": "a) En el registro de vehículos ",
+            "b": "b) En el registro de vehículos especiales, el cual comunicará sus datos al Registro de vehículos. ",
+            "c": "c) En el registro oficial de maquinaria agrícola, el cual comunicará sus datos al Registro de vehículos. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142311.0966082,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Es necesario matricular un remolque o semirremolque con su propia matrícula?",
+        "opciones_respuesta": {
+            "a": "a) No, es suficiente con que porte la matrícula del vehículo tractor. ",
+            "b": "b) Si, en todo caso. ",
+            "c": "c) Si, en caso de tener masa máxima autorizada superior a 750 kilos. ",
+            "d": "d) Si, en caso de tener masa máxima autorizada superior a 3.500 kilos. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142341.3684282,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "7. Señale cuál de los siguientes motivos no corresponde a una baja definitiva:",
+        "opciones_respuesta": {
+            "a": "a) Cuando cualquier Jefatura de Tráfico lo acuerde de oficio, mediante la oportuna resolución, respecto de los vehículos que hayan sido retirados de las vías públicas por los agentes encargados de la vigilancia y regulación del tráfico, una vez comprobado que han sido abandonados por sus titulares. ",
+            "b": "b) Por traslado del vehículo a otro país donde vaya a ser matriculado. ",
+            "c": "c) Cuando se entreguen, para su posterior transmisión, a un vendedor de vehículos con establecimiento abierto en España para esta actividad. ",
+            "d": "d) Ninguno de los anteriores corresponde a una baja definitiva. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142350.6477404,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "19. Un permiso de circulación temporal para uso de empresas tendrá una duración de:",
+        "opciones_respuesta": {
+            "a": "a) 60 días. ",
+            "b": "b) 3 meses ",
+            "c": "c) Un año ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142367.2411358,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "5. Cuando la transmisión afecte a un vehículo sobre el que previamente se haya trabado embargo por una autoridad judicial o administrativa inscrito en el Registro de Vehículos:",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura de Tráfico efectuará el cambio de titularidad y renovará el permiso o licencia de circulación, debiendo notificar la existencia del embargo al adquirente, y la identificación y domicilio de este a la autoridad que lo acordó. ",
+            "b": "b) La Jefatura de Tráfico no efectuará el cambio de titularidad ni renovará el permiso o licencia de circulación, debiendo notificar la existencia del embargo al adquirente. ",
+            "c": "c) La Jefatura de Tráfico anotará el cambio de titularidad pero no renovará el permiso o licencia de circulación, debiendo notificar la existencia del embargo al adquirente. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142394.3445857,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "16. Una matrícula especial con la sigla T, hace referencia a:",
+        "opciones_respuesta": {
+            "a": "a) Una matrícula turística ",
+            "b": "b) Una matrícula del personal técnico-administrativo. ",
+            "c": "c) Una matrícula de un vehículo histórico. ",
+            "d": "d) Una matrícula temporal. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142403.4885454,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "13. El titular de un vehículo que hubiera sufrido variación en cualquiera de los datos que consten en el Registro de Vehículos dispondrá de un plazo para comunicarlo de:",
+        "opciones_respuesta": {
+            "a": "a) 10 días ",
+            "b": "b) 15 días ",
+            "c": "c) 20 días ",
+            "d": "d) Un mes "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142413.0481634,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Qué vehículos deben ser objeto de matriculación definitiva en España?",
+        "opciones_respuesta": {
+            "a": "a) Los que se destinen a ser utilizados en España por residentes. ",
+            "b": "b) Los que se destinen a ser utilizados en España por personas o entidades que sean titulares de establecimientos situados en España. ",
+            "c": "c) a y b) son correctas ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142426.9926608,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "8. Las bajas temporales de los vehículos cuyo titular manifieste su voluntad de retirarlos temporalmente de la circulación tendrán una duración de:",
+        "opciones_respuesta": {
+            "a": "a) 3 meses ",
+            "b": "b) 6 meses ",
+            "c": "c) 1 año ",
+            "d": "d) 2 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142433.72108,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿Qué artículo de la LSV nos habla de las placas de matrícula y la matriculación?",
+        "opciones_respuesta": {
+            "a": "a) 66 ",
+            "b": "b) 67 ",
+            "c": "c) 68 ",
+            "d": "d) Ninguno de los anteriores "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761142458.3687973,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "20. Un vehículo autorizado para realizar una prueba o ensayo de investigación extraordinario se encontrará habilitado para rebasar la velocidad máxima hasta en 30 km/h. ¿En qué vías no podrán realizar dicho ensayo rebasando la velocidad?",
+        "opciones_respuesta": {
+            "a": "a) En vías urbanas y travesías. ",
+            "b": "b) En vías públicas abiertas a la circulación. ",
+            "c": "c) a) es correcta, y tampoco en vías que tengan señalización limitando la velocidad. ",
+            "d": "d) b) es correcta, y tampoco en vías que tengan señalización limitando la velocidad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-22",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418037.2122042,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "11. Para el ejercicio de sus cometidos el Congreso y el Senado se reunirán anualmente en dos períodos ordinarios de sesiones:",
+        "opciones_respuesta": {
+            "a": "a) el primero, de septiembre a diciembre, y el segundo, de febrero a junio. ",
+            "b": "b) el primero, de septiembre a noviembre, y el segundo, de febrero a mayo. ",
+            "c": "c) el primero, de agosto a diciembre, y el segundo, de enero a julio. ",
+            "d": "d) el primero, de octubre a diciembre, y el segundo, de marzo a junio."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418045.7809188,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "39  El titular de un vehículo no podrá efectuar ningún trámite relativo al mismo cuando figuren como impagadas en el historial del vehículo:",
+        "opciones_respuesta": {
+            "a": "a) 3 sanciones firmes en vía administrativa por infracciones graves o muy graves. ",
+            "b": "b) 3 sanciones firmes en vía administrativa. ",
+            "c": "c) 4 sanciones firmes en vía administrativa por infracciones graves o muy graves. ",
+            "d": "d) 4 sanciones firmes en vía administrativa."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418062.0448034,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "7. Podrán portar armas de fuego en los cuerpos de Policía Local:",
+        "opciones_respuesta": {
+            "a": "a) Los funcionarios en prácticas ",
+            "b": "b) Los auxiliares de Policía Local ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta"
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418092.8529618,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "28. Los agentes de la autoridad responsable del tráfico utilizarán las siguientes señales:",
+        "opciones_respuesta": {
+            "a": "a) Brazo/s extendidos horizontalmente: obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo/s extendidos y cualquiera que sea el sentido de su marcha. Esta señal permanece en vigor hasta que el agente baje el brazo o los brazos. ",
+            "b": "b) Brazo levantado verticalmente: obliga a detenerse a todo usuario que se acerque al agente, salvo a los conductores que no puedan hacerlo en condiciones de seguridad suficiente. Si esta señal se efectúa en una intersección, no obligará a detenerse a los conductores que haya entrado. La detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente. En una intersección, debe efectuarse antes de entrar en ella. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418101.82887,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "5. El título V de las Policías Locales de la Ley Orgánica 2/86, comprende los artículos:",
+        "opciones_respuesta": {
+            "a": "a) 51 a 56 ",
+            "b": "b) 51 a 54 ",
+            "c": "c) 51 a 53 ",
+            "d": "d) Ninguna es correcta"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418111.9085593,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "30. No mantener la DISTANCIA DE SEGURIDAD con el vehículo que le precede, conlleva la retirada de:",
+        "opciones_respuesta": {
+            "a": "a) 3 puntos ",
+            "b": "b) 4 puntos ",
+            "c": "c) 6 puntos ",
+            "d": "d) No conlleva retirada de puntos"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418135.2778356,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "20. ¿Está permitida la utilización de dispositivos inalámbricos para la utilización en el casco de protección de los conductores de motocicletas y ciclomotores, con fines de comunicación o navegación?",
+        "opciones_respuesta": {
+            "a": "a) No, conforme el artículo 13.2 de la LSV. ",
+            "b": "b) Si, en todo caso. ",
+            "c": "c) Si, siempre que no afecten a la seguridad en la conducción y se encuentren certificados u homologados. ",
+            "d": "d) Si, pero solamente los agentes de la autoridad en el ejercicio de las funciones que tengan encomendadas, así como los vehículos de las Fuerzas Armadas cuando circulen en convoy."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418160.717285,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "37. El agente denunciante fijará provisionalmente la cuantía de la multa y, de no depositarse su importe, el conductor deberá trasladar el vehículo e inmovilizarlo en el lugar indicado por el agente denunciante. El depósito podrá efectuarse mediante tarjeta de crédito, o en metálico en euros.",
+        "opciones_respuesta": {
+            "a": "a) Cuando el infractor no acredite su residencia legal en territorio español. ",
+            "b": "b) Cuando el infractor sea extranjero. ",
+            "c": "c) Cuando el infractor no posea permiso de conducir. ",
+            "d": "d) Cuando el infractor posea en su historial de conductor 3 sanciones impagadas."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418169.4693558,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿Qué norma aprueba el Texto Refundido de la Ley sobre Tráfico, Circulación de vehículos a motor y Seguridad Vial (LSV)?",
+        "opciones_respuesta": {
+            "a": "a) RDL 6/2015, de 30 de octubre. ",
+            "b": "b) Ley 18/2021, de 20 de diciembre. ",
+            "c": "c) RD 1428/2003, de 21 de noviembre. ",
+            "d": "d) Ninguna de las anteriores."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418209.9417932,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "38. Las denuncias formuladas por los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas tendrán valor probatorio, salvo prueba en contrario:",
+        "opciones_respuesta": {
+            "a": "a) De los hechos denunciados, de la identidad de quienes los hubieran cometido y, en su caso, de la notificación de la denuncia. ",
+            "b": "b) De los hechos denunciados, de la identidad de quienes los hubieran cometido y, en su caso, del pago en el momento o no. ",
+            "c": "c) De los hechos denunciados, de la identificación del vehículo y, en su caso, de la notificación de la denuncia. ",
+            "d": "d) Ninguna es correcta."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418230.3583353,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "31. Cuando un conductor posea un permiso de conducir de otro país de la Unión Europea no sujeto a un período de vigencia determinado, su titular deberá proceder a su renovación:",
+        "opciones_respuesta": {
+            "a": "a) En el momento de obtener residencia normal en España. ",
+            "b": "b) Una vez transcurridos 6 meses desde que establezca su residencia normal en España. ",
+            "c": "c) Una vez transcurridos 2 años desde que establezca su residencia normal en España. ",
+            "d": "d) Ninguna es correcta"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418265.1499577,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "22. Señale cuál de los siguientes comportamientos incurre en infracción administrativa:",
+        "opciones_respuesta": {
+            "a": "a) Jacinto, de 17 años y permiso AM en vigor, mientras circulaba con su ciclomotor, arroja una tasa de alcohol en aire de 0,15 mg/l en la primera prueba y 0,10 mg/l en la segunda prueba. ",
+            "b": "b) Jacinto se encuentra conduciendo su taxi en jornada laboral, arroja una tasa de alcohol en aire de 0,25 mg/l en la primera prueba y 0,20 mg/l en la segunda prueba. ",
+            "c": "c) Jacinto mientras conduce su VMP (vehículo de movilidad personal) se niega a someterse a las pruebas de alcoholemia. ",
+            "d": "d) Todas son correctas."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418277.2219584,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "27. El distinto ambiental es…",
+        "opciones_respuesta": {
+            "a": "a) V-24 ",
+            "b": "b) V-25 ",
+            "c": "c) V-26 ",
+            "d": "d) Ninguno de los anteriores"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418292.1820815,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "13. Señale la opción CORRECTA respecto al Poder Judicial:",
+        "opciones_respuesta": {
+            "a": "a) Las actuaciones judiciales serán privadas, con las excepciones que prevean las leyes de procedimiento. ",
+            "b": "b) El procedimiento será predominantemente escrito, sobre todo en materia criminal. ",
+            "c": "c) Las sentencias serán siempre motivadas y se pronunciarán en audiencia pública. ",
+            "d": "d) Todas son correctas"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418304.5577257,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "32. Señale cuál de las siguientes es una infracción grave:",
+        "opciones_respuesta": {
+            "a": "a) El impago de peaje, tasa o precio público, cuando estos fueran exigibles. ",
+            "b": "b) Arrojar a la vía o en sus inmediaciones objetos que puedan obstaculizar la libre circulación. ",
+            "c": "c) Alteración o deterioro de la señalización permanente u ocasional. ",
+            "d": "d) Todas son correctas"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418314.0866926,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "16. El Presidente del Principado de Asturias responde políticamente:",
+        "opciones_respuesta": {
+            "a": "a) Ante el Consejo de Gobierno. ",
+            "b": "b) Ante la Junta General. ",
+            "c": "c) Tribunal Superior de Justicia. ",
+            "d": "d) Tribunal Superior de Justicia o Tribunal Supremo, según el ámbito territorial."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418320.494137,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "18. Masa del vehículo, con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios.",
+        "opciones_respuesta": {
+            "a": "a) Masa por eje ",
+            "b": "b) Masa máxima autorizada ",
+            "c": "c) Tara ",
+            "d": "d) Masa en carga"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418340.6299026,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "6. Es función de la Policía Local:",
+        "opciones_respuesta": {
+            "a": "a) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad. ",
+            "b": "b) Vigilar los espacios públicos y colaborar con las Fuerzas y Cuerpos de Seguridad del Estado y con la Policía de las CCAA en la protección de las manifestaciones y el mantenimiento del orden en grandes concentraciones humanas, cuando sean requeridos para ello. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418349.8787553,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "33. Conducir un vehículo que lleva instalado un inhibidor de radar, no encontrándose en funcionamiento, conlleva la siguiente sanción:",
+        "opciones_respuesta": {
+            "a": "a) 3000 a 20000 euros ",
+            "b": "b) 500 euros ",
+            "c": "c) 6000 euros ",
+            "d": "d) Ninguna es correcta"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761418368.6379845,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "26. ¿Qué menciona el Reglamento General de Circulación en relación a las peticiones de pasaje “autostop”?",
+        "opciones_respuesta": {
+            "a": "a) No menciona nada al respecto. ",
+            "b": "b) Que los conductores de vehículos que circulen por autopistas o autovías deberán hacer caso omiso a las peticiones de pasaje que reciban en cualquier tramo de ellas. ",
+            "c": "c) b) es correcto, excluidas las explanadas de estaciones de peaje. ",
+            "d": "d) Los conductores de vehículos a motor deberán hacer caso omiso a las peticiones de pasaje que reciban en cualquier tramo vial."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761421693.2662442,
+        "path": "/test-basicos/_TB-08.json",
+        "id": "id2340234",
+        "pregunta": "16. Indique cuál de los siguientes conductores tiene una tasa máxima de alcohol en aire espirado de 0,15 mg/l.",
+        "opciones_respuesta": {
+            "a": "a. Vehículos destinados al transporte de mercancías. ",
+            "b": "b. Vehículos destinados al transporte de viajeros. ",
+            "c": "c. Vehículos dedicados a transportes especiales. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761421711.1222491,
+        "path": "/test-basicos/_TB-08.json",
+        "id": "id2340234",
+        "pregunta": "9. El incumplimiento de las restricciones de circulación peatonal o itinerario con ocasión de un acto público, reunión o manifestación, cuando provoquen alteraciones menores en el normal desarrollo de los mismos, constituye a la LOPSC:",
+        "opciones_respuesta": {
+            "a": "a. Infracción leve ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761421716.0102458,
+        "path": "/test-basicos/_TB-08.json",
+        "id": "id2340234",
+        "pregunta": "17. En los vehículos destinados exclusivamente al transporte de mercancías, tratándose de cargas indivisibles y siempre que se cumplan las condiciones establecidas para su estiba y acondicionamiento, podrán sobresalir en el caso de que la dimensión menor de la carga indivisible sea superior al ancho del vehículo:",
+        "opciones_respuesta": {
+            "a": "a. Hasta 0,50 metros a cada lado de su eje longitudinal. ",
+            "b": "b. Hasta 0,40 metros a cada lado de su eje longitudinal. ",
+            "c": "c. Hasta 0,40 metros por cada lateral, siempre que el ancho total no sea superior a 2,55 metros. ",
+            "d": "d. Hasta 0,50 metros por cada lateral, siempre que el ancho total no sea superior a 2,55 metros. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761421722.0582464,
+        "path": "/test-basicos/_TB-08.json",
+        "id": "id2340234",
+        "pregunta": "12. Las infracciones MUY GRAVES a la Ley 13/2002, de 23 de diciembre, de tenencia, protección y derechos de los animales del Principado de Asturias, tendrá una cuantía en su sanción de:",
+        "opciones_respuesta": {
+            "a": "a. 30.001 a 600.000 euros ",
+            "b": "b. 3.005,07 a 90.151 euros ",
+            "c": "c. 10.001 a 600.000 euros ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761421730.5542445,
+        "path": "/test-basicos/_TB-08.json",
+        "id": "id2340234",
+        "pregunta": "24. El hurto será castigado con la pena de prisión de uno a tres años:",
+        "opciones_respuesta": {
+            "a": "a. Si la cuantía de lo sustraído excediese de 400 euros. ",
+            "b": "b. Cuando en la comisión del hecho se hubieran neutralizado, eliminado o inutilizado, por cualquier medio, los dispositivos de alarma o seguridad instalados en las cosas sustraídas. ",
+            "c": "c. Cuando se utilice a menores de 16 años para la comisión del delito. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a",
+        "date": "2025-10-25",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504205.9132347,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "32. Las entidades aseguradoras deberán expedir a favor del propietario del vehículo y del tomador del seguro del vehículo asegurado, en caso de ser persona distinta de aquél, previa petición de cualquiera de ellos certificación acreditativa de los siniestros de los que se derive responsabilidad frente a terceros, correspondientes a los 5 últimos años de seguro, si los hubiere o, en su caso, una certificación de ausencia de siniestros.",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 15 días hábiles. ",
+            "b": "b) En el plazo de 20 días hábiles. ",
+            "c": "c) En el plazo de 15 días naturales. ",
+            "d": "d) En el plazo de 20 días naturales. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504219.1922321,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "14. Las inspecciones voluntarias podrán ser consideradas como periódicas:",
+        "opciones_respuesta": {
+            "a": "a) Si, en todo caso. ",
+            "b": "b) Sí, siempre que se efectúen todas las mediciones y comprobaciones exigidas para estas inspecciones. ",
+            "c": "c) No, en ningún caso. ",
+            "d": "d) Ninguna es correctas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504223.4562283,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "23. El informe de inspección, será conservado por la estación ITV durante al menos:",
+        "opciones_respuesta": {
+            "a": "a) 2 años ",
+            "b": "b) 3 años ",
+            "c": "c) 4 años ",
+            "d": "d) 5 años "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504229.1132352,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cómo deben ser inspeccionados los tractocamiones y los semirremolques?",
+        "opciones_respuesta": {
+            "a": "a) De forma conjunta ",
+            "b": "b) Separadamente ",
+            "c": "c) De forma conjunta o separadamente ",
+            "d": "d) Ninguna es correctas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504242.3452346,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Dónde se podrá realizar la inspección técnica por un medio distinto a la estación ITV, pero aprobado por el órgano competente de la comunidad autónoma?",
+        "opciones_respuesta": {
+            "a": "a) En los territorios insulares, así como en Ceuta y Melilla. ",
+            "b": "b) En las islas pequeñas, con menos de 10.000 habitantes. ",
+            "c": "c) En las islas pequeñas, con menos de 5.000 habitantes y unidas a otras partes del territorio mediante puentes o túneles viarios. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504248.4972305,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuantos artículos tiene el reglamento de ITV?",
+        "opciones_respuesta": {
+            "a": "a) 25 ",
+            "b": "b) 32 ",
+            "c": "c) 56 ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504253.1052346,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "31. Las entidades aseguradoras remitirán al Ministerio ___________, a través del Consorcio de Compensación de Seguros, la información sobre los contratos de seguro.",
+        "opciones_respuesta": {
+            "a": "a) De Industria ",
+            "b": "b) Del Interior ",
+            "c": "c) De Economía y Hacienda ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504275.76123,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "35. Señale la afirmación correcta:",
+        "opciones_respuesta": {
+            "a": "a. Quedan exentos de la colocación del distintivo V-19 aquellos vehículos catalogados o clasificados por la Administración como vehículos históricos. ",
+            "b": "b. Aquellos vehículos clasificados como históricos con antigüedad superior a 60 años desde su fabricación o primera matriculación, así como los ciclomotores clasificados como históricos con independencia de su antigüedad, quedarán exentos de someterse a la ITV, sin perjuicio de que las personas titulares de estos vehículos puedan someterlos a ITV voluntarias. ",
+            "c": "c. Las opciones a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504285.1202283,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué norma desarrolla la inspección técnica de vehículos?",
+        "opciones_respuesta": {
+            "a": "a) RD 2822/1998, de 23 de diciembre. ",
+            "b": "b) RD 2042/1994, de 14 de octubre. ",
+            "c": "c) RD 920/2017, de 23 de octubre. ",
+            "d": "d) RD 1507/2008, de 12 de septiembre. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504294.9052305,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Con qué frecuencia se someterá a inspección un autobús?",
+        "opciones_respuesta": {
+            "a": "a) Hasta 5 años estará exento, y tras ello, de forma bienal. ",
+            "b": "b) Hasta 5 años anualmente, y tras ello, semestralmente. ",
+            "c": "c) Hasta 4 años estará exento, hasta los 10 años de forma bienal, y tras ello, anual. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504298.057232,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "26. ¿Qué distintivo indica que el vehículo ha superado favorablemente la inspección técnica?",
+        "opciones_respuesta": {
+            "a": "a) La señal V-16 ",
+            "b": "b) La señal V-17 ",
+            "c": "c) La señal V-18 ",
+            "d": "d) La señal V-19 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504322.5692341,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "15. Se considera daño de importancia aquellos que puedan afectar a algún elemento de seguridad de:",
+        "opciones_respuesta": {
+            "a": "a) La dirección, la suspensión, la transmisión y el frenado. ",
+            "b": "b) El bastidor ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) El bastidor, la estructura autoportante, la dirección, la iluminación y el frenado. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504338.4972343,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "29. Señale la opción incorrecta:",
+        "opciones_respuesta": {
+            "a": "a) Se entienden por hechos de la circulación los derivados del riesgo creado por la conducción de los vehículos a motor, tanto por garajes y aparcamientos, como por vías o terrenos públicos y privados aptos para la circulación, urbanos o interurbanos, así como por vías o terrenos que sin tener tal aptitud sean de uso común. ",
+            "b": "b) No tendrá la consideración de hecho de la circulación la utilización de un vehículo a motor como instrumento de la comisión de delitos dolosos contra las personas y los bienes. ",
+            "c": "c) No tendrá la consideración de hecho de la circulación los derivados de la celebración de pruebas deportivas con vehículos a motor en circuitos especialmente destinados al efecto o habilitados para dichas pruebas. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504357.8332353,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "13. El plazo de validez de las inspecciones técnicas periódicas se obtendrá adicionando a la fecha en la que el resultado de la inspección haya sido favorable la frecuencia indicada en este artículo. No obstante, si dicha fecha está comprendida en _____________ precedentes a la expiración del plazo de validez de la inspección anterior, el plazo de validez se obtendrá adicionando la frecuencia correspondiente a la citada fecha de expiración.",
+        "opciones_respuesta": {
+            "a": "a) Los 30 días naturales ",
+            "b": "b) Los 3 meses ",
+            "c": "c) Los 30 días hábiles ",
+            "d": "d) Los 2 meses "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504364.5292342,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿Cuál de las siguientes categorías corresponde a los turismos?",
+        "opciones_respuesta": {
+            "a": "a) M1 ",
+            "b": "b) M2 ",
+            "c": "c) L1e ",
+            "d": "d) N1 "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504693.4997573,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "33. ¿Cuándo aceptará el Consorcio de Compensación de Seguros la contratación del riesgo?",
+        "opciones_respuesta": {
+            "a": "a) Cuando no hayan sido aceptadas o hayan sido rechazadas tres solicitudes de seguro por tres entidades aseguradoras. ",
+            "b": "b) Cuando no hayan sido aceptadas o hayan sido rechazadas dos solicitudes de seguro por dos entidades aseguradoras. ",
+            "c": "c) Cuando no hayan sido aceptadas o hayan sido rechazadas cuatro solicitudes de seguro por cuatro entidades aseguradoras. ",
+            "d": "d) Cuando no hayan sido aceptadas o hayan sido rechazadas cinco solicitudes de seguro por cinco entidades aseguradoras. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504700.867756,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Con qué frecuencia se someterá a inspección un autobús?",
+        "opciones_respuesta": {
+            "a": "a) Hasta 5 años estará exento, y tras ello, de forma bienal. ",
+            "b": "b) Hasta 5 años anualmente, y tras ello, semestralmente. ",
+            "c": "c) Hasta 4 años estará exento, hasta los 10 años de forma bienal, y tras ello, anual. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504710.2837558,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Dónde se podrá realizar la inspección técnica por un medio distinto a la estación ITV, pero aprobado por el órgano competente de la comunidad autónoma?",
+        "opciones_respuesta": {
+            "a": "a) En los territorios insulares, así como en Ceuta y Melilla. ",
+            "b": "b) En las islas pequeñas, con menos de 10.000 habitantes. ",
+            "c": "c) En las islas pequeñas, con menos de 5.000 habitantes y unidas a otras partes del territorio mediante puentes o túneles viarios. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504718.0997593,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿En qué artículo del reglamento ITV se establece la frecuencia de las inspecciones periódicas?",
+        "opciones_respuesta": {
+            "a": "a) 5 ",
+            "b": "b) 6 ",
+            "c": "c) 12 ",
+            "d": "d) 8 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761504730.451757,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "9. Un vehículo especial destinado a obras y servicios cuya velocidad por construcción sea igual o superior a 25 km/h, deberá someterse la inspección técnica:",
+        "opciones_respuesta": {
+            "a": "a) Con la misma periodicidad que un vehículo de categoría M1 ",
+            "b": "b) Con la misma periodicidad que un ciclomotor ",
+            "c": "c) Con la misma periodicidad que un vehículo de categoría N1 ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-26",
+        "mode": "test system"
+    },
+    {
         "pregunta": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
         "respuesta": "anulable",
         "fallos": 2,
@@ -2828,6 +3868,20 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "Cualquier otro que se establezca expresamente en una disposición con rango de Ley.",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 1,
+        "file_name_secction": "admin nulidad anulabilidad",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "respuesta": "nulo pleno derecho",
+        "fallos": 1,
+        "file_name_secction": "admin nulidad anulabilidad",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional.",
         "respuesta": "nulo pleno derecho",
         "fallos": 0,
@@ -2843,20 +3897,6 @@
     },
     {
         "pregunta": "Los que tengan un contenido imposible.",
-        "respuesta": "nulo pleno derecho",
-        "fallos": 0,
-        "file_name_secction": "admin nulidad anulabilidad",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Cualquier otro que se establezca expresamente en una disposición con rango de Ley.",
-        "respuesta": "nulo pleno derecho",
-        "fallos": 0,
-        "file_name_secction": "admin nulidad anulabilidad",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
         "respuesta": "nulo pleno derecho",
         "fallos": 0,
         "file_name_secction": "admin nulidad anulabilidad",
@@ -2879,6 +3919,13 @@
     {
         "pregunta": "b) Permitir el consumo de bebidas alcohólicas por menores de 18 años por parte del titular de un establecimiento o local en que no esté prohibida su venta o dispensación, cuando el consumo se realice en el interior del local o en las terrazas o espacios asociados a su actividad, en los supuestos en que se hubieran dispensado a un mayor de edad, siempre que éste no sea el responsable legal del menor.",
         "respuesta": "leve",
+        "fallos": 6,
+        "file_name_secction": "alcohol y drogas",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "e) La venta, suministro o dispensación a menores de 18 años de cualquier producto que imite los envases de bebidas alcohólicas.",
+        "respuesta": "leve",
         "fallos": 5,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
@@ -2898,14 +3945,21 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "e) La venta, suministro o dispensación a menores de 18 años de cualquier producto que imite los envases de bebidas alcohólicas.",
-        "respuesta": "leve",
+        "pregunta": "c) La venta o dispensación de bebidas alcohólicas en los lugares en que esté prohibida.",
+        "respuesta": "grave",
         "fallos": 4,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
     },
     {
-        "pregunta": "c) La venta o dispensación de bebidas alcohólicas en los lugares en que esté prohibida.",
+        "pregunta": "b) La inducción a beber de un adulto sobre un menor",
+        "respuesta": "grave",
+        "fallos": 4,
+        "file_name_secction": "alcohol y drogas",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "i) El incumplimiento reiterado de los requerimientos específicos que se formulen por las autoridades sanitarias.",
         "respuesta": "grave",
         "fallos": 4,
         "file_name_secction": "alcohol y drogas",
@@ -2919,29 +3973,22 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "b) La inducción a beber de un adulto sobre un menor",
-        "respuesta": "grave",
-        "fallos": 3,
-        "file_name_secction": "alcohol y drogas",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "b) La negativa absoluta a facilitar información o prestar colaboración a los servicios de inspección y control.",
         "respuesta": "muy grave",
-        "fallos": 2,
+        "fallos": 3,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
     },
     {
         "pregunta": "h) El incumplimiento o transgresión de las medidas cautelares adoptadas por las Administraciones Públicas o la resistencia a su ejecución.",
         "respuesta": "grave",
-        "fallos": 2,
+        "fallos": 3,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
     },
     {
-        "pregunta": "i) El incumplimiento reiterado de los requerimientos específicos que se formulen por las autoridades sanitarias.",
-        "respuesta": "grave",
+        "pregunta": "e) El incumplimiento consciente y deliberado de los requisitos, obligaciones o prohibiciones establecidas en esta ley, siempre que ocasione alteraciones, riesgos o perjuicios graves para la salud individual o colectiva.",
+        "respuesta": "muy grave",
         "fallos": 2,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
@@ -2977,13 +4024,6 @@
     {
         "pregunta": "j) La venta, dispensación o publicidad de sustancias que, estando debidamente autorizadas por la normativa vigente para determinados usos y formas de administración se vendan o dispensen para otro uso o forma de administración, al objeto de que produzcan los efectos y consecuencias descritos para las drogas.",
         "respuesta": "grave",
-        "fallos": 1,
-        "file_name_secction": "alcohol y drogas",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "e) El incumplimiento consciente y deliberado de los requisitos, obligaciones o prohibiciones establecidas en esta ley, siempre que ocasione alteraciones, riesgos o perjuicios graves para la salud individual o colectiva.",
-        "respuesta": "muy grave",
         "fallos": 1,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
@@ -4312,6 +5352,167 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre 15 JUNIO y 30 SEPT los jueves",
+        "respuesta": "04:30",
+        "fallos": 3,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre General - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
+        "respuesta": "05:00",
+        "fallos": 2,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre Viernes, Sabado y Visperas - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
+        "respuesta": "02:30",
+        "fallos": 1,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre 15 JUNIO y 30 SEPT - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
+        "respuesta": "06:00",
+        "fallos": 1,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
+        "respuesta": "05:30",
+        "fallos": 1,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
+        "respuesta": "11:00",
+        "fallos": 1,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "cierre salon de juego",
+        "respuesta": "00:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre horario general - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
+        "respuesta": "01:30",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre D, L, M y X entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
+        "respuesta": "02:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre Jueves entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
+        "respuesta": "02:30",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
+        "respuesta": "03:30",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Apertura bares, cafeterias, restaurantes, sidrearia restauracion etc...",
+        "respuesta": "06:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Cierre Viernes, Sabado y Visperas - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
+        "respuesta": "07:30",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "apertura salon juegos",
+        "respuesta": "10:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "apertura salon recreativo",
+        "respuesta": "10:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "funcionamiento de equipos de musica, analogos etc.. fuera de funcionamiento antes de las ...",
+        "respuesta": "10:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales destinados a menores 16 años, apertura dia NO lectivo",
+        "respuesta": "11:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Apertura - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
+        "respuesta": "11:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales destinados a menores 16 años, apertura dia lectivo",
+        "respuesta": "14:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales destinados menores de 16 años cierre horario general",
+        "respuesta": "22:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales destinados menores de 16 años cierre viernes, sabado, visperas",
+        "respuesta": "22:30",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales destinados menores de 16 años cierre no lectivo",
+        "respuesta": "22:30",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "cierre salones recreativos",
+        "respuesta": "23:00",
+        "fallos": 0,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "v) Incumplir la obligación de impedir que el vehículo sea conducido por quien nunca haya obtenido el permiso o la licencia de conducción correspondiente.",
         "respuesta": "grave",
         "fallos": 2,
@@ -5315,7 +6516,7 @@
     {
         "pregunta": "el incumplimiento de cualquiera de las obligaciones establecidas en la presente Ley, no comprendidas en los números 1 y 2 de este artículo",
         "respuesta": "leve",
-        "fallos": 0,
+        "fallos": 1,
         "file_name_secction": "perros-ppp",
         "mode": "columns system"
     },
@@ -5406,6 +6607,20 @@
     {
         "pregunta": "La negativa a la disolución de reuniones y manifestaciones en lugares de tránsito público ordenada por la autoridad competente cuando concurran los supuestos del artículo 5 de la Ley Orgánica 9/1983, de 15 de julio.",
         "respuesta": "grave",
+        "fallos": 4,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
+        "respuesta": "leve",
+        "fallos": 3,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
+        "respuesta": "grave",
         "fallos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
@@ -5448,6 +6663,27 @@
     {
         "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
         "respuesta": "grave",
+        "fallos": 1,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
+        "respuesta": "grave",
+        "fallos": 1,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
+        "respuesta": "leve",
+        "fallos": 1,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
+        "respuesta": "muy grave",
         "fallos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
@@ -5496,20 +6732,6 @@
     },
     {
         "pregunta": "La ocupación de cualquier inmueble, vivienda o edificio ajenos, o la permanencia en ellos, en ambos casos contra la voluntad de su propietario, arrendatario o titular de otro derecho sobre el mismo, cuando no sean constitutivas de infracción penal.\nAsimismo la ocupación de la vía pública con infracción de lo dispuesto por la Ley o contra la decisión adoptada en aplicación de aquella por la autoridad competente. Se entenderá incluida en este supuesto la ocupación de la vía pública para la venta ambulante no autorizada.",
-        "respuesta": "leve",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
-        "respuesta": "leve",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
         "respuesta": "leve",
         "fallos": 0,
         "file_name_secction": "seguridad ciudadana",
@@ -5614,13 +6836,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "La falta de colaboración con las Fuerzas y Cuerpos de Seguridad en la averiguación de delitos o en la prevención de acciones que puedan poner en riesgo la seguridad ciudadana en los supuestos previstos en el artículo 7.",
         "respuesta": "grave",
         "fallos": 0,
@@ -5663,13 +6878,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "El incumplimiento de las restricciones a la navegación reglamentariamente impuestas a las embarcaciones de alta velocidad y aeronaves ligeras.",
         "respuesta": "grave",
         "fallos": 0,
@@ -5679,13 +6887,6 @@
     {
         "pregunta": "El uso no autorizado de imágenes o datos personales o profesionales de autoridades o miembros de las Fuerzas y Cuerpos de Seguridad que pueda poner en peligro la seguridad personal o familiar de los agentes, de las instalaciones protegidas o en riesgo el éxito de una operación, con respeto al derecho fundamental a la información.",
         "respuesta": "grave",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
-        "respuesta": "muy grave",
         "fallos": 0,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
@@ -5709,6 +6910,328 @@
         "respuesta": "muy grave",
         "fallos": 0,
         "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional vehiculos derivados de turismo",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional turismos (*)",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias resto de vehiculos",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
+        "respuesta": "70",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "via de unica calzada y acera",
+        "respuesta": "20",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autpistas y autovias Turismo",
+        "respuesta": "120",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autpistas y autovias autocaravana MMA =< 3.5kg",
+        "respuesta": "120",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autpistas y autovias pickup",
+        "respuesta": "120",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias autobuses",
+        "respuesta": "100",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos derivados de turismo",
+        "respuesta": "100",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos mixtos adaptables",
+        "respuesta": "100",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion turismos",
+        "respuesta": "100",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion motocicletas",
+        "respuesta": "100",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion autocaravana MMA=<3.5kg",
+        "respuesta": "100",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional Autobuses",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional vehiculos mixtos adaptables",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional motocicletas (*)",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional autocaravanas MMA =< 3.5kg  (*)",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional Pick up  (*)",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias Camiones ",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias Tractocamiones ",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias furgonetas ",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias autocaravanas de MMA > 3.5kg ",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos articulados ",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias automoviles con remolque",
+        "respuesta": "90",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "autobus con viajeros a pie",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autovias y autopistas dentro de poblado (excepto mercancias peligrosas)",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional camiones",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional tractocamiones",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional furgonetas",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional autocaravanas de MMA > 3.5kg",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional vehiculos articulados",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional automoviles con remolque",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional resto de vehiculos",
+        "respuesta": "80",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado, en llano ",
+        "respuesta": "60",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "velociadad ampliada excepcionalmente por Autoridad municipal vias de unico carril por sentido",
+        "respuesta": "50",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "travesias",
+        "respuesta": "50",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "transporte escolar y de menores via urbana",
+        "respuesta": "50",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "via de 2 o mas carriles por sentido de la circulacion",
+        "respuesta": "50",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior",
+        "respuesta": "45",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "transporte mercancias peligrosas via urbana de 2 o mas carriles por sentido de circulacion",
+        "respuesta": "40",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado",
+        "respuesta": "40",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "vias sin pavimentar",
+        "respuesta": "30",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "incremento vehiculos ensayo y experimentacion",
+        "respuesta": "30",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "via de unico sentido por carril de circulacion",
+        "respuesta": "30",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "vehiculo especial sin señalizacion de frenado, llevan remolque o son motocultores",
+        "respuesta": "25",
+        "fallos": 0,
+        "file_name_secction": "velocidades",
         "mode": "columns system"
     }
 ]
