@@ -10,6 +10,11 @@
         "fallos": 2
     },
     {
+        "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
+        "respuesta": "11:00",
+        "fallos": 2
+    },
+    {
         "pregunta": "Cierre Viernes, Sabado y Visperas - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:30",
         "fallos": 1
@@ -22,11 +27,6 @@
     {
         "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
         "respuesta": "05:30",
-        "fallos": 1
-    },
-    {
-        "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
-        "respuesta": "11:00",
         "fallos": 1
     },
     {

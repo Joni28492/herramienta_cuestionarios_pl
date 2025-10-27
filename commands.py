@@ -31,13 +31,29 @@ def ejecutar_astro_asturpol_game():
     except subprocess.CalledProcessError as e:
         print(f"Error al ejecutar npm run dev: {e}")
 
+def ejecutar_cuestionario():
+    os.chdir(init_path)
 
+    try:
+        subprocess.run(["python.exe", "cuestionario.py"], shell=True )
+    except subprocess.CalledProcessError as e:
+        print(f"Error al ejecutar Cuestionario: {e}")
+
+def ejecutar_test_selector():
+    os.chdir(init_path)
+
+    try:
+        subprocess.run(["python.exe", "test_selector.py"], shell=True )
+    except subprocess.CalledProcessError as e:
+        print(f"Error al ejecutar Cuestionario: {e}")
 
 if __name__ == '__main__':
 
     commands = [ 
         ejecutar_astro_asturpol_game,
-        crear_commit 
+        crear_commit,
+        ejecutar_cuestionario,
+        ejecutar_test_selector
     ]
 
     for opt, c in enumerate(commands):
