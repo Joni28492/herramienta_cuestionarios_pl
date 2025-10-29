@@ -15,6 +15,11 @@
         "fallos": 2
     },
     {
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
+        "respuesta": "05:30",
+        "fallos": 2
+    },
+    {
         "pregunta": "Cierre Viernes, Sabado y Visperas - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:30",
         "fallos": 1
@@ -25,8 +30,13 @@
         "fallos": 1
     },
     {
-        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
-        "respuesta": "05:30",
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
+        "respuesta": "03:30",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Cierre Jueves entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
+        "respuesta": "02:30",
         "fallos": 1
     },
     {
@@ -42,16 +52,6 @@
     {
         "pregunta": "Cierre D, L, M y X entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:00",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Cierre Jueves entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
-        "respuesta": "02:30",
-        "fallos": 0
-    },
-    {
-        "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
-        "respuesta": "03:30",
         "fallos": 0
     },
     {

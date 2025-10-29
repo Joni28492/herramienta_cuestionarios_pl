@@ -15,6 +15,16 @@
         "fallos": 1
     },
     {
+        "pregunta": "El exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transporte terrestre.",
+        "respuesta": "6",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Utilizar, sujetando con la mano, dispositivos de telefonía móvil mientras se conduce.",
+        "respuesta": "6",
+        "fallos": 1
+    },
+    {
         "pregunta": "19. Efectuar el cambio de sentido incumpliendo las disposiciones recogidas en esta Ley y en los términos establecidos reglamentariamente.",
         "respuesta": "3",
         "fallos": 0
@@ -86,16 +96,6 @@
     },
     {
         "pregunta": "Conducir de forma temeraria, circular en sentido contrario al establecido o participar en carreras o competiciones no autorizadas.",
-        "respuesta": "6",
-        "fallos": 0
-    },
-    {
-        "pregunta": "El exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transporte terrestre.",
-        "respuesta": "6",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Utilizar, sujetando con la mano, dispositivos de telefonía móvil mientras se conduce.",
         "respuesta": "6",
         "fallos": 0
     },

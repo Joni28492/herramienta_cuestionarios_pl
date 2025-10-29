@@ -15,6 +15,11 @@
         "fallos": 2
     },
     {
+        "pregunta": "f) La negativa de acceso, o su obstaculización, a los agentes de la autoridad en el ejercicio de las funciones establecidas en la presente Ley.",
+        "respuesta": "muy grave",
+        "fallos": 2
+    },
+    {
         "pregunta": "a) El retraso en el comienzo o finalización de los espectáculos y actividades recreativas o el incumplimiento de los horarios de apertura y cierre de los locales en los que se desarrollen los mismos.",
         "respuesta": "leve",
         "fallos": 1
@@ -37,11 +42,6 @@
     {
         "pregunta": "a) La apertura de establecimientos, locales o instalaciones y la celebración de espectáculos públicos o actividades recreativas careciendo de licencia o autorización, o excediendo de los límites de las mismas.",
         "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "f) La negativa de acceso, o su obstaculización, a los agentes de la autoridad en el ejercicio de las funciones establecidas en la presente Ley.",
-        "respuesta": "muy grave",
         "fallos": 1
     },
     {

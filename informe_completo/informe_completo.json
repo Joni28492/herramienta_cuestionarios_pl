@@ -3840,6 +3840,246 @@
         "mode": "test system"
     },
     {
+        "timestamp": 1761553405.8913875,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "1. El Defensor de Pueblo aparece regulado en el:",
+        "opciones_respuesta": {
+            "a": "a) Art. 55 de la CE ",
+            "b": "b) Art. 45 de  la CE ",
+            "c": "c) Art. 54 de la CE ",
+            "d": "d) Art. 53 de la CE"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761553409.3043885,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "2. El Defensor del Pueblo es un:",
+        "opciones_respuesta": {
+            "a": "a) Alto comisionado del Pueblo ",
+            "b": "b) Alto comisionado de las Cortes Generales ",
+            "c": "c) Alto comisionado del Congreso ",
+            "d": "d) Alto comisionado del Gobierno"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761553418.6013887,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "3. La Ley del Defensor de Pueblo es:",
+        "opciones_respuesta": {
+            "a": "a) La Ley Orgánica 3/1981 de 6 de abril, del Defensor del Pueblo ",
+            "b": "b) La Ley Orgánica 4/1981 de 5 de abril, del Defensor del Pueblo ",
+            "c": "c) La Ley Orgánica 3/1991 de 6 de abril, del Defensor del Pueblo ",
+            "d": "d) La Ley Orgánica 4/1981 de 6 de abril, del Defensor del Pueblo"
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761553432.809387,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "4. El Defensor del Pueblo:",
+        "opciones_respuesta": {
+            "a": "a) Es designado por el Rey, dando cuenta de su actividad a las Cortes Generales. ",
+            "b": "b) Es designado por el Congreso de los Diputados, dando cuenta de su actividad al Rey. ",
+            "c": "c) Es designado por las Cortes Generales, a las que dará cuenta. ",
+            "d": "d) Es designado por el Gobierno de la Nación, al que dará cuenta."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761553437.7934167,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "5. El Defensor del Pueblo es nombrado por un periodo de…",
+        "opciones_respuesta": {
+            "a": "a) 3 años ",
+            "b": "b) 4 años ",
+            "c": "c) 5 años ",
+            "d": "d) 6 años"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761564937.827016,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "1. Indique cuál de los siguientes derechos NO se encuentra comprendido en la sección 1ª del capítulo II del título I, “De los derechos fundamentales y de las libertades públicas”:",
+        "opciones_respuesta": {
+            "a": "a. Derecho a la libertad de cátedra. ",
+            "b": "b. Derecho al juez ordinario predeterminado por la Ley. ",
+            "c": "c. Derecho a sindicarse libremente. ",
+            "d": "d. Derecho al trabajo. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761564954.8040144,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "2. Conforme el artículo 26 de la LrBRL, los Municipios deberán prestar, en todo caso, los servicios siguientes:",
+        "opciones_respuesta": {
+            "a": "a. En los Municipios con población superior a 20.000 habitantes: transporte colectivo urbano de viajeros. ",
+            "b": "b. En los Municipios con población superior a 20.000 habitantes: evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social. ",
+            "c": "c. En todos los Municipios: parque público y cementerio. ",
+            "d": "d. En los Municipios con población superior a 5.000 habitantes: Instalaciones deportivas de uso público. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761564964.3470142,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "3. Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional, según establece el siguiente artículo de la Constitución Española:",
+        "opciones_respuesta": {
+            "a": "a. 18 ",
+            "b": "b. 19 ",
+            "c": "c. 20 ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761564973.7160125,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "4. Es circunstancia eximente el obrar en defensa de la persona o derechos propios o ajenos, siempre que concurran los requisitos siguientes (SEÑALE LA OPCIÓN INCORRECTA):",
+        "opciones_respuesta": {
+            "a": "a. Agresión ilegitima ",
+            "b": "b. Falta de provocación ",
+            "c": "c. Que no exista obligación de sacrificarse ",
+            "d": "d. Necesidad racional del medio empleado "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761564984.6680124,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "5. De acuerdo al artículo 383 del Código Penal, el conductor de vehículo a motor o ciclomotor que, requerido por un agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcoholemia y la presencia de las drogas tóxicas, estupefacientes y sustancias psicotrópicas a que se refieren los artículos anteriores, será castigado con las penas de:",
+        "opciones_respuesta": {
+            "a": "a. Prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "b": "b. Prisión de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "c": "c. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761564998.9240139,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "6. El recurso de Alzada:",
+        "opciones_respuesta": {
+            "a": "a. Se plantea contra las resoluciones de la administración que pongan fin a la vía administrativa. ",
+            "b": "b. El plazo de interposición del recurso será de un mes, si el acto fuera expreso. ",
+            "c": "c. El recurso solo podrá interponerse ante el órgano que dictó el acto. ",
+            "d": "d. El plazo de resolución será de un mes. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761565017.3240156,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "7. Será castigado con la pena de prisión de seis meses a dos años o a las de multa de doce a veinticuatro meses y trabajos en beneficio de la comunidad de diez a cuarenta días:",
+        "opciones_respuesta": {
+            "a": "a. El conductor de vehículo a motor que conduce bajo la influencia del alcohol (delito artículo 379). ",
+            "b": "b. El conductor de vehículo a motor que se niega a someterse a la prueba de detección de alcohol encontrándose obligado (delito artículo 383). ",
+            "c": "c. El que origine un grave riesgo para la circulación colocando en la vía obstáculos imprevisibles, derramando sustancias deslizantes o inflamables o mutando, sustrayendo o anulando la señalización o por cualquier otro medio (delito artículo 385). ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761565031.3480122,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "8. Constituye falta disciplinaria muy grave al régimen disciplinario aplicable a los Cuerpos de Policía Local:",
+        "opciones_respuesta": {
+            "a": "a. La grave desconsideración con los superiores, compañeros, subordinados o ciudadanos, en el ejercicio de sus funciones o cuando cause descrédito notorio a la Institución Policial. ",
+            "b": "b. La intervención en un procedimiento administrativo cuando concurra alguna de las causas legales de abstención. ",
+            "c": "c. La insubordinación individual o colectiva, respecto a las Autoridades o mandos de que dependan. ",
+            "d": "d. La no prestación de auxilio con urgencia en aquellos hechos o circunstancias graves en que sea obligada su actuación, salvo que constituya delito. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761565038.6680138,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "9. La proyección de haces de luz, mediante cualquier tipo de dispositivo, sobre miembros de las Fuerzas y Cuerpos de Seguridad para impedir o dificultar el ejercicio de sus funciones, será sancionado con la siguiente cuantía:",
+        "opciones_respuesta": {
+            "a": "a. De 100 a 600 euros. ",
+            "b": "b. Hasta 600 euros. ",
+            "c": "c. De 601 a 30.000 euros ",
+            "d": "d. De 30.001 a 600.000 euros "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1761565067.5880153,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "10. Indique cuál de las siguientes armas NO se encuentra recogida en la categoría 7ª, conforme a la clasificación estipulada en el artículo 3 del RD 137/93, de 29 de enero, que aprueba el Reglamento de Armas.",
+        "opciones_respuesta": {
+            "a": "a. Los fusiles de pesca submarina que sirvan para disparar flechas o arpones, eficaces para la pesca y para otros fines deportivos. ",
+            "b": "b. Armas de inyección anestésica capaces de lanzar proyectiles que faciliten la captura o control de animales, anestesiándolos a distancia durante algún tiempo. ",
+            "c": "c. Las armas de avancarga. ",
+            "d": "d. Las armas de sistema Flobert "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b",
+        "date": "2025-10-27",
+        "mode": "test system"
+    },
+    {
         "pregunta": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
         "respuesta": "anulable",
         "fallos": 2,
@@ -3926,7 +4166,7 @@
     {
         "pregunta": "e) La venta, suministro o dispensación a menores de 18 años de cualquier producto que imite los envases de bebidas alcohólicas.",
         "respuesta": "leve",
-        "fallos": 5,
+        "fallos": 6,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
     },
@@ -3996,20 +4236,20 @@
     {
         "pregunta": "j) Todas aquéllas que se cometan por negligencia y no conlleven un perjuicio directo para la salud individual o colectiva.",
         "respuesta": "leve",
-        "fallos": 1,
-        "file_name_secction": "alcohol y drogas",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "c) El consumo de bebidas alcohólicas por mayores de 18 años en lugares en los que esté prohibido.",
-        "respuesta": "leve",
-        "fallos": 1,
+        "fallos": 2,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
     },
     {
         "pregunta": "f) El incumplimiento de las obligaciones o prohibiciones establecidas en la presente ley sobre publicidad o promoción de bebidas alcohólicas.",
         "respuesta": "grave",
+        "fallos": 2,
+        "file_name_secction": "alcohol y drogas",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "c) El consumo de bebidas alcohólicas por mayores de 18 años en lugares en los que esté prohibido.",
+        "respuesta": "leve",
         "fallos": 1,
         "file_name_secction": "alcohol y drogas",
         "mode": "columns system"
@@ -4960,6 +5200,27 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.",
+        "respuesta": "estado",
+        "fallos": 1,
+        "file_name_secction": "estado ccaa",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.",
+        "respuesta": "ccaa",
+        "fallos": 1,
+        "file_name_secction": "estado ccaa",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Los montes y aprovechamientos forestales.",
+        "respuesta": "ccaa",
+        "fallos": 1,
+        "file_name_secction": "estado ccaa",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "art 149",
         "respuesta": "estado",
         "fallos": 0,
@@ -5010,13 +5271,6 @@
     },
     {
         "pregunta": "Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.",
-        "respuesta": "estado",
-        "fallos": 0,
-        "file_name_secction": "estado ccaa",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.",
         "respuesta": "estado",
         "fallos": 0,
         "file_name_secction": "estado ccaa",
@@ -5205,13 +5459,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.",
-        "respuesta": "ccaa",
-        "fallos": 0,
-        "file_name_secction": "estado ccaa",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "Ordenación del territorio, urbanismo y vivienda.",
         "respuesta": "ccaa",
         "fallos": 0,
@@ -5241,13 +5488,6 @@
     },
     {
         "pregunta": "La agricultura y ganadería, de acuerdo con la ordenación general de la economía.",
-        "respuesta": "ccaa",
-        "fallos": 0,
-        "file_name_secction": "estado ccaa",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Los montes y aprovechamientos forestales.",
         "respuesta": "ccaa",
         "fallos": 0,
         "file_name_secction": "estado ccaa",
@@ -5366,6 +5606,20 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
+        "respuesta": "11:00",
+        "fallos": 2,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
+        "respuesta": "05:30",
+        "fallos": 2,
+        "file_name_secction": "horarios lepar",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "Cierre Viernes, Sabado y Visperas - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:30",
         "fallos": 1,
@@ -5380,15 +5634,8 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
-        "respuesta": "05:30",
-        "fallos": 1,
-        "file_name_secction": "horarios lepar",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
-        "respuesta": "11:00",
+        "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
+        "respuesta": "03:30",
         "fallos": 1,
         "file_name_secction": "horarios lepar",
         "mode": "columns system"
@@ -5417,13 +5664,6 @@
     {
         "pregunta": "Cierre Jueves entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:30",
-        "fallos": 0,
-        "file_name_secction": "horarios lepar",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
-        "respuesta": "03:30",
         "fallos": 0,
         "file_name_secction": "horarios lepar",
         "mode": "columns system"
@@ -6122,6 +6362,13 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "f) La negativa de acceso, o su obstaculización, a los agentes de la autoridad en el ejercicio de las funciones establecidas en la presente Ley.",
+        "respuesta": "muy grave",
+        "fallos": 2,
+        "file_name_secction": "lepar",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "a) El retraso en el comienzo o finalización de los espectáculos y actividades recreativas o el incumplimiento de los horarios de apertura y cierre de los locales en los que se desarrollen los mismos.",
         "respuesta": "leve",
         "fallos": 1,
@@ -6152,13 +6399,6 @@
     {
         "pregunta": "a) La apertura de establecimientos, locales o instalaciones y la celebración de espectáculos públicos o actividades recreativas careciendo de licencia o autorización, o excediendo de los límites de las mismas.",
         "respuesta": "grave",
-        "fallos": 1,
-        "file_name_secction": "lepar",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "f) La negativa de acceso, o su obstaculización, a los agentes de la autoridad en el ejercicio de las funciones establecidas en la presente Ley.",
-        "respuesta": "muy grave",
         "fallos": 1,
         "file_name_secction": "lepar",
         "mode": "columns system"
@@ -6607,13 +6847,20 @@
     {
         "pregunta": "La negativa a la disolución de reuniones y manifestaciones en lugares de tránsito público ordenada por la autoridad competente cuando concurran los supuestos del artículo 5 de la Ley Orgánica 9/1983, de 15 de julio.",
         "respuesta": "grave",
-        "fallos": 4,
+        "fallos": 5,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
     {
         "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
         "respuesta": "leve",
+        "fallos": 4,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
+        "respuesta": "grave",
         "fallos": 3,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
@@ -6626,15 +6873,36 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "Dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida.",
-        "respuesta": "leve",
-        "fallos": 1,
+        "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
+        "respuesta": "grave",
+        "fallos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
     {
         "pregunta": "La perturbación del desarrollo de una reunión o manifestación lícita, cuando no constituya infracción penal.",
         "respuesta": "grave",
+        "fallos": 2,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "La negativa a entregar la documentación personal legalmente exigida cuando se hubiese acordado su retirada o retención.",
+        "respuesta": "leve",
+        "fallos": 2,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
+        "respuesta": "leve",
+        "fallos": 2,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida.",
+        "respuesta": "leve",
         "fallos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
@@ -6647,13 +6915,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "La negativa a entregar la documentación personal legalmente exigida cuando se hubiese acordado su retirada o retención.",
-        "respuesta": "leve",
-        "fallos": 1,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "La intrusión en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad, incluyendo su sobrevuelo, cuando se haya producido una interferencia grave en su funcionamiento.",
         "respuesta": "grave",
         "fallos": 1,
@@ -6661,29 +6922,22 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
-        "respuesta": "grave",
-        "fallos": 1,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
-        "respuesta": "grave",
-        "fallos": 1,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
-        "respuesta": "leve",
-        "fallos": 1,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
         "respuesta": "muy grave",
+        "fallos": 1,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "La solicitud o aceptación por el demandante de servicios sexuales retribuidos en zonas de tránsito público en las proximidades de lugares destinados a su uso por menores, como centros educativos, parques infantiles o espacios de ocio accesibles a menores de edad, o cuando estas conductas, por el lugar en que se realicen, puedan generar un riesgo para la seguridad vial.\nLos agentes de la autoridad requerirán a las personas que ofrezcan estos servicios para que se abstengan de hacerlo en dichos lugares, informándoles de que la inobservancia de dicho requerimiento podría constituir una infracción del párrafo 6 de este artículo.",
+        "respuesta": "grave",
+        "fallos": 1,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
+        "respuesta": "grave",
         "fallos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
@@ -6822,13 +7076,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "La solicitud o aceptación por el demandante de servicios sexuales retribuidos en zonas de tránsito público en las proximidades de lugares destinados a su uso por menores, como centros educativos, parques infantiles o espacios de ocio accesibles a menores de edad, o cuando estas conductas, por el lugar en que se realicen, puedan generar un riesgo para la seguridad vial.\nLos agentes de la autoridad requerirán a las personas que ofrezcan estos servicios para que se abstengan de hacerlo en dichos lugares, informándoles de que la inobservancia de dicho requerimiento podría constituir una infracción del párrafo 6 de este artículo.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "La negativa de acceso o la obstrucción deliberada de las inspecciones o controles reglamentarios, establecidos conforme a lo dispuesto en esta Ley, en fábricas, locales, establecimientos, embarcaciones y aeronaves.",
         "respuesta": "grave",
         "fallos": 0,
@@ -6865,13 +7112,6 @@
     },
     {
         "pregunta": "La tolerancia del consumo ilegal o el tráfico de drogas tóxicas, estupefacientes o sustancias psicotrópicas en locales o establecimientos públicos o la falta de diligencia en orden a impedirlos por parte de los propietarios, administradores o encargados de los mismos.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
         "respuesta": "grave",
         "fallos": 0,
         "file_name_secction": "seguridad ciudadana",
@@ -6948,6 +7188,83 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "Autopistas y autovias autobuses",
+        "respuesta": "100",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos articulados ",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional tractocamiones",
+        "respuesta": "80",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional automoviles con remolque",
+        "respuesta": "80",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional resto de vehiculos",
+        "respuesta": "80",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado",
+        "respuesta": "40",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias autocaravanas de MMA > 3.5kg ",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias automoviles con remolque",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional camiones",
+        "respuesta": "80",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias furgonetas ",
+        "respuesta": "90",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Carretera convencional furgonetas",
+        "respuesta": "80",
+        "fallos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "Autpistas y autovias Turismo",
         "respuesta": "120",
         "fallos": 0,
@@ -6964,13 +7281,6 @@
     {
         "pregunta": "Autpistas y autovias pickup",
         "respuesta": "120",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Autopistas y autovias autobuses",
-        "respuesta": "100",
         "fallos": 0,
         "file_name_secction": "velocidades",
         "mode": "columns system"
@@ -7060,34 +7370,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "Autopistas y autovias furgonetas ",
-        "respuesta": "90",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Autopistas y autovias autocaravanas de MMA > 3.5kg ",
-        "respuesta": "90",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Autopistas y autovias vehiculos articulados ",
-        "respuesta": "90",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Autopistas y autovias automoviles con remolque",
-        "respuesta": "90",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "autobus con viajeros a pie",
         "respuesta": "80",
         "fallos": 0,
@@ -7102,27 +7384,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "Carretera convencional camiones",
-        "respuesta": "80",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Carretera convencional tractocamiones",
-        "respuesta": "80",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Carretera convencional furgonetas",
-        "respuesta": "80",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "Carretera convencional autocaravanas de MMA > 3.5kg",
         "respuesta": "80",
         "fallos": 0,
@@ -7131,20 +7392,6 @@
     },
     {
         "pregunta": "Carretera convencional vehiculos articulados",
-        "respuesta": "80",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Carretera convencional automoviles con remolque",
-        "respuesta": "80",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Carretera convencional resto de vehiculos",
         "respuesta": "80",
         "fallos": 0,
         "file_name_secction": "velocidades",
@@ -7194,13 +7441,6 @@
     },
     {
         "pregunta": "transporte mercancias peligrosas via urbana de 2 o mas carriles por sentido de circulacion",
-        "respuesta": "40",
-        "fallos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "vehiculo especial con señalizacion de frenado",
         "respuesta": "40",
         "fallos": 0,
         "file_name_secction": "velocidades",

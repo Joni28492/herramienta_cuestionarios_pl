@@ -2,36 +2,51 @@
     {
         "pregunta": "La negativa a la disolución de reuniones y manifestaciones en lugares de tránsito público ordenada por la autoridad competente cuando concurran los supuestos del artículo 5 de la Ley Orgánica 9/1983, de 15 de julio.",
         "respuesta": "grave",
-        "fallos": 4
+        "fallos": 5
     },
     {
         "pregunta": "Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos, siempre que no constituya infracción penal.",
         "respuesta": "leve",
+        "fallos": 4
+    },
+    {
+        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
+        "respuesta": "grave",
         "fallos": 3
     },
     {
         "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
         "respuesta": "grave",
+        "fallos": 3
+    },
+    {
+        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
+        "respuesta": "leve",
+        "fallos": 3
+    },
+    {
+        "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
+        "respuesta": "grave",
+        "fallos": 2
+    },
+    {
+        "pregunta": "La perturbación del desarrollo de una reunión o manifestación lícita, cuando no constituya infracción penal.",
+        "respuesta": "grave",
+        "fallos": 2
+    },
+    {
+        "pregunta": "La negativa a entregar la documentación personal legalmente exigida cuando se hubiese acordado su retirada o retención.",
+        "respuesta": "leve",
         "fallos": 2
     },
     {
         "pregunta": "Dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida.",
         "respuesta": "leve",
-        "fallos": 1
-    },
-    {
-        "pregunta": "La perturbación del desarrollo de una reunión o manifestación lícita, cuando no constituya infracción penal.",
-        "respuesta": "grave",
-        "fallos": 1
+        "fallos": 2
     },
     {
         "pregunta": "Portar, exhibir o usar armas prohibidas, así como portar, exhibir o usar armas de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados para su uso, aún cuando en este último caso se tuviera licencia, siempre que dichas conductas no constituyan infracción penal.",
         "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "La negativa a entregar la documentación personal legalmente exigida cuando se hubiese acordado su retirada o retención.",
-        "respuesta": "leve",
         "fallos": 1
     },
     {
@@ -40,23 +55,23 @@
         "fallos": 1
     },
     {
-        "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
-        "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
-        "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "La omisión o la insuficiencia de medidas para garantizar la conservación de la documentación de armas y explosivos, así como la falta de denuncia de la pérdida o sustracción de la misma.",
-        "respuesta": "leve",
-        "fallos": 1
-    },
-    {
         "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
         "respuesta": "muy grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "La solicitud o aceptación por el demandante de servicios sexuales retribuidos en zonas de tránsito público en las proximidades de lugares destinados a su uso por menores, como centros educativos, parques infantiles o espacios de ocio accesibles a menores de edad, o cuando estas conductas, por el lugar en que se realicen, puedan generar un riesgo para la seguridad vial.\nLos agentes de la autoridad requerirán a las personas que ofrezcan estos servicios para que se abstengan de hacerlo en dichos lugares, informándoles de que la inobservancia de dicho requerimiento podría constituir una infracción del párrafo 6 de este artículo.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "El incumplimiento de las restricciones de circulación peatonal o itinerario con ocasión de un acto público, reunión o manifestación, cuando provoquen alteraciones menores en el normal desarrollo de los mismos.",
+        "respuesta": "leve",
         "fallos": 1
     },
     {
@@ -66,11 +81,6 @@
     },
     {
         "pregunta": "La exhibición de objetos peligrosos para la vida e integridad física de las personas con ánimo intimidatorio, siempre que no constituya delito o infracción grave.",
-        "respuesta": "leve",
-        "fallos": 0
-    },
-    {
-        "pregunta": "El incumplimiento de las restricciones de circulación peatonal o itinerario con ocasión de un acto público, reunión o manifestación, cuando provoquen alteraciones menores en el normal desarrollo de los mismos.",
         "respuesta": "leve",
         "fallos": 0
     },
@@ -155,11 +165,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "La solicitud o aceptación por el demandante de servicios sexuales retribuidos en zonas de tránsito público en las proximidades de lugares destinados a su uso por menores, como centros educativos, parques infantiles o espacios de ocio accesibles a menores de edad, o cuando estas conductas, por el lugar en que se realicen, puedan generar un riesgo para la seguridad vial.\nLos agentes de la autoridad requerirán a las personas que ofrezcan estos servicios para que se abstengan de hacerlo en dichos lugares, informándoles de que la inobservancia de dicho requerimiento podría constituir una infracción del párrafo 6 de este artículo.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
         "pregunta": "La negativa de acceso o la obstrucción deliberada de las inspecciones o controles reglamentarios, establecidos conforme a lo dispuesto en esta Ley, en fábricas, locales, establecimientos, embarcaciones y aeronaves.",
         "respuesta": "grave",
         "fallos": 0
@@ -186,11 +191,6 @@
     },
     {
         "pregunta": "La tolerancia del consumo ilegal o el tráfico de drogas tóxicas, estupefacientes o sustancias psicotrópicas en locales o establecimientos públicos o la falta de diligencia en orden a impedirlos por parte de los propietarios, administradores o encargados de los mismos.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
         "respuesta": "grave",
         "fallos": 0
     },

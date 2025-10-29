@@ -25,6 +25,11 @@
         "fallos": 3
     },
     {
+        "pregunta": "h) Ejecutar el sacrificio de animales incumpliendo los métodos autorizados reglamentariamente o cuando el sacrificio de estos animales se realice sin la supervisión de un Veterinario responsable, cuando en ambos supuestos no haya sufrimiento innecesario.",
+        "respuesta": "leve",
+        "fallos": 3
+    },
+    {
         "pregunta": "a) La apertura y funcionamiento de establecimientos que no reúnan los requisitos del artículo 7 de esta Ley.",
         "respuesta": "grave",
         "fallos": 2
@@ -37,11 +42,6 @@
     {
         "pregunta": "o) No esterilizar los perros de ataque en los supuestos legalmente exigidos.",
         "respuesta": "grave",
-        "fallos": 2
-    },
-    {
-        "pregunta": "h) Ejecutar el sacrificio de animales incumpliendo los métodos autorizados reglamentariamente o cuando el sacrificio de estos animales se realice sin la supervisión de un Veterinario responsable, cuando en ambos supuestos no haya sufrimiento innecesario.",
-        "respuesta": "leve",
         "fallos": 2
     },
     {

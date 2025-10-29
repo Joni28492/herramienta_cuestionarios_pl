@@ -9,7 +9,7 @@ class Cuestionario ():
     # todo crear init como dict para mejorar legibilidad
     def __init__(self, folder, file, backup_fails_folder, numero_preguntas=10):
         self.numero_preguntas = numero_preguntas
-        self.folder = 'data'
+        self.folder = folder
         self.file = file
         self.backup_fails_folder = backup_fails_folder
         self.path = os.path.join(folder, file) 
@@ -93,7 +93,8 @@ class Cuestionario ():
                     print("✅✅✅ ¡Correcto!")
                    
                 else:
-                    print(f"❌❌❌ Incorrecto. Respuesta correcta: ===> {pregunta["respuesta"].upper()} <===")    
+                    print(f"❌❌❌ Incorrecto. Respuesta correcta: ===> {pregunta["respuesta"].upper()} <===") 
+                       
                     self.contabilizar_fallo(pregunta)
                 break
 
@@ -122,9 +123,9 @@ class Cuestionario ():
         self.generar_cuestionario_agregar_opciones_respuesta()
         if not self.chekear_si_existe_backup_file(): # ojo a la iversion de logica
             self.generar_backup_fails()
+            self.importar_backup()
         else:
             self.importar_backup()
-        self.generar_cuestionario()
         self.barajar_cuestionario()
         self.iniciar_cuestionario()
         self.reordenar_fallos()

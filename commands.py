@@ -47,13 +47,34 @@ def ejecutar_test_selector():
     except subprocess.CalledProcessError as e:
         print(f"Error al ejecutar Cuestionario: {e}")
 
+def activar_enviroment():
+    os.chdir(init_path)
+
+    try:
+        subprocess.run([".\\enviroment\\Scripts\\activate"], shell=True )
+    except subprocess.CalledProcessError as e:
+        print(f"Error al activar env: {e}")
+
+def generar_informe_completo():
+    os.chdir(init_path)
+
+    try:
+
+        subprocess.run(["python.exe", "generar_informe_completo.py"], shell=True )
+    except subprocess.CalledProcessError as e:
+
+        print(f"Error al generar informe completo: {e}")
+
+
 if __name__ == '__main__':
 
     commands = [ 
         ejecutar_astro_asturpol_game,
         crear_commit,
         ejecutar_cuestionario,
-        ejecutar_test_selector
+        ejecutar_test_selector,
+        generar_informe_completo
+        # activar_enviroment
     ]
 
     for opt, c in enumerate(commands):

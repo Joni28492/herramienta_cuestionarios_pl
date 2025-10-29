@@ -1,5 +1,20 @@
 [
     {
+        "pregunta": "Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.",
+        "respuesta": "estado",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.",
+        "respuesta": "ccaa",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Los montes y aprovechamientos forestales.",
+        "respuesta": "ccaa",
+        "fallos": 1
+    },
+    {
         "pregunta": "art 149",
         "respuesta": "estado",
         "fallos": 0
@@ -36,11 +51,6 @@
     },
     {
         "pregunta": "Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.",
-        "respuesta": "estado",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.",
         "respuesta": "estado",
         "fallos": 0
     },
@@ -175,11 +185,6 @@
         "fallos": 0
     },
     {
-        "pregunta": "Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.",
-        "respuesta": "ccaa",
-        "fallos": 0
-    },
-    {
         "pregunta": "Ordenación del territorio, urbanismo y vivienda.",
         "respuesta": "ccaa",
         "fallos": 0
@@ -201,11 +206,6 @@
     },
     {
         "pregunta": "La agricultura y ganadería, de acuerdo con la ordenación general de la economía.",
-        "respuesta": "ccaa",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Los montes y aprovechamientos forestales.",
         "respuesta": "ccaa",
         "fallos": 0
     },

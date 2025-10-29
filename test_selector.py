@@ -25,7 +25,7 @@ class Test_Selector():
         self.fails_path = 'test'
 
         init()
-        self.main()
+        # self.main()
     
 
     def volcar_logs_preguntas(self):
@@ -241,4 +241,4 @@ class Test_Selector():
 
 if __name__ == '__main__':
     test_selection = Test_Selector() 
-
+    test_selection.main()

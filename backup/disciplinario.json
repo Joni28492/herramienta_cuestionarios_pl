@@ -12,7 +12,22 @@
     {
         "pregunta": "f) No prestar servicio, alegando supuesta enfermedad.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 2
+    },
+    {
+        "pregunta": "b) La incorrección con los ciudadanos, o con otros miembros de los Cuerpos y Fuerzas de Seguridad, siempre que no merezcan una calificación más grave.",
+        "respuesta": "leve",
+        "fallos": 2
+    },
+    {
+        "pregunta": "m) Haber sido condenado en virtud de sentencia firme por una falta dolosa cuando la infracción penal cometida cause daño a la Administración o a los Administrados.",
+        "respuesta": "leve",
+        "fallos": 2
+    },
+    {
+        "pregunta": "m) La negativa injustificada a someterse a reconocimiento médico, prueba de alcoholemia o de detección de drogas tóxicas, estupefacientes o sustancias psicotrópicas, legítimamente ordenadas, a fin de constatar la capacidad psicofísica para prestar servicio.",
+        "respuesta": "muy grave",
+        "fallos": 2
     },
     {
         "pregunta": "k) No ir provisto en los actos de servicio del uniforme reglamentario, cuando su uso sea preceptivo, de los distintivos de la categoría o cargo, del arma reglamentaria o de los medios de protección o acción que se determinen, siempre que no medie autorización en contrario.",
@@ -30,16 +45,6 @@
         "fallos": 1
     },
     {
-        "pregunta": "b) La incorrección con los ciudadanos, o con otros miembros de los Cuerpos y Fuerzas de Seguridad, siempre que no merezcan una calificación más grave.",
-        "respuesta": "leve",
-        "fallos": 1
-    },
-    {
-        "pregunta": "m) Haber sido condenado en virtud de sentencia firme por una falta dolosa cuando la infracción penal cometida cause daño a la Administración o a los Administrados.",
-        "respuesta": "leve",
-        "fallos": 1
-    },
-    {
         "pregunta": "o) Impedir, limitar u obstaculizar a los subordinados el ejercicio de los derechos que tengan reconocidos, siempre que no constituya falta muy grave.",
         "respuesta": "grave",
         "fallos": 1
@@ -47,11 +52,6 @@
     {
         "pregunta": "s) Emplear, o autorizar la utilización para usos no relacionados con el servicio o con ocasión de este, o sin que medie causa justificada, de medios o recursos inherentes a la función policial.",
         "respuesta": "grave",
-        "fallos": 1
-    },
-    {
-        "pregunta": "m) La negativa injustificada a someterse a reconocimiento médico, prueba de alcoholemia o de detección de drogas tóxicas, estupefacientes o sustancias psicotrópicas, legítimamente ordenadas, a fin de constatar la capacidad psicofísica para prestar servicio.",
-        "respuesta": "muy grave",
         "fallos": 1
     },
     {
@@ -82,6 +82,16 @@
     {
         "pregunta": "f) El abandono de servicio, salvo que exista causa de fuerza mayor que impida comunicar a un superior dicho abandono.",
         "respuesta": "muy grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "a) La grave desconsideración con los superiores, compañeros, subordinados o ciudadanos, en el ejercicio de sus funciones o cuando cause descrédito notorio a la Institución Policial.",
+        "respuesta": "grave",
+        "fallos": 1
+    },
+    {
+        "pregunta": "x) La infracción de deberes u obligaciones legales inherentes al cargo o a la función policial, cuando se produzcan de forma grave y manifiesta.",
+        "respuesta": "grave",
         "fallos": 1
     },
     {
@@ -132,11 +142,6 @@
     {
         "pregunta": "n) Aquellas acciones u omisiones tipificadas como faltas graves que, de acuerdo con los criterios que se establecen en el artículo 12, merezcan la calificación de leves.",
         "respuesta": "leve",
-        "fallos": 0
-    },
-    {
-        "pregunta": "a) La grave desconsideración con los superiores, compañeros, subordinados o ciudadanos, en el ejercicio de sus funciones o cuando cause descrédito notorio a la Institución Policial.",
-        "respuesta": "grave",
         "fallos": 0
     },
     {
@@ -211,11 +216,6 @@
     },
     {
         "pregunta": "w) La falta de colaboración manifiesta con otros miembros de los Cuerpos y Fuerzas de Seguridad, siempre que no merezca la calificación de falta muy grave.",
-        "respuesta": "grave",
-        "fallos": 0
-    },
-    {
-        "pregunta": "x) La infracción de deberes u obligaciones legales inherentes al cargo o a la función policial, cuando se produzcan de forma grave y manifiesta.",
         "respuesta": "grave",
         "fallos": 0
     },
