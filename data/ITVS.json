@@ -1,0 +1,88 @@
+{
+
+    "abrr_opts": {
+            "cuatrienal": ["cuatrienal"],
+            "bienal": ["bienal", "bi"],
+            "trienal": ["trienal", "tri"],
+            "anual": ["anual", "anu"],
+            "semestral": ["semestral", "sem"],
+            "exento": ["exento", "ex"] 
+
+    },
+
+    "cuatrienal": [
+        "Motocicletas historicas",
+        "vehiculo historico >= 45años"
+    ],
+    "trienal":[
+        "vehiculo historico entre 40 y 45 años"
+    ],
+    "bienal": [
+        "L1e hasta +3 años",
+        "L hasta +4 años",
+        "M1 hasta de 4 a 10 años",
+        "Transporte personas -8 plazas de 4 a 10 años",
+        "vehiculos por construccion +25km/h de 4 a 10 años",
+        "vehiculos especiales obras y servicios, maquinaria automotriz  de 4 a 10 años",
+        "T y Otros agricolas hasta de 4 a 16 años",
+        "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros de 8 a 16 años",
+        "Estaciones de transformadoras o circo de 4 a 6 años",
+        "N1 hasta de 2 a 6 años",
+        "Transporte mercancias -3.5kg de 2 a 6 años",
+        "Caravanas + 6 años",
+        "O2 hasta  + 6 años",
+        "vehiculo historico entre 30 y 40 años"
+    ],
+    "anual": [
+        "M1 hasta de + 10 años",
+        "Transporte personas -8 plazas + 10 años",
+        "vehiculos por construccion +25km/h + 10 años",
+        "vehiculos especiales obras y servicios, maquinaria automotriz  + 10 años",
+        "T y Otros agricolas hasta + 16 años",
+        "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros + 16 años",
+        "Estaciones de transformadoras o circo + 6 años",
+        "N1 hasta de 6 a 10 años",
+        "Transporte mercancias -3.5kg de 6 a 10 años",
+        "N2 hasta 10 años",
+        "N3 hasta 10 años",
+        "Transporte mercancias +3.5kg hasta 10 años",
+        "O3 hasta 10 años",
+        "O4 hasta 10 años",
+        "vehiculos escuela conductores M1 y L de 2 a 5 años",
+        "vehiculos M1 utilizados como ambulancias, taxi o transporte de menores hasta 5 años"
+
+      
+    ],
+    "semestral": [
+        "N1 hasta de + 10 años",
+        "Transporte mercancias -3.5kg + 10 años",
+        "N2 + 10 años",
+        "N3 + 10 años",
+        "Transporte mercancias +3.5kg + 10 años",
+        "O3 + 10 años",
+        "O4 + 10 años",
+        "vehiculos escuela conductores M1 y L + 5 años",
+        "vehiculos M1 utilizados como ambulancias, taxi o transporte de menores + 5 años"
+
+    ],
+    "exento": [
+        "L1e hasta 3 años",
+        "L hasta 4 años",
+        "M1 hasta 4 años",
+        "Transporte personas -8 plazas hasta 4 años",
+        "vehiculos por construccion +25km/h hasta 4 años",
+        "vehiculos especiales obras y servicios, maquinaria automotriz  hasta 4 años",
+        "T y Otros agricolas hasta 4 años",
+        "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros hasta 8 años",
+        "Estaciones de transformadoras o circo hasta 4 años",
+        "N1 hasta 2 años",
+        "Transporte mercancias -3.5kg hasta 2 años",
+        "Caravanas hasta 6 años",
+        "O2 hasta 6 años",
+        "vehiculos escuela conductores M1 y L hasta 2 años",
+        "vehiculo historico con + 60 años"
+    ]
+       
+
+
+}

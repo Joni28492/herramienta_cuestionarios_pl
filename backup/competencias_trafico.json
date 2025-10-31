@@ -35,6 +35,11 @@
         "fallos": 2
     },
     {
+        "pregunta": "g) La suscripción de tratados y acuerdos internacionales relativos a la seguridad de los vehículos y de sus partes y piezas, así como dictar las disposiciones pertinentes para implantar en España la reglamentación internacional derivada de los mismos.",
+        "respuesta": "administracion general del estado",
+        "fallos": 2
+    },
+    {
         "pregunta": "g) La restricción de la circulación a determinados vehículos en vías urbanas por motivos medioambientales.",
         "respuesta": "municipio",
         "fallos": 1
@@ -55,11 +60,6 @@
         "fallos": 1
     },
     {
-        "pregunta": "g) La suscripción de tratados y acuerdos internacionales relativos a la seguridad de los vehículos y de sus partes y piezas, así como dictar las disposiciones pertinentes para implantar en España la reglamentación internacional derivada de los mismos.",
-        "respuesta": "administracion general del estado",
-        "fallos": 1
-    },
-    {
         "pregunta": "l) Las directrices básicas y esenciales para la formación y actuación de los agentes de la autoridad encargados de la vigilancia del tráfico, sin perjuicio de las atribuciones de las corporaciones locales, con cuyos órganos se instrumentará, de común acuerdo, la colaboración necesaria.",
         "respuesta": "ministerio del interior",
         "fallos": 1
@@ -77,6 +77,11 @@
     {
         "pregunta": "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.",
         "respuesta": "administracion general del estado",
+        "fallos": 1
+    },
+    {
+        "pregunta": "r) La determinación de la duración, el contenido y los requisitos de los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, así como de los mecanismos de certificación y control de los mismos a tal efecto.",
+        "respuesta": "ministerio del interior",
         "fallos": 1
     },
     {
@@ -176,11 +181,6 @@
     },
     {
         "pregunta": "n) El cierre a la circulación de carreteras o tramos de ellas por razones de seguridad o fluidez del tráfico o la restricción en ellas del acceso de determinados vehículos por motivos medioambientales, en los términos que reglamentariamente se determine.",
-        "respuesta": "ministerio del interior",
-        "fallos": 0
-    },
-    {
-        "pregunta": "r) La determinación de la duración, el contenido y los requisitos de los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, así como de los mecanismos de certificación y control de los mismos a tal efecto.",
         "respuesta": "ministerio del interior",
         "fallos": 0
     },

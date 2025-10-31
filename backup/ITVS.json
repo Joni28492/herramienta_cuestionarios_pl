@@ -1,0 +1,287 @@
+[
+    {
+        "pregunta": "Transporte mercancias -3.5kg de 2 a 6 años",
+        "respuesta": "bienal",
+        "fallos": 1
+    },
+    {
+        "pregunta": "Motocicletas historicas",
+        "respuesta": "cuatrienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculo historico >= 45años",
+        "respuesta": "cuatrienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculo historico entre 40 y 45 años",
+        "respuesta": "trienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "L1e hasta +3 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "L hasta +4 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "M1 hasta de 4 a 10 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte personas -8 plazas de 4 a 10 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos por construccion +25km/h de 4 a 10 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos especiales obras y servicios, maquinaria automotriz  de 4 a 10 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "T y Otros agricolas hasta de 4 a 16 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros de 8 a 16 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Estaciones de transformadoras o circo de 4 a 6 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N1 hasta de 2 a 6 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Caravanas + 6 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "O2 hasta  + 6 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculo historico entre 30 y 40 años",
+        "respuesta": "bienal",
+        "fallos": 0
+    },
+    {
+        "pregunta": "M1 hasta de + 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte personas -8 plazas + 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos por construccion +25km/h + 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos especiales obras y servicios, maquinaria automotriz  + 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "T y Otros agricolas hasta + 16 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros + 16 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Estaciones de transformadoras o circo + 6 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N1 hasta de 6 a 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte mercancias -3.5kg de 6 a 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N2 hasta 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N3 hasta 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte mercancias +3.5kg hasta 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "O3 hasta 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "O4 hasta 10 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos escuela conductores M1 y L de 2 a 5 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos M1 utilizados como ambulancias, taxi o transporte de menores hasta 5 años",
+        "respuesta": "anual",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N1 hasta de + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte mercancias -3.5kg + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N2 + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N3 + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte mercancias +3.5kg + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "O3 + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "O4 + 10 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos escuela conductores M1 y L + 5 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos M1 utilizados como ambulancias, taxi o transporte de menores + 5 años",
+        "respuesta": "semestral",
+        "fallos": 0
+    },
+    {
+        "pregunta": "L1e hasta 3 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "L hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "M1 hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte personas -8 plazas hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos por construccion +25km/h hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos especiales obras y servicios, maquinaria automotriz  hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "T y Otros agricolas hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros hasta 8 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Estaciones de transformadoras o circo hasta 4 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "N1 hasta 2 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Transporte mercancias -3.5kg hasta 2 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Caravanas hasta 6 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "O2 hasta 6 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos escuela conductores M1 y L hasta 2 años",
+        "respuesta": "exento",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculo historico con + 60 años",
+        "respuesta": "exento",
+        "fallos": 0
+    }
+]
