@@ -155,6 +155,7 @@ if __name__ == "__main__":
     for i, opt in enumerate(opciones_cuestionarios):
         # print(Fore.RED, f"# {i+1}.-  {opt.replace("_", " ")[:-5].upper()}")
         print(f"# {i+1}.-  {opt.replace("_", " ")[:-5].upper()}")
+        
     print("#"*40)
     # seleccionar cuestionario
     while True:

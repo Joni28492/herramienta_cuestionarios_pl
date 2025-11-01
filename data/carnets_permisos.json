@@ -21,47 +21,73 @@
     },
 
     "AM": [
-
+        "ciclomotores de 2 o 3 ruedas",
+        "cuatriciclos ligeros",
+        "vehiculos para movilidad reducida - con posible limitacion",
+        "podra estar limitado a la circulacion de ciclomotores de 3 ruedas y cuatriciclos ligeros"
     ],
     "A1": [
-
+        "motocicletas de 125cc, potencia maxima de 11kw, relacion potencia-peso maxima de 0.1Kw/Kg",
+        "Triciclos cuya potencia no exceda 15 Kw",
+        "vehiculos para movilidad reducida - sin limitacion"
+        
     ],
     "A2": [
-
+        "motocicletas con potencia maxima de 35kw, relacion potencia-peso maxima de 0.2Kw/Kg y no derivadas de un vehiculo con mas del doble de su potencia"
     ],
     "A": [
-
+        "Motocicletas y Triciclos de motor",
+        "hasta los 21 años no se autoriza a conducir triciclos a motor cuya potencia maxima exceda 15Kw"
     ],
     "B": [
-
+        "Automoviles con MMA <=3.5kg para un maximo de 8 pasajeros ademas del conductor",
+        "Conjunto de vehiculos formados por vehiculo tractor  con permiso ___ y remolque >750kg siempre que el conjunto <= 4250",
+        "El permiso ___ autoriza tambien para Triciclos y Cuatriciclos de Motor, Ciclomotores, y vehiculos para personas con movilidad reducida",
+        "Con una antiguedad de 3 años: motocicletas A1",
+        "Con una antiguedad de 2 años: automoviles sin remolque >3.5 sin sobrepasar 425, siempre que esos 3.5 provengan exclusivamente del exceso de masa del sistema de propulsion etc...",
+        "vehiculos especiales no agricolas (o sus conjuntos) si su vel MAX autorizada <=40km/h y su MMA <=3.5kg",
+        "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas <= 9 incluido el conductor",
+        "vehiculos especiales agricolas (o sus conjuntos) si sus masas o dimensiones no exceden los limites, (o licencia)",
+        "vehiculos especiales agricolas (o sus conjuntos) si excede su masa o dimensiones o si su velocidad MAX por construcion >45Km/h "
+    
     ],
     "B+E":[
-
+        "Conjunto vehiculos formado por vehiculo tractor habilitado por permiso B y remolque/semiremolque <=3.5kg"
     ],
     "C1": [
-
-    ],
-    "C": [
-
+        "Automoviles distintos a los que autoriza el D1/D con MMA >3.5 y <=7.5kg para un Max de 8 pasajeros ademas del conductor, remolque <=750kg"
     ],
     "C1+E":[
-
+        "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso C1 y semiremolque  >750kg siempre que el conjunto <=12T",
+        "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso B y semiremolque  >750kg siempre que el conjunto <=12T"
     ],
+    "C": [
+     
+        "Automoviles distintos a los que autoriza el D1/D con MMA <3.5  para un Max de 8 pasajeros ademas del conductor, remolque <=750kg"
+        
+    ],
+ 
     "C+E":[
-
+        "Conjunto de vehiculos que autoriza el permiso C y con remolque/semiremolque > 750"
     ],
     "D1": [
+        "Automoviles diseñados y construidos para el transporte de hasta 16 personas ademas del conductor, y longitud MAX 8 metros, remolque <=750kg",
+        "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas > 9 <= 17 incluido el conductor"
+
+    ],
+     "D1+E":[
+        "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso D1 y remolque >750kg "
 
     ],
     "D": [
+        "Automoviles diseñadosy construidos para el transporte de + 8 pasajeros , ademas del conductor, remolque <=750kg",
+        "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas >17 incluido el conductor"
 
     ],
     "D+E":[
-
-    ],
-    "D1+E":[
-
+        "Conjunto de vehiculos formado por vehiculo tractor habilitado por permiso D y remolque >750kg"
     ]
+   
        
 
 
