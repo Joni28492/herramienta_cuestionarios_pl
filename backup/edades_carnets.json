@@ -1,0 +1,147 @@
+[
+    {
+        "pregunta": "Vehiculos para movilidad reducida, sin pasajeros",
+        "respuesta": "14",
+        "fallos": 0
+    },
+    {
+        "pregunta": "AM",
+        "respuesta": "15",
+        "fallos": 0
+    },
+    {
+        "pregunta": "A1",
+        "respuesta": "16",
+        "fallos": 0
+    },
+    {
+        "pregunta": "Vehiculos para movilidad reducida",
+        "respuesta": "16",
+        "fallos": 0
+    },
+    {
+        "pregunta": "vehiculos especiales agricolas autopropulsados",
+        "respuesta": "16",
+        "fallos": 0
+    },
+    {
+        "pregunta": "A2",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "B",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "B+E",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "C1",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "C1+E",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "C Ordinaria",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "C+E Ordinaria",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D1 Ordinaria",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D1+E Ordinaria",
+        "respuesta": "18",
+        "fallos": 0
+    },
+    {
+        "pregunta": "A",
+        "respuesta": "20",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D Modalidad ordinaria dentro del territorio hasta que cumpla los 21",
+        "respuesta": "20",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D+E Modalidad ordinaria dentro del territorio hasta que cumpla los 21",
+        "respuesta": "20",
+        "fallos": 0
+    },
+    {
+        "pregunta": "C",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "C+E",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D1",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D1+E",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D Ordinaria",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D+E Ordinaria",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D Acelerada, transporte viajeros <=50km",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D+E Ordinaria, transporte viajeros <=50km",
+        "respuesta": "21",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D Acelerada",
+        "respuesta": "23",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D+E Acelerada",
+        "respuesta": "23",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D",
+        "respuesta": "24",
+        "fallos": 0
+    },
+    {
+        "pregunta": "D+E",
+        "respuesta": "24",
+        "fallos": 0
+    }
+]

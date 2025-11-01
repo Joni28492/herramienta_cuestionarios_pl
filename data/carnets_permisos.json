@@ -29,7 +29,8 @@
     "A1": [
         "motocicletas de 125cc, potencia maxima de 11kw, relacion potencia-peso maxima de 0.1Kw/Kg",
         "Triciclos cuya potencia no exceda 15 Kw",
-        "vehiculos para movilidad reducida - sin limitacion"
+        "vehiculos para movilidad reducida - sin limitacion",
+        "No se exigira licencia para Vehiculos movilidad reducida con un permiso de clase ___ o B"
         
     ],
     "A2": [
@@ -48,7 +49,9 @@
         "vehiculos especiales no agricolas (o sus conjuntos) si su vel MAX autorizada <=40km/h y su MMA <=3.5kg",
         "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas <= 9 incluido el conductor",
         "vehiculos especiales agricolas (o sus conjuntos) si sus masas o dimensiones no exceden los limites, (o licencia)",
-        "vehiculos especiales agricolas (o sus conjuntos) si excede su masa o dimensiones o si su velocidad MAX por construcion >45Km/h "
+        "vehiculos especiales agricolas (o sus conjuntos) si excede su masa o dimensiones o si su velocidad MAX por construcion >45Km/h ",
+        "No se exigira licencia para Vehiculos movilidad reducida con un permiso de clase A1 o ___",
+        "No se exigira licencia para Vehiculos vehiculos especiales agricolas autopropulsados con un permiso de clase ___"
     
     ],
     "B+E":[
