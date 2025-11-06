@@ -1,77 +1,87 @@
 [
     {
-        "definicion": "Los que habiendo nacido silvestres y libres son acostumbrados a la vista y compañía de la persona, dependiendo definitivamente de ésta para su subsistencia.",
-        "respuesta": "Animales salvajes domesticados",
-        "fallos": 0
-    },
-    {
-        "definicion": "Todo perro que fuera de una acción de caza o guarda de un rebaño no se encuentre bajo el cuidado efectivo de su dueño o dueña, se encuentre fuera del alcance de su voz o de un instrumento sonoro que permita llamarle o que esté alejado de su propietario o propietaria o de la persona poseedora más de 100 metros.",
-        "respuesta": "Perro errante",
-        "fallos": 0
-    },
-    {
-        "definicion": "Todo gato encontrado a más de 1.000 metros del domicilio de su dueño o dueña y que no se encuentre bajo el control directo de éstos, así como todo gato cuyo propietario o propietaria no sea conocido y sea recogido en la vía pública o en la propiedad de otro.",
-        "respuesta": "Gato errante",
-        "fallos": 0
-    },
-    {
-        "definicion": "Los que pertenezcan a especies que habitualmente se críen, reproduzcan y convivan con las personas.",
-        "respuesta": "Animales domesticos",
-        "fallos": 0
-    },
-    {
-        "definicion": "Todo animal errante que tras su captura y una vez concluido el plazo que establece la normativa vigente no haya sido reclamado por su dueño o dueña o éstos no hayan podido ser localizados.",
-        "respuesta": "Animal abandonado",
-        "fallos": 0
-    },
-    {
-        "definicion": "Los que albergan colecciones zoológicas de animales indígenas o exóticos con fines científicos, culturales, recreativos, de reproducción, recuperación, adaptación o conservación de los mismos, incluyendo: Los parques, jardines zoológicos, los zoosafaris, las reservas zoológicas o bancos de animales, las colecciones zoológicas privadas y otras agrupaciones zoológicas.",
-        "respuesta": "Núcleo zoológico",
-        "fallos": 0
-    },
-    {
-        "definicion": "Cualquier recinto, instalación, edificio o grupo de edificios, incluyendo anexos y espacios que no estén totalmente cerrados o cubiertos, así como instalaciones móviles donde se alojen, mantengan o críen animales.",
-        "respuesta": "Establecimiento",
-        "fallos": 0
-    },
-    {
         "definicion": "Todos los animales de la fauna salvaje que se utilicen como animales domésticos o de compañía, con independencia de su agresividad, y que pertenezcan a especies o razas que tengan capacidad de causar la muerte o lesiones a las personas o a otros animales y daños a las cosas. También tendrán la calificación de potencialmente peligrosos los animales domésticos o de compañía que reglamentariamente se determinen, en particular, los pertenecientes a la especie canina.",
         "respuesta": "Animales potencialmente peligrosos",
-        "fallos": 0
-    },
-    {
-        "definicion": "Los establecimientos que tienen por objeto la reproducción, explotación, tratamiento higiénico, alojamiento temporal o permanente y venta, o ambos, de animales de compañía.",
-        "respuesta": "Centro para el fomento y cuidado de animales de compañia",
-        "fallos": 0
-    },
-    {
-        "definicion": "Los que siendo libres por su condición sean objeto de captura en su medio natural, manteniéndose en grado absoluto y permanente de dominación.",
-        "respuesta": "Animales salvajes en cautividad",
-        "fallos": 0
-    },
-    {
-        "definicion": "Establecimiento que tiene por objeto principal la recogida de perros y gatos errantes facilitándoles en el tiempo y forma que marque la normativa vigente alojamiento, alimentación, cuidados y los tratamientos higiénico-sanitarios que la normativa establezca.",
-        "respuesta": "Centro de depósito de animales",
-        "fallos": 0
+        "fallos": 1
     },
     {
         "definicion": "Aquéllos donde se realiza habitualmente cualquier tipo de tratamientos quirúrgicos, terapéuticos y la hospitalización de animales bajo la responsabilidad de un Veterinario.",
         "respuesta": "Establecimientos veterinarios",
-        "fallos": 0
-    },
-    {
-        "definicion": "Los animales domésticos que se mantienen generalmente en el propio hogar, con el objeto de obtener su compañía. Los perros y los gatos, sea cual sea su finalidad, se considerarán a efectos de esta Ley animales de compañía.",
-        "respuesta": "Animales de compañia",
-        "fallos": 0
+        "fallos": 1
     },
     {
         "definicion": "Todo animal que se mueva según su instinto fuera del control de su propietario o poseedor.",
-        "respuesta": "Animal errante",
+        "respuesta": "animal errante",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los que pertenezcan a especies que habitualmente se críen, reproduzcan y convivan con las personas.",
+        "respuesta": "animales domesticos",
+        "fallos": 0
+    },
+    {
+        "definicion": "Todo perro que fuera de una acción de caza o guarda de un rebaño no se encuentre bajo el cuidado efectivo de su dueño o dueña, se encuentre fuera del alcance de su voz o de un instrumento sonoro que permita llamarle o que esté alejado de su propietario o propietaria o de la persona poseedora más de 100 metros.",
+        "respuesta": "perro errante",
+        "fallos": 0
+    },
+    {
+        "definicion": "Todos los animales de la fauna salvaje que se utilicen como animales domésticos o de compañía, con independencia de su agresividad, y que pertenezcan a especies o razas que tengan capacidad de causar la muerte o lesiones a las personas o a otros animales y daños a las cosas. También tendrán la calificación de potencialmente peligrosos los animales domésticos o de compañía que reglamentariamente se determinen, en particular, los pertenecientes a la especie canina.",
+        "respuesta": "animales potencialmente peligrosos",
+        "fallos": 0
+    },
+    {
+        "definicion": "Aquéllos donde se realiza habitualmente cualquier tipo de tratamientos quirúrgicos, terapéuticos y la hospitalización de animales bajo la responsabilidad de un Veterinario.",
+        "respuesta": "establecimientos veterinarios",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los establecimientos que tienen por objeto la reproducción, explotación, tratamiento higiénico, alojamiento temporal o permanente y venta, o ambos, de animales de compañía.",
+        "respuesta": "centro para el fomento y cuidado de animales de compañia",
+        "fallos": 0
+    },
+    {
+        "definicion": "Todo animal errante que tras su captura y una vez concluido el plazo que establece la normativa vigente no haya sido reclamado por su dueño o dueña o éstos no hayan podido ser localizados.",
+        "respuesta": "animal abandonado",
+        "fallos": 0
+    },
+    {
+        "definicion": "Establecimiento que tiene por objeto principal la recogida de perros y gatos errantes facilitándoles en el tiempo y forma que marque la normativa vigente alojamiento, alimentación, cuidados y los tratamientos higiénico-sanitarios que la normativa establezca.",
+        "respuesta": "centro de deposito de animales",
         "fallos": 0
     },
     {
         "definicion": "Establecimiento sin fines lucrativos dirigido por una fundación o asociación de protección de animales reconocida por la autoridad competente y que acoja o se encargue de los animales provenientes de un centro de depósito de animales al término de los plazos establecidos o bien procedan de particulares.",
-        "respuesta": "Refugio",
+        "respuesta": "refugio",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los que siendo libres por su condición sean objeto de captura en su medio natural, manteniéndose en grado absoluto y permanente de dominación.",
+        "respuesta": "animales salvajes en cautividad",
+        "fallos": 0
+    },
+    {
+        "definicion": "Todo gato encontrado a más de 1.000 metros del domicilio de su dueño o dueña y que no se encuentre bajo el control directo de éstos, así como todo gato cuyo propietario o propietaria no sea conocido y sea recogido en la vía pública o en la propiedad de otro.",
+        "respuesta": "gato errante",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los que habiendo nacido silvestres y libres son acostumbrados a la vista y compañía de la persona, dependiendo definitivamente de ésta para su subsistencia.",
+        "respuesta": "animales salvajes domesticados",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los que albergan colecciones zoológicas de animales indígenas o exóticos con fines científicos, culturales, recreativos, de reproducción, recuperación, adaptación o conservación de los mismos, incluyendo: Los parques, jardines zoológicos, los zoosafaris, las reservas zoológicas o bancos de animales, las colecciones zoológicas privadas y otras agrupaciones zoológicas.",
+        "respuesta": "nucleo zoológico",
+        "fallos": 0
+    },
+    {
+        "definicion": "Cualquier recinto, instalación, edificio o grupo de edificios, incluyendo anexos y espacios que no estén totalmente cerrados o cubiertos, así como instalaciones móviles donde se alojen, mantengan o críen animales.",
+        "respuesta": "establecimiento",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los animales domésticos que se mantienen generalmente en el propio hogar, con el objeto de obtener su compañía. Los perros y los gatos, sea cual sea su finalidad, se considerarán a efectos de esta Ley animales de compañía.",
+        "respuesta": "animales de compañia",
         "fallos": 0
     }
 ]

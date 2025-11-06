@@ -51,7 +51,7 @@ class Definiciones():
 
         while True:
             
-            respuesta = input("Definicion: ")
+            respuesta = input("Definicion: ").lower()
 
             if respuesta not in self.opciones_respuesta:
                 print("No es una respuesta valida, las opciones de respuesta son las siguientes:")
@@ -78,7 +78,7 @@ class Definiciones():
         else:
             self.importar_backup_file()
         
-        print(self.back_file, "====")
+        # print(self.back_file, "====")
 
         
         
@@ -88,7 +88,7 @@ class Definiciones():
         for value in self.cuestionario:
             self.back_file.append({
                 "definicion": value["definicion"],
-                "respuesta": value["respuesta"],
+                "respuesta": value["respuesta"].lower(),
                 "fallos": 0
             })
             
@@ -98,6 +98,10 @@ class Definiciones():
         
     def contabilizar_fallo(self, pregunta):
         print("Contabilizar fallo")
+        self.back_file.append( {
+            **pregunta,
+            "fallos": 1
+        } )
 
     
     def importar_backup_file(self):
@@ -105,8 +109,9 @@ class Definiciones():
             self.back_file = json.load(f)
 
 
-    def reordenar_fallos(self):
-        pass
+    def reordenar_fallos(self):        
+        self.back_file = sorted(self.back_file, key=lambda x: x["fallos"], reverse=True)
+        print(self.back_file)
         
 
 
@@ -118,10 +123,13 @@ class Definiciones():
 
         # todo crear bucle cuestionario 
         # todo crear menu de opciones 
-        # print(self.cuestionario[3])
-        # self.preguntar_definicion(self.cuestionario[3])
+        print(self.cuestionario[3])
+        self.preguntar_definicion(self.cuestionario[3])
+        print(self.cuestionario[4])
+        self.preguntar_definicion(self.cuestionario[4])
 
         self.comprobar_si_existe_backup()
+        
 
 
 

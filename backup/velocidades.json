@@ -2,231 +2,277 @@
     {
         "pregunta": "Autopistas y autovias resto de vehiculos",
         "respuesta": "90",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional tractocamiones",
         "respuesta": "80",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional resto de vehiculos",
         "respuesta": "80",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional vehiculos derivados de turismo",
         "respuesta": "90",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Carretera convencional turismos (*)",
-        "respuesta": "90",
-        "fallos": 1
-    },
-    {
-        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
-        "respuesta": "70",
-        "fallos": 1
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "via de unica calzada y acera",
         "respuesta": "20",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Autopistas y autovias autobuses",
-        "respuesta": "100",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Autopistas y autovias vehiculos articulados ",
-        "respuesta": "90",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Carretera convencional automoviles con remolque",
-        "respuesta": "80",
-        "fallos": 1
-    },
-    {
-        "pregunta": "vehiculo especial con señalizacion de frenado",
-        "respuesta": "40",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Autopistas y autovias autocaravanas de MMA > 3.5kg ",
-        "respuesta": "90",
-        "fallos": 1
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "Autopistas y autovias automoviles con remolque",
         "respuesta": "90",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Carretera convencional camiones",
-        "respuesta": "80",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Autopistas y autovias furgonetas ",
-        "respuesta": "90",
-        "fallos": 1
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional furgonetas",
         "respuesta": "80",
-        "fallos": 1
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion turismos",
         "respuesta": "100",
-        "fallos": 1
+        "fallos": 2,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional turismos (*)",
+        "respuesta": "90",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
+        "respuesta": "70",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autopistas y autovias autobuses",
+        "respuesta": "100",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos articulados ",
+        "respuesta": "90",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional automoviles con remolque",
+        "respuesta": "80",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "vehiculo especial con señalizacion de frenado",
+        "respuesta": "40",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autopistas y autovias autocaravanas de MMA > 3.5kg ",
+        "respuesta": "90",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional camiones",
+        "respuesta": "80",
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autopistas y autovias furgonetas ",
+        "respuesta": "90",
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "vehiculo especial sin señalizacion de frenado, llevan remolque o son motocultores",
         "respuesta": "25",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional vehiculos articulados",
         "respuesta": "80",
-        "fallos": 1
-    },
-    {
-        "pregunta": "Autpistas y autovias Turismo",
-        "respuesta": "120",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Autpistas y autovias autocaravana MMA =< 3.5kg",
-        "respuesta": "120",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Autpistas y autovias pickup",
-        "respuesta": "120",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Autopistas y autovias vehiculos derivados de turismo",
-        "respuesta": "100",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Autopistas y autovias vehiculos mixtos adaptables",
-        "respuesta": "100",
-        "fallos": 0
-    },
-    {
-        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion motocicletas",
-        "respuesta": "100",
-        "fallos": 0
-    },
-    {
-        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion autocaravana MMA=<3.5kg",
-        "respuesta": "100",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Carretera convencional Autobuses",
-        "respuesta": "90",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Carretera convencional vehiculos mixtos adaptables",
-        "respuesta": "90",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Carretera convencional motocicletas (*)",
-        "respuesta": "90",
-        "fallos": 0
-    },
-    {
-        "pregunta": "Carretera convencional autocaravanas MMA =< 3.5kg  (*)",
-        "respuesta": "90",
-        "fallos": 0
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional Pick up  (*)",
         "respuesta": "90",
-        "fallos": 0
+        "fallos": 1,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autpistas y autovias Turismo",
+        "respuesta": "120",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autpistas y autovias autocaravana MMA =< 3.5kg",
+        "respuesta": "120",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autpistas y autovias pickup",
+        "respuesta": "120",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos derivados de turismo",
+        "respuesta": "100",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Autopistas y autovias vehiculos mixtos adaptables",
+        "respuesta": "100",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion motocicletas",
+        "respuesta": "100",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion autocaravana MMA=<3.5kg",
+        "respuesta": "100",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional Autobuses",
+        "respuesta": "90",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional vehiculos mixtos adaptables",
+        "respuesta": "90",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional motocicletas (*)",
+        "respuesta": "90",
+        "fallos": 0,
+        "aciertos":0
+    },
+    {
+        "pregunta": "Carretera convencional autocaravanas MMA =< 3.5kg  (*)",
+        "respuesta": "90",
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "Autopistas y autovias Camiones ",
         "respuesta": "90",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "Autopistas y autovias Tractocamiones ",
         "respuesta": "90",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "autobus con viajeros a pie",
         "respuesta": "80",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "Autovias y autopistas dentro de poblado (excepto mercancias peligrosas)",
         "respuesta": "80",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "Carretera convencional autocaravanas de MMA > 3.5kg",
         "respuesta": "80",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "vehiculo especial con señalizacion de frenado, en llano ",
         "respuesta": "60",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "velociadad ampliada excepcionalmente por Autoridad municipal vias de unico carril por sentido",
         "respuesta": "50",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "travesias",
         "respuesta": "50",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "transporte escolar y de menores via urbana",
         "respuesta": "50",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "via de 2 o mas carriles por sentido de la circulacion",
         "respuesta": "50",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior",
         "respuesta": "45",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "transporte mercancias peligrosas via urbana de 2 o mas carriles por sentido de circulacion",
         "respuesta": "40",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "vias sin pavimentar",
         "respuesta": "30",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "incremento vehiculos ensayo y experimentacion",
         "respuesta": "30",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "via de unico sentido por carril de circulacion",
         "respuesta": "30",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     }
 ]

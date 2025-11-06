@@ -1,0 +1,407 @@
+[
+    {
+        "definicion": "Vehículo que marcha por raíles instalados en la vía.",
+        "respuesta": "tranvia",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial de transporte construido y destinado para ser arrastrado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en esta definición a los semirremolques agrícolas.",
+        "respuesta": "remolque agricola",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz destinada a la iluminación del habitáculo del vehículo en forma tal que no produzca deslumbramiento ni moleste indebidamente a los demás usuarios de la vía.",
+        "respuesta": "luz de alumbrado interior",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía reservada exclusivamente a la circulación de automóviles, con una sola calzada y con limitación total de accesos a las propiedades colindantes, y señalizada con las señales S-3 y S-4, respectivamente.",
+        "respuesta": "vía para automóviles",
+        "fallos": 0
+    },
+    {
+        "definicion": " Vehículo de motor que sirve, normalmente, para el transporte de personas o de cosas, o de ambas a la vez, o para la tracción de otros vehículos con aquel fin. Se excluyen de esta definición los vehículos especiales.",
+        "respuesta": "automovil",
+        "fallos": 0
+    },
+    {
+        "definicion": "Espacio que comprende edificios y en cuyas vías de entrada y de salida están colocadas, respectivamente, las señales de entrada a poblado y de salida de poblado.",
+        "respuesta": "poblado",
+        "fallos": 0
+    },
+    {
+        "definicion": "Tipo especial de intersección caracterizado por que los tramos que en él confluyen se comunican a través de un anillo en el que se establece una circulación rotatoria alrededor de una isleta central. No son glorietas propiamente dichas las denominadas glorietas partidas en las que dos tramos, generalmente opuestos, se conectan directamente a través de la isleta central, por lo que el tráfico pasa de uno a otro y no la rodea.",
+        "respuesta": "glorieta",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía pública situada fuera de poblado.",
+        "respuesta": "vía interurbana",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para hacer el vehículo más visible por detrás en caso de niebla densa.",
+        "respuesta": "luz antiniebla trasera",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo no autopropulsado diseñado y concebido para ser acoplado a un automóvil, sobre el que reposará parte del mismo, transfiriéndole una parte sustancial de su masa.",
+        "respuesta": "semirremolque",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de un eje, dirigible por manceras por un conductor que marche a pie. Ciertos motocultores pueden, también, ser dirigidos desde un asiento incorporado a un remolque o máquina agrícola o a un apero o bastidor auxiliar con ruedas.",
+        "respuesta": "motocultor",
+        "fallos": 0
+    },
+    {
+        "definicion": "El funcionamiento simultáneo de todas las luces indicadoras de dirección del vehículo para advertir que el vehículo representa temporalmente un peligro para los demás usuarios de la vía.",
+        "respuesta": "señal de emergencia",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para indicar a los demás usuarios de la vía que el conductor quiere cambiar de dirección hacia la derecha o hacia la izquierda.",
+        "respuesta": "luz indicadora de dirección",
+        "fallos": 0
+    },
+    {
+        "definicion": "de vehículo. Persona a cuyo nombre figura inscrito el vehículo en el registro oficial correspondiente.",
+        "respuesta": "titular",
+        "fallos": 0
+    },
+    {
+        "definicion": "Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías y personas hasta un máximo de nueve incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adición de asientos.",
+        "respuesta": "vehiculo mixto adaptable",
+        "fallos": 0
+    },
+    {
+        "definicion": "Inmovilización de un vehículo durante un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo.",
+        "respuesta": "parada",
+        "fallos": 0
+    },
+    {
+        "definicion": " Aparato apto para circular por las vías o terrenos a que se refiere el artículo2.",
+        "respuesta": "vehiculo",
+        "fallos": 0
+    },
+    {
+        "definicion": "La masa máxima para la utilización de un vehículo con carga en circulación por las vías públicas.",
+        "respuesta": "masa maxima autorizada (m.m.a.)",
+        "fallos": 0
+    },
+    {
+        "definicion": "Tienen la condición de ciclomotores los vehículos que se definen a continuación: \na) Vehículo de dos ruedas, con una velocidad máxima por construcción no superior a 45 km/h \n y con un motor de cilindrada inferior o igual a 50 cm³, si es de combustión interna, o bien con una potencia continua nominal máxima inferior o igual a 4 kW si es de motor eléctrico. \nb) Vehículo de tres ruedas, con una velocidad máxima por construcción no superior a 45 km/h \ny con un motor cuya cilindrada sea inferior o igual a 50 cm³ para los motores de encendido por chispa (positiva), \no bien cuya potencia máxima neta sea inferior o igual a 4 kW para los demás motores de combustión interna, o bien cuya potencia continua nominal máxima sea inferior o igual a 4 kW para los motores eléctricos. \nc) Vehículos de cuatro ruedas, cuya masa en vacío sea inferior o igual a 350 kilogramos no incluida la masa de baterías para los vehículos eléctricos,\n cuya velocidad máxima por construcción sea inferior o igual a 45 km/h, y cuya cilindrada del motor sea inferior o igual a 50 cm³ para los motores de encendido por chispa (positiva), o cuya potencia máxima neta sea inferior o igual a 4 kW para los demás motores de combustión interna, o cuya potencia continua nominal máxima sea inferior o igual a 4 kW para los motores eléctricos.",
+        "respuesta": "ciclomotor",
+        "fallos": 0
+    },
+    {
+        "definicion": "Carretera especialmente proyectada, construida y señalizada como tal que tiene las siguientes características:\n\ta) Tener acceso limitado a ella las propiedades colindantes.\n\tb) No cruzar a nivel ninguna otra senda, vía, línea de ferrocarril o tranvía, ni ser cruzada a nivel por senda, vía de comunicación o servidumbre de paso alguna.\n\tc) Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación, o por otros medios.",
+        "respuesta": "autovía",
+        "fallos": 0
+    },
+    {
+        "definicion": "Carretera especialmente proyectada, construida y señalizada como tal para la exclusiva circulación de automóviles y que tiene las siguientes características:\n\ta) No tener acceso a la misma las propiedades colindantes.\n\tb) No cruzar a nivel ninguna otra senda, vía, línea de ferrocarril o tranvía, ni ser cruzada a nivel por senda, vía de comunicación o servidumbre de paso alguna.\n\tc) Constar de distintas calzadas para cada sentido de circulación, separadas entre sí, salvo en puntos singulares o con carácter temporal, por una franja de terreno no destinada a la circulación o, en casos excepcionales, por otros medios.",
+        "respuesta": "autopista",
+        "fallos": 0
+    },
+    {
+        "definicion": "La que gravita sobre el suelo, transmitida por la totalidad de las ruedas acopladas a ese eje.",
+        "respuesta": "masa por eje",
+        "fallos": 0
+    },
+    {
+        "definicion": "Parte de la carretera dedicada a la circulación de vehículos. Se compone de un cierto número de carriles.",
+        "respuesta": "calzada",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar útiles, máquinas o vehículos de obras.",
+        "respuesta": "tractor de obras",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para iluminar la vía por detrás del vehículo y para advertir a los demás usuarios de la vía que el vehículo va, o está a punto de ir, marcha atrás.",
+        "respuesta": "luz de marcha atrás",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para señalizar la presencia de un vehículo estacionado en zona edificada. En tales circunstancias sustituye a las luces de posición delanteras y traseras.",
+        "respuesta": "luz de estacionamiento",
+        "fallos": 0
+    },
+    {
+        "definicion": "Nudo de la red viaria en el que todos los cruces de trayectorias posibles de los vehículos que lo utilizan se realizan a nivel.",
+        "respuesta": "intersección",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial concebido y construido para efectuar trabajos agrícolas que, para trasladarse y maniobrar debe ser arrastrado o empujado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición los aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas, sin motor, concebidos y construidos para efectuar trabajos de preparación del terreno o laboreo, que, además, no se consideran vehículos, así como también el resto de la maquinaria agrícola remolcada de menos de 750 kilogramos de masa.",
+        "respuesta": "máquina agricola remolcada",
+        "fallos": 0
+    },
+    {
+        "definicion": "Los ejes que forman parte de un bogie. En el caso de dos ejes, el grupo se denominará tándem, y tándem triaxial en caso de tres ejes.",
+        "respuesta": "grupo de ejes",
+        "fallos": 0
+    },
+    {
+        "definicion": "Automóvil que tenga más de nueve plazas, incluida la del conductor, destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes. Se incluye en este término el trolebús, es decir, el vehículo conectado a unalínea eléctrica y que no circula por raíles.",
+        "respuesta": "autobus o autocar",
+        "fallos": 0
+    },
+    {
+        "definicion": "Automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería y con un máximo de nueve plazas, incluido el conductor.",
+        "respuesta": "camion",
+        "fallos": 0
+    },
+    {
+        "definicion": "Parte de la vía, elevada o delimitada de otra forma, reservada a la circulación de peatones. Se incluye en esta definición la acera, el andén y el paseo.",
+        "respuesta": "zona peatonal",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para mejorar el alumbrado de la carretera en caso de niebla, nevada, tormenta o nube de polvo.",
+        "respuesta": "luz antiniebla delantera",
+        "fallos": 0
+    },
+    {
+        "definicion": " Persona que, sin ser conductor, transita a pie por las vías o terrenos a que serefiere el artículo 2. También tienen la consideración de peatones quienes empujan o arrastran un coche de niño o de una persona con discapacidad o cualquier otro vehículo sin motor de pequeñas dimensiones, los que conducen a pie un ciclo o ciclomotor de dos ruedas, y las personas con discapacidad que circulan al paso en una silla de ruedas, con o sin motor.",
+        "respuesta": "peaton",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía para peatones y ciclos, segregada del tráfico motorizado, y que discurre por espacios abiertos, parques, jardines o bosques.",
+        "respuesta": "senda ciclable",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde delante.",
+        "respuesta": "luz de posición delantera",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para alumbrar una distancia larga de la vía por delante del vehículo.",
+        "respuesta": "luz de carretera o de largo alcance",
+        "fallos": 0
+    },
+    {
+        "definicion": "Automóvil concebido y construido para realizar, principalmente, el arrastre de un semirremolque.",
+        "respuesta": "tractocamion",
+        "fallos": 0
+    },
+    {
+        "definicion": "Persona que, con las excepciones del párrafo segundo del punto 4 maneja el mecanismo de dirección o va al mando de un vehículo, o a cuyo cargo está un animal o animales. En vehículos que circulen en función de aprendizaje de la conducción, tiene la consideración de conductor la persona que está a cargo de los mandos adicionales.",
+        "respuesta": "conductor",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de dos o más ejes, especialmente concebido para el transporte en campo de productos agrícolas.",
+        "respuesta": "tractocarro",
+        "fallos": 0
+    },
+    {
+        "definicion": " Vehículo provisto de, al menos, dos ruedas y propulsado exclusiva o principalmente por la energía muscular de la persona o personas que están sobre el vehículo, en particular por medio de pedales. Se incluyen en esta definición los ciclos de pedaleo asistido.",
+        "respuesta": "ciclo",
+        "fallos": 0
+    },
+    {
+        "definicion": "Zona de la carretera dedicada al uso de vehículos, formada por la calzada y los arcenes.",
+        "respuesta": "plataforma",
+        "fallos": 0
+    },
+    {
+        "definicion": "Tienen la condición de conjunto de vehículos: \na) Vehículo articulado. Automóvil constituido por un vehículo de motor acoplado a un semirremolque. \nb) Tren de carretera. Automóvil constituido por un vehículo de motor enganchado a un remolque.",
+        "respuesta": "conjunto de vehiculos",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para indicar, a los usuarios de la vía que circulan detrás del vehículo, que el conductor de éste está accionando el freno de servicio.",
+        "respuesta": "luz de frenado",
+        "fallos": 0
+    },
+    {
+        "definicion": "Persona que, contando con el permiso o licencia de conducción necesarios, inscrito en el Registro de Conductores e Infractores y previo su consentimiento, se comunica por el titular del vehículo o, en su caso, por el arrendatario a largo plazo al Registro de Vehículos, por ser aquella que de manera usual o con mayor frecuencia conduce dicho vehículo.",
+        "respuesta": "conductor habitual",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía ciclista señalizada sobre la acera.",
+        "respuesta": "acera-bici",
+        "fallos": 0
+    },
+    {
+        "definicion": "Aquel especialmente reservado o habilitado para la circulación de los vehículos con alta ocupación.",
+        "respuesta": "carril vao",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía ciclista segregada del tráfico motorizado, con trazado independiente de las carreteras.",
+        "respuesta": "pista-bici",
+        "fallos": 0
+    },
+    {
+        "definicion": "Tienen la condición de ______ los automóviles que se definen a continuación: \na) Motocicletas de dos ruedas. Automóvil de dos ruedas, sin sidecar, provistos de un motor de cilindrada superior a 50 cm³,\n si es de combustión interna, \ny/o con una velocidad máxima por construcción superior a 45 km/h. \nb) Motocicletas con sidecar. Automóvil de tres ruedas asimétricas respecto a su eje medio longitudinal,\n provistos de un motor de cilindrada superior a 50 cm³,\n si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h.",
+        "respuesta": "motocicleta",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas reglamentariamente establecidas o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, así como la maquinaria agrícola y sus remolques.",
+        "respuesta": "vehiculo especial (v.e.)",
+        "fallos": 0
+    },
+    {
+        "definicion": "Tramo de carretera que discurre por poblado. No tendrán la consideración de travesías aquellos tramos que dispongan de una alternativa viaria o variante a la cual tiene acceso.",
+        "respuesta": "travesía",
+        "fallos": 0
+    },
+    {
+        "definicion": "La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.",
+        "respuesta": "masa en carga",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para alumbrar la vía por delante del vehículo, sin deslumbrar ni molestar a los conductores que vengan en sentido contrario, ni a los demás usuarios de la vía.",
+        "respuesta": "luz de cruce o de corto alcance",
+        "fallos": 0
+    },
+    {
+        "definicion": "Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario.",
+        "respuesta": "detención",
+        "fallos": 0
+    },
+    {
+        "definicion": "Cruce a la misma altura entre una vía y una línea de ferrocarril con plataforma independiente.",
+        "respuesta": "paso a nivel",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz instalada lo más cerca posible del borde exterior más elevado del vehículo y destinada claramente a indicar la anchura total del vehículo. En determinados vehículos y remolques, esta luz sirve de complemento a las luces de posición delanteras y traseras del vehículo para señalar su volumen.",
+        "respuesta": "luz de galibo",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para portar máquinas agrícolas.",
+        "respuesta": "portador",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor.",
+        "respuesta": "remolque",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.",
+        "respuesta": "vehiculo de motor",
+        "fallos": 0
+    },
+    {
+        "definicion": "Zona longitudinal de la carretera elevada o no, destinada al tránsito de peatones.",
+        "respuesta": "acera",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar trabajos agrícolas.",
+        "respuesta": "máquina agricola automotriz",
+        "fallos": 0
+    },
+    {
+        "definicion": "Carril-bici provisto de elementos laterales que lo separan físicamente del resto de la calzada, así como de la acera.",
+        "respuesta": "carril-bici protegido",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía específicamente acondicionada para el tráfico de ciclos, con la señalización horizontal y vertical correspondiente, y cuyo ancho permite el paso seguro de estos vehículos.",
+        "respuesta": "vía ciclista",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar vehículos de servicio, vagones u otros aparatos.",
+        "respuesta": "tractor de servicios",
+        "fallos": 0
+    },
+    {
+        "definicion": "Banda longitudinal en que puede estar subdividida la calzada, delimitada o no por marcas viales longitudinales, siempre que tenga una anchura suficiente para permitir la circulación de una fila de automóviles que no sean motocicletas.",
+        "respuesta": "carril",
+        "fallos": 0
+    },
+    {
+        "definicion": "Luz utilizada para indicar la presencia y la anchura del vehículo, cuando se le vea desde detrás.",
+        "respuesta": "luz de posición trasera",
+        "fallos": 0
+    },
+    {
+        "definicion": "Autobús o autocar compuesto por dos partes rígidas unidas entre sí por una sección articulada. En este tipo de vehículos, los compartimentos para viajeros de cada una de ambas partes rígidas se comunican entre sí. \nLa sección articulada permite la libre circulación de los viajeros entre las partes rígidas. \nLa conexión y disyunción entre las dos partes únicamente podrá realizarse en el taller.",
+        "respuesta": "autobus o autocar articulado",
+        "fallos": 0
+    },
+    {
+        "definicion": "Carretera que no reúne las características propias de las autopistas, autovías y vías para automóviles.",
+        "respuesta": "carretera convencional",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo cuya tara no sea superior a 350 kilogramos y que, por construcción, no puede alcanzar en llano una velocidad superior a 45 km/h, proyectado y construido especialmente (y no meramente adaptado) para el uso de personas con alguna disfunción o incapacidad física. En cuanto al resto de sus características técnicas se les equipara a los ciclomotores de tres ruedas.",
+        "respuesta": "vehiculo para personas de movilidad reducida",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía pública pavimentada situada fuera de poblado, salvo los tramos en travesía.",
+        "respuesta": "carretera",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía pública situada dentro de poblado, excepto las travesías.",
+        "respuesta": "vía urbana",
+        "fallos": 0
+    },
+    {
+        "definicion": "Dispositivo utilizado para indicar la presencia del vehículo mediante la reflexión de la luz procedente de una fuente luminosa independiente de dicho vehículo, hallándose el observador cerca de la fuente.\n\nNo se considerarán catadióptricos:\n\t– Las placas de matrícula retrorreflectantes.\n\t– Las señales retrorreflectantes mencionadas en el ADR.\n\t– Las demás placas y señales retrorreflectantes que deban llevarse para cumplir la reglamentación vigente sobre la utilización de determinadas categorías de vehículos o de determinados modos de funcionamiento.",
+        "respuesta": "catadioptrico",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vía ciclista que discurre adosada a la calzada, en un solo sentido o en doble sentido.",
+        "respuesta": "carril-bici",
+        "fallos": 0
+    },
+    {
+        "definicion": "Franja longitudinal afirmada contigua a la calzada, no destinada al uso de vehículos automóviles, más que en circunstancias excepcionales.",
+        "respuesta": "arcén",
+        "fallos": 0
+    },
+    {
+        "definicion": "Masa del vehículo con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios.",
+        "respuesta": "tara",
+        "fallos": 0
+    },
+    {
+        "definicion": "Inmovilización de un vehículo que no se encuentra en situación de detención o parada.",
+        "respuesta": "estacionamiento",
+        "fallos": 0
+    },
+    {
+        "definicion": "Automóvil destinado al transporte de personas que tenga, por lo menos, cuatro ruedas y que tenga, además del asiento del conductor, ocho plazas como máximo.",
+        "respuesta": "turismo",
+        "fallos": 0
+    },
+    {
+        "definicion": "Aquél cuya masa máxima autorizada no exceda de 750 kg. Aefectos de esta clasificación, se excluyen los agrícolas.",
+        "respuesta": "remolque ligero",
+        "fallos": 0
+    },
+    {
+        "definicion": " Ciclo de dos ruedas.",
+        "respuesta": "bicicleta",
+        "fallos": 0
+    },
+    {
+        "definicion": "Zona peatonal situada en la calzada y protegida del tránsito rodado.",
+        "respuesta": "refugio",
+        "fallos": 0
+    },
+    {
+        "definicion": "Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas.",
+        "respuesta": "tractor agricola",
+        "fallos": 0
+    }
+]

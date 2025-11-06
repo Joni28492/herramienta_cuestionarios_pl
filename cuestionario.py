@@ -54,6 +54,7 @@ class Cuestionario ():
         temp_dump = self.cuestionario.copy()
         for item in temp_dump:
             item["fallos"] = 0
+            item["aciertos"] = 0
 
         print("Generar backup", self.file)
         with open(os.path.join(self.backup_fails_folder, self.file), 'w', encoding="utf-8") as f:
@@ -91,20 +92,24 @@ class Cuestionario ():
             
                 if temp_resp in self.data_brute["abrr_opts"][pregunta["respuesta"]]:
                     print("✅✅✅ ¡Correcto!")
+                    self.contabilizar_fallo_acierto(pregunta, True)
                    
                 else:
                     print(f"❌❌❌ Incorrecto. Respuesta correcta: ===> {pregunta["respuesta"].upper()} <===") 
-                       
-                    self.contabilizar_fallo(pregunta)
+                    self.contabilizar_fallo_acierto(pregunta, False)
                 break
 
 
 
-    def contabilizar_fallo(self, pregunta_fallada):
+    def contabilizar_fallo_acierto(self, pregunta, fallo_acierto: bool):
         for _, item in enumerate(self.backup_file):
-            if item["pregunta"] == pregunta_fallada["pregunta"]:
-                print("Incrementamos error")
-                item["fallos"] = item["fallos"] + 1
+            if item["pregunta"] == pregunta["pregunta"]:
+                if not fallo_acierto:
+                    print("Incrementamos error")
+                    item["fallos"] = item["fallos"] + 1
+                else:
+                    print("Incrementamos aciertos")
+                    item["aciertos"] = item["aciertos"] + 1
 
     def guardar_fallos(self):
         with open(os.path.join(self.backup_fails_folder, self.file), 'w', encoding="utf-8") as f:

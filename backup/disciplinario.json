@@ -2,306 +2,367 @@
     {
         "pregunta": "a) El retraso o la negligencia en el cumplimiento de las funciones y órdenes recibidas.",
         "respuesta": "leve",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "g) La falta de rendimiento reiterada que ocasione un perjuicio a los ciudadanos, a las entidades con personalidad jurídica o a la eficacia de los servicios.",
         "respuesta": "grave",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "f) No prestar servicio, alegando supuesta enfermedad.",
         "respuesta": "grave",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "b) La incorrección con los ciudadanos, o con otros miembros de los Cuerpos y Fuerzas de Seguridad, siempre que no merezcan una calificación más grave.",
         "respuesta": "leve",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "m) Haber sido condenado en virtud de sentencia firme por una falta dolosa cuando la infracción penal cometida cause daño a la Administración o a los Administrados.",
         "respuesta": "leve",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "m) La negativa injustificada a someterse a reconocimiento médico, prueba de alcoholemia o de detección de drogas tóxicas, estupefacientes o sustancias psicotrópicas, legítimamente ordenadas, a fin de constatar la capacidad psicofísica para prestar servicio.",
         "respuesta": "muy grave",
-        "fallos": 2
+        "fallos": 2,
+        "aciertos":0
     },
     {
         "pregunta": "k) No ir provisto en los actos de servicio del uniforme reglamentario, cuando su uso sea preceptivo, de los distintivos de la categoría o cargo, del arma reglamentaria o de los medios de protección o acción que se determinen, siempre que no medie autorización en contrario.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "ñ) Causar, por negligencia inexcusable, daños graves en la conservación de los locales, del material o de los demás elementos relacionados con el servicio o dar lugar al extravío, la pérdida o la sustracción de estos.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "z) La no prestación de auxilio con urgencia en aquellos hechos o circunstancias graves en que sea obligada su actuación, salvo que constituya delito.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "o) Impedir, limitar u obstaculizar a los subordinados el ejercicio de los derechos que tengan reconocidos, siempre que no constituya falta muy grave.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "s) Emplear, o autorizar la utilización para usos no relacionados con el servicio o con ocasión de este, o sin que medie causa justificada, de medios o recursos inherentes a la función policial.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "g) Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitar las mismas.\nQuedan exceptuadas del conducto reglamentario aquellas que se formulen por los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical.",
         "respuesta": "leve",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "l) Exhibir armas sin causa justificada, así como utilizarlas en acto de servicio o fuera de él infringiendo las normas que regulan su empleo.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "j) La participación en huelgas, en acciones sustitutivas de estas o en actuaciones concertadas con el fin de alterar el normal funcionamiento de los servicios.",
         "respuesta": "muy grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "r) Solicitar y obtener cambios de destino mediando cualquier recompensa, ánimo de lucro o falseando las condiciones que los regulan.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "e) La insubordinación individual o colectiva, respecto a las Autoridades o mandos de que dependan.",
         "respuesta": "muy grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "f) El abandono de servicio, salvo que exista causa de fuerza mayor que impida comunicar a un superior dicho abandono.",
         "respuesta": "muy grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "a) La grave desconsideración con los superiores, compañeros, subordinados o ciudadanos, en el ejercicio de sus funciones o cuando cause descrédito notorio a la Institución Policial.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "x) La infracción de deberes u obligaciones legales inherentes al cargo o a la función policial, cuando se produzcan de forma grave y manifiesta.",
         "respuesta": "grave",
-        "fallos": 1
+        "fallos": 1,
+        "aciertos":0
     },
     {
         "pregunta": "c) La inasistencia al servicio que no constituya falta de mayor gravedad y el incumplimiento de la jornada de trabajo, así como las faltas repetidas de puntualidad, en los 30 días precedentes.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "d) El mal uso o el descuido en la conservación de los locales, del material o de los demás elementos de los servicios, así como el incumplimiento de las normas dadas en esta materia, cuando no constituya falta más grave.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "e) Dar lugar al extravío, pérdida o sustracción por simple negligencia, de los distintivos de identificación, del arma reglamentaria u otros medios o recursos destinados a la función policial.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "f) La exhibición de los distintivos de identificación sin causa justificada.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "h) El descuido en el aseo personal y el incumplimiento de las normas sobre la uniformidad, siempre que no constituya falta grave.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "i) La ausencia injustificada de cualquier servicio, cuando no merezca calificación más grave.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "j) La omisión intencionada de saludo a un superior, que éste no lo devuelva o infringir de otro modo las normas que lo regulan.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "k) Cualquier clase de juego que se lleve a cabo en las dependencias policiales, siempre que perjudique la prestación del servicio o menoscabe la imagen policial.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "l) Ostentar insignias, condecoraciones u otros distintivos, sin estar autorizado para ello, siempre que no merezca una calificación más grave.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "n) Aquellas acciones u omisiones tipificadas como faltas graves que, de acuerdo con los criterios que se establecen en el artículo 12, merezcan la calificación de leves.",
         "respuesta": "leve",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "b) La desobediencia a los superiores jerárquicos o los responsables del servicio con motivo de las órdenes o instrucciones legítimas dadas por aquéllos, salvo que constituyan infracción manifiesta del ordenamiento jurídico.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "c) La omisión de la obligación de dar cuenta a la superioridad con la debida diligencia de todo asunto que por su entidad requiera su conocimiento o decisión urgente.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "d) La falta de presentación o puesta a disposición inmediata de la dependencia donde estuviera destinado, o en la más próxima, en los casos de declaración de los estados de excepción o sitio o, cuando así se disponga, en caso de alteración grave de la seguridad ciudadana; o, en los casos de declaración del estado de alarma, la no presentación cuando sean emplazados para ello, de acuerdo con lo dispuesto por la autoridad competente.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "e) La tercera falta injustificada de asistencia al servicio en un período de tres meses cuando las dos anteriores hubieran sido objeto de sanción firme por falta leve.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "h) El abuso de atribuciones cuando no constituya infracción muy grave.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "i) La emisión de informes sobre asuntos de servicio que, sin faltar abiertamente a la verdad, la desnaturalicen, valiéndose de términos ambiguos, confusos o tendenciosos, o la alteren mediante inexactitudes, cuando se cause perjuicio a la Administración o a los ciudadanos, siempre que el hecho no constituya delito o falta muy grave.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "j) La intervención en un procedimiento administrativo cuando concurra alguna de las causas legales de abstención.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "m) Dar lugar al extravío, pérdida o sustracción por negligencia inexcusable de los distintivos de identificación o del arma reglamentaria.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "n) Asistir de uniforme a cualquier manifestación o reunión pública, salvo que se trate de actos de servicio, o actos oficiales en los que la asistencia de uniforme esté indicada o haya sido autorizada.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "p) Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas fuera del servicio, cuando tales circunstancias tengan carácter habitual o afecten a la imagen del Cuerpo Nacional de Policía. Se entenderá que existe habitualidad cuando estuvieren acreditados tres o más episodios de embriaguez o consumo de las sustancias referidas en un periodo de un año.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "q) La tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, excepto que esa tenencia se derive de actuaciones propias del servicio.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "t) Las infracciones a lo dispuesto en la legislación sobre utilización de videocámaras por las Fuerzas y Cuerpos de Seguridad en lugares públicos, no constitutivas de falta muy grave.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "u) El incumplimiento de los plazos u otras disposiciones de procedimiento en materia de incompatibilidades, cuando no supongan mantenimiento de una situación de incompatibilidad.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "v) La violación del secreto profesional cuando no perjudique el desarrollo de la labor policial, a las entidades con personalidad jurídica o a cualquier ciudadano.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "w) La falta de colaboración manifiesta con otros miembros de los Cuerpos y Fuerzas de Seguridad, siempre que no merezca la calificación de falta muy grave.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "y) Haber sido condenado en virtud de sentencia firme por un delito doloso, siempre que no constituya infracción muy grave, o por una falta dolosa cuando la infracción penal cometida esté relacionada con el servicio.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "z) bis La infracción de las normas de prevención de riesgos laborales que pongan en grave riesgo la vida, salud, o integridad física, propia o de sus compañeros o subordinados.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "z) ter La negativa reiterada a tramitar cualquier solicitud, reclamación o queja relacionada con el servicio, siempre que no constituya falta leve.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "z) quáter. Aquellas acciones u omisiones tipificadas como faltas muy graves que, de acuerdo con los criterios que se establecen en el artículo 12, merezcan la calificación de graves, y sin que estas a su vez puedan ser calificadas como faltas leves.",
         "respuesta": "grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "a) El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de las funciones.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "b) Haber sido condenado en virtud de sentencia firme por un delito doloso relacionado con el servicio o que cause grave daño a la Administración o a las personas.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "c) El abuso de atribuciones que cause grave daño a los ciudadanos, a los subordinados, a la Administración o a las entidades con personalidad jurídica.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "d) La práctica de tratos inhumanos, degradantes, discriminatorios o vejatorios a los ciudadanos que se encuentren bajo custodia policial.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "g) La publicación o la utilización indebida de secretos oficiales, declarados así con arreglo a la legislación específica en la materia.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "h) La violación del secreto profesional cuando perjudique el desarrollo de la labor policial, a cualquier ciudadano o a las entidades con personalidad jurídica.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "i) El incumplimiento de las normas sobre incompatibilidades cuando ello dé lugar a una situación de incompatibilidad.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "k) La falta de colaboración manifiesta con otros miembros de las Fuerzas y Cuerpos de Seguridad, cuando resulte perjudicado gravemente el servicio o se deriven consecuencias graves para la seguridad ciudadana.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "l) Embriagarse o consumir drogas tóxicas, estupefacientes o sustancias psicotrópicas durante el servicio o realizarlo en estado de embriaguez o bajo los efectos manifiestos de los productos citados.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "n) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "ñ) El acoso sexual y el acoso laboral, consistente este último en la realización reiterada, en el marco de una relación de servicio, de actos de acoso psicológico u hostilidad.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "o) La obstaculización grave al ejercicio de las libertades públicas y derechos sindicales.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     },
     {
         "pregunta": "p) Las infracciones tipificadas como muy graves en la legislación sobre utilización de videocámaras por las Fuerzas y Cuerpos de Seguridad en lugares públicos.",
         "respuesta": "muy grave",
-        "fallos": 0
+        "fallos": 0,
+        "aciertos":0
     }
 ]
