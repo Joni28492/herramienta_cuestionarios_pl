@@ -21,7 +21,7 @@ class Cuestionario ():
         self.backup_file = None # archivo que importa lista con conteo de fallos
 
         # ejecutar programa
-        self.main()
+        # self.run()
         
     def cargar_data(self):
         with open(self.path, 'r', encoding='utf-8') as f:
@@ -123,7 +123,7 @@ class Cuestionario ():
             print(f"Pregunta numero: {i+1} ")
             self.realizar_pregunta(pregunta)
 
-    def main(self):
+    def run(self):
         self.cargar_data()
         self.generar_cuestionario_agregar_opciones_respuesta()
         if not self.chekear_si_existe_backup_file(): # ojo a la iversion de logica
@@ -177,6 +177,6 @@ if __name__ == "__main__":
 
     cuestionario = Cuestionario('data', archivo_seleccionado, "backup", cantidad_preguntas ) 
 
-
+    cuestionario.run()
    
-    # todo agregar opcion de articulo para la gravedad de la infraccion
+  

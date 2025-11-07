@@ -64,6 +64,16 @@ def generar_informe_completo():
     except subprocess.CalledProcessError as e:
 
         print(f"Error al generar informe completo: {e}")
+def mostrar_ratio_fallos_Aciertos():
+
+    os.chdir(init_path)
+
+    try:
+
+        subprocess.run(["python.exe", "barra_fallos_cuestionario.py"], shell=True)
+    except subprocess.CalledProcessError as e :
+        print(f"error al intentar mostrar ratios: {e}")
+
 
 
 if __name__ == '__main__':
@@ -73,7 +83,8 @@ if __name__ == '__main__':
         crear_commit,
         ejecutar_cuestionario,
         ejecutar_test_selector,
-        generar_informe_completo
+        generar_informe_completo,
+        mostrar_ratio_fallos_Aciertos
         # activar_enviroment
     ]
 
