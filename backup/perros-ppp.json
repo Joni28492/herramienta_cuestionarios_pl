@@ -3,78 +3,78 @@
         "pregunta": "el incumplimiento de cualquiera de las obligaciones establecidas en la presente Ley, no comprendidas en los números 1 y 2 de este artículo",
         "respuesta": "leve",
         "fallos": 1,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "a) Dejar suelto un animal potencialmente peligroso o no haber adoptado las medidas necesarias para evitar su escapada o extravío.",
         "respuesta": "grave",
-        "fallos": 0,
-        "aciertos":0
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "d) Hallarse el perro potencialmente peligroso en lugares públicos sin bozal o no sujeto con cadena.",
+        "respuesta": "grave",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "e) El transporte de animales potencialmente peligrosos con vulneración de lo dispuesto en el artículo 10 de esta Ley.",
+        "respuesta": "grave",
+        "fallos": 1,
+        "aciertos": 0
     },
     {
         "pregunta": "b) Incumplir la obligación de identificar el animal.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "c) Omitir la inscripción en el Registro.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos":0
-    },
-    {
-        "pregunta": "d) Hallarse el perro potencialmente peligroso en lugares públicos sin bozal o no sujeto con cadena.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos":0
-    },
-    {
-        "pregunta": "e) El transporte de animales potencialmente peligrosos con vulneración de lo dispuesto en el artículo 10 de esta Ley.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos":0
+        "aciertos": 0
     },
     {
         "pregunta": "f) La negativa o resistencia a suministrar datos o facilitar la información requerida por las autoridades competentes o sus agentes, en orden al cumplimiento de funciones establecidas en esta Ley, así como el suministro de información inexacta o de documentación falsa.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "a) Abandonar un animal potencialmente peligroso, de cualquier especie y cualquier perro, entendiéndose por animal abandonado, tanto aquél que vaya preceptivamente identificado, como los que no lleven ninguna identificación sobre su origen o propietario, siempre que no vayan acompañados de persona alguna.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "b) Tener perros o animales potencialmente peligrosos sin licencia.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "c) Vender o transmitir por cualquier título un perro o animal potencialmente peligroso a quien carezca de licencia.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "d) Adiestrar animales para activar su agresividad o para finalidades prohibidas.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 0
     },
     {
         "pregunta": "e) Adiestrar animales potencialmente peligrosos por quien carezca del certificado de capacitación.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 1
     },
     {
         "pregunta": "f) La organización o celebración de concursos, ejercicios, exhibiciones o espectáculos de animales potencialmente peligrosos, o su participación en ellos, destinados a demostrar la agresividad de los animales.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos":0
+        "aciertos": 0
     }
 ]

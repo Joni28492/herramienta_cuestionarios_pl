@@ -3,11 +3,15 @@ import json
 from colorama import Fore, Style, init
 import random
 
+#todo implementar aciertos fallos y crear preguntas reales
+
 class Custom_chained_questions():
 
     def __init__(self, path_base='chained',file_base='chained_base.json', backup_folder='chained_backup', backup_file='custom.json' ):
         self.path_base = path_base
         self.file_base = file_base
+
+        self.afirmacion_otp = ('s', 'si' )
 
         self.backup_folder = backup_folder 
         self.backup_file = backup_file
@@ -41,7 +45,7 @@ class Custom_chained_questions():
         print(Style.BRIGHT, pregunta["pregunta"], Style.RESET_ALL)
         log = input("La sabias: ")
 
-        if log == 's':
+        if log in self.afirmacion_otp:
             print(Fore.GREEN, Style.BRIGHT ,"guardar correcto", Style.RESET_ALL)
             question_log["aciertos"] = 1
 
@@ -64,20 +68,22 @@ class Custom_chained_questions():
         for i, p in enumerate(pregunta["listado"]):
             print(i, p)
             p_log = input("la sabias?:")
-            if p_log == 's':
+            if p_log in self.afirmacion_otp:
                 log_pregunta_listado["listado"].append({
                     "item": pregunta["listado"][i],
                     "aciertos": 1,
                     "fallos": 0
                 })
-                print("Si la sabia")
+                print("✅✅✅")
+                print(Fore.GREEN,"Si la sabia", Style.RESET_ALL)
             else:
                 log_pregunta_listado["listado"].append({
                     "item": pregunta["listado"][i],
                     "aciertos": 0,
                     "fallos": 1
                 }),
-                print("No la sabia")
+                print(Fore.RED, "No la sabia" , Style.RESET_ALL)
+                print("❌❌❌")
         self.backup_preguntas.append(log_pregunta_listado)
 
     def resolver_pregunta_encadenada(self, pregunta):
@@ -96,7 +102,7 @@ class Custom_chained_questions():
         print(Fore.GREEN, Style.BRIGHT ,pregunta["respuesta_inicial"], Style.RESET_ALL)
         init_log = input("Acertaste la primera?")
 
-        if init_log == 's':
+        if init_log in self.afirmacion_otp:
             log_cahined["aciertos_inicial"] = 1
             print("✅✅✅")
         else:
@@ -157,8 +163,8 @@ class Custom_chained_questions():
         self.importar_backup()
         # print(self.backup_importado)
         self.fill_quesion_list()
-        # self.randomizar_cuestionario()
-        # self.realizar_cuestionario()
+        self.randomizar_cuestionario()
+        self.realizar_cuestionario()
 
         # self.resolver_pregunta_encadenada(self.quesion_list[2])
         # self.resolver_pregunta_listado(self.quesion_list[1])

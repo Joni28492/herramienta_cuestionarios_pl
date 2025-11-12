@@ -31,7 +31,6 @@ def get_cuestionario_por_tema(tema:str):
             "opts": list(dict(q.data_brute["abrr_opts"]))
         }
         
-        # return abrr_opts
         return data
         
         

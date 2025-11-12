@@ -1,19 +1,19 @@
 [
     {
+        "pregunta": "b) No presentar certificado veterinario en las transacciones dispuestas en el artículo 9.",
+        "respuesta": "leve",
+        "fallos": 5,
+        "aciertos": 0
+    },
+    {
         "pregunta": "f) Transportar los animales incumpliendo la normativa específica en materia de bienestar animal y sin adoptar las medidas precautorias para garantizar la seguridad de las personas, bienes y otros animales.",
         "respuesta": "grave",
         "fallos": 4,
-        "aciertos": 0
+        "aciertos": 2
     },
     {
         "pregunta": "j) Ejecutar el sacrificio de animales incumpliendo los métodos autorizados reglamentariamente o cuando el sacrificio de estos animales se realice sin la supervisión de un Veterinario responsable, suponiendo en ambos casos sufrimiento innecesario del animal.",
         "respuesta": "grave",
-        "fallos": 4,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "b) No presentar certificado veterinario en las transacciones dispuestas en el artículo 9.",
-        "respuesta": "leve",
         "fallos": 4,
         "aciertos": 0
     },
@@ -24,13 +24,13 @@
         "aciertos": 0
     },
     {
-        "pregunta": "e) No cumplir los requisitos sanitarios obligatorios, cuando ello no entrañe peligro para los animales o las personas.",
+        "pregunta": "h) Ejecutar el sacrificio de animales incumpliendo los métodos autorizados reglamentariamente o cuando el sacrificio de estos animales se realice sin la supervisión de un Veterinario responsable, cuando en ambos supuestos no haya sufrimiento innecesario.",
         "respuesta": "leve",
-        "fallos": 3,
+        "fallos": 4,
         "aciertos": 1
     },
     {
-        "pregunta": "h) Ejecutar el sacrificio de animales incumpliendo los métodos autorizados reglamentariamente o cuando el sacrificio de estos animales se realice sin la supervisión de un Veterinario responsable, cuando en ambos supuestos no haya sufrimiento innecesario.",
+        "pregunta": "e) No cumplir los requisitos sanitarios obligatorios, cuando ello no entrañe peligro para los animales o las personas.",
         "respuesta": "leve",
         "fallos": 3,
         "aciertos": 1
@@ -39,55 +39,79 @@
         "pregunta": "e) No estar en posesión del certificado veterinario de buen estado sanitario en las transacciones cuando el animal padezca enfermedades o vicios ocultos.",
         "respuesta": "grave",
         "fallos": 3,
+        "aciertos": 2
+    },
+    {
+        "pregunta": "o) No esterilizar los perros de ataque en los supuestos legalmente exigidos.",
+        "respuesta": "grave",
+        "fallos": 3,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "f) No guardar las fichas clínicas de los animales durante cinco años en los establecimientos veterinarios.",
+        "respuesta": "leve",
+        "fallos": 3,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "b) La venta o cesión en lugares públicos no autorizados.",
+        "respuesta": "grave",
+        "fallos": 3,
         "aciertos": 0
     },
     {
         "pregunta": "a) La apertura y funcionamiento de establecimientos que no reúnan los requisitos del artículo 7 de esta Ley.",
         "respuesta": "grave",
         "fallos": 2,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "g) La participación a título de espectador o espectadora en espectáculos prohibidos por esta Ley.",
         "respuesta": "leve",
         "fallos": 2,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "o) No esterilizar los perros de ataque en los supuestos legalmente exigidos.",
-        "respuesta": "grave",
-        "fallos": 2,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "f) No guardar las fichas clínicas de los animales durante cinco años en los establecimientos veterinarios.",
-        "respuesta": "leve",
-        "fallos": 2,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "h) No tener identificados reglamentariamente los perros y los gatos, o las demás especies objeto de esta Ley a las que se refiere el artículo 12.3.",
         "respuesta": "grave",
         "fallos": 2,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "n) No inscribir en el Registro correspondiente un animal potencialmente peligroso.",
         "respuesta": "grave",
-        "fallos": 1,
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "d) Vender perros y gatos con incumplimiento de lo dispuesto en el artículo 9.1 y 2 de esta Ley.",
+        "respuesta": "grave",
+        "fallos": 2,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "g) No poseer la cartilla sanitaria y vacunaciones obligatorias vigentes de los animales potencialmente peligrosos.",
+        "respuesta": "grave",
+        "fallos": 2,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "m) Incumplir la obligación de identificar el animal potencialmente peligroso.",
+        "respuesta": "grave",
+        "fallos": 2,
         "aciertos": 0
     },
     {
         "pregunta": "h) Circular con perros de ataque sin bozal o sin correa.",
         "respuesta": "muy grave",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "a) El mal trato, la utilización abusiva y el sufrimiento innecesario ejercido a los animales objeto de esta Ley.  Se considerará agravante de esta infracción cuando sea cometida por personas que ejerzan las actividades incluidas en los artículos 7 y 29 de esta Ley.",
         "respuesta": "muy grave",
         "fallos": 1,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "c) La organización de exposiciones u otras manifestaciones con animales sin autorización.",
@@ -99,25 +123,31 @@
         "pregunta": "k) Abandonar los animales objeto de esta Ley. Se considera abandono la pérdida o extravío de uno de estos animales que no se hubiera denunciado ante la autoridad competente en el plazo de cuarenta y ocho horas.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "p) No facilitar la información requerida por las autoridades competentes, en el cumplimiento de sus funciones, así como el suministro de información inexacta o de documentación falsa.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 1
+        "aciertos": 3
     },
     {
-        "pregunta": "b) La venta o cesión en lugares públicos no autorizados.",
+        "pregunta": "i) Incumplir los requisitos sanitarios obligatorios, siempre que ello entrañe peligro para otros animales o las personas.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 2
+    },
+    {
+        "pregunta": "q) No controlar debidamente a los animales, dejándolos deambular por espacios públicos o privados, sin autorización.",
+        "respuesta": "grave",
+        "fallos": 1,
+        "aciertos": 1
     },
     {
         "pregunta": "a) No acompañar la venta de los animales objeto de esta Ley de documento informativo citado en el artículo 9.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "c) No controlar la aireación y la temperatura en los transportes en vehículos privados de perros y gatos.",
@@ -129,49 +159,19 @@
         "pregunta": "d) No poseer cartilla sanitaria, ni certificado de vacunación obligatoria, para los animales que preceptivamente la requieran.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "d) Vender perros y gatos con incumplimiento de lo dispuesto en el artículo 9.1 y 2 de esta Ley.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "g) No poseer la cartilla sanitaria y vacunaciones obligatorias vigentes de los animales potencialmente peligrosos.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "i) Incumplir los requisitos sanitarios obligatorios, siempre que ello entrañe peligro para otros animales o las personas.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "m) Incumplir la obligación de identificar el animal potencialmente peligroso.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos": 0
+        "aciertos": 2
     },
     {
         "pregunta": "ñ) Circular un perro de guarda o defensa en lugares públicos sin bozal o no sujeto con correa.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "q) No controlar debidamente a los animales, dejándolos deambular por espacios públicos o privados, sin autorización.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "b) Abandonar un animal potencialmente peligroso.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "c) Tener animales potencialmente peligrosos sin licencia.",
@@ -183,13 +183,13 @@
         "pregunta": "d) Vender o transmitir por cualquier título un animal potencialmente peligroso a quien carezca de licencia.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "e) Adiestrar animales para potenciar su agresividad o para fines prohibidos.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 3
     },
     {
         "pregunta": "f) Adiestrar animales potencialmente peligrosos por quien carezca del certificado de capacitación.",
@@ -201,6 +201,6 @@
         "pregunta": "g) La organización o celebración de concursos, ejercicios, exhibiciones, peleas o espectáculos de los animales objeto de esta Ley que supongan malos tratos, utilización abusiva o sufrimiento innecesario.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 3
     }
 ]

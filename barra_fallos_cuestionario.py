@@ -65,7 +65,7 @@ class Barra_fallos:
         self.cargar_archivos()
         self.ordenar_por_ratio()
         for item in self.files_fails:
-            self.print_ratio_bar(item["archivo"], item["ratio"])
+            self.print_ratio_bar(item["archivo"][:-5].upper(), item["ratio"])
             # print(item["archivo"], (item["ratio"]) )
 
   
