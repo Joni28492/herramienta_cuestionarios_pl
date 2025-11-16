@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:6.0
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./mongo:/data/db
+    # environment:
+    #   MONGO_INITDB_ROOT_USERNAME: root
+    #   MONGO_INITDB_ROOT_PASSWORD: example
+
+  # python-app:
+  #   build: .
+  #   container_name: python-app
+  #   depends_on:
+  #     - mongo
+  #   # environment:
+  #   #   - MONGO_URI=mongodb://root:example@mongo:27017/
+  #   volumes:
+  #     - .:/app
