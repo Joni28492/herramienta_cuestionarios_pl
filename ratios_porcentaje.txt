@@ -1,0 +1,19 @@
+| ratio       | interpretación directa                    |
+| ----------- | ----------------------------------------- |
+| 0.00 – 0.15 | dominio muy alto / residual               |
+| 0.16 – 0.45 | atención ocasional, repaso suave          |
+| 0.46 – 0.85 | zona amarilla → repasar semanal           |
+| 0.86 – 1.50 | zona naranja → priorizar repaso inmediato |
+| > 1.50      | zona roja → intervención urgente          |
+
+
+
+ejemplo GPT
+| archivo                         | ratio    | zona                     |
+| ------------------------------- | -------- | ------------------------ |
+| alcohol_y_drogas.json           | **2.15** | 🔥 roja grave            |
+| perros-13-2002.json             | 1.03     | naranja / alta prioridad |
+| seguridad_ciudadana.json        | 0.73     | amarilla alto            |
+| admin_nulidad_anulabilidad.json | 0.73     | amarilla alt             |
+| lepar.json                      | 0.72     | amarilla                 |
+| competencias_trafico.json       | 0.74     | amarilla                 |
