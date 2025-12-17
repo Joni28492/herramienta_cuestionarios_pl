@@ -123,6 +123,9 @@ class Cuestionario ():
             print(f"Pregunta numero: {i+1} ")
             self.realizar_pregunta(pregunta)
 
+
+
+
     def run(self):
         self.cargar_data()
         self.generar_cuestionario_agregar_opciones_respuesta()
@@ -135,6 +138,10 @@ class Cuestionario ():
         self.iniciar_cuestionario()
         self.reordenar_fallos()
         self.guardar_fallos()
+        self.generar_html_cuestionario()
+
+
+
         
 
     # otras funciones para mejorarlo

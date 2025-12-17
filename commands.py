@@ -1,6 +1,7 @@
 import subprocess
 import os 
 import time
+import socket
 
 
 path_asturpol_game = r"E:\ESCRITORIO 2023\OPOSICIONES\desarrollo applicaciones\asturpol-game"
@@ -74,6 +75,23 @@ def mostrar_ratio_fallos_Aciertos():
     except subprocess.CalledProcessError as e :
         print(f"error al intentar mostrar ratios: {e}")
 
+def html_server():
+    #  python -m http.server 8080
+    os.chdir( os.path.join(init_path, 'html') )
+    ## obtener ip
+    try:
+        hostname = socket.gethostname()
+        local_ip = socket.gethostbyname(hostname)
+        print(f"Tu IP local (socket): {local_ip}")
+    except socket.gaierror:
+        print("No se pudo obtener la IP local de esta manera.")
+
+    try:
+        subprocess.run([ "python", "-m", "http.server", "8080" ], shell=True)
+    except subprocess.CalledProcessError as e :
+        print(f"error al intentar mostrar ratios: {e}")
+
+
 
 
 if __name__ == '__main__':
@@ -84,7 +102,8 @@ if __name__ == '__main__':
         ejecutar_cuestionario,
         ejecutar_test_selector,
         generar_informe_completo,
-        mostrar_ratio_fallos_Aciertos
+        mostrar_ratio_fallos_Aciertos,
+        html_server
         # activar_enviroment
     ]
 
