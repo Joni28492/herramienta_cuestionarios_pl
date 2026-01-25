@@ -1,0 +1,282 @@
+[
+    {
+        "timestamp": 1761142186.8958907,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿Quién expide el permiso de circulación para vehículos en régimen de matrícula diplomática?",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura Provincial de Tráfico del domicilio del interesado. ",
+            "b": "b) La Jefatura Provincial de Tráfico de Madrid. ",
+            "c": "c) a) es correcta, a instancia del Ministerio de Interior. ",
+            "d": "d) b) es correcta, a instancia del Ministerio de Interior. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761142194.983317,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Qué siglas utilizan las matrículas especiales de las oficinas consulares y su personal?",
+        "opciones_respuesta": {
+            "a": "a) OC ",
+            "b": "b) OCP ",
+            "c": "c) CC ",
+            "d": "d) CP "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142212.1037467,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "2. Toda persona natural o jurídica que sea titular de un vehículo matriculado en España y que lo transmita a otra, deberá notificarlo a la Jefatura de Tráfico de la provincia en que tenga su domicilio legal o a aquélla en que fue matriculado el vehículo:",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 10 días. ",
+            "b": "b) En el plazo de 15 días. ",
+            "c": "c) En el plazo de 20 días. ",
+            "d": "d) En el plazo de 30 días. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761142224.7039645,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "1. El permiso de circulación, ¿debe renovarse?:",
+        "opciones_respuesta": {
+            "a": "a) No. ",
+            "b": "b) Si, cuando varíe la titularidad registral del vehículo. ",
+            "c": "c) Si, cuando cambie de domicilio habitual el titular del vehículo. ",
+            "d": "d) Si, periódicamente conforme a la legislación vigente. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761142236.007558,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿De qué color es la matrícula temporal para empresa?",
+        "opciones_respuesta": {
+            "a": "a) Fondo verde y letras blancas. ",
+            "b": "b) Fondo rojo y letras blancas. ",
+            "c": "c) Fondo amarillo y letras negras. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761142243.1601408,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "4. En el supuesto de transmisión motivada por el fallecimiento del titular del vehículo, la persona que tenga a su cargo la custodia y, en su caso, el uso del mismo mientras se adjudica a uno de los herederos deberá notificarlo a la Jefatura de Tráfico de su domicilio legal antes de transcurrir:",
+        "opciones_respuesta": {
+            "a": "a) 30 días de la defunción. ",
+            "b": "b) 60 días de la defunción. ",
+            "c": "c) 90 días de la defunción. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142260.223549,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "6. Toda persona natural o jurídica que sea titular de un vehículo matriculado en España y lo entregue, para su posterior transmisión, a un vendedor de vehículos con establecimiento abierto en España para esta actividad deberá solicitar:",
+        "opciones_respuesta": {
+            "a": "a) La baja temporal del mismo, en el plazo de 10 días desde la entrega. ",
+            "b": "b) La baja temporal del mismo, en el plazo de 20 días desde la entrega. ",
+            "c": "c) La baja definitiva del mismo, en el plazo de 10 días desde la entrega. ",
+            "d": "d) La baja definitiva del mismo, en el plazo de 20 días desde la entrega. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761142271.175282,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "18. Un permiso de circulación temporal para particulares tendrá una duración de:",
+        "opciones_respuesta": {
+            "a": "a) 10 días, en todo caso. ",
+            "b": "b) 30 días, en todo caso. ",
+            "c": "c) 10 días o 30 días, según el caso. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761142284.0561047,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "3. El adquirente deberá solicitar de la Jefatura de Tráfico de la provincia de su domicilio legal o de aquélla en que se matriculó el vehículo, la renovación del permiso o licencia de circulación:",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 10 días. ",
+            "b": "b) En el plazo de 15 días. ",
+            "c": "c) En el plazo de 20 días. ",
+            "d": "d) En el plazo de 30 días. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761142301.4236631,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿En qué registros se inscriben los vehículos especiales agrícolas?",
+        "opciones_respuesta": {
+            "a": "a) En el registro de vehículos ",
+            "b": "b) En el registro de vehículos especiales, el cual comunicará sus datos al Registro de vehículos. ",
+            "c": "c) En el registro oficial de maquinaria agrícola, el cual comunicará sus datos al Registro de vehículos. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142311.0966082,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Es necesario matricular un remolque o semirremolque con su propia matrícula?",
+        "opciones_respuesta": {
+            "a": "a) No, es suficiente con que porte la matrícula del vehículo tractor. ",
+            "b": "b) Si, en todo caso. ",
+            "c": "c) Si, en caso de tener masa máxima autorizada superior a 750 kilos. ",
+            "d": "d) Si, en caso de tener masa máxima autorizada superior a 3.500 kilos. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142341.3684282,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "7. Señale cuál de los siguientes motivos no corresponde a una baja definitiva:",
+        "opciones_respuesta": {
+            "a": "a) Cuando cualquier Jefatura de Tráfico lo acuerde de oficio, mediante la oportuna resolución, respecto de los vehículos que hayan sido retirados de las vías públicas por los agentes encargados de la vigilancia y regulación del tráfico, una vez comprobado que han sido abandonados por sus titulares. ",
+            "b": "b) Por traslado del vehículo a otro país donde vaya a ser matriculado. ",
+            "c": "c) Cuando se entreguen, para su posterior transmisión, a un vendedor de vehículos con establecimiento abierto en España para esta actividad. ",
+            "d": "d) Ninguno de los anteriores corresponde a una baja definitiva. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142350.6477404,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "19. Un permiso de circulación temporal para uso de empresas tendrá una duración de:",
+        "opciones_respuesta": {
+            "a": "a) 60 días. ",
+            "b": "b) 3 meses ",
+            "c": "c) Un año ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142367.2411358,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "5. Cuando la transmisión afecte a un vehículo sobre el que previamente se haya trabado embargo por una autoridad judicial o administrativa inscrito en el Registro de Vehículos:",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura de Tráfico efectuará el cambio de titularidad y renovará el permiso o licencia de circulación, debiendo notificar la existencia del embargo al adquirente, y la identificación y domicilio de este a la autoridad que lo acordó. ",
+            "b": "b) La Jefatura de Tráfico no efectuará el cambio de titularidad ni renovará el permiso o licencia de circulación, debiendo notificar la existencia del embargo al adquirente. ",
+            "c": "c) La Jefatura de Tráfico anotará el cambio de titularidad pero no renovará el permiso o licencia de circulación, debiendo notificar la existencia del embargo al adquirente. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142394.3445857,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "16. Una matrícula especial con la sigla T, hace referencia a:",
+        "opciones_respuesta": {
+            "a": "a) Una matrícula turística ",
+            "b": "b) Una matrícula del personal técnico-administrativo. ",
+            "c": "c) Una matrícula de un vehículo histórico. ",
+            "d": "d) Una matrícula temporal. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761142403.4885454,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "13. El titular de un vehículo que hubiera sufrido variación en cualquiera de los datos que consten en el Registro de Vehículos dispondrá de un plazo para comunicarlo de:",
+        "opciones_respuesta": {
+            "a": "a) 10 días ",
+            "b": "b) 15 días ",
+            "c": "c) 20 días ",
+            "d": "d) Un mes "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761142413.0481634,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Qué vehículos deben ser objeto de matriculación definitiva en España?",
+        "opciones_respuesta": {
+            "a": "a) Los que se destinen a ser utilizados en España por residentes. ",
+            "b": "b) Los que se destinen a ser utilizados en España por personas o entidades que sean titulares de establecimientos situados en España. ",
+            "c": "c) a y b) son correctas ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142426.9926608,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "8. Las bajas temporales de los vehículos cuyo titular manifieste su voluntad de retirarlos temporalmente de la circulación tendrán una duración de:",
+        "opciones_respuesta": {
+            "a": "a) 3 meses ",
+            "b": "b) 6 meses ",
+            "c": "c) 1 año ",
+            "d": "d) 2 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761142433.72108,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿Qué artículo de la LSV nos habla de las placas de matrícula y la matriculación?",
+        "opciones_respuesta": {
+            "a": "a) 66 ",
+            "b": "b) 67 ",
+            "c": "c) 68 ",
+            "d": "d) Ninguno de los anteriores "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761142458.3687973,
+        "path": "/bloque_III/_plan_pl_3.6.2-01.json",
+        "id": "id2340234",
+        "pregunta": "20. Un vehículo autorizado para realizar una prueba o ensayo de investigación extraordinario se encontrará habilitado para rebasar la velocidad máxima hasta en 30 km/h. ¿En qué vías no podrán realizar dicho ensayo rebasando la velocidad?",
+        "opciones_respuesta": {
+            "a": "a) En vías urbanas y travesías. ",
+            "b": "b) En vías públicas abiertas a la circulación. ",
+            "c": "c) a) es correcta, y tampoco en vías que tengan señalización limitando la velocidad. ",
+            "d": "d) b) es correcta, y tampoco en vías que tengan señalización limitando la velocidad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    }
+]

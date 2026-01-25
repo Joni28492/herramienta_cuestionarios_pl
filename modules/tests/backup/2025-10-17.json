@@ -1,0 +1,254 @@
+[
+    {
+        "timestamp": 1760714650.3832836,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "4. Es circunstancia eximente el obrar en defensa de la persona o derechos propios o ajenos, siempre que concurran los requisitos siguientes (SEÑALE LA OPCIÓN INCORRECTA):",
+        "opciones_respuesta": {
+            "a": "a. Agresión ilegitima ",
+            "b": "b. Falta de provocación ",
+            "c": "c. Que no exista obligación de sacrificarse ",
+            "d": "d. Necesidad racional del medio empleado "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760714669.6388881,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "18. Indique cuál de las siguientes infracciones NO supone la pérdida de 4 puntos.",
+        "opciones_respuesta": {
+            "a": "a. Conductor de ciclomotor con más de 2 años de antigüedad en el permiso AM que arroja una tasa de 0,29 mg/l de aire espirado. ",
+            "b": "b. Conductor de turismo que realiza un adelantamiento a ciclistas sin dejar 1,5 metros de separación lateral o entorpeciéndoles. ",
+            "c": "c. No respetar las señales u órdenes de los agentes de tráfico que se encuentran regulando la circulación. ",
+            "d": "d. Realizar maniobra de marcha atrás en autopista. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760714688.9345694,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "15. Son infracciones graves, cuando no sean constitutivas de delito, las conductas tipificadas en la Ley de Seguridad Vial referidas a:",
+        "opciones_respuesta": {
+            "a": "a. No mantener la distancia de seguridad con el vehículo precedente. ",
+            "b": "b. Conducir vehículos con la carga mal acondicionada o con peligro de caída. ",
+            "c": "c. Circular con un vehículo cuyo permiso de circulación está suspendido. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760714710.0078297,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "6. El recurso de Alzada:",
+        "opciones_respuesta": {
+            "a": "a. Se plantea contra las resoluciones de la administración que pongan fin a la vía administrativa. ",
+            "b": "b. El plazo de interposición del recurso será de un mes, si el acto fuera expreso. ",
+            "c": "c. El recurso solo podrá interponerse ante el órgano que dictó el acto. ",
+            "d": "d. El plazo de resolución será de un mes. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760714723.5597777,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "12. Constituye infracción LEVE a la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana:",
+        "opciones_respuesta": {
+            "a": "a. Las faltas de respeto y consideración cuyo destinatario sea un miembro de las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones de protección de la seguridad, cuando estas conductas no sean constitutivas de infracción penal. ",
+            "b": "b. La realización o incitación a la realización de actos que atenten contra la libertad e indemnidad sexual, o ejecutar actos de exhibición obscena, cuando no constituya infracción penal. ",
+            "c": "c. Los daños o el deslucimiento de bienes muebles o inmuebles de uso o servicio público, así como de bienes muebles o inmuebles privados en la vía pública, cuando no constituyan infracción penal. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760714735.462779,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "14. En vías urbanas que dispongan de plataforma única de calzada y acera, la velocidad máxima a la que podrán circular los vehículos será de:",
+        "opciones_respuesta": {
+            "a": "a. 20 km/h ",
+            "b": "b. 25 km/h ",
+            "c": "c. 30 km/h ",
+            "d": "d. 50 km/h "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760714760.0793865,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "11. Constituye falta disciplinaria GRAVE conforme al régimen disciplinario aplicable a las Policías Locales…",
+        "opciones_respuesta": {
+            "a": "a. No prestar servicio, alegando supuesta enfermedad. ",
+            "b": "b. La exhibición de los distintivos de identificación sin causa justificada. ",
+            "c": "c. Cualquier clase de juego que se lleve a cabo en las dependencias policiales, siempre que perjudique la prestación del servicio o menoscabe la imagen policial. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760714782.303878,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "5. De acuerdo al artículo 383 del Código Penal, el conductor de vehículo a motor o ciclomotor que, requerido por un agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcoholemia y la presencia de las drogas tóxicas, estupefacientes y sustancias psicotrópicas a que se refieren los artículos anteriores, será castigado con las penas de:",
+        "opciones_respuesta": {
+            "a": "a. Prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "b": "b. Prisión de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "c": "c. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760714829.2231848,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "20. Son infracciones graves, cuando no sean constitutivas de delito, las conductas tipificadas en la Ley de Seguridad Vial referidas a:",
+        "opciones_respuesta": {
+            "a": "a. Conducir un vehículo siendo titular de una autorización que carece de validez por no haber cumplido los requisitos administrativos exigidos reglamentariamente en España. ",
+            "b": "b. Arrojar a la vía o en sus inmediaciones objetos que puedan obstaculizar la libre circulación. ",
+            "c": "c. No mantener la distancia de seguridad con el vehículo precedente ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760714840.3042486,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "3. Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional, según establece el siguiente artículo de la Constitución Española:",
+        "opciones_respuesta": {
+            "a": "a. 18 ",
+            "b": "b. 19 ",
+            "c": "c. 20 ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760714879.6715038,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Es pena menos grave:",
+        "opciones_respuesta": {
+            "a": "a. La multa de 5 meses. ",
+            "b": "b. Los trabajos en beneficio de la comunidad de 31 dias. ",
+            "c": "c. La privación del derecho a residir en determinado lugar por 5 años. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760714884.0725086,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La señal V-6 indica que el vehículo:",
+        "opciones_respuesta": {
+            "a": "a. Tiene una longitud superior a 6 metros ",
+            "b": "b. Tiene una longitud superior a 12 metros ",
+            "c": "c. No puede sobrepasar los 25 km/h ",
+            "d": "d. No puede sobrepasar los 40 m/h "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760714894.960508,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cual de los siguientes servicios NO está obligado a prestar un municipio de 15.000 habitantes:",
+        "opciones_respuesta": {
+            "a": "a. Tratamiento de residuos ",
+            "b": "b. Instalaciones deportivas de uso público ",
+            "c": "c. Biblioteca pública ",
+            "d": "d. Está obligado a todos los anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760714915.4883072,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Es una circunstancia eximente de responsabilidad penal:",
+        "opciones_respuesta": {
+            "a": "a. El que, por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad. ",
+            "b": "b. La de obrar por causas o estímulos tan poderosos que hayan producido arrebato, obcecación u otro estado pasional de entidad semejante. ",
+            "c": "c. La de actuar el culpable a causa de su grave adicción. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760714921.7843018,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La exhibición de los distintivos de identificación sin causa justificada, constituye al régimen disciplinario aplicable a la Policía Local:",
+        "opciones_respuesta": {
+            "a": "a. Falta leve ",
+            "b": "b. Falta menos grave ",
+            "c": "c. Falta grave ",
+            "d": "d. Falta muy grave "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760714926.960303,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Las infracciones GRAVES a la Ley Orgánica de Protección de la Seguridad Ciudadana prescribirán:",
+        "opciones_respuesta": {
+            "a": "a. A los 3 meses ",
+            "b": "b. A los 6 meses ",
+            "c": "c. Al año ",
+            "d": "d. A los 2 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760714931.5923064,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "En las vías sin pavimentar el límite de velocidad máximo será de:",
+        "opciones_respuesta": {
+            "a": "a. 20 KM/H ",
+            "b": "b. 25 KM/H ",
+            "c": "c. 30 KM/H ",
+            "d": "d. 40 KM/H "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760714941.1923018,
+        "path": "/test-basicos/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.",
+        "opciones_respuesta": {
+            "a": "Masa en carga ",
+            "b": "Tara ",
+            "c": "Masa máxima autorizada ",
+            "d": "Masa por eje "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    }
+]

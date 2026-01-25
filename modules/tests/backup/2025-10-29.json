@@ -1,0 +1,212 @@
+[
+    {
+        "timestamp": 1761769948.3185759,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "11. El error invencible sobre un hecho constitutivo de la infracción penal:",
+        "opciones_respuesta": {
+            "a": "a) Excluye la responsabilidad criminal. ",
+            "b": "b) Atenúa la responsabilidad criminal. ",
+            "c": "c) Agrava la responsabilidad criminal ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761769955.6304245,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "16. No podrá ejecutarse pena ni medida de seguridad sino en virtud de sentencia firme dictada por el Juez o Tribunal competente, de acuerdo con las leyes procesales. Esto se conoce como...",
+        "opciones_respuesta": {
+            "a": "a) Garantía Jurisdiccional-Procesal ",
+            "b": "b) Garantía Penal ",
+            "c": "c) Garantía Criminal ",
+            "d": "d) Garantía de Ejecución "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761769966.1184828,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "2. Tendrán efecto retroactivo aquellas leyes penales que favorezcan al reo, aunque al entrar en vigor hubiera recaído sentencia firme y el sujeto estuviese cumpliendo condena. En caso de duda sobre la determinación de la Ley más favorable:",
+        "opciones_respuesta": {
+            "a": "a) Se aplicará la más antigua. ",
+            "b": "b) Se aplicará la más moderna. ",
+            "c": "c) Será oído el reo. ",
+            "d": "d) Decidirá el Tribunal que dictó la sentencia. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761769970.9266386,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿En qué artículo se desarrolla el Principio de Culpabilidad?",
+        "opciones_respuesta": {
+            "a": "a) 3 ",
+            "b": "b) 4 ",
+            "c": "c) 5 ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761769979.1504064,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿Quién tiene la consideración de autor?",
+        "opciones_respuesta": {
+            "a": "a) Los inductores y los cooperadores necesarios. ",
+            "b": "b) Los inductores y los cómplices. ",
+            "c": "c) Los inductores, los cómplices y los cooperadores necesarios. ",
+            "d": "d) Los cómplices y los encubridores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761769996.743333,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "3. En el caso de que un Juez o Tribunal, en el ejercicio de su jurisdicción, tenga conocimiento de alguna acción u omisión que, sin estar penada por la Ley, estime digna de represión:",
+        "opciones_respuesta": {
+            "a": "a) Condenará al reo por dicha acción u omisión, pero aplicará la pena inferior en grado. ",
+            "b": "b) Se abstendrá de todo procedimiento sobre ella, y tampoco hará mención al respecto. ",
+            "c": "c) Condenará al reo por dicha acción u omisión y expondrá al Gobierno las razones que le asistan para justificar dicha decisión. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761770006.6630907,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "4. Señale la opción correcta:",
+        "opciones_respuesta": {
+            "a": "a) No hay pena sin dolo e imprudencia. ",
+            "b": "b) No hay pena sin dolo o imprudencia. ",
+            "c": "c) No hay pena sin culpa e imprudencia. ",
+            "d": "d) No hay pena sin culpa o imprudencia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761770016.974928,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cuándo se considera cometido un delito?",
+        "opciones_respuesta": {
+            "a": "a) En el momento que se ejecuta la acción u omisión. ",
+            "b": "b) En el momento que se produce el resultado. ",
+            "c": "c) En el momento en que se tiene conocimiento de la acción u omisión. ",
+            "d": "d) En el momento en que se produce la detención del reo. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761770029.9753442,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "12. Cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él, estamos ante:",
+        "opciones_respuesta": {
+            "a": "a) Tentativa ",
+            "b": "b) Conspiración ",
+            "c": "c) Proposición ",
+            "d": "d) Provocación "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761770043.2234583,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "13. Cuando directamente se incita por medio de la imprenta, la radiodifusión o cualquier otro medio de eficacia semejante, que facilite la publicidad, o ante una concurrencia de personas, a la perpetración de un delito, estamos ante:",
+        "opciones_respuesta": {
+            "a": "a) Conspiración ",
+            "b": "b) Proposición ",
+            "c": "c) Provocación ",
+            "d": "d) Apología "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761770049.4717214,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "10. Las penas de los delitos pueden ser: (señale la opción incorrecta)",
+        "opciones_respuesta": {
+            "a": "a) Leves ",
+            "b": "b) Menos graves ",
+            "c": "c) Graves ",
+            "d": "d) Muy graves "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761770064.1278856,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "5. Las medidas de seguridad, en relación a la pena abstractamente aplicable al hecho cometido:",
+        "opciones_respuesta": {
+            "a": "a) Pueden resultar más gravosas, pero no de mayor duración. ",
+            "b": "b) Pueden resultar de mayor duración, pero no más gravosas. ",
+            "c": "c) Pueden resultar más gravosas y de mayor duración. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761770084.7436712,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "15. Son cómplices…",
+        "opciones_respuesta": {
+            "a": "a) Los que inducen directamente a otro u otros a ejecutar un delito. ",
+            "b": "b) Los que cooperan a su ejecución con un acto sin el cual no se habría efectuado. ",
+            "c": "c) Los que cooperan a la ejecución del hecho con actos anteriores o simultáneos (que no estén comprendidos en las opciones a) y b) de esta pregunta). ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761770103.2714527,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "17. La garantía criminal establece que...",
+        "opciones_respuesta": {
+            "a": "a) No podrá ejecutarse pena ni medida de seguridad sino en virtud de sentencia firme dictada por el Juez o Tribunal competente, de acuerdo con las leyes procesales. ",
+            "b": "b) No será castigado ningún delito con pena que no se halle prevista por ley anterior a su perpetración. ",
+            "c": "c) No será castigada ninguna acción ni omisión que no esté prevista como delito por ley anterior a su perpetración. ",
+            "d": "d) Las leyes penales no se aplicarán a casos distintos de los comprendidos expresamente en ellas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761770114.6795478,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué norma constituye el actual Código Penal?",
+        "opciones_respuesta": {
+            "a": "a) Ley Orgánica 10/1995, de 23 de noviembre. ",
+            "b": "b) Ley Orgánica 10/1995, de 23 de diciembre. ",
+            "c": "c) Ley Orgánica 10/2005, de 23 de noviembre. ",
+            "d": "d) Ley Orgánica 10/2005, de 23 de diciembre. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    }
+]

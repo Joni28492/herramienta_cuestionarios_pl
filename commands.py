@@ -33,7 +33,7 @@ def ejecutar_astro_asturpol_game():
         print(f"Error al ejecutar npm run dev: {e}")
 
 def ejecutar_cuestionario():
-    os.chdir(init_path)
+    os.chdir(os.path.join(init_path, "modules", "cuestionarios"))
 
     try:
         subprocess.run(["python.exe", "cuestionario.py"], shell=True )
@@ -41,7 +41,7 @@ def ejecutar_cuestionario():
         print(f"Error al ejecutar Cuestionario: {e}")
 
 def ejecutar_test_selector():
-    os.chdir(init_path)
+    os.chdir( os.path.join(init_path, "modules", "tests") )
 
     try:
         subprocess.run(["python.exe", "test_selector.py"], shell=True )
@@ -61,13 +61,13 @@ def generar_informe_completo():
 
     try:
 
-        subprocess.run(["python.exe", "generar_informe_completo.py"], shell=True )
+        subprocess.run(["python.exe", ".\modules\informes\generar_informe_completo.py"], shell=True )
     except subprocess.CalledProcessError as e:
 
         print(f"Error al generar informe completo: {e}")
 def mostrar_ratio_fallos_Aciertos():
 
-    os.chdir(init_path)
+    os.chdir(os.path.join(init_path, "modules", "cuestionarios"))
 
     try:
 

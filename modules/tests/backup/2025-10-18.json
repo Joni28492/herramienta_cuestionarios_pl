@@ -1,0 +1,1206 @@
+[
+    {
+        "timestamp": 1760774805.471505,
+        "path": "/bloque_IV/_plan_pl_4.1.json",
+        "id": "id2340234",
+        "pregunta": "16. No podrá ejecutarse pena ni medida de seguridad sino en virtud de sentencia firme dictada por el Juez o Tribunal competente, de acuerdo con las leyes procesales. Esto se conoce como...",
+        "opciones_respuesta": {
+            "a": "a) Garantía Jurisdiccional-Procesal ",
+            "b": "b) Garantía Penal ",
+            "c": "c) Garantía Criminal ",
+            "d": "d) Garantía de Ejecución "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760774836.869528,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Qué señal corresponde a los minusválidos?",
+        "opciones_respuesta": {
+            "a": "a) V-14 ",
+            "b": "b) V-15 ",
+            "c": "c) V-16 ",
+            "d": "d) V-20 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760774853.2775316,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿Puede regular la circulación el personal de protección civil?",
+        "opciones_respuesta": {
+            "a": "a) Si, si está habilitado por la autoridad responsable del tráfico. ",
+            "b": "b) Si, en todo caso. ",
+            "c": "c) Si, en caso de actividad deportiva o acto que aconseje limitar la circulación. ",
+            "d": "d) No, únicamente pueden impedir el acceso a una zona o itinerario, en caso de actividad deportiva o acto, y siempre habilitados por la autoridad responsable del tráfico. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760774864.9745302,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "16. La señal R-308 significa:",
+        "opciones_respuesta": {
+            "a": "a) Ceda el paso. ",
+            "b": "b) Velocidad máxima ",
+            "c": "c) Adelantamiento prohibido ",
+            "d": "d) Estacionamiento prohibido "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760774870.118534,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "23. Tiene consideración de vehículo lento:",
+        "opciones_respuesta": {
+            "a": "a) El que no sobrepasa los 40 km/h. ",
+            "b": "b) El que no sobrepasa los 25 km/h ",
+            "c": "c) El que no sobrepasa los 45 km/h. ",
+            "d": "d) El que no sobrepasa los 60 km/h. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760774885.365531,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "13. En un semáforo circular para vehículos, una luz amarilla no intermitente significa que:",
+        "opciones_respuesta": {
+            "a": "a) Los vehículos deben detenerse en las mismas condiciones que en una luz roja. ",
+            "b": "b) Los vehículos pueden proseguir si, cuando se encienda, el vehículo se encuentra tan cerca que no pueda detenerse antes del semáforo en condiciones de seguridad. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760774891.3255303,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "1. Los usuarios deben obedecer las prescripciones indicadas por las señales:",
+        "opciones_respuesta": {
+            "a": "a) Salvo circunstancias especiales que lo justifiquen. ",
+            "b": "b) Aun cuando parezcan estar en contradicción con las normas de circulación. ",
+            "c": "c) Solo los conductores de vehículos a motor y bicicletas. ",
+            "d": "d) a) y b) son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760774909.0785303,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿Qué quiere decir una marca longitudinal continua de color blanco más ancha que en caso general?",
+        "opciones_respuesta": {
+            "a": "a) Que es un carril de sentido único. ",
+            "b": "b) Que el carril se termina. ",
+            "c": "c) Que existe un carril especial. ",
+            "d": "d) Que existe un carril reversible. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760774915.229529,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "24. Tiene consideración de vehículo largo:",
+        "opciones_respuesta": {
+            "a": "a) Longitud superior a 6 metros. ",
+            "b": "b) Longitud superior a 10 metros. ",
+            "c": "c) Longitud superior a 12 metros. ",
+            "d": "d) Longitud superior a 15 metros. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760774925.0625355,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "21. El Reglamento de Vehículos se encuentra regulado por:",
+        "opciones_respuesta": {
+            "a": "a) RD 1428/2003, de 21 de noviembre. ",
+            "b": "b) RD 2822/1998, de 23 de diciembre. ",
+            "c": "c) RD 818/2009, de 8 de mayo. ",
+            "d": "d) RD 339/1990, de 2 de marzo. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760774973.479534,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "2. Usted va circulando, y se encuentra con un semáforo verde a la izquierda y un semáforo rojo a la derecha.",
+        "opciones_respuesta": {
+            "a": "a) Se atenderá al semáforo en rojo por ser más restrictivo. ",
+            "b": "b) Se atenderá al semáforo en verde si pretendo seguir de frente. ",
+            "c": "c) Se atenderá al semáforo en rojo si pretendo seguir de frente. ",
+            "d": "d) Se atenderá al semáforo en verde si pretendo girar a la derecha. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760774982.9105308,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "28. ¿Qué señal corresponde al distintivo ITV?",
+        "opciones_respuesta": {
+            "a": "a) V-15 ",
+            "b": "b) V-19 ",
+            "c": "c) V-20 ",
+            "d": "d) V-22 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775000.7585306,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿Qué quieren decir marcas discontinuas dobles que delimitan un carril por ambos lados?",
+        "opciones_respuesta": {
+            "a": "a) Que es un carril reversible. ",
+            "b": "b) Que es un carril especial. ",
+            "c": "c) Que el carril se termina. ",
+            "d": "d) Que el conductor se aproxima a una marca longitudinal continua. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775011.422531,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Qué quiere decir que la separación entre los trazos de la línea en una marca longitudinal discontinua sea más corta que en caso general?",
+        "opciones_respuesta": {
+            "a": "a) Que el conductor se aproxima a una marca longitudinal continua. ",
+            "b": "b) Que el conductor se aproxima a un tramo con riesgo especial. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775026.0625303,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "11. El RD 1428/2003 nos dice que los Agentes podrán dar órdenes o indicaciones a los usuarios a través de megafonía o por cualquier otro medio percibido claramente, entre los cuales están el uso de bandera roja, verde y amarilla. ¿Cuál de estas banderas puede ser utilizada por personal auxiliar en una marcha ciclista o deportiva?",
+        "opciones_respuesta": {
+            "a": "a) La bandera roja ",
+            "b": "b) La bandera amarilla ",
+            "c": "c) La bandera verde ",
+            "d": "d) Ninguna "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775043.3025303,
+        "path": "/bloque_III/_plan_pl_3.5.json",
+        "id": "id2340234",
+        "pregunta": "4. En caso de que las prescripciones indicadas por diferentes señales, de la misma categoría de preferencia, parezcan estar en contradicción entre sí:",
+        "opciones_respuesta": {
+            "a": "a) Se atenderá a la más restrictiva. ",
+            "b": "b) No se atenderá a ninguna, debiendo el conductor o usuario adoptar las cautelas oportunas para evitar cualquier incidente o daño. ",
+            "c": "c) Se atenderá a la situada inmediatamente a la izquierda. ",
+            "d": "d) Se atenderá a la situada inmediatamente a la derecha si va a girar hacia ese lado. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775493.9450555,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "62. Dejar suelto a un animal potencialmente peligroso…",
+        "opciones_respuesta": {
+            "a": "Es una infracción leve a la Ley 13/2002, del 23 de diciembre. ",
+            "b": "Es una infracción grave a la Ley 13/2002, del 23 de diciembre. ",
+            "c": "Es una infracción muy grave a la Ley 13/2002, del 23 de diciembre. ",
+            "d": "La Ley 13/2002, del 23 de diciembre, no recoge esa infracción. Se debe acudir a la Ley 50/99. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760775512.264178,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "11. La definición correcta de “parada” es:",
+        "opciones_respuesta": {
+            "a": "Inmovilización de un vehículo durante un tiempo inferior a dos minutos, en todo caso. ",
+            "b": "Inmovilización de un vehículo durante un tiempo no superior a dos minutos. ",
+            "c": "Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760775529.4091783,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "60. Jacinto tiene 20 años y su amigo Jaime 17 años. Jacinto compra alcohol en el supermercado y lo consume junto a Jaime, a quien no le solicita ninguna cantidad de dinero por el mismo. ¿Ha incurrido en alguna infracción Jacinto?",
+        "opciones_respuesta": {
+            "a": "Si, en una infracción leve a la Ley 4/15 del Principado de Asturias. ",
+            "b": "Si, en una infracción grave a la Ley 4/15 del Principado de Asturias. ",
+            "c": "Si, en una infracción muy grave a la Ley 4/15 del Principado de Asturias. ",
+            "d": "No, no ha cometido infracción al no proceder a la venta del alcohol. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775545.1771789,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "61. ¿Qué requisito NO tiene como obligación cumplir una peluquería de animales?",
+        "opciones_respuesta": {
+            "a": "Contar al menos con una persona que esté en contacto directo con los animales que posea un certificado de capacitación. ",
+            "b": "Cumplir la normativa en lo referente al emplazamiento, las instalaciones, las condiciones sanitarias y el bienestar de los animales. ",
+            "c": "Estar inscrita en el correspondiente Registro Municipal. ",
+            "d": "Todos son requisitos que deben cumplir las peluquerías de animales. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775558.6172209,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "20. Señale en que zona de las siguientes NO se encuentra prohibida la parada:",
+        "opciones_respuesta": {
+            "a": "Sobre la acera. ",
+            "b": "Sobre un paso para peatones. ",
+            "c": "En zonas destinadas a parada y estacionamiento de uso exclusivo para el transporte público urbano. ",
+            "d": "En todas las anteriores se encuentra prohibida la parada. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760775568.5452223,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Quiénes se encuentran obligados a utilizar casco en bicicleta al circular por vías urbanas?",
+        "opciones_respuesta": {
+            "a": "Todos. ",
+            "b": "Los menores de 14 años. ",
+            "c": "Los menores de 16 años. ",
+            "d": "Los menores de 18 años. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760775578.5532212,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "32. La Junta General puede exigir la responsabilidad política del Consejo de Gobierno mediante la adopción de una moción de censura. Esta debe ser:",
+        "opciones_respuesta": {
+            "a": "Propuesta por al menos el 15% de los miembros de la Junta, no podrá ser votada hasta que transcurran 5 días desde su presentación, y deberá adoptarse por mayoría absoluta. ",
+            "b": "Propuesta por al menos el 15% de los miembros de la Junta, no podrá ser votada hasta que transcurran 7 días desde su presentación, y deberá adoptarse por mayoría absoluta. ",
+            "c": "Propuesta por al menos la décima parte de los miembros de la Junta, no podrá ser votada hasta que transcurran 5 días desde su presentación, y deberá adoptarse por mayoría absoluta. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775589.2732403,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "43. ¿Qué condiciones deben cumplir las motocicletas que habilita el permiso A1?",
+        "opciones_respuesta": {
+            "a": "125 cc, potencia máxima de 11kW y relación potencia-peso máxima de 0,1 KW/kg. ",
+            "b": "125 cc, potencia máxima de 15kW y relación potencia-peso máxima de 0,1 KW/kg. ",
+            "c": "125 cc, potencia máxima de 15kW y relación potencia-peso máxima de 0,2 KW/kg. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775599.345275,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "71. La proposición se castigará:",
+        "opciones_respuesta": {
+            "a": "En todo caso. ",
+            "b": "Con pena inferior en uno o dos grados. ",
+            "c": "Como forma de inducción. ",
+            "d": "Sólo cuando esté previsto especialmente en la Ley. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760775604.4652736,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "37. ¿Cuántos puntos detrae no mantener la distancia de seguridad con el vehículo que nos precede?",
+        "opciones_respuesta": {
+            "a": "3 ",
+            "b": "4 ",
+            "c": "6 ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775616.537364,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "39. La Policía Local de Siero denuncia en el casco urbano de Pola de Siero al conductor de un turismo por tener caducado su permiso de conducir. ¿Quién es el órgano competente para sancionar?",
+        "opciones_respuesta": {
+            "a": "El Alcalde de Siero. ",
+            "b": "El Jefe Provincial de Tráfico de Asturias. ",
+            "c": "El Alcalde de Siero, o concejal delegado. ",
+            "d": "El Director General de Tráfico. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775630.4493682,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "64. ¿Dónde vienen recogidas las características que en caso de reunir un perro puede ser catalogado como potencialmente peligroso?",
+        "opciones_respuesta": {
+            "a": "En la Ley 13/2002, del 23 de diciembre. ",
+            "b": "En la Ley 50/99, del 23 de diciembre. ",
+            "c": "En el RD 287/2002, del 22 de marzo. ",
+            "d": "Ninguna es correcta. Solamente las razas establecidas en el anexo I del RD 287/2002 pueden tener consideración de perro potencialmente peligroso. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760775650.4573662,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "25. Indique cuál de los siguientes derechos NO puede ser suspendido en el estado de excepción:",
+        "opciones_respuesta": {
+            "a": "Derecho a elegir libremente residencia. ",
+            "b": "Derecho de reunión pacífica y sin armas. ",
+            "c": "Derecho de los trabajadores a adoptar medidas de conflicto colectivo. ",
+            "d": "Derecho a la propiedad privada. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760775666.825363,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "47. Un vehículo de categoría M2, con más de 5 años de antigüedad, se someterá a inspección técnica periódica de forma:",
+        "opciones_respuesta": {
+            "a": "Bienal ",
+            "b": "Anual ",
+            "c": "Semestral ",
+            "d": "Estará exento hasta los 6 años de antigüedad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775677.7533658,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "6. A una reunión de la Junta Local de Seguridad acuden el Alcalde del municipio correspondiente, el Subdelegado del Gobierno y el Presidente de la Comunidad Autónoma. ¿Quién asumirá la presidencia de la Junta Local de Seguridad?",
+        "opciones_respuesta": {
+            "a": "El Alcalde ",
+            "b": "El Subdelegado del Gobierno ",
+            "c": "El Presidente de la Comunidad Autónoma ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760775704.954366,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "30. Señale cuál de las siguientes NO es competencia exclusiva del Estado:",
+        "opciones_respuesta": {
+            "a": "Régimen minero y energético. ",
+            "b": "Administración de justicia. ",
+            "c": "Sanidad e higiene. ",
+            "d": "Pesca marítima. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760775735.266389,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "66. Señale en que hecho JACINTO no comete un delito contra la seguridad vial:",
+        "opciones_respuesta": {
+            "a": "Jacinto es amigo de Miguel. Miguel no posee permiso de conducir de ningún tipo. Jacinto, aun sabiendo esa circunstancia, le deja su coche a Miguel. ",
+            "b": "Jacinto pierde todos los puntos de su permiso de conducir. Le notifican de forma edictal esta circunstancia a Jacinto. Jacinto sigue conduciendo. ",
+            "c": "Jacinto tiene exclusivamente licencia para vehículos especiales agrícolas autopropulsados. Jacinto conduce un turismo. ",
+            "d": "Jacinto circula en ciclomotor, no tiene sintomatología de ningún tipo. Se niega a someterse a las pruebas de alcoholemia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775748.9613895,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "84. Los delitos contra la libertad se establecen en el título:",
+        "opciones_respuesta": {
+            "a": "IV ",
+            "b": "V ",
+            "c": "VI ",
+            "d": "VII "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775763.2663882,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "24. Indique cuál de las siguientes opciones NO pertenece a la sección “Derechos fundamentales y Libertades Públicas”:",
+        "opciones_respuesta": {
+            "a": "Derecho de petición. ",
+            "b": "Derecho al trabajo. ",
+            "c": "Derecho de participación. ",
+            "d": "Prohibición de los Tribunales de honor en la Administración civil. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760775771.6503882,
+        "path": "/repaso-unidades/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "74. ¿En qué artículo viene recogida la circunstancia mixta de parentesco?",
+        "opciones_respuesta": {
+            "a": "20 ",
+            "b": "21 ",
+            "c": "22 ",
+            "d": "23 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760786268.7967956,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "20. Quedan excluidos de la extradición:",
+        "opciones_respuesta": {
+            "a": "a) los delitos políticos ",
+            "b": "b) a) es correcta, no considerándose como tales los actos de terrorismo. ",
+            "c": "c) a) es correcta, considerándose como tales los actos de terrorismo. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760786284.4848053,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "12. El artículo 9.3 de la Constitución Española garantiza los siguientes principios:",
+        "opciones_respuesta": {
+            "a": "a) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. ",
+            "b": "b) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. ",
+            "c": "c) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica,  y la interdicción de la arbitrariedad de los poderes públicos. ",
+            "d": "d) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales, seguridad jurídica,  y la interdicción de la arbitrariedad de los poderes públicos. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786314.9489653,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "29. Señale la opción correcta.",
+        "opciones_respuesta": {
+            "a": "a) Los tribunales de honor están prohibidos en el ámbito de la Administración Civil. ",
+            "b": "b) La administración civil podrá imponer sanciones que, subsidiariamente, impliquen privación de libertad. ",
+            "c": "c) Todos los españoles tendrán el derecho de petición individual o colectiva, sin excepciones. ",
+            "d": "d) Todos los ciudadanos que se encuentren en territorio nacional tienen el deber de defender a España. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760786337.5166855,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "25. Conforme al artículo 18 de la CE, ¿Cuando está legitimada la entrada en un domicilio ajeno?",
+        "opciones_respuesta": {
+            "a": "a) En ningún caso. El domicilio es inviolable, se requiere consentimiento del titular. ",
+            "b": "b) En caso de resolución judicial que autorice dicha entrada. ",
+            "c": "c) b) es correcta, y también en caso de flagrante delito. ",
+            "d": "d) b) es correcta, y también en caso de flagrante delito o infracción administrativa muy grave contra la seguridad ciudadana. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786342.4288847,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "7. El castellano es la lengua española oficial del Estado. Todos los españoles tienen:",
+        "opciones_respuesta": {
+            "a": "a) El deber de conocerla y el derecho a usarla. ",
+            "b": "b) El deber de conocerla y de usarla. ",
+            "c": "c) El derecho de conocerla y de usarla. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760786345.516639,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuantos artículos tiene la CE?",
+        "opciones_respuesta": {
+            "a": "a) 159 ",
+            "b": "b) 165 ",
+            "c": "c) 169 ",
+            "d": "d) 175 "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786362.1490576,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "26. ¿Requiere autorización el ejercicio del derecho de reunión pacífica y sin armas?",
+        "opciones_respuesta": {
+            "a": "a) No. ",
+            "b": "b) Sí. ",
+            "c": "c) Sí, pero solo en caso de realizarse en lugares de tránsito público. ",
+            "d": "d) No, pero en caso de realizarse en lugares de tránsito público requerirá comunicación previa. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760786366.1490524,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "5. La forma política del Estado español es:",
+        "opciones_respuesta": {
+            "a": "a) La democracia ",
+            "b": "b) La monarquía parlamentaria ",
+            "c": "c) La soberanía nacional ",
+            "d": "d) El estado de derecho "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760786374.1330724,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "16. El título I de la CE se divide en:",
+        "opciones_respuesta": {
+            "a": "a) 5 capítulos, siendo el capítulo II subdividido en 2 secciones. ",
+            "b": "b) 4 capítulos, siendo el capítulo II subdividido en 2 secciones. ",
+            "c": "c) 5 capítulos, siendo el capítulo II subdividido en 3 secciones. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786390.749425,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "24. Conforme a lo establecido en la Constitución Española, la detención preventiva:",
+        "opciones_respuesta": {
+            "a": "a. No podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos. ",
+            "b": "b. a) es correcta y, en todo caso, en el plazo máximo de 48 horas el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial. ",
+            "c": "c. a) es correcta y, en todo caso, en el plazo máximo de 72 horas el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786397.2524784,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "13. ¿Cuál es la misión de las Fuerzas Armadas?",
+        "opciones_respuesta": {
+            "a": "a) Garantizar la soberanía e independencia de España. ",
+            "b": "b) Defender la integridad territorial de España. ",
+            "c": "c) Defender el ordenamiento constitucional de España. ",
+            "d": "d) Todas las anteriores. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760786402.709287,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "15. Los derechos fundamentales y las libertades públicas abarcan los artículos:",
+        "opciones_respuesta": {
+            "a": "a) 15 a 29 ",
+            "b": "b) 14 a 29 ",
+            "c": "c) 10 a 55 ",
+            "d": "d) 15 a 55 "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760786406.5086646,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "8. ¿Qué artículo establece la capital en la villa de Madrid?",
+        "opciones_respuesta": {
+            "a": "a) 4 ",
+            "b": "b) 5 ",
+            "c": "c) 6 ",
+            "d": "d) 7 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760786410.4609923,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Cuántos artículos tiene el título preliminar de la CE?",
+        "opciones_respuesta": {
+            "a": "a) 7 ",
+            "b": "b) 8 ",
+            "c": "c) 9 ",
+            "d": "d) 10 "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786418.3008971,
+        "path": "/bloque_I/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "21. ______________ son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.",
+        "opciones_respuesta": {
+            "a": "a) Todos los ciudadanos ",
+            "b": "b) Los españoles ",
+            "c": "c) Todos los que se encuentren en territorio español ",
+            "d": "d) Todas las personas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760786474.1256983,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "27) Señale la opción correcta, en relación al procedimiento sancionador abreviado:",
+        "opciones_respuesta": {
+            "a": "a) La sanción es firme en la vía administrativa desde el día siguiente a realizar el pago ",
+            "b": "b) La terminación del procedimiento requiere resolución expresa ",
+            "c": "c) Una vez agotada la vía administrativa, el procedimiento es recurrible ante el orden jurisdiccional contencioso-administrativo ",
+            "d": "d) Todas son incorrectas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760786489.461377,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "52) Una vez _______, el interesado dispondrá de un plazo final de ______ para el pago de la multa. Finalizado el plazo establecido sin que se haya pagado la multa, se iniciará el procedimiento de apremio.",
+        "opciones_respuesta": {
+            "a": "a) Notificada la sanción / 20 días hábiles ",
+            "b": "b) Notificada la sanción / 15 días naturales ",
+            "c": "c) Firme la sanción / 15 días naturales ",
+            "d": "d) Firme la sanción / 20 días hábiles "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786499.901574,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "37) ¿En qué artículo de la Ley de Seguridad Vial vienen recogidos los supuestos de inmovilización de un vehículo?",
+        "opciones_respuesta": {
+            "a": "a) 84 ",
+            "b": "b) 104 ",
+            "c": "c) 105 ",
+            "d": "d) 110 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760786520.8373952,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "47) Los gastos que se origen como consecuencia de la retirada del vehículo serán por cuenta del conductor que cometió la infracción.",
+        "opciones_respuesta": {
+            "a": "a) Verdadero ",
+            "b": "b) Verdadero, salvo en los casos de sustracción u otras formas de utilización del vehículo en contra de la voluntad de su titular, debidamente justificadas ",
+            "c": "c) Falso, serán del titular, del arrendatario o del conductor habitual ",
+            "d": "d) b) es correcta, y en defecto del conductor que cometió la infracción, serán por cuenta del titular, del arrendatario o del conductor habitual "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760786540.077865,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "24) En el supuesto de que no se haya producido la detención del vehículo, el titular, el arrendatario a largo plazo o el conductor habitual, en su caso, dispondrán de un plazo de ________  para identificar al conductor responsable de la infracción, contra el que se iniciará el procedimiento sancionador.",
+        "opciones_respuesta": {
+            "a": "a) 15 días naturales ",
+            "b": "b) 15 días hábiles ",
+            "c": "c) 20 días naturales ",
+            "d": "d) 20 días hábiles "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786554.6853552,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "12) Cuando el infractor __________________ , el agente denunciante fijará provisionalmente la cuantía de la multa y, de no depositarse su importe, el conductor deberá ______________",
+        "opciones_respuesta": {
+            "a": "a) no acredite su residencia legal en territorio español / trasladar el vehículo e inmovilizarlo en el lugar indicado por el agente denunciante ",
+            "b": "b) no acredite su residencia legal en territorio español / trasladar el vehículo e inmovilizarlo en el lugar que designe ",
+            "c": "c) no acredite la titularidad del vehículo / solicitar al titular del vehículo que se persone en el lugar. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760786568.9577496,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "25) Señale la opción incorrecta::",
+        "opciones_respuesta": {
+            "a": "a) Si se efectúa el pago voluntario de la multa con el 50% de descuento, se seguirá el procedimiento sancionador abreviado, y en caso de no hacerlo, el procedimiento sancionador ordinario ",
+            "b": "b) El procedimiento sancionador abreviado no será de aplicación a las infracciones previstas en el artículo 77. h), j), n), ñ), o), p), q) y r) ",
+            "c": "c) El incumplimiento de la obligación de asegurar el vehículo que se establece en la normativa sobre responsabilidad civil y seguro en la circulación de vehículos a motor, se sancionará exclusivamente conforme al procedimiento sancionador ordinario ",
+            "d": "d) Además de en los registros, oficinas y dependencias previstos en la normativa de procedimiento administrativo común, las alegaciones, escritos y recursos que se deriven de los procedimientos sancionadores en materia de tráfico podrán presentarse en los registros, oficinas y dependencias expresamente designados en la correspondiente denuncia o resolución sancionadora "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760786601.1976144,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "48) La Administración deberá comunicar la retirada y depósito del vehículo al titular del mismo.",
+        "opciones_respuesta": {
+            "a": "a) Verdadero, en el plazo de 72 horas. La comunicación se efectuará a través de la Dirección Electrónica Vial, si el titular dispusiese de ella ",
+            "b": "b) Verdadero, en el plazo de 48 horas. La comunicación se efectuará a través de la Dirección Electrónica Vial, si el titular dispusiese de ella ",
+            "c": "c) Verdadero, en el plazo de 24 horas. La comunicación se efectuará a través de la Dirección Electrónica Vial, si el titular dispusiese de ella ",
+            "d": "d) Falso, la Administración no tiene obligación de comunicación "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786612.997785,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "5) Los Jefes Provinciales de Tráfico y los órganos competentes que correspondan, en caso de comunidades autónomas que hayan recibido el traspaso de funciones y servicios en materia de tráfico y circulación de vehículos a motor, asumirán la competencia de los Alcaldes:",
+        "opciones_respuesta": {
+            "a": "a) Cuando no pueda ser ejercida por razones justificadas ",
+            "b": "b) Cuando no pueda ser ejercida por insuficiencia de servicios municipales ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760786633.3421574,
+        "path": "/bloque_III/_plan_pl_3.8.json",
+        "id": "id2340234",
+        "pregunta": "3) Los Jefes Provinciales de Tráfico podrán delegar en el Director del Centro de Tratamiento de Denuncias Automatizadas:",
+        "opciones_respuesta": {
+            "a": "a) Falso, son los Alcaldes quienes pueden delegar las infracciones que hayan sido detectadas a través de medios de captación y reproducción de imágenes que permitan la identificación del vehículo ",
+            "b": "b) Verdadero, las infracciones que hayan sido detectadas a través de medios de captación y reproducción de imágenes que permitan la identificación del vehículo ",
+            "c": "c) Verdadero, puede delegar la competencia sancionadora completa ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760812735.6647115,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "96) Para apreciar el tipo penal del artículo 382 bis, de \"Abandono del lugar del accidente\", se requiere",
+        "opciones_respuesta": {
+            "a": "a. Que el conductor que abandona el lugar del accidente lo haga en contra de su voluntad ",
+            "b": "b. Que el conductor que abandona el lugar de accidente lo haga voluntariamente, aun concurriendo riesgo propio o de terceros ",
+            "c": "c. Que en el accidente en cuestión fallecieren una o varias personas ",
+            "d": "d. Que en el accidente en cuestión se les causare alguna de las lesiones a que se refieren los artículos 147, 149 y 150. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760812744.6647053,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "91)  ¿Qué cantidad establece el Código Penal para distinguir el HURTO del delito de ROBO?",
+        "opciones_respuesta": {
+            "a": "300 euros ",
+            "b": "400 euros ",
+            "c": "500 euros ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812759.91271,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "9)  La Ley de Seguridad Vial tiene como objeto:",
+        "opciones_respuesta": {
+            "a": "Regular el tráfico, la circulación de vehículos a motor y la seguridad vial. ",
+            "b": "Regular el tráfico, la circulación de todos los vehículos y la seguridad vial. ",
+            "c": "Regular el tráfico, la circulación de vehículos a motor y bicicletas, así como la seguridad vial. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760812767.6807122,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "86)  El denominado SILENCIO ADMINISTRATIVO es un acto:",
+        "opciones_respuesta": {
+            "a": "Expreso ",
+            "b": "Presunto ",
+            "c": "De Gravamen ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760812783.448709,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "50)  Los vehículos de categoría N2 serán sometidos a inspección técnica con la siguiente frecuencia:",
+        "opciones_respuesta": {
+            "a": "Hasta 10 años de forma anual. ",
+            "b": "De 2 a 6 años de forma bienal. ",
+            "c": "Hasta 2 años exentos. ",
+            "d": "a) y c) son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812791.1127126,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "36)  ¿Que indica un damero blanco y rojo?",
+        "opciones_respuesta": {
+            "a": "Zona de frenado de emergencia ",
+            "b": "Zona reservada a vehículos de urgencia ",
+            "c": "Zona de retención ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760812801.0487108,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "14)  Para realizar una prueba de alcoholemia deben realizarse dos pruebas. Entre ambas pruebas no podrá pasar un tiempo superior a:",
+        "opciones_respuesta": {
+            "a": "5 minutos ",
+            "b": "10 minutos ",
+            "c": "15 minutos ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812817.8967168,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "75)  Dejar suelto a un animal potencialmente peligroso...",
+        "opciones_respuesta": {
+            "a": "Es una infracción GRAVE sancionada con multa de 600 a 3.000 euros. ",
+            "b": "Es una infracción GRAVE sancionada con multa de 300 a 6.000 euros. ",
+            "c": "Es una infracción MUY GRAVE sancionada con multa de 3.000 a 90.000 euros. ",
+            "d": "Es una infracción MUY GRAVE sancionada con multa de 6.000 a 90.000 euros. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760812835.240713,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "76)  ¿De quién es competencia ejercer la jefatura de la Policía Local en un municipio de Gran Población?",
+        "opciones_respuesta": {
+            "a": "Del Alcalde, pudiendo delegar dicha competencia en la Junta de Gobierno Local. ",
+            "b": "Del Alcalde, no pudiendo delegar dicha competencia. ",
+            "c": "Del Alcalde, pudiendo delegar dicha competencia en los demás concejales. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760812868.1767106,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "94) ¿En qué casos deberá la autoridad administrativa poner en conocimiento de la autoridad judicial la producción de un accidente de tráfico, acompañando la comunicación del oportuno atestado?\n ",
+        "opciones_respuesta": {
+            "a": "En todo caso ",
+            "b": "Sólo en caso de resultado de muerte ",
+            "c": "Sólo en caso de resultado de muerte o lesiones graves del 147.1 ",
+            "d": "Sólo en caso de resultado de muerte o lesiones "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760812875.264713,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "24)  ¿En qué artículo de la Ley de Seguridad Vial se menciona la Publicidad en relación con vehículos a motor?",
+        "opciones_respuesta": {
+            "a": "42 ",
+            "b": "46 ",
+            "c": "50 ",
+            "d": "52 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812882.3207095,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "79)  Los tributos se clasifican en:",
+        "opciones_respuesta": {
+            "a": "Tasas, contribuciones especiales e impuestos. ",
+            "b": "Tasas e impuestos. ",
+            "c": "Tasas, precios públicos e impuestos. ",
+            "d": "Contribuciones y tasas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760812889.816717,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "27)  Señale cuál de los siguientes estados NO será declarado por el Gobierno:",
+        "opciones_respuesta": {
+            "a": "Alarma ",
+            "b": "Excepción ",
+            "c": "Sitio ",
+            "d": "Todos los anteriores son declarados por el Gobierno "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812897.0967135,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "39)  La solicitud de prórroga de vigencia del permiso de conducir podrá presentarse, como norma general, con una antelación:",
+        "opciones_respuesta": {
+            "a": "máxima de 3 meses a su fecha de caducidad. ",
+            "b": "máxima de 6 meses a su fecha de caducidad. ",
+            "c": "máxima de 9 meses a su fecha de caducidad. ",
+            "d": "máxima de 2 meses a su fecha de caducidad. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760812911.6497118,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "10)  Las bicicletas podrán ser retiradas:",
+        "opciones_respuesta": {
+            "a": "Cuando estén abandonadas, exclusivamente. ",
+            "b": "Siempre que dificulten la circulación de vehículos o personas. ",
+            "c": "b) es correcto y también siempre que dañen el mobiliario urbano. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812933.90575,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "65)  El delito de homicidio por imprudencia menos grave tipificado en el artículo 142.2 del Código Penal.",
+        "opciones_respuesta": {
+            "a": "Solo será perseguible mediante denuncia de la persona agraviada o de su representante legal. ",
+            "b": "a) es correcta, salvo que se utilice un vehículo de motor o ciclomotor. ",
+            "c": "a) es correcta, salvo en caso de reincidencia. ",
+            "d": "Es un delito público por lo que se perseguirá de oficio. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760812957.058755,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "1)  ¿Qué artículo de la Ley Orgánica 2/86 otorga a los Agentes de Policía Local carácter de Agentes de la Autoridad?",
+        "opciones_respuesta": {
+            "a": "cuarto ",
+            "b": "quinto ",
+            "c": "sexto ",
+            "d": "séptimo "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760812966.2897508,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "2)  ¿Cuantos principios básicos de actuación recoge el artículo 5 de la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "4 ",
+            "b": "5 ",
+            "c": "6 ",
+            "d": "El artículo 5 no recoge ningún principio básico de actuación. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760812969.3057523,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "28)  El defensor del pueblo será elegido por:",
+        "opciones_respuesta": {
+            "a": "3 años ",
+            "b": "4 años ",
+            "c": "5 años ",
+            "d": "9 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760812986.0737529,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "11)  En la modificación de la ley de seguridad vial (a través de la ley 18/2021) se habilitó para utilizar manualmente el teléfono móvil a:",
+        "opciones_respuesta": {
+            "a": "Personal Militar en el ejercicio de sus funciones. ",
+            "b": "Vehículos de las Fuerzas Armadas en el ejercicio de sus funciones. ",
+            "c": "Vehículos de las Fuerzas Armadas cuando circulen en convoy. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760812997.3538058,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "97) El sistema \"eCall\"...",
+        "opciones_respuesta": {
+            "a": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio/video, basado en el número 062 ",
+            "b": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio, basado en el número 112 ",
+            "c": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio, basado en el número 062 ",
+            "d": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio/video, basado en el número 112 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760813011.433805,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "64)  ¿Qué normativa modificó el Código Penal respecto a los Delitos sexuales?",
+        "opciones_respuesta": {
+            "a": "Ley Orgánica 10/2022, de 6 de septiembre. ",
+            "b": "RD 10/2022, de 6 de septiembre. ",
+            "c": "Ley Orgánica 11/2022, de 5 de septiembre. ",
+            "d": "Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760813016.938025,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "58)  ¿Cuántas Salas tiene la Audiencia Nacional?",
+        "opciones_respuesta": {
+            "a": "3 ",
+            "b": "4 ",
+            "c": "5 ",
+            "d": "6 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760813028.2420251,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "45)  Los gastos originados por la inmovilización de un vehículo deberán ser abonados por:",
+        "opciones_respuesta": {
+            "a": "El titular del mismo ",
+            "b": "El conductor ",
+            "c": "El autor del hecho que originó la inmovilización ",
+            "d": "El conductor habitual, si tuviera designado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760813054.0510306,
+        "path": "/repaso-unidades/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "17)  Señale la opción INCORRECTA:",
+        "opciones_respuesta": {
+            "a": "El acceso a la categoría de AGENTE se realizará siempre por turno libre. ",
+            "b": "Los concejos reservarán hasta un 50% de las plazas vacantes de Policía Local para su provisión por promoción interna. ",
+            "c": "Los concejos reservarán un 20% de las plazas vacantes de la categoría de AGENTE de Policía Local para su provisión como puestos de trabajo entre los agentes de la escala básica de otros municipios del territorio nacional. ",
+            "d": "Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    }
+]

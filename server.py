@@ -3,7 +3,7 @@
 
 from fastapi import FastAPI, HTTPException
 import os
-from cuestionario import Cuestionario
+from cuestionario import Cuestionario  #todo revisar importacion
 from pymongo import MongoClient
 import json
 
@@ -44,7 +44,7 @@ def cuestionario_seed_backup():
         temp_file = None
         abbr_options = None
 
-       
+        ## todo Optimizar rutas por cambio a modules 
         with open(os.path.join('data', cat), 'r', encoding='utf-8') as f:
             abbr_options = list(dict(json.load(f)).keys())
             # print(abbr_options)

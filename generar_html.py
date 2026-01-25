@@ -3,7 +3,7 @@ import json
 
 class Generar_HTMLs:
 
-    def __init__(self, ruta_cuestionario='backup'):
+    def __init__(self, ruta_cuestionario=os.path.join("modules", "cuestionarios","backup")):
         self.ruta_cuestionario = ruta_cuestionario
         self.cuestionario_archivos =  os.listdir(self.ruta_cuestionario) 
 
@@ -13,6 +13,26 @@ class Generar_HTMLs:
             'leve': 'border-emerald-500',
             'grave': 'border-amber-400',
             'muy grave': 'border-red-500',
+
+            "eximentes":'border-emerald-500',
+            "atenuantes":'border-amber-400',
+            "agravantes":'border-red-500',
+
+            "municipio": "border-lime-600",
+            "administracion general del estado":"border-orange-400",
+            "ministerio del interior": "border-violet-950",
+
+            "policia":  'border-zinc-400',
+            "policia nacional": 'border-zinc-800',
+            "policia local": 'border-blue-600',
+            "guardia civil": 'border-green-900',
+            "propias": 'border-rose-600',
+            "colaboracion": 'border-yellow-700',
+            "simultaneas":  'boder-rose-500',
+        
+
+            "nulo pleno derecho":"border-rose-950",
+            "anulable":"border-rose-500",
         }
 
     def generar_html_cuestionario_archivo(self, archivo_json='alcohol_y_drogas.json'):
@@ -129,9 +149,10 @@ class Generar_HTMLs:
 
         html += html_footer
 
+        
 
         # crear archivo
-        with open(os.path.join('html', title+'.html'), 'w', encoding='utf-8') as f:
+        with open(os.path.join('docs','cuestionarios', title+'.html'), 'w', encoding='utf-8') as f:
             f.write(html)
 
     def generar_htmls(self):

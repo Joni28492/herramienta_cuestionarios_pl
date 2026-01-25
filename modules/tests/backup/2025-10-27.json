@@ -1,0 +1,212 @@
+[
+    {
+        "timestamp": 1761553405.8913875,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "1. El Defensor de Pueblo aparece regulado en el:",
+        "opciones_respuesta": {
+            "a": "a) Art. 55 de la CE ",
+            "b": "b) Art. 45 de  la CE ",
+            "c": "c) Art. 54 de la CE ",
+            "d": "d) Art. 53 de la CE"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761553409.3043885,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "2. El Defensor del Pueblo es un:",
+        "opciones_respuesta": {
+            "a": "a) Alto comisionado del Pueblo ",
+            "b": "b) Alto comisionado de las Cortes Generales ",
+            "c": "c) Alto comisionado del Congreso ",
+            "d": "d) Alto comisionado del Gobierno"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761553418.6013887,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "3. La Ley del Defensor de Pueblo es:",
+        "opciones_respuesta": {
+            "a": "a) La Ley Orgánica 3/1981 de 6 de abril, del Defensor del Pueblo ",
+            "b": "b) La Ley Orgánica 4/1981 de 5 de abril, del Defensor del Pueblo ",
+            "c": "c) La Ley Orgánica 3/1991 de 6 de abril, del Defensor del Pueblo ",
+            "d": "d) La Ley Orgánica 4/1981 de 6 de abril, del Defensor del Pueblo"
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761553432.809387,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "4. El Defensor del Pueblo:",
+        "opciones_respuesta": {
+            "a": "a) Es designado por el Rey, dando cuenta de su actividad a las Cortes Generales. ",
+            "b": "b) Es designado por el Congreso de los Diputados, dando cuenta de su actividad al Rey. ",
+            "c": "c) Es designado por las Cortes Generales, a las que dará cuenta. ",
+            "d": "d) Es designado por el Gobierno de la Nación, al que dará cuenta."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1761553437.7934167,
+        "path": "/bloque_I/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "5. El Defensor del Pueblo es nombrado por un periodo de…",
+        "opciones_respuesta": {
+            "a": "a) 3 años ",
+            "b": "b) 4 años ",
+            "c": "c) 5 años ",
+            "d": "d) 6 años"
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761564937.827016,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "1. Indique cuál de los siguientes derechos NO se encuentra comprendido en la sección 1ª del capítulo II del título I, “De los derechos fundamentales y de las libertades públicas”:",
+        "opciones_respuesta": {
+            "a": "a. Derecho a la libertad de cátedra. ",
+            "b": "b. Derecho al juez ordinario predeterminado por la Ley. ",
+            "c": "c. Derecho a sindicarse libremente. ",
+            "d": "d. Derecho al trabajo. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761564954.8040144,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "2. Conforme el artículo 26 de la LrBRL, los Municipios deberán prestar, en todo caso, los servicios siguientes:",
+        "opciones_respuesta": {
+            "a": "a. En los Municipios con población superior a 20.000 habitantes: transporte colectivo urbano de viajeros. ",
+            "b": "b. En los Municipios con población superior a 20.000 habitantes: evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social. ",
+            "c": "c. En todos los Municipios: parque público y cementerio. ",
+            "d": "d. En los Municipios con población superior a 5.000 habitantes: Instalaciones deportivas de uso público. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761564964.3470142,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "3. Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional, según establece el siguiente artículo de la Constitución Española:",
+        "opciones_respuesta": {
+            "a": "a. 18 ",
+            "b": "b. 19 ",
+            "c": "c. 20 ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761564973.7160125,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "4. Es circunstancia eximente el obrar en defensa de la persona o derechos propios o ajenos, siempre que concurran los requisitos siguientes (SEÑALE LA OPCIÓN INCORRECTA):",
+        "opciones_respuesta": {
+            "a": "a. Agresión ilegitima ",
+            "b": "b. Falta de provocación ",
+            "c": "c. Que no exista obligación de sacrificarse ",
+            "d": "d. Necesidad racional del medio empleado "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761564984.6680124,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "5. De acuerdo al artículo 383 del Código Penal, el conductor de vehículo a motor o ciclomotor que, requerido por un agente de la autoridad, se negare a someterse a las pruebas legalmente establecidas para la comprobación de las tasas de alcoholemia y la presencia de las drogas tóxicas, estupefacientes y sustancias psicotrópicas a que se refieren los artículos anteriores, será castigado con las penas de:",
+        "opciones_respuesta": {
+            "a": "a. Prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "b": "b. Prisión de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "c": "c. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761564998.9240139,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "6. El recurso de Alzada:",
+        "opciones_respuesta": {
+            "a": "a. Se plantea contra las resoluciones de la administración que pongan fin a la vía administrativa. ",
+            "b": "b. El plazo de interposición del recurso será de un mes, si el acto fuera expreso. ",
+            "c": "c. El recurso solo podrá interponerse ante el órgano que dictó el acto. ",
+            "d": "d. El plazo de resolución será de un mes. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1761565017.3240156,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "7. Será castigado con la pena de prisión de seis meses a dos años o a las de multa de doce a veinticuatro meses y trabajos en beneficio de la comunidad de diez a cuarenta días:",
+        "opciones_respuesta": {
+            "a": "a. El conductor de vehículo a motor que conduce bajo la influencia del alcohol (delito artículo 379). ",
+            "b": "b. El conductor de vehículo a motor que se niega a someterse a la prueba de detección de alcohol encontrándose obligado (delito artículo 383). ",
+            "c": "c. El que origine un grave riesgo para la circulación colocando en la vía obstáculos imprevisibles, derramando sustancias deslizantes o inflamables o mutando, sustrayendo o anulando la señalización o por cualquier otro medio (delito artículo 385). ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761565031.3480122,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "8. Constituye falta disciplinaria muy grave al régimen disciplinario aplicable a los Cuerpos de Policía Local:",
+        "opciones_respuesta": {
+            "a": "a. La grave desconsideración con los superiores, compañeros, subordinados o ciudadanos, en el ejercicio de sus funciones o cuando cause descrédito notorio a la Institución Policial. ",
+            "b": "b. La intervención en un procedimiento administrativo cuando concurra alguna de las causas legales de abstención. ",
+            "c": "c. La insubordinación individual o colectiva, respecto a las Autoridades o mandos de que dependan. ",
+            "d": "d. La no prestación de auxilio con urgencia en aquellos hechos o circunstancias graves en que sea obligada su actuación, salvo que constituya delito. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1761565038.6680138,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "9. La proyección de haces de luz, mediante cualquier tipo de dispositivo, sobre miembros de las Fuerzas y Cuerpos de Seguridad para impedir o dificultar el ejercicio de sus funciones, será sancionado con la siguiente cuantía:",
+        "opciones_respuesta": {
+            "a": "a. De 100 a 600 euros. ",
+            "b": "b. Hasta 600 euros. ",
+            "c": "c. De 601 a 30.000 euros ",
+            "d": "d. De 30.001 a 600.000 euros "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1761565067.5880153,
+        "path": "/test-basicos/_TB-06.json",
+        "id": "id2340234",
+        "pregunta": "10. Indique cuál de las siguientes armas NO se encuentra recogida en la categoría 7ª, conforme a la clasificación estipulada en el artículo 3 del RD 137/93, de 29 de enero, que aprueba el Reglamento de Armas.",
+        "opciones_respuesta": {
+            "a": "a. Los fusiles de pesca submarina que sirvan para disparar flechas o arpones, eficaces para la pesca y para otros fines deportivos. ",
+            "b": "b. Armas de inyección anestésica capaces de lanzar proyectiles que faciliten la captura o control de animales, anestesiándolos a distancia durante algún tiempo. ",
+            "c": "c. Las armas de avancarga. ",
+            "d": "d. Las armas de sistema Flobert "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    }
+]

@@ -1,0 +1,212 @@
+[
+    {
+        "timestamp": 1760946108.9284322,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "9) Los permisos y licencias de conducción, así como las autorizaciones administrativas que provisionalmente los sustituyan, serán expedidos por:",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura Provincial de Tráfico. ",
+            "b": "b) La Dirección General de Tráfico. ",
+            "c": "c) La Jefatura Central de Tráfico. ",
+            "d": "d) Los Ayuntamientos respectivos. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760946122.9604335,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "16) ¿Qué licencias de conducir existen? (señale la incorrecta)",
+        "opciones_respuesta": {
+            "a": "a) Licencia de ciclomotor ",
+            "b": "b) Licencia de vehículos especiales agrícolas autopropulsados. ",
+            "c": "c) Licencia de vehículos para personas con movilidad reducida. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1760946156.2244325,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "10) En relación a la pregunta anterior, que permisos se exceptúan de dicha expedición:",
+        "opciones_respuesta": {
+            "a": "a) Los que autorizan a conducir vehículos de las Fuerzas Armadas. ",
+            "b": "b) Los que autorizan a conducir vehículos de la Dirección General de Policía y de la Guardia Civil. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946168.8324332,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "34) Si un conductor posee permiso de conducción tipo A y tipo B , y comete con su motocicleta una infracción que supone la retirada de 3 puntos:",
+        "opciones_respuesta": {
+            "a": "a) Dicha cantidad será retirada del permiso de conducción tipo A. ",
+            "b": "b) Dicha cantidad será retirada del permiso de conducción tipo B. ",
+            "c": "c) El crédito de puntos es único para todas las autorizaciones administrativas. ",
+            "d": "d) El crédito de puntos es único para todas las autorizaciones administrativas, salvo para el permiso AM que será un crédito de puntos diferencial. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946173.4404385,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "22) La solicitud de prórroga de vigencia del permiso o licencia podrá presentarse con una antelación máxima de:",
+        "opciones_respuesta": {
+            "a": "a) 2 meses ",
+            "b": "b) 3 meses ",
+            "c": "c) 6 meses ",
+            "d": "d) 9 meses "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760946180.2164567,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "12) La obtención del permiso de la clase A está condicionado a:",
+        "opciones_respuesta": {
+            "a": "a) La posesión del permiso A2 en vigor, con un año, al menos, de antigüedad. ",
+            "b": "b) La posesión del permiso A1 en vigor, con un año, al menos, de antigüedad. ",
+            "c": "c) La posesión del permiso A2 en vigor, con dos años, al menos, de antigüedad. ",
+            "d": "d) La posesión del permiso A1 en vigor, con dos años, al menos, de antigüedad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946189.920463,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "7) La conducción de vehículos a motor y ciclomotores exigirá haber obtenido previamente el preceptivo permiso o licencia de conducción dirigido a verificar que el conductor tenga los requisitos de:",
+        "opciones_respuesta": {
+            "a": "a) Capacidad, conocimientos y habilidad. ",
+            "b": "b) Aptitud y capacidad. ",
+            "c": "c) Aptitud, conocimientos y habilidad. ",
+            "d": "d) Conocimientos y aptitud. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760946209.5534575,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "3) ¿Qué documentos son obligatorios llevar consigo por todo conductor de vehículos a motor y a su vez exhibirlos ante los Agentes de la Autoridad encargados de la vigilancia del tráfico?",
+        "opciones_respuesta": {
+            "a": "a) Permiso de conducir, permiso de circulación y tarjeta de inspección técnica. ",
+            "b": "b) Permiso de circulación y tarjeta de inspección técnica. ",
+            "c": "c) a) es correcta, y también documento acreditativo de poseer seguro de responsabilidad civil obligatorio. ",
+            "d": "d) b) es correcta, y también documento acreditativo de poseer seguro de responsabilidad civil obligatorio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946216.7844574,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "29) ¿Cuál es el máximo de puntos que se pueden tener?",
+        "opciones_respuesta": {
+            "a": "a) 12 puntos ",
+            "b": "b) 14 puntos ",
+            "c": "c) 15 puntos ",
+            "d": "d) 18 puntos "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946231.1844566,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "36) Un conductor posee el crédito máximo que un conductor puede poseer. Después pierde 6 puntos. Transcurridos 2 años sin haber sido sancionado en firme por la comisión de infracciones que lleven aparejada la pérdida de puntos, dicho conductor tendrá:",
+        "opciones_respuesta": {
+            "a": "a) 12 puntos ",
+            "b": "b) 8 puntos ",
+            "c": "c) Falta información para responder con certeza. ",
+            "d": "d) 9 puntos "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1760946254.0654557,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "38)  Mediante el curso de sensibilización y reeducación vial:",
+        "opciones_respuesta": {
+            "a": "a) Un conductor que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de 6 puntos, por una sola vez cada 2 años. ",
+            "b": "b) Un conductor que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de 4 puntos, por una sola vez cada año. ",
+            "c": "c) La opción a) es correcta, con la excepción de los conductores profesionales que podrán realizar el curso anualmente. ",
+            "d": "d) La opción b) es correcta, con la excepción de los conductores profesionales que podrán realizar el curso cada 6 meses. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946263.1214614,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "28) El titular de un permiso o licencia de conducción que, tras perder su asignación total de puntos, ha obtenido nuevamente el permiso o la licencia de conducción, tendrá:",
+        "opciones_respuesta": {
+            "a": "a) 6 puntos ",
+            "b": "b) 8 puntos ",
+            "c": "c) 12 puntos ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760946267.816458,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "17) ¿A qué edad se puede obtener licencia de vehículos para personas con movilidad reducida?",
+        "opciones_respuesta": {
+            "a": "a) 14 años ",
+            "b": "b) 15 años ",
+            "c": "c) 16 años ",
+            "d": "d) 18 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1760946294.7214577,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "5) El titular de un permiso o licencia de conducción o del permiso de circulación de un vehículo comunicará a los registros del organismo autónomo Jefatura Central de Tráfico su domicilio. Éste se utilizará para efectuar las notificaciones respecto de todas las autorizaciones de que disponga. A estos efectos, ¿Quienes podrán comunicar al organismo autónomo Jefatura Central de Tráfico los nuevos domicilios de que tengan constancia?",
+        "opciones_respuesta": {
+            "a": "a) Únicamente los propios titulares de las referidas autorizaciones administrativas. ",
+            "b": "b) Los Ayuntamientos. ",
+            "c": "c) Los Ayuntamientos y la Agencia Estatal de Administración Tributaria. ",
+            "d": "d) c) es correcta, y también los centros de reconocimiento de conductores. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1760946306.8894575,
+        "path": "/bloque_III/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "33) Excepcionalmente, se asignará un crédito inicial de ___ puntos, en caso de que el titular de un permiso de conducción posea una antigüedad no superior a ___ años  salvo que ya fuera titular de otro permiso con aquella antigüedad.",
+        "opciones_respuesta": {
+            "a": "a) 6 / 3 años. ",
+            "b": "b) 8 / 3 años ",
+            "c": "c) 6 / 2 años ",
+            "d": "d) 8 / 2 años. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    }
+]
