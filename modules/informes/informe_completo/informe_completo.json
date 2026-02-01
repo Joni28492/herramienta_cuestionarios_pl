@@ -4387,7 +4387,7 @@
         "pregunta": "Los que tengan un contenido imposible.",
         "respuesta": "nulo pleno derecho",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 3,
         "file_name_secction": "admin nulidad anulabilidad",
         "mode": "columns system"
     },
@@ -4395,7 +4395,7 @@
         "pregunta": "Son ___ los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder.",
         "respuesta": "anulable",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "admin nulidad anulabilidad",
         "mode": "columns system"
     },
@@ -5432,25 +5432,25 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
-        "respuesta": "administracion general del estado",
-        "fallos": 4,
-        "aciertos": 1,
+        "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
+        "respuesta": "ministerio del interior",
+        "fallos": 5,
+        "aciertos": 0,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
     {
-        "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
-        "respuesta": "ministerio del interior",
+        "pregunta": "k) La regulación del vehículo automatizado, de conformidad con lo dispuesto en la ley.",
+        "respuesta": "administracion general del estado",
         "fallos": 4,
-        "aciertos": 0,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
     {
         "pregunta": "q) La garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores, en todos los ámbitos regulados en esta ley.",
         "respuesta": "ministerio del interior",
-        "fallos": 3,
+        "fallos": 4,
         "aciertos": 0,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
@@ -5483,7 +5483,7 @@
         "pregunta": "e) Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
         "respuesta": "ministerio del interior",
         "fallos": 2,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5491,7 +5491,7 @@
         "pregunta": "h) Los registros de vehículos, de conductores e infractores, de profesionales de la enseñanza de la conducción, de centros de formación de conductores, de los centros de reconocimiento destinados a verificar las aptitudes psicofísicas de los conductores y de manipulación de placas de matrícula, en los términos que reglamentariamente se determine.",
         "respuesta": "ministerio del interior",
         "fallos": 2,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5515,7 +5515,7 @@
         "pregunta": "o) La realización de las pruebas, reglamentariamente establecidas, para determinar el grado de intoxicación alcohólica, o por drogas, de los conductores que circulen por las vías públicas en las que tiene atribuida la ordenación, gestión, control y vigilancia del tráfico.",
         "respuesta": "ministerio del interior",
         "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5571,7 +5571,7 @@
         "pregunta": "a) La regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas cuando no esté expresamente atribuida a otra Administración.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5579,7 +5579,7 @@
         "pregunta": "b) La regulación mediante ordenanza municipal de circulación, de los usos de las vías urbanas, haciendo compatible la equitativa distribución de los aparcamientos entre todos los usuarios con la necesaria fluidez del tráfico rodado y con el uso peatonal de las calles, así como el establecimiento de medidas de estacionamiento limitado, con el fin de garantizar la rotación de los aparcamientos, prestando especial atención a las necesidades de las personas con discapacidad que tienen reducida su movilidad y que utilizan vehículos, todo ello con el fin de favorecer su integración social.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5587,7 +5587,7 @@
         "pregunta": "c) La inmovilización de los vehículos en vías urbanas cuando no dispongan de título que habilite el estacionamiento en zonas limitadas en tiempo o excedan de la autorización concedida, hasta que se logre la identificación de su conductor. \nLa retirada de los vehículos de las vías urbanas y su posterior depósito cuando obstaculicen, dificulten o supongan un peligro para la circulación, o se encuentren incorrectamente aparcados en las zonas de estacionamiento restringido, en las condiciones previstas para la inmovilización en este mismo artículo. Las bicicletas sólo podrán ser retiradas y llevadas al correspondiente depósito si están abandonadas o si, estando amarradas, dificultan la circulación de vehículos o personas o dañan el mobiliario urbano. \nIgualmente, la retirada de vehículos en las vías interurbanas y el posterior depósito de éstos, en los términos que reglamentariamente se determine.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5603,7 +5603,7 @@
         "pregunta": "e) La realización de las pruebas a que alude el artículo 5.o) en las vías urbanas, en los términos que reglamentariamente se determine.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5635,7 +5635,7 @@
         "pregunta": "e) La determinación de las drogas que puedan afectar a la conducción, así como de las pruebas para su detección y, en su caso, sus niveles máximos.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5651,7 +5651,7 @@
         "pregunta": "i) La regulación del transporte de personas y, especialmente, el transporte escolar y de menores, a los efectos relacionados con la seguridad vial.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5659,7 +5659,7 @@
         "pregunta": "a) La expedición y revisión de los permisos y licencias para conducir vehículos a motor y ciclomotores y de la autorización especial para conducir vehículos que transporten mercancías peligrosas, con los requisitos sobre conocimientos, aptitudes técnicas y psicofísicas y periodicidad que se determinen reglamentariamente, así como la declaración de la nulidad, lesividad o pérdida de vigencia de aquéllos.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5691,7 +5691,7 @@
         "pregunta": "i) La vigilancia y disciplina del tráfico en toda clase de vías interurbanas y en travesías cuando no exista policía local, así como la denuncia y sanción de las infracciones a las normas de circulación y de seguridad en dichas vías.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -5707,7 +5707,7 @@
         "pregunta": "k) La regulación, ordenación y gestión del tráfico en vías interurbanas y en travesías, estableciendo para estas últimas fórmulas de cooperación o delegación con las Entidades Locales, y sin perjuicio de lo establecido en otras disposiciones y de las facultades de otros departamentos ministeriales.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -7592,16 +7592,16 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "No hacer uso, o no hacerlo de forma adecuada, del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección obligatorios.",
-        "respuesta": "4",
-        "fallos": 1,
+        "pregunta": "Conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico.",
+        "respuesta": "6",
+        "fallos": 2,
         "aciertos": 0,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
     {
-        "pregunta": "Conducir vehículos que tengan instalados inhibidores de radares o cinemómetros o cualesquiera otros mecanismos encaminados a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico.",
-        "respuesta": "6",
+        "pregunta": "No hacer uso, o no hacerlo de forma adecuada, del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección obligatorios.",
+        "respuesta": "4",
         "fallos": 1,
         "aciertos": 0,
         "file_name_secction": "infracciones trafico puntos",
@@ -7627,7 +7627,7 @@
         "pregunta": "Utilizar, sujetando con la mano, dispositivos de telefonía móvil mientras se conduce.",
         "respuesta": "6",
         "fallos": 1,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7643,7 +7643,7 @@
         "pregunta": "20. Conducir utilizando cualquier tipo de casco de audio o auricular conectado a aparatos receptores o reproductores de sonido u otros dispositivos que disminuyan la atención permanente a la conducción, o manteniendo ajustado entre el casco y la cabeza del usuario dispositivos de telefonía móvil mientras se conduce, o utilizando manualmente navegadores o cualquier otro medio o sistema de comunicación, así como dispositivos de telefonía móvil en condiciones distintas a las previstas en el ordinal 8.",
         "respuesta": "3",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7675,7 +7675,7 @@
         "pregunta": "Incumplir las disposiciones legales sobre adelantamiento poniendo en peligro o entorpeciendo a quienes circulen en sentido contrario y adelantar en lugares o circunstancias de visibilidad reducida.",
         "respuesta": "4",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7683,7 +7683,7 @@
         "pregunta": "No respetar las señales o las órdenes de la autoridad encargada de la regulación, ordenación, gestión, vigilancia y disciplina del tráfico, o de sus agentes.",
         "respuesta": "4",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7715,7 +7715,7 @@
         "pregunta": "Realizar la maniobra de marcha atrás en autopistas y autovías.",
         "respuesta": "4",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7723,7 +7723,7 @@
         "pregunta": "Conducir con una tasa de alcohol superior a la reglamentariamente establecida: Valores mg/l aire espirado, más de 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,30 mg/l).",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7731,7 +7731,7 @@
         "pregunta": "Conducir con presencia de drogas en el organismo.",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7739,7 +7739,7 @@
         "pregunta": "Incumplir la obligación de someterse a las pruebas de detección de alcohol o de la presencia de drogas en el organismo.",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -7763,7 +7763,7 @@
         "pregunta": "Adelantar poniendo en peligro o entorpeciendo a ciclistas o sin dejar la separación mínima de 1,5 metros",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -8432,6 +8432,14 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "l) Dejar suelto un animal potencialmente peligroso o no haber adoptado las medidas necesarias para evitar su escapada o extravío.",
+        "respuesta": "grave",
+        "fallos": 5,
+        "aciertos": 0,
+        "file_name_secction": "perros-13-2002",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "f) Transportar los animales incumpliendo la normativa específica en materia de bienestar animal y sin adoptar las medidas precautorias para garantizar la seguridad de las personas, bienes y otros animales.",
         "respuesta": "grave",
         "fallos": 4,
@@ -8448,18 +8456,18 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "l) Dejar suelto un animal potencialmente peligroso o no haber adoptado las medidas necesarias para evitar su escapada o extravío.",
-        "respuesta": "grave",
-        "fallos": 4,
-        "aciertos": 0,
-        "file_name_secction": "perros-13-2002",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "h) Ejecutar el sacrificio de animales incumpliendo los métodos autorizados reglamentariamente o cuando el sacrificio de estos animales se realice sin la supervisión de un Veterinario responsable, cuando en ambos supuestos no haya sufrimiento innecesario.",
         "respuesta": "leve",
         "fallos": 4,
         "aciertos": 1,
+        "file_name_secction": "perros-13-2002",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "b) La venta o cesión en lugares públicos no autorizados.",
+        "respuesta": "grave",
+        "fallos": 4,
+        "aciertos": 0,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8496,7 +8504,15 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "b) La venta o cesión en lugares públicos no autorizados.",
+        "pregunta": "n) No inscribir en el Registro correspondiente un animal potencialmente peligroso.",
+        "respuesta": "grave",
+        "fallos": 3,
+        "aciertos": 0,
+        "file_name_secction": "perros-13-2002",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "m) Incumplir la obligación de identificar el animal potencialmente peligroso.",
         "respuesta": "grave",
         "fallos": 3,
         "aciertos": 0,
@@ -8515,7 +8531,7 @@
         "pregunta": "g) La participación a título de espectador o espectadora en espectáculos prohibidos por esta Ley.",
         "respuesta": "leve",
         "fallos": 2,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8524,14 +8540,6 @@
         "respuesta": "grave",
         "fallos": 2,
         "aciertos": 1,
-        "file_name_secction": "perros-13-2002",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "n) No inscribir en el Registro correspondiente un animal potencialmente peligroso.",
-        "respuesta": "grave",
-        "fallos": 2,
-        "aciertos": 0,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8552,18 +8560,10 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "m) Incumplir la obligación de identificar el animal potencialmente peligroso.",
-        "respuesta": "grave",
-        "fallos": 2,
-        "aciertos": 0,
-        "file_name_secction": "perros-13-2002",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "h) Circular con perros de ataque sin bozal o sin correa.",
         "respuesta": "muy grave",
         "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8587,7 +8587,7 @@
         "pregunta": "k) Abandonar los animales objeto de esta Ley. Se considera abandono la pérdida o extravío de uno de estos animales que no se hubiera denunciado ante la autoridad competente en el plazo de cuarenta y ocho horas.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8651,7 +8651,7 @@
         "pregunta": "b) Abandonar un animal potencialmente peligroso.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8659,7 +8659,7 @@
         "pregunta": "c) Tener animales potencialmente peligrosos sin licencia.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8683,7 +8683,7 @@
         "pregunta": "f) Adiestrar animales potencialmente peligrosos por quien carezca del certificado de capacitación.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "perros-13-2002",
         "mode": "columns system"
     },
@@ -8824,6 +8824,14 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
+        "respuesta": "grave",
+        "fallos": 4,
+        "aciertos": 0,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal.",
         "respuesta": "grave",
         "fallos": 3,
@@ -8835,12 +8843,12 @@
         "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
         "respuesta": "grave",
         "fallos": 3,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
     {
-        "pregunta": "La fabricación, reparación, almacenamiento, circulación, comercio, transporte, distribución, adquisición, certificación, enajenación o utilización de armas reglamentarias, explosivos catalogados, cartuchería o artículos pirotécnicos, incumpliendo la normativa de aplicación, careciendo de la documentación o autorización requeridas o excediendo los límites autorizados cuando tales conductas no sean constitutivas de delito, así como la omisión, insuficiencia, o falta de eficacia de las medidas de seguridad o precauciones que resulten obligatorias.",
+        "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
         "respuesta": "grave",
         "fallos": 3,
         "aciertos": 0,
@@ -8867,7 +8875,7 @@
         "pregunta": "Dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida.",
         "respuesta": "leve",
         "fallos": 2,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8875,15 +8883,7 @@
         "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
         "respuesta": "muy grave",
         "fallos": 2,
-        "aciertos": 0,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
-        "respuesta": "grave",
-        "fallos": 2,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8891,7 +8891,7 @@
         "pregunta": "Portar, exhibir o usar armas prohibidas, así como portar, exhibir o usar armas de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados para su uso, aún cuando en este último caso se tuviera licencia, siempre que dichas conductas no constituyan infracción penal.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8907,7 +8907,7 @@
         "pregunta": "La solicitud o aceptación por el demandante de servicios sexuales retribuidos en zonas de tránsito público en las proximidades de lugares destinados a su uso por menores, como centros educativos, parques infantiles o espacios de ocio accesibles a menores de edad, o cuando estas conductas, por el lugar en que se realicen, puedan generar un riesgo para la seguridad vial.\nLos agentes de la autoridad requerirán a las personas que ofrezcan estos servicios para que se abstengan de hacerlo en dichos lugares, informándoles de que la inobservancia de dicho requerimiento podría constituir una infracción del párrafo 6 de este artículo.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8920,10 +8920,18 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "La falta de colaboración con las Fuerzas y Cuerpos de Seguridad en la averiguación de delitos o en la prevención de acciones que puedan poner en riesgo la seguridad ciudadana en los supuestos previstos en el artículo 7.",
+        "respuesta": "grave",
+        "fallos": 1,
+        "aciertos": 0,
+        "file_name_secction": "seguridad ciudadana",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "La celebración de reuniones en lugares de tránsito público o de manifestaciones, incumpliendo lo preceptuado en los artículos 4.2, 8, 9, 10 y 11 de la Ley Orgánica 9/1983, de 15 de julio, cuya responsabilidad corresponderá a los organizadores o promotores.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8963,7 +8971,7 @@
         "pregunta": "La ocupación de cualquier inmueble, vivienda o edificio ajenos, o la permanencia en ellos, en ambos casos contra la voluntad de su propietario, arrendatario o titular de otro derecho sobre el mismo, cuando no sean constitutivas de infracción penal.\nAsimismo la ocupación de la vía pública con infracción de lo dispuesto por la Ley o contra la decisión adoptada en aplicación de aquella por la autoridad competente. Se entenderá incluida en este supuesto la ocupación de la vía pública para la venta ambulante no autorizada.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8971,7 +8979,7 @@
         "pregunta": "El incumplimiento de la obligación de obtener la documentación personal legalmente exigida, así como la omisión negligente de la denuncia de su sustracción o extravío.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -8979,7 +8987,7 @@
         "pregunta": "La negligencia en la custodia y conservación de la documentación personal legalmente exigida, considerándose como tal la tercera y posteriores pérdidas o extravíos en el plazo de un año.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9019,7 +9027,7 @@
         "pregunta": "La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos o culturales, solemnidades y oficios religiosos u otras reuniones a las que asistan numerosas personas, cuando no sean constitutivas de infracción penal.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9035,7 +9043,7 @@
         "pregunta": "Causar desórdenes en las vías, espacios o establecimientos públicos, u obstaculizar la vía pública con mobiliario urbano, vehículos, contenedores, neumáticos u otros objetos, cuando en ambos casos se ocasione una alteración grave de la seguridad ciudadana.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9051,7 +9059,7 @@
         "pregunta": "Las acciones y omisiones que impidan u obstaculicen el funcionamiento de los servicios de emergencia, provocando o incrementando un riesgo para la vida o integridad de las personas o de daños en los bienes, o agravando las consecuencias del suceso que motive la actuación de aquéllos.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9059,7 +9067,7 @@
         "pregunta": "La desobediencia o la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones, cuando no sean constitutivas de delito, así como la negativa a identificarse a requerimiento de la autoridad o de sus agentes o la alegación de datos falsos o inexactos en los procesos de identificación.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9067,15 +9075,7 @@
         "pregunta": "La negativa de acceso o la obstrucción deliberada de las inspecciones o controles reglamentarios, establecidos conforme a lo dispuesto en esta Ley, en fábricas, locales, establecimientos, embarcaciones y aeronaves.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 1,
-        "file_name_secction": "seguridad ciudadana",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "La falta de colaboración con las Fuerzas y Cuerpos de Seguridad en la averiguación de delitos o en la prevención de acciones que puedan poner en riesgo la seguridad ciudadana en los supuestos previstos en el artículo 7.",
-        "respuesta": "grave",
-        "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9083,7 +9083,7 @@
         "pregunta": "El consumo o la tenencia ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas, aunque no estuvieran destinadas al tráfico, en lugares, vías, establecimientos públicos o transportes colectivos, así como el abandono de los instrumentos u otros efectos empleados para ello en los citados lugares.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9123,7 +9123,7 @@
         "pregunta": "El uso no autorizado de imágenes o datos personales o profesionales de autoridades o miembros de las Fuerzas y Cuerpos de Seguridad que pueda poner en peligro la seguridad personal o familiar de los agentes, de las instalaciones protegidas o en riesgo el éxito de una operación, con respeto al derecho fundamental a la información.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9147,7 +9147,7 @@
         "pregunta": "La proyección de haces de luz, mediante cualquier tipo de dispositivo, sobre los pilotos o conductores de medios de transporte que puedan deslumbrarles o distraer su atención y provocar accidentes.",
         "respuesta": "muy grave",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "seguridad ciudadana",
         "mode": "columns system"
     },
@@ -9320,6 +9320,22 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "Carretera convencional motocicletas (*)",
+        "respuesta": "90",
+        "fallos": 1,
+        "aciertos": 0,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Autopistas y autovias Tractocamiones ",
+        "respuesta": "90",
+        "fallos": 1,
+        "aciertos": 1,
+        "file_name_secction": "velocidades",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "Autpistas y autovias Turismo",
         "respuesta": "120",
         "fallos": 0,
@@ -9384,14 +9400,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "Carretera convencional motocicletas (*)",
-        "respuesta": "90",
-        "fallos": 0,
-        "aciertos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "Carretera convencional autocaravanas MMA =< 3.5kg  (*)",
         "respuesta": "90",
         "fallos": 0,
@@ -9404,14 +9412,6 @@
         "respuesta": "90",
         "fallos": 0,
         "aciertos": 0,
-        "file_name_secction": "velocidades",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Autopistas y autovias Tractocamiones ",
-        "respuesta": "90",
-        "fallos": 0,
-        "aciertos": 1,
         "file_name_secction": "velocidades",
         "mode": "columns system"
     },

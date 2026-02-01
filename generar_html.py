@@ -1,10 +1,12 @@
 import os
 import json
 
+### todo crear index para navegar en docs
 class Generar_HTMLs:
 
-    def __init__(self, ruta_cuestionario=os.path.join("modules", "cuestionarios","backup")):
+    def __init__(self,docs_folder = "docs", ruta_cuestionario=os.path.join("modules", "cuestionarios","backup")):
         self.ruta_cuestionario = ruta_cuestionario
+        self.docs_folder = docs_folder
         self.cuestionario_archivos =  os.listdir(self.ruta_cuestionario) 
 
         # todo arreglar color para todos

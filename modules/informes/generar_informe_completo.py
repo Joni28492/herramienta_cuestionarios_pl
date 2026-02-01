@@ -5,6 +5,10 @@ import os
 class Informe_generator():
 
     def __init__(self):
+        print(os.getcwd().split('\\')[-1]) #python scripts -> es carpeta de la app
+        if(os.getcwd().split('\\')[-1] == 'python scripts'):
+            os.chdir( os.path.join('modules','informes') )
+
         self.backup_path_list = []
         self.backup_list = []
 
@@ -17,7 +21,7 @@ class Informe_generator():
     
     def seed_backup_cuestionarios_list(self):
 
-        backup_path  = os.path.join("modules", "cuestionarios","backup")
+        backup_path  = os.path.join("..", "cuestionarios","backup")
 
         
       
@@ -37,7 +41,7 @@ class Informe_generator():
 
     def seed_test_fails_date(self):
 
-        test_path = os.path.join("modules", "tests")
+        test_path = os.path.join("..", "tests", "backup")
 
         self.test_paths = os.listdir(test_path)
         for file_name in self.test_paths:
@@ -66,8 +70,8 @@ class Informe_generator():
     def run(self):
         print("Run")
         self.seed_backup_cuestionarios_list()
-        # self.seed_test_fails_date()
-        # self.generate_report()
+        self.seed_test_fails_date()
+        self.generate_report()
 
 
 if __name__ == '__main__':
