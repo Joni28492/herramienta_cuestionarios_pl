@@ -215,11 +215,11 @@ class Test_Selector():
                 print("Test Selecionado", self.mixed_path)
                 
                 self.importar_cuestionario()
-                desordenadas = input("Queires que las preguntas salgan con orden aleatorio? ")
-                if desordenadas == 's':
+                desordenadas = input("Queires que las preguntas salgan con orden aleatorio?(N/s) ")
+                if desordenadas in ('s', 'si', 'SI','S', 'y', 'Y', 'yes', 'YES'):
                     self.barajar_cuestionario()
                 #Recortar cantidad preguntas
-                self.cantidad_preguntas = int(input("Cuantas preguntas quieres realizar: "))
+                self.cantidad_preguntas = int(input(f"Cuantas preguntas quieres realizar (MAX: {len(self.cuestionario)}): "))
                 self.cuestionario = self.cuestionario[:self.cantidad_preguntas] 
                 self.realizar_cuestionario()
                 # self.realizar_pregunta(self.cuestionario[0])

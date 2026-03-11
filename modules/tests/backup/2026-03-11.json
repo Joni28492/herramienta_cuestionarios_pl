@@ -1,0 +1,422 @@
+[
+    {
+        "timestamp": 1773244765.6250844,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "1. Las Fuerzas y Cuerpos de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a) No estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "b": "b) Estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "c": "c) a) es correcta, y en todas sus intervenciones, proporcionarán información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de las mismas. ",
+            "d": "d) b) es correcta, y en todas sus intervenciones, proporcionarán información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de las mismas."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773244776.977018,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "2. La declaración sobre la policía se establece mediante:",
+        "opciones_respuesta": {
+            "a": "a) Resolución 690 de 1979, de la Asamblea Parlamentaria del Consejo de Europa. ",
+            "b": "b) Resolución 34/169, de 17 de diciembre de 1979, de las Naciones Unidas. ",
+            "c": "c) Resolución 690 de 1979, de las Naciones Unidas. ",
+            "d": "d) Ninguna de las anteriores."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773244794.4733307,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿Cuál de las siguientes es una función de la Guardia Civil?",
+        "opciones_respuesta": {
+            "a": "a) El control de las entidades y servicios privados de seguridad, vigilancia e investigación, de su personal, medios y actuaciones. ",
+            "b": "b) La vigilancia e inspección del cumplimiento de la normativa en materia de juego. ",
+            "c": "c) El resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando. ",
+            "d": "d) Las previstas en la legislación sobre extranjería, refugio y asilo, extradición, expulsión, emigración e inmigración."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773244804.7610655,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿En qué artículo Constitucional se basa la creación de Cuerpos de Policía de las Comunidades Autónomas?",
+        "opciones_respuesta": {
+            "a": "a) 149.1.29 ",
+            "b": "b) 148.1.29 ",
+            "c": "c) 149.1.22 ",
+            "d": "d) 148.1.22"
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773244827.5373704,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Cuál de las siguientes actuaciones que practiquen los miembros de la Policía Local deben ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes?",
+        "opciones_respuesta": {
+            "a": "a) Instruir atestados por accidentes de circulación dentro del casco urbano. ",
+            "b": "b) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad. ",
+            "c": "c) b) es correcta, y también participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de esta Ley. ",
+            "d": "d) a) y b) son correctas."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773244855.4417949,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "6. Los Cuerpos de Policía Local cuando ejerzan funciones de protección de autoridades de las corporaciones locales, podrán actuar fuera del término municipal respectivo:",
+        "opciones_respuesta": {
+            "a": "a) Con autorización del Ministerio del Interior o de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma. ",
+            "b": "b) Con autorización del Gobernador Civil (actual Subdelegado del Gobierno) o de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma. ",
+            "c": "c) Con autorización del Gobernador Civil (actual Subdelegado del Gobierno) o de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma, y en todo caso, con el visto bueno del Alcalde del municipio donde pertenezca el funcionario. ",
+            "d": "d) Falso, las funciones de protección de autoridades de las corporaciones locales únicamente podrán desarrollarse dentro del término municipal de pertenencia de los funcionarios locales."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773244877.5539837,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "7. En los concejos con población ______________ podrá existir Cuerpo de Policía Local si acuerda su creación _____________ y lo informa ______________, previo informe ______________________.",
+        "opciones_respuesta": {
+            "a": "a) Inferior a 5.000 habitantes / la corporación local / el titular de la Consejería competente por razón de la materia / preceptivo de la Comisión de Coordinación de las Policías Locales del Principado de Asturias ",
+            "b": "b) Igual o inferior a 5.000 habitantes / la corporación local / el titular de la Consejería competente por razón de la materia / preceptivo de la Comisión de Coordinación de las Policías Locales del Principado de Asturias ",
+            "c": "c) Inferior a 5.000 habitantes / la corporación local / la Comisión de Coordinación de las Policías Locales del Principado de Asturias / preceptivo del titular de la Consejería competente por razón de la materia. ",
+            "d": "d) Igual o inferior a 5.000 habitantes / la corporación local / la Comisión de Coordinación de las Policías Locales del Principado de Asturias / preceptivo del titular de la Consejería competente por razón de la materia."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1773244909.1222613,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "8. Respecto a los vocales de la Comisión de Coordinación de Policías Locales del Principado de Asturias:",
+        "opciones_respuesta": {
+            "a": "a) Cinco en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 50.000 habitantes. ",
+            "b": "b) Cinco en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 75.000 habitantes. ",
+            "c": "c) Cuatro en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 50.000 habitantes. ",
+            "d": "d) Cuatro en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 75.000 habitantes."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773244930.1778667,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "9. Los que conducen a pie un ciclo o ciclomotor de dos ruedas, tienen la consideración de:",
+        "opciones_respuesta": {
+            "a": "a) Peatón ",
+            "b": "b) Conductor ",
+            "c": "c) Si es un ciclo, peatón; si es un ciclomotor, conductor. ",
+            "d": "d) Si es un ciclomotor, peatón; si es un ciclo, conductor."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773244954.0742104,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "10. Cuando un municipio establece una ordenanza municipal de circulación, conforme al artículo 7 de la Ley de Seguridad Vial, ¿Qué debe tener en cuenta?",
+        "opciones_respuesta": {
+            "a": "a) Debe hacer compatible la equitativa distribución de los aparcamientos entre los usuarios con la necesaria fluidez del tráfico rodado y con el uso peatonal de las calles. ",
+            "b": "b) Garantizar la rotación de los aparcamientos mediante el establecimiento de medidas de estacionamiento limitado. ",
+            "c": "c) b) es correcta, debiendo prestar especial atención a las necesidades de las personas con discapacidad que tienen reducida su movilidad y que utilizan vehículos, todo ello con el fin de favorecer su integración social. ",
+            "d": "d) Todas son correctas."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773244965.6181004,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿De quién es competencia conocer e informar sobre la evolución de la siniestralidad vial en España?",
+        "opciones_respuesta": {
+            "a": "a) De la Administración General del Estado ",
+            "b": "b) Del Ministerio del Interior ",
+            "c": "c) De los Municipios ",
+            "d": "d) Del Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773244987.410612,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "12. Las motocicletas, los vehículos de tres ruedas, los ciclomotores y los ciclos y bicicletas podrán arrastrar un remolque o semirremolque, siempre que se cumplan las siguientes condiciones:",
+        "opciones_respuesta": {
+            "a": "a) Que no superen el 50 % de la masa en vacío del vehículo tractor. ",
+            "b": "b) Que la circulación sea de día o en condiciones que la visibilidad sea suficiente. ",
+            "c": "c) Que la velocidad a que se circule en estas condiciones quede reducida en un 10 km/h respecto a las velocidades genéricas establecidas para estos vehículos. ",
+            "d": "d) Todas son correctas"
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773245032.530546,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "13. ¿Qué vehículos deben tener placas colocadas en el interior de los mismos que señalen el número máximo de plazas autorizadas?",
+        "opciones_respuesta": {
+            "a": "a) Todos los vehículos ",
+            "b": "b) Los vehículos de servicio público ",
+            "c": "c) Los vehículos de servicio público y autobuses. ",
+            "d": "d) Los vehículos de servicio público y de alquiler sin conductor."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773245045.4349554,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿En qué casos se puede someter a un peatón a la prueba de detección de alcohol o drogas?",
+        "opciones_respuesta": {
+            "a": "a) En todo caso. ",
+            "b": "b) En caso de accidente, infracción, síntomas o en control preventivo. ",
+            "c": "c) En caso de accidente cuando se encuentre implicado como posible responsable. ",
+            "d": "d) En caso de accidente o cuando haya cometido una infracción a la normativa de tráfico."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773245052.2507825,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿En qué artículo/s del RD 1428/2003, de 21 de noviembre, se contemplan las normas sobre estupefacientes, psicotrópicos, estimulantes u otras sustancias análogas?",
+        "opciones_respuesta": {
+            "a": "a) 20 ",
+            "b": "b) 20 a 26 ",
+            "c": "c) 27 y 28 ",
+            "d": "d) Ninguno de los anteriores."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773245070.0911727,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "16. Cuando una calzada fuera de poblado tenga tres o más carriles en el sentido de su marcha, ¿Quiénes deben circular normalmente por el situado más a su derecha, pudiendo utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga?",
+        "opciones_respuesta": {
+            "a": "a) los conductores de camiones con MMA superior a 7500 kilos, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de 7 metros de longitud. ",
+            "b": "b) los conductores de camiones con MMA superior a 3500 kilos, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de 7 metros de longitud. ",
+            "c": "c) los conductores de camiones con MMA superior a 7500 kilos, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de 10 metros de longitud. ",
+            "d": "d) los conductores de camiones con MMA superior a 3500 kilos, los de vehículos especiales que no estén obligados a circular por el arcén y los de conjuntos de vehículos de más de 10 metros de longitud."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1773245078.9305916,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿A qué velocidad máxima podrá circular un vehículo especial si carece de señalización de frenado?",
+        "opciones_respuesta": {
+            "a": "a) 20 km/h ",
+            "b": "b) 25 km/h ",
+            "c": "c) 45 km/h ",
+            "d": "d) 70 km/h"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1773245086.8426344,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Existe una edad mínima para conducir animales de tiro, carga o silla, cabezas de ganado aisladas, en manada o rebaño?",
+        "opciones_respuesta": {
+            "a": "a) No se menciona en la normativa. ",
+            "b": "b) 14 años ",
+            "c": "c) 16 años ",
+            "d": "d) 18 años"
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773245110.2353299,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "19. Están exentos de la obligación de utilizar cinturón de seguridad:",
+        "opciones_respuesta": {
+            "a": "a) Los conductores de los vehículos en servicios de urgencia, en todo tipo de vía. ",
+            "b": "b) Los conductores y pasajeros de los vehículos en servicios de urgencia, en todo tipo de vía. ",
+            "c": "c) Los conductores de los vehículos en servicios de urgencia, exclusivamente en poblado. ",
+            "d": "d) Los conductores y pasajeros de los vehículos en servicios de urgencia, exclusivamente en poblado."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773245431.5899668,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "20. La señales verticales se dividen en:",
+        "opciones_respuesta": {
+            "a": "a) De advertencia de peligro, de reglamentación y de indicación. ",
+            "b": "b) De advertencia de peligro, de prioridad, de prohibición, de obligación y de indicación. ",
+            "c": "c) De reglamentación y de indicación. ",
+            "d": "d) Ninguna de las anteriores."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773245442.6524239,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "21. ¿Qué señal deben llevar los vehículos largos, y a partir de que longitud se entenderán como tales?",
+        "opciones_respuesta": {
+            "a": "a) V-6 y longitud superior a 7 metros ",
+            "b": "b) V-5 y longitud superior a 7 metros ",
+            "c": "c) V-6 y longitud superior a 12 metros ",
+            "d": "d) Ninguna respuesta es correcta."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773245459.1166134,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Qué permiso se requiere para conducir un automóvil diseñado y construido para el transporte de 16 personas, además del conductor, y con una longitud de 10 metros?",
+        "opciones_respuesta": {
+            "a": "a) D1 ",
+            "b": "b) D ",
+            "c": "c) C1 ",
+            "d": "d) B"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1773245472.5885422,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "23. Señale la opción correcta:",
+        "opciones_respuesta": {
+            "a": "a) Un vehículo para personas de movilidad reducida puede ser conducido por una persona de 14 años cumplidos, si bien hasta los 16 años no podrá transportar pasajeros. ",
+            "b": "b) Un vehículo para personas de movilidad reducida puede ser conducido por una persona de 15 años cumplidos, si bien hasta los 16 años no podrá transportar pasajeros. ",
+            "c": "c) Un vehículo para personas de movilidad reducida puede ser conducido por una persona de 16 años cumplidos, si bien hasta los 18 años no podrá transportar pasajeros. ",
+            "d": "d) Ninguna es correcta."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773245489.9245718,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "24. ¿Cuál de las siguientes infracciones es grave?",
+        "opciones_respuesta": {
+            "a": "a) El deterioro de señalización ocasional. ",
+            "b": "b) Conducir un vehículo con peligro de caída. ",
+            "c": "c) Causar alteraciones a la circulación por las dimensiones del vehículo, cuando se carezca de autorización. ",
+            "d": "d) Todas las anteriores son infracciones graves."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1773245505.8770642,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "25. En un vehículo viaja un niño de 5 años sin hacer uso del sistema de retención infantil. ¿Quién será el responsable?",
+        "opciones_respuesta": {
+            "a": "a) El conductor del vehículo, en todo caso. ",
+            "b": "b) El padre, madre o tutor legal. ",
+            "c": "c) El propio niño de 5 años, como autor directo. ",
+            "d": "d) Ninguna es correcta."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773245516.7491329,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "26. ¿Cuántos puntos se detraen por realizar un cambio de sentido en un lugar prohibido?",
+        "opciones_respuesta": {
+            "a": "a) No conlleva detracción de puntos. ",
+            "b": "b) 3 ",
+            "c": "c) 4 ",
+            "d": "d) 6"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1773245546.733269,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿De quién es competencia sancionar el hecho de circular en el casco urbano con el permiso de conducir caducado? ¿Y fuera de casco urbano?",
+        "opciones_respuesta": {
+            "a": "a) Alcalde, en ambos casos. ",
+            "b": "b) Alcalde, en casco urbano. Jefe Provincial de Tráfico, en vías interurbanas. ",
+            "c": "c) Jefe Provincial de Tráfico, en ambos casos. ",
+            "d": "d) Director General de Tráfico, en ambos casos."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773245558.2931936,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "28. Las autoridades judiciales comunicaran al Registro de Conductores e Infractores del organismo autónomo Jefatura Central de Tráfico, en el plazo de los ________ siguientes a su firmeza, las penas de privación del derecho a conducir vehículos a motor y ciclomotores que se impongan por la comisión de delitos contra la seguridad vial.",
+        "opciones_respuesta": {
+            "a": "a) 15 días hábiles ",
+            "b": "b) 15 días naturales ",
+            "c": "c) 20 días hábiles ",
+            "d": "d) 20 días naturales"
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1773245565.0852056,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "29. El Presidente del Principado de Asturias responde políticamente:",
+        "opciones_respuesta": {
+            "a": "a) Ante la Junta General ",
+            "b": "b) Ante el Consejo de Gobierno ",
+            "c": "c) Ante el Tribunal Superior de Justicia ",
+            "d": "d) Ante el Consejo Consultivo"
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1773245576.637216,
+        "path": "/repaso-unidades/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "30. El control de la actividad de los órganos de las Comunidades Autónomas relativo a la administración autónoma y sus normas reglamentarias, se ejercerá por:",
+        "opciones_respuesta": {
+            "a": "a) La Jurisdicción contencioso-administrativa ",
+            "b": "b) El Tribunal de Cuentas ",
+            "c": "c) El Gobierno ",
+            "d": "d) El Tribunal Constitucional"
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    }
+]

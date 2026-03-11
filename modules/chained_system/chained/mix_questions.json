@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "tipo": "encadenada",
+        "pregunta_inicial": "¿Quien autoriza el servicio sin uniforme en las policias locales?",
+        "respuesta_inicial": " subdelagado de gobierno/gobernador civil ",
+        "subpreguntas": [
+            {
+                "tipo": "sub",
+                "pregunta": "¿y en Asturias?",
+                "respuesta": "La delegada de gobierno (es uniprovincial)"
+            },
+            {
+                "tipo": "sub",
+                "pregunta": "¿y en las de las policias de las CCAA?",
+                "respuesta": "respuesta a pregunta sub 2"
+            }
+        ]
+    }
+]
