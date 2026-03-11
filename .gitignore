@@ -6,3 +6,4 @@ test
 pruebas.py
 mongo
 ratios_porcentaje.txt
+test/backup/*
