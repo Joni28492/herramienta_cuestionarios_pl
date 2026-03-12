@@ -7,3 +7,8 @@ pruebas.py
 mongo
 ratios_porcentaje.txt
 test/backup/*
+
+
+commands.py
+server.py
+activar_env.py
