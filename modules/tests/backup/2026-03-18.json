@@ -1,0 +1,30 @@
+[
+    {
+        "timestamp": 1773848566.4112363,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "23. ¿Quién puede autorizar la prestación de determinadas funciones sin uniforme reglamentario a un Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. La Junta Local de Seguridad. ",
+            "b": "b. El Alcalde. ",
+            "c": "c. El Gobernador Civil (actual Subdelegado del Gobierno). ",
+            "d": "d. La Junta de Seguridad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1773848574.866812,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "14. Como norma general, ¿Quién ejerce sus funciones en el mar territorial?",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía. ",
+            "b": "b. La Guardia Civil. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. La Policía portuaria. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    }
+]
