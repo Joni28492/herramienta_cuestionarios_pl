@@ -43,7 +43,12 @@ class Notebok_flashcards():
             
         
     
-    def filter_data(self):
+    def filter_data(self):## todo
+        
+        # section + topics
+        # next_review_at
+        # fail_streak
+        
         pass
     
     def _print_placeholder(self, text):
@@ -54,7 +59,6 @@ class Notebok_flashcards():
         
 
     def make_question(self, card:FlashCard):
-        ### todo
         print(card["question"])
         print(card["answer"])
         # placeholder
@@ -103,7 +107,7 @@ class Notebok_flashcards():
                             "updated_at": datetime.now().strftime('%d-%m-%Y'),
                             "fail_streak":0,
                             "next_review_at": (date.today() + timedelta(days=7)).strftime("%d-%m-%Y"), 
-                        }## todo formatear fecha
+                        }
                     else:
                         full_data[i] = {
                             **card,
@@ -115,7 +119,6 @@ class Notebok_flashcards():
                         }
         print(full_data[0])  
         
-        ## todo dumpear al json
         with open(path, 'w', encoding='utf-8') as f:
             json.dump(full_data, f, indent=4, ensure_ascii=False)          
         

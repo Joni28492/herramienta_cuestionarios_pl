@@ -1,0 +1,137 @@
+{
+    "abrr_opts": {
+        "3 dias": [
+            "3d"
+        ],
+        "5 dias": [
+            "5d"
+        ],
+        "7 dias": [
+            "7d"
+        ],
+        "10 dias": [
+            "10d"
+        ],
+        "10 dias naturales": [
+            "10dn"
+        ],
+        "15 dias": [
+            "15d"
+        ],
+        "20 dias": [
+            "20d"
+        ],
+        "30 dias": [
+            "30d"
+        ],
+        "1 mes": [
+            "1m"
+        ],
+        "2 meses": [
+            "2m"
+        ],
+        "3 meses": [
+            "3m"
+        ],
+        "6 meses": [
+            "6m"
+        ],
+        "1 año": [
+            "1a"
+        ],
+        "4 años": [
+            "4a"
+        ],
+        "5 años": [
+            "5a"
+        ],
+        "no superior a 30d ni inferior a 10d": [
+            "no sup 30 ni inf 10"
+        ],
+        "no inferior a 10d dias ni superior a 15d": [
+            "no inf 10 ni sup 15"
+        ]
+    },
+    "3 dias": [
+        "Plazo para repetir intento de notificación en caso de que la primera haya sidoinfructuosa."
+    ],
+    "5 dias": [
+        "Plazo que tiene la Administración para decidir si comienza la tramitación simplificada de un procedimiento. (Transcurrido el plazo se entendera desestimado)",
+        "Plazo para formular alegaciones en procedimientos llevados a cabo mediante tramitación simplificada"
+    ],
+    "7 dias": [
+        "Plazo establecido para formular las alegaciones que tengan en actuaciones complementarias."
+    ],
+    "10 dias": [
+        "Plazo establecido para entender rechazadas las notificaciones electrónicas si no se produce el acceso a su contenido."
+    ],
+    "10 dias naturales": [
+        "Plazo general de subsanación. (Puede ser superior cuando las circunstancias del caso así lo requieran)",
+        "Plazo que tiene la Secretaría de Estado de Seguridad para emitir informes sobre sistemas de identificación y firma mediante registro previo",
+        "Plazo para notificar o publicar el acuerdo de iniciación de oficio",
+        "Plazo para remitir informes preceptivos ya elaborados por un órgano administrativo distinto al que tramita el procedimiento.",
+        "Plazo para cursar notificación",
+        "Plazo para realizar alegaciones en los procedimientos de responsabilidad patrimonial.",
+        "Plazo para subsanar solicitudes ( Siempre que no se trate de procedimientos selectivos o de concurrencia competitiva, podrá ser ampliado hasta cinco días )",
+        "Plazo de tiempo generales en el que los trámites deben ser cumplimentados por los interesados (Salvo en el caso de que en la norma correspondiente se fije plazo distinto.)",
+        "Plazo para emitir informes en procedimientos de responsabilidad patrimonial. ( Salvo que una disposición o el cumplimiento del resto de los plazos del procedimiento permita o exija otro plazo mayor o menor)",
+        "Plazo que tiene para emitir el informe el servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable en los procedimientos de responsabilidad patrimonial. (no puede exceder de ___)",
+        "Plazo que tienen terceros interesados para instar a la continuación en los que un interesado desee renunciar o desistir en un procedimiento.",
+        "Plazo que tiene el órgano que dicto un acto impugnado para remitir el recurso al órgano competente para resolver.",
+        "Plazo establecido para el trámite de audiencia. Es decir, para alegar y presentar los documentos y justificaciones que estimen pertinentes. NO INFERIOR A ...."
+    ],
+    "15 dias": [
+        "Plazo para expedir el la certificación acreditativa de silencio producido.",
+        "Plazo para expedición de copias auténticas. (desde recepcion de solicitud)",
+        "Plazo para confirmar, modificar o levantar medidas provisionales.",
+        "Plazo para practicar actuaciones complementarias. NO SUPERIOR A ...",
+        "Plazo para poner de manifiesto cuestiones conexas a los interesados con objeto de que formulen las alegaciones que estimen pertinentes y aporten, en su caso, los medios de prueba. NO SUPERIOR A ...",
+        "Plazo que tienen los interesados para alegar en aquellos procedimientos sancionadores en los que el órgano competente para resolver considere que la infracción o la sanción revisten mayor gravedad que la determinada en la propuesta de resolución."
+    ],
+    "20 dias": [
+        "Plazo de exhibición de información pública. NO INFERIOR A ..."
+    ],
+    "30 dias": [
+        "Plazo para resolver procedimientos a través de tramitación simplificada."
+    ],
+    "1 mes": [
+        "Plazo para entender suspendida la ejecución de un acto impugnado previa solicitud de suspensión.",
+        "Plazo para interponer de recurso de alzada ante un acto expreso.",
+        "Plaza interponer un recurso potestativo de reposición si el acto fuera expreso.",
+        "Plazo máximo para dictar y notificar la resolución del recurso potestativo de reposición"
+    ],
+    "2 meses": [
+        "Plazo que es necesario que transcurra de forma previa a la eficacia jurídica de sistemas de identificación y firma basadas en un registro previo tras su comunicación a la Secretaría General de Administración Digital",
+        "Plazo que dispone el Consejo General del Poder Judicial, y el Consejo de Estado u Órgano consultivo equivalente de las Comunidades Autónomas para emitir sus dictámenes en los procedimientos de responsabilidad patrimonial."
+    ],
+    "3 meses": [
+        "Plazo máximo previsto para la resolución de los procedimientos cuando estos no establezcan plazos en sus bases reguladoras.",
+        "Tiempo máximo de suspensión de un procedimiento cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración",
+        "Plazo para declarar la caducidad de los procedimientos iniciados a solicitud del interesado, cuando se produzca su paralización por causa imputable al mismo.",
+        "Plazo establecido para dictar y notificar la resolución de un recurso de alzada.",
+        "Plazo general establecido para interponer un recurso extraordinario de revisión. ( No aplicables a errores hecho, que resulte de los propios documentos incorporados al expediente.) ",
+        "Plazo establecido para entender desestimado un recurso extraordinario de revisión."
+    ],
+    "6 meses": [
+        "Plazo máximo establecido para la resolución de los procedimientos. (Salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea)",
+        "Plazo establecido para entender que la resolución de un procedimiento de responsabilidad patrimonial es contraria la indemnización del particular",
+        "Plazo establecido para que se produzca la caducidad de los procedimientos de revisión de disposiciones y actos nulos iniciados de oficio o para entenderlos desestimados en caso de que el procedimiento haya sido iniciado a solicitud de interesado.",
+        "Plazo de caducidad de un procedimiento de declaración de lesividad iniciado de oficio."
+    ],
+    "1 año": [
+        "Prescripción del derecho a reclamar en los procedimientos de responsabilidad patrimonial"
+    ],
+    "4 años": [
+        "Plazo para interponer recurso extraordinario de revisión como consecuencia de errores hecho, que resulte de los propios documentos incorporados al expediente.",
+        "Plazo máximo establecido para declaración de lesividad"
+    ],
+    "5 años": [
+        "Período de validez de los poderes y sus prórrogas."
+    ],
+    "no superior a 30d ni inferior a 10d": [
+        "Apertura de periodo de prueba, Puede abrirse un período extraordinario de prueba por un plazo no superior a diez días."
+    ],
+    "no inferior a 10d dias ni superior a 15d": [
+        "Plazo que disponen los interesados para formular alegaciones y presentar documentos y justificantes que estimen pertinentes cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario de tramitación de un recurso administrativo"
+    ]
+}

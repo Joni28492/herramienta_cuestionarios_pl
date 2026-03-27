@@ -1,0 +1,492 @@
+[
+    {
+        "timestamp": 1774532421.3260744,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué norma desarrolla la inspección técnica de vehículos?",
+        "opciones_respuesta": {
+            "a": "a) RD 2822/1998, de 23 de diciembre. ",
+            "b": "b) RD 2042/1994, de 14 de octubre. ",
+            "c": "c) RD 920/2017, de 23 de octubre. ",
+            "d": "d) RD 1507/2008, de 12 de septiembre. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532427.6198568,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuantos artículos tiene el reglamento de ITV?",
+        "opciones_respuesta": {
+            "a": "a) 25 ",
+            "b": "b) 32 ",
+            "c": "c) 56 ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1774532436.6436975,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿En qué artículo del reglamento ITV se establece la frecuencia de las inspecciones periódicas?",
+        "opciones_respuesta": {
+            "a": "a) 5 ",
+            "b": "b) 6 ",
+            "c": "c) 12 ",
+            "d": "d) 8 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532442.6518369,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿Cuál de las siguientes categorías corresponde a los turismos?",
+        "opciones_respuesta": {
+            "a": "a) M1 ",
+            "b": "b) M2 ",
+            "c": "c) L1e ",
+            "d": "d) N1 "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1774532447.995882,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Cuál de las siguientes categorías corresponde a los autobuses?",
+        "opciones_respuesta": {
+            "a": "a) M1 ",
+            "b": "b) M2 ",
+            "c": "c) L1e ",
+            "d": "d) N1 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532463.8280888,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cuál de las siguientes categorías corresponde a los autobuses?",
+        "opciones_respuesta": {
+            "a": "a) M1 ",
+            "b": "b) L1e ",
+            "c": "c) L ",
+            "d": "d) M2/M3 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532482.0281713,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Con qué frecuencia se someterá a inspección un autobús?",
+        "opciones_respuesta": {
+            "a": "a) Hasta 5 años estará exento, y tras ello, de forma bienal. ",
+            "b": "b) Hasta 5 años anualmente, y tras ello, semestralmente. ",
+            "c": "c) Hasta 4 años estará exento, hasta los 10 años de forma bienal, y tras ello, anual. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532490.5401525,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "8. ¿Cuánto tiempo estará exento un ciclomotor de someterse a inspección técnica?",
+        "opciones_respuesta": {
+            "a": "a) 2 años ",
+            "b": "b) 3 años ",
+            "c": "c) 4 años ",
+            "d": "d) 5 años "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532514.3403065,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "9. Un vehículo especial destinado a obras y servicios cuya velocidad por construcción sea igual o superior a 25 km/h, deberá someterse la inspección técnica:",
+        "opciones_respuesta": {
+            "a": "a) Con la misma periodicidad que un vehículo de categoría M1 ",
+            "b": "b) Con la misma periodicidad que un ciclomotor ",
+            "c": "c) Con la misma periodicidad que un vehículo de categoría N1 ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1774532524.637009,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "10. Si un vehículo de la categoría M1 es utilizado como ambulancia o taxi, ¿Con qué periodicidad se someterá a inspección técnica?",
+        "opciones_respuesta": {
+            "a": "a) Hasta 5 años anual, y tras ello, semestralmente. ",
+            "b": "b) Hasta 5 años exento, y tras ello, de forma bienal. ",
+            "c": "c) Hasta 4 años anual, y tras ello, semestralmente. ",
+            "d": "d) Hasta 3 años exento, y tras ello, de forma bienal. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1774532537.1968057,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "11. Las motocicletas catalogadas como históricas se someterán a inspecciones técnicas periódicas en las condiciones que se establezcan para su catalogación según el Reglamento de Vehículos Históricos, y al menos con la siguiente frecuencia:",
+        "opciones_respuesta": {
+            "a": "a) De 30 a 40 años, de forma bienal. ",
+            "b": "b) De 40 a 45 años, de forma trienal. ",
+            "c": "c) De cualquier antigüedad, de forma cuatrienal. ",
+            "d": "d) Las opciones a) y b) son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532550.4844894,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿En qué categoría se equipararán los vehículos Quad?",
+        "opciones_respuesta": {
+            "a": "a) M ",
+            "b": "b) L ",
+            "c": "c) N ",
+            "d": "d) O "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532575.3728197,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "13. El plazo de validez de las inspecciones técnicas periódicas se obtendrá adicionando a la fecha en la que el resultado de la inspección haya sido favorable la frecuencia indicada en este artículo. No obstante, si dicha fecha está comprendida en _____________ precedentes a la expiración del plazo de validez de la inspección anterior, el plazo de validez se obtendrá adicionando la frecuencia correspondiente a la citada fecha de expiración.",
+        "opciones_respuesta": {
+            "a": "a) Los 30 días naturales ",
+            "b": "b) Los 3 meses ",
+            "c": "c) Los 30 días hábiles ",
+            "d": "d) Los 2 meses "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532600.5007358,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "14. Las inspecciones voluntarias podrán ser consideradas como periódicas:",
+        "opciones_respuesta": {
+            "a": "a) Si, en todo caso. ",
+            "b": "b) Sí, siempre que se efectúen todas las mediciones y comprobaciones exigidas para estas inspecciones. ",
+            "c": "c) No, en ningún caso. ",
+            "d": "d) Ninguna es correctas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532628.7329578,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "15. Se considera daño de importancia aquellos que puedan afectar a algún elemento de seguridad de:",
+        "opciones_respuesta": {
+            "a": "a) La dirección, la suspensión, la transmisión y el frenado. ",
+            "b": "b) El bastidor ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) El bastidor, la estructura autoportante, la dirección, la iluminación y el frenado. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532638.0290852,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cómo deben ser inspeccionados los tractocamiones y los semirremolques?",
+        "opciones_respuesta": {
+            "a": "a) De forma conjunta ",
+            "b": "b) Separadamente ",
+            "c": "c) De forma conjunta o separadamente ",
+            "d": "d) Ninguna es correctas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532659.5009856,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "17. En los casos de incumplimiento de lo establecido en materia de inspecciones, los agentes de la autoridad encargados de la vigilancia del tráfico en el ejercicio de las funciones que tienen encomendadas concederán al titular o arrendatario a largo plazo del vehículo un plazo de _______ para someter al mismo a inspección técnica.",
+        "opciones_respuesta": {
+            "a": "a) 10 días ",
+            "b": "b) 15 días ",
+            "c": "c) 20 días ",
+            "d": "d) Un mes "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532677.4451852,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Dónde se podrá realizar la inspección técnica por un medio distinto a la estación ITV, pero aprobado por el órgano competente de la comunidad autónoma?",
+        "opciones_respuesta": {
+            "a": "a) En los territorios insulares, así como en Ceuta y Melilla. ",
+            "b": "b) En las islas pequeñas, con menos de 10.000 habitantes. ",
+            "c": "c) En las islas pequeñas, con menos de 5.000 habitantes y unidas a otras partes del territorio mediante puentes o túneles viarios. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532697.8774953,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿Qué vehículos se encuentran exentos de inspección periódica?",
+        "opciones_respuesta": {
+            "a": "a) Automóviles y remolques pertenecientes a las Fuerzas Armadas y Parque Móvil del Estado. ",
+            "b": "b) Los destinados al servicio contra incendios de los aeropuertos y helipuertos competencia del Ministerio de Fomento, siempre que su uso en vías públicas esté restringido a las intervenciones en casos de emergencia, desplazamientos a talleres cercanos para labores de mantenimiento o bien para repostajes de combustible en la gasolinera más cercana al aeropuerto. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532716.5414455,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "20. ¿En qué web podemos encontrar el manual de procedimiento de inspección de las estaciones ITV?",
+        "opciones_respuesta": {
+            "a": "a) En el sitio web del Ministerio de Economía, Industria y Competitividad. ",
+            "b": "b) En el sitio web del Ministerio del Interior. ",
+            "c": "c) En el sitio web del Consejo Superior de Seguridad Vial. ",
+            "d": "d) En el sitio web de la Comunidad Autónoma respectiva. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532735.0854993,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "21. Cuando es una inspección técnica se detectase algún defecto clasificado como grave el resultado de la inspección técnica será:",
+        "opciones_respuesta": {
+            "a": "a) Favorable ",
+            "b": "b) Desfavorable ",
+            "c": "c) Deficiente ",
+            "d": "d) Negativo "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532741.3335407,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "22. Los defectos que constituyen un riesgo directo e inmediato para la seguridad vial o tienen un impacto sobre el medio ambiente, se clasifican en:",
+        "opciones_respuesta": {
+            "a": "a) Defectos leves ",
+            "b": "b) Defectos graves ",
+            "c": "c) Deficiencias técnicas ",
+            "d": "d) Defectos muy graves "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532752.8937232,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "23. El informe de inspección, será conservado por la estación ITV durante al menos:",
+        "opciones_respuesta": {
+            "a": "a) 2 años ",
+            "b": "b) 3 años ",
+            "c": "c) 4 años ",
+            "d": "d) 5 años "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532770.1258144,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "24. El resultado de las inspecciones será comunicado por la estación ITV que las efectúe por vía electrónica:",
+        "opciones_respuesta": {
+            "a": "a) En los 15 días naturales siguientes a la inspección, al Registro de Conductores e Infractores. ",
+            "b": "b) En los 30 días naturales siguientes a la inspección, al Registro de Conductores e Infractores. ",
+            "c": "c) En el día de la inspección, al Registro de Conductores e Infractores. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532785.4217095,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "25. Los defectos señalados en una inspección técnica deberán ser subsanados en el plazo máximo de:",
+        "opciones_respuesta": {
+            "a": "a) Un mes ",
+            "b": "b) 2 meses ",
+            "c": "c) 3 meses ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532791.949965,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "26. ¿Qué distintivo indica que el vehículo ha superado favorablemente la inspección técnica?",
+        "opciones_respuesta": {
+            "a": "a) La señal V-16 ",
+            "b": "b) La señal V-17 ",
+            "c": "c) La señal V-18 ",
+            "d": "d) La señal V-19 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532799.973882,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Qué norma aprueba el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor?",
+        "opciones_respuesta": {
+            "a": "a) RDL 8/2004, de 29 de octubre ",
+            "b": "b) RD 1507/2008, de 12 de septiembre. ",
+            "c": "c) RD 920/2017, de 23 de octubre. ",
+            "d": "d) Ninguno de los anteriores "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1774532818.3979838,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "28. Se exceptúan de la obligación de aseguramiento (Señale la incorrecta):",
+        "opciones_respuesta": {
+            "a": "a) Los remolques, semirremolques y máquinas remolcadas especiales cuya masa máxima autorizada no exceda de 750 kilogramos. ",
+            "b": "b) Aquellos vehículos que hayan sido dados de baja temporal del Registro de Vehículos de la Dirección General de Tráfico. ",
+            "c": "c) Aquellos vehículos que hayan sido dados de baja definitiva del Registro de Vehículos de la Dirección General de Tráfico. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532852.8223412,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "29. Señale la opción incorrecta:",
+        "opciones_respuesta": {
+            "a": "a) Se entienden por hechos de la circulación los derivados del riesgo creado por la conducción de los vehículos a motor, tanto por garajes y aparcamientos, como por vías o terrenos públicos y privados aptos para la circulación, urbanos o interurbanos, así como por vías o terrenos que sin tener tal aptitud sean de uso común. ",
+            "b": "b) No tendrá la consideración de hecho de la circulación la utilización de un vehículo a motor como instrumento de la comisión de delitos dolosos contra las personas y los bienes. ",
+            "c": "c) No tendrá la consideración de hecho de la circulación los derivados de la celebración de pruebas deportivas con vehículos a motor en circuitos especialmente destinados al efecto o habilitados para dichas pruebas. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532888.6543746,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "30. ¿Quién se encuentra obligado a suscribir y mantener en vigor un contrato de seguro por cada vehículo de que sea titular?",
+        "opciones_respuesta": {
+            "a": "a) Todo propietario de vehículos a motor que tenga su estacionamiento habitual en España. ",
+            "b": "b) Todo propietario de vehículos a motor que tenga matrícula española temporal. ",
+            "c": "c) Todo propietario de vehículos a motor para el que no exista matrícula, placa de seguro o signo distintivo y España sea el Estado del domicilio del usuario. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1774532916.4223125,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "31. Las entidades aseguradoras remitirán al Ministerio ___________, a través del Consorcio de Compensación de Seguros, la información sobre los contratos de seguro.",
+        "opciones_respuesta": {
+            "a": "a) De Industria ",
+            "b": "b) Del Interior ",
+            "c": "c) De Economía y Hacienda ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532931.9906628,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "32. Las entidades aseguradoras deberán expedir a favor del propietario del vehículo y del tomador del seguro del vehículo asegurado, en caso de ser persona distinta de aquél, previa petición de cualquiera de ellos certificación acreditativa de los siniestros de los que se derive responsabilidad frente a terceros, correspondientes a los 5 últimos años de seguro, si los hubiere o, en su caso, una certificación de ausencia de siniestros.",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 15 días hábiles. ",
+            "b": "b) En el plazo de 20 días hábiles. ",
+            "c": "c) En el plazo de 15 días naturales. ",
+            "d": "d) En el plazo de 20 días naturales. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1774532949.582777,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "33. ¿Cuándo aceptará el Consorcio de Compensación de Seguros la contratación del riesgo?",
+        "opciones_respuesta": {
+            "a": "a) Cuando no hayan sido aceptadas o hayan sido rechazadas tres solicitudes de seguro por tres entidades aseguradoras. ",
+            "b": "b) Cuando no hayan sido aceptadas o hayan sido rechazadas dos solicitudes de seguro por dos entidades aseguradoras. ",
+            "c": "c) Cuando no hayan sido aceptadas o hayan sido rechazadas cuatro solicitudes de seguro por cuatro entidades aseguradoras. ",
+            "d": "d) Cuando no hayan sido aceptadas o hayan sido rechazadas cinco solicitudes de seguro por cinco entidades aseguradoras. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1774532976.7749708,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "34. La vigencia del seguro obligatorio se constatará por los agentes de la autoridad mediante la consulta al Fichero Informativo de Vehículos Asegurados (FIVA). En su defecto, quedará acreditada la vigencia del seguro mediante el justificante de pago de la prima del periodo de seguro en curso, siempre que contenga, al menos:",
+        "opciones_respuesta": {
+            "a": "a) la identificación de la entidad aseguradora, la matrícula, placa de seguro o signo distintivo del vehículo, el periodo de cobertura y la indicación de la cobertura del seguro obligatorio. ",
+            "b": "b) la identificación de la entidad aseguradora, la matrícula, el periodo de cobertura y la indicación de la cobertura del seguro obligatorio. ",
+            "c": "c) la identificación de la entidad aseguradora, la matrícula, placa de seguro o signo distintivo del vehículo y el periodo de cobertura. ",
+            "d": "d) la identificación de la entidad aseguradora, la matrícula y el periodo de cobertura. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1774532998.1115465,
+        "path": "/bloque_III/_plan_pl_3.9.json",
+        "id": "id2340234",
+        "pregunta": "35. Señale la afirmación correcta:",
+        "opciones_respuesta": {
+            "a": "a. Quedan exentos de la colocación del distintivo V-19 aquellos vehículos catalogados o clasificados por la Administración como vehículos históricos. ",
+            "b": "b. Aquellos vehículos clasificados como históricos con antigüedad superior a 60 años desde su fabricación o primera matriculación, así como los ciclomotores clasificados como históricos con independencia de su antigüedad, quedarán exentos de someterse a la ITV, sin perjuicio de que las personas titulares de estos vehículos puedan someterlos a ITV voluntarias. ",
+            "c": "c. Las opciones a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    }
+]

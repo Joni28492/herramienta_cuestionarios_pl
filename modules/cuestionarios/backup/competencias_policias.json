@@ -2,7 +2,7 @@
     {
         "pregunta": "e) Mantener y restablecer, en su caso, el orden y la seguridad ciudadana.",
         "respuesta": "policia",
-        "fallos": 1,
+        "fallos": 2,
         "aciertos": 0
     },
     {
@@ -14,6 +14,12 @@
     {
         "pregunta": "e) Participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de esta Ley.",
         "respuesta": "policia local",
+        "fallos": 1,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
+        "respuesta": "simultaneas",
         "fallos": 1,
         "aciertos": 0
     },
@@ -45,7 +51,7 @@
         "pregunta": "f) Prevenir la comisión de actos delictivos.",
         "respuesta": "policia",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "g) Investigar los delitos para descubrir y detener a los presuntos culpables, asegurar los instrumentos, efectos y pruebas del delito, poniéndolos a disposición del Juez o Tribunal competente y elaborar los informes técnicos y periciales procedentes.",
@@ -57,7 +63,7 @@
         "pregunta": "h) Captar, recibir y analizar cuantos datos tengan interés para el orden y la seguridad pública, y estudiar, planificar y ejecutar los métodos y técnicas de prevención de la delincuencia.",
         "respuesta": "policia",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.",
@@ -81,7 +87,7 @@
         "pregunta": "b) El control de entrada y salida del territorio nacional de españoles y extranjeros.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "c) Las previstas en la legislación sobre extranjería, refugio y asilo, extradición, expulsión, emigración e inmigración.",
@@ -123,7 +129,7 @@
         "pregunta": "b) Ordenar, señalizar y dirigir el tráfico en el casco urbano, de acuerdo con lo establecido en las normas de circulación.",
         "respuesta": "policia local",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "c) Instruir atestados por accidentes de circulación dentro del casco urbano.",
@@ -201,7 +207,7 @@
         "pregunta": "f) La conducción interurbana de presos y detenidos.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "g) Aquellas otras que le atribuye la legislación vigente.",
@@ -213,7 +219,7 @@
         "pregunta": "a) Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma.",
         "respuesta": "propias",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "b) La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la Comunidad Autónoma y de sus entes instrumentales, garantizando el normal funcionamiento de las instalaciones y la seguridad de los usuarios de sus servicios.",
@@ -225,7 +231,7 @@
         "pregunta": "c) La inspección de las actividades sometidas a la ordenación o disciplina de la Comunidad Autónoma, denunciando toda actividad ilícita.",
         "respuesta": "propias",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "d) El uso de la coacción en orden a la ejecución forzosa de los actos o disposiciones de la propia Comunidad Autónoma.",
@@ -259,12 +265,6 @@
     },
     {
         "pregunta": "b) La prestación de auxilio en los casos de accidente, catástrofe o calamidad pública, participando en la forma prevista en las Leyes, en la ejecución de los planes de protección civil.",
-        "respuesta": "simultaneas",
-        "fallos": 0,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
         "respuesta": "simultaneas",
         "fallos": 0,
         "aciertos": 0
