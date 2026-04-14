@@ -27,7 +27,7 @@
         "pregunta": "La alegación de datos o circunstancias falsos para la obtención de las documentaciones previstas en esta Ley, siempre que no constituya infracción penal.",
         "respuesta": "grave",
         "fallos": 4,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "La carencia de los registros previstos en esta Ley para las actividades con trascendencia para la seguridad ciudadana o la omisión de comunicaciones obligatorias.",
@@ -63,12 +63,12 @@
         "pregunta": "Las reuniones o manifestaciones no comunicadas o prohibidas en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad o en sus inmediaciones, así como la intrusión en los recintos de éstas, incluido su sobrevuelo, cuando, en cualquiera de estos supuestos, se haya generado un riesgo para la vida o la integridad física de las personas.En el caso de las reuniones y manifestaciones serán responsables los organizadores o promotores.",
         "respuesta": "muy grave",
         "fallos": 2,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "Portar, exhibir o usar armas prohibidas, así como portar, exhibir o usar armas de modo negligente, temerario o intimidatorio, o fuera de los lugares habilitados para su uso, aún cuando en este último caso se tuviera licencia, siempre que dichas conductas no constituyan infracción penal.",
         "respuesta": "grave",
-        "fallos": 1,
+        "fallos": 2,
         "aciertos": 2
     },
     {
@@ -87,13 +87,13 @@
         "pregunta": "El incumplimiento de las restricciones de circulación peatonal o itinerario con ocasión de un acto público, reunión o manifestación, cuando provoquen alteraciones menores en el normal desarrollo de los mismos.",
         "respuesta": "leve",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "La falta de colaboración con las Fuerzas y Cuerpos de Seguridad en la averiguación de delitos o en la prevención de acciones que puedan poner en riesgo la seguridad ciudadana en los supuestos previstos en el artículo 7.",
         "respuesta": "grave",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "La celebración de reuniones en lugares de tránsito público o de manifestaciones, incumpliendo lo preceptuado en los artículos 4.2, 8, 9, 10 y 11 de la Ley Orgánica 9/1983, de 15 de julio, cuya responsabilidad corresponderá a los organizadores o promotores.",
@@ -135,13 +135,13 @@
         "pregunta": "El incumplimiento de la obligación de obtener la documentación personal legalmente exigida, así como la omisión negligente de la denuncia de su sustracción o extravío.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "La negligencia en la custodia y conservación de la documentación personal legalmente exigida, considerándose como tal la tercera y posteriores pérdidas o extravíos en el plazo de un año.",
         "respuesta": "leve",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "Los daños o el deslucimiento de bienes muebles o inmuebles de uso o servicio público, así como de bienes muebles o inmuebles privados en la vía pública, cuando no constituyan infracción penal.",
@@ -171,7 +171,7 @@
         "pregunta": "La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos o culturales, solemnidades y oficios religiosos u otras reuniones a las que asistan numerosas personas, cuando no sean constitutivas de infracción penal.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "La perturbación grave de la seguridad ciudadana que se produzca con ocasión de reuniones o manifestaciones frente a las sedes del Congreso de los Diputados, el Senado y las asambleas legislativas de las comunidades autónomas, aunque no estuvieran reunidas, cuando no constituya infracción penal.",
@@ -213,13 +213,13 @@
         "pregunta": "El consumo o la tenencia ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas, aunque no estuvieran destinadas al tráfico, en lugares, vías, establecimientos públicos o transportes colectivos, así como el abandono de los instrumentos u otros efectos empleados para ello en los citados lugares.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "El traslado de personas, con cualquier tipo de vehículo, con el objeto de facilitar a éstas el acceso a drogas tóxicas, estupefacientes o sustancias psicotrópicas, siempre que no constituya delito.",
         "respuesta": "grave",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "La ejecución de actos de plantación y cultivo ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas en lugares visibles al público, cuando no sean constitutivos de infracción penal.",
