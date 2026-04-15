@@ -18,6 +18,18 @@
         "aciertos": 1
     },
     {
+        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
+        "respuesta": "70",
+        "fallos": 3,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "Autopistas y autovias Tractocamiones ",
+        "respuesta": "90",
+        "fallos": 3,
+        "aciertos": 1
+    },
+    {
         "pregunta": "Autopistas y autovias resto de vehiculos",
         "respuesta": "90",
         "fallos": 2,
@@ -33,7 +45,7 @@
         "pregunta": "Carretera convencional resto de vehiculos",
         "respuesta": "80",
         "fallos": 2,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "Carretera convencional vehiculos derivados de turismo",
@@ -48,16 +60,10 @@
         "aciertos": 1
     },
     {
-        "pregunta": "vehiculo especial con señalizacion de frenado, vel max ",
-        "respuesta": "70",
-        "fallos": 2,
-        "aciertos": 0
-    },
-    {
         "pregunta": "Autopistas y autovias autobuses",
         "respuesta": "100",
         "fallos": 2,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "Carretera convencional turismos (*)",
@@ -79,12 +85,6 @@
     },
     {
         "pregunta": "Carretera convencional motocicletas (*)",
-        "respuesta": "90",
-        "fallos": 2,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "Autopistas y autovias Tractocamiones ",
         "respuesta": "90",
         "fallos": 2,
         "aciertos": 1
@@ -150,16 +150,16 @@
         "aciertos": 0
     },
     {
+        "pregunta": "Autopistas y autovias vehiculos derivados de turismo",
+        "respuesta": "100",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
         "pregunta": "Autpistas y autovias Turismo",
         "respuesta": "120",
         "fallos": 0,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "Autopistas y autovias vehiculos derivados de turismo",
-        "respuesta": "100",
-        "fallos": 0,
-        "aciertos": 0
+        "aciertos": 2
     },
     {
         "pregunta": "Autopistas y autovias vehiculos mixtos adaptables",
@@ -177,7 +177,7 @@
         "pregunta": "carretera convencional con separacion fisica de los 2 sentidos de circulacion autocaravana MMA=<3.5kg",
         "respuesta": "100",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "Carretera convencional vehiculos mixtos adaptables",
@@ -195,7 +195,7 @@
         "pregunta": "Autopistas y autovias Camiones ",
         "respuesta": "90",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "autobus con viajeros a pie",
@@ -213,7 +213,7 @@
         "pregunta": "Carretera convencional autocaravanas de MMA > 3.5kg",
         "respuesta": "80",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "vehiculo especial con señalizacion de frenado, en llano ",
@@ -243,7 +243,7 @@
         "pregunta": "via de 2 o mas carriles por sentido de la circulacion",
         "respuesta": "50",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "ciclos, ciclomotores de 2 y 3 ruedas y cuadriciclos ligeros, (podran desarrollar una vel. superior",

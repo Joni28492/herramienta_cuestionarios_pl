@@ -12,6 +12,24 @@
         "aciertos": 1
     },
     {
+        "pregunta": "hasta los 21 años no se autoriza a conducir triciclos a motor cuya potencia maxima exceda 15Kw",
+        "respuesta": "A",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas >17 incluido el conductor",
+        "respuesta": "D",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "vehiculos para movilidad reducida - sin limitacion",
+        "respuesta": "A1",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso B y semiremolque  >750kg siempre que el conjunto <=12T",
         "respuesta": "C1+E",
         "fallos": 1,
@@ -28,12 +46,6 @@
         "respuesta": "A1",
         "fallos": 1,
         "aciertos": 1
-    },
-    {
-        "pregunta": "hasta los 21 años no se autoriza a conducir triciclos a motor cuya potencia maxima exceda 15Kw",
-        "respuesta": "A",
-        "fallos": 1,
-        "aciertos": 0
     },
     {
         "pregunta": "El permiso ___ autoriza tambien para Triciclos y Cuatriciclos de Motor, Ciclomotores, y vehiculos para personas con movilidad reducida",
@@ -60,31 +72,19 @@
         "aciertos": 0
     },
     {
-        "pregunta": "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas >17 incluido el conductor",
-        "respuesta": "D",
-        "fallos": 1,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "vehiculos para movilidad reducida - sin limitacion",
-        "respuesta": "A1",
-        "fallos": 1,
-        "aciertos": 0
-    },
-    {
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso D1 y remolque >750kg ",
         "respuesta": "D1+E",
         "fallos": 1,
         "aciertos": 0
     },
     {
-        "pregunta": "ciclomotores de 2 o 3 ruedas",
+        "pregunta": "cuatriciclos ligeros",
         "respuesta": "AM",
-        "fallos": 0,
+        "fallos": 1,
         "aciertos": 0
     },
     {
-        "pregunta": "cuatriciclos ligeros",
+        "pregunta": "ciclomotores de 2 o 3 ruedas",
         "respuesta": "AM",
         "fallos": 0,
         "aciertos": 0
@@ -153,13 +153,13 @@
         "pregunta": "vehiculos especiales agricolas (o sus conjuntos) si excede su masa o dimensiones o si su velocidad MAX por construcion >45Km/h ",
         "respuesta": "B",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "No se exigira licencia para Vehiculos movilidad reducida con un permiso de clase A1 o ___",
         "respuesta": "B",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "No se exigira licencia para Vehiculos vehiculos especiales agricolas autopropulsados con un permiso de clase ___",
