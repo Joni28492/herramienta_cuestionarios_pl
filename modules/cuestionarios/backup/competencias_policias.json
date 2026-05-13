@@ -3,7 +3,7 @@
         "pregunta": "e) Mantener y restablecer, en su caso, el orden y la seguridad ciudadana.",
         "respuesta": "policia",
         "fallos": 2,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "h) Aquellas otras que le atribuya la legislación vigente.",
@@ -20,6 +20,18 @@
     {
         "pregunta": "c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
         "respuesta": "simultaneas",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.",
+        "respuesta": "policia",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "c) Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.",
+        "respuesta": "colaboracion",
         "fallos": 1,
         "aciertos": 0
     },
@@ -66,12 +78,6 @@
         "aciertos": 1
     },
     {
-        "pregunta": "i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.",
-        "respuesta": "policia",
-        "fallos": 0,
-        "aciertos": 0
-    },
-    {
         "pregunta": "No obstante lo dispuesto en el apartado anterior, los miembros del Cuerpo Nacional de Policía podrán ejercer las funciones de investigación y las de coordinación de los datos a que se refieren los apartados g) y h) del número 1 de este artículo, en todo el territorio nacional",
         "respuesta": "policia",
         "fallos": 0,
@@ -87,7 +93,7 @@
         "pregunta": "b) El control de entrada y salida del territorio nacional de españoles y extranjeros.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "c) Las previstas en la legislación sobre extranjería, refugio y asilo, extradición, expulsión, emigración e inmigración.",
@@ -99,7 +105,7 @@
         "pregunta": "d) La vigilancia e inspección del cumplimiento de la normativa en materia de juego.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "e) La investigación y persecución de los delitos relacionados con la droga.",
@@ -135,7 +141,7 @@
         "pregunta": "c) Instruir atestados por accidentes de circulación dentro del casco urbano.",
         "respuesta": "policia local",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "d) Policía Administrativa, en lo relativo a las Ordenanzas, Bandos y demás disposiciones municipales dentro del ámbito de su competencia.",
@@ -171,7 +177,7 @@
         "pregunta": "Las actuaciones que practiquen los Cuerpos de ______ en el ejercicio de las funciones previstas en los apartados c) y g) precedentes deberán ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes",
         "respuesta": "policia local",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "a) Las derivadas de la legislación vigente sobre armas y explosivos.",
@@ -183,7 +189,7 @@
         "pregunta": "b) El resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "c) La vigilancia del tráfico, tránsito y transporte en las vías públicas interurbanas.",
@@ -207,7 +213,7 @@
         "pregunta": "f) La conducción interurbana de presos y detenidos.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "g) Aquellas otras que le atribuye la legislación vigente.",
@@ -219,7 +225,7 @@
         "pregunta": "a) Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma.",
         "respuesta": "propias",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "b) La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la Comunidad Autónoma y de sus entes instrumentales, garantizando el normal funcionamiento de las instalaciones y la seguridad de los usuarios de sus servicios.",
@@ -250,12 +256,6 @@
         "respuesta": "colaboracion",
         "fallos": 0,
         "aciertos": 1
-    },
-    {
-        "pregunta": "c) Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.",
-        "respuesta": "colaboracion",
-        "fallos": 0,
-        "aciertos": 0
     },
     {
         "pregunta": "a) La cooperación a la resolución amistosa de los conflictos privados cuando sean requeridos para ello.",

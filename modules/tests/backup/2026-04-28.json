@@ -1,0 +1,352 @@
+[
+    {
+        "timestamp": 1777395970.4769425,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "20. El título IV de la Ley Orgánica 2/86, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. De la colaboración y coordinación entre el Estado y las Comunidades Autónomas. ",
+            "b": "b. De la colaboración entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "c": "c. De la adscripción de Unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas. ",
+            "d": "d. De los órganos de coordinación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777395976.340855,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Cuándo dependerá la Guardia Civil, exclusivamente, del Ministerio de Defensa?",
+        "opciones_respuesta": {
+            "a": "a. En todo momento. ",
+            "b": "b. En ningún caso. ",
+            "c": "c. En tiempo de guerra y durante el estado de sitio. ",
+            "d": "d. En tiempo de guerra, exclusivamente. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1777395987.205481,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "18. Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas es una función:",
+        "opciones_respuesta": {
+            "a": "a. Que realizan los Cuerpos de Policía de las Comunidades Autónomas en colaboración con las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "b": "b. A) es correcta, y su ejercicio corresponderá con carácter prioritario a los Cuerpos de Policía de la Comunidad Autónoma. ",
+            "c": "c. A) es correcta, y su ejercicio corresponderá con carácter prioritario a las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "d": "d. Que realizan los Cuerpos de Policía de las Comunidades Autónomas, prestando dicho servicio de modo simultáneo e indiferenciado con las Fuerzas y Cuerpos de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777395995.7731113,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Qué ámbito territorial tienen los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. El municipio. ",
+            "b": "b. La provincia. ",
+            "c": "c. La Comunidad Autónoma. ",
+            "d": "d. El territorio nacional. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396003.0772934,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "3. La seguridad pública es competencia…",
+        "opciones_respuesta": {
+            "a": "a. Del Estado y de las Comunidades Autónomas. ",
+            "b": "b. Exclusiva del Estado. ",
+            "c": "c. Del Estado, de las Comunidades Autónomas y de las Corporaciones Locales. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777396006.1251523,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "6. Los principios básicos de actuación se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 4 ",
+            "b": "b. 5 ",
+            "c": "c. 6 ",
+            "d": "d. 7 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777396013.2452228,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "8. Las fuerzas y cuerpos de seguridad se regirán en la utilización de armas y medios a su alcance por los siguientes principios:",
+        "opciones_respuesta": {
+            "a": "a. Congruencia, Oportunidad y Proporcionalidad. ",
+            "b": "b. Intervención mínima y Seguridad. ",
+            "c": "c. Proporcionalidad y menor lesividad. ",
+            "d": "d. Decisión necesaria y sin demora. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396022.3736632,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "13.Las Fuerzas y Cuerpos de Seguridad del Estado tienen como misión:",
+        "opciones_respuesta": {
+            "a": "a. Proteger el libre ejercicio de los derechos y libertades. ",
+            "b": "b. Garantizar la seguridad ciudadana. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1777396037.3494341,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "9. Los miembros de las Fuerzas y Cuerpos de Seguridad, respecto al derecho de huelga:",
+        "opciones_respuesta": {
+            "a": "a. No lo podrán ejercer en ningún caso, y tampoco acciones sustitutivas del mismo. ",
+            "b": "b. No lo podrán ejercer en ningún caso, pero sí acciones sustitutivas del mismo. ",
+            "c": "c. Lo podrán ejercer, exclusivamente, conforme a la legislación específica en la materia. ",
+            "d": "d. Lo podrán ejercer al ser considerado un derecho constitucional, salvo que se altere el normal funcionamiento del servicio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396042.1651773,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "25. Las funciones de los cuerpos de Policía Local se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 51 ",
+            "b": "b. 53 ",
+            "c": "c. 54 ",
+            "d": "d. 56 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777396088.413631,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "27. Los Cuerpos de Policía Local cuando ejerzan funciones de protección de autoridades de las corporaciones locales, podrán actuar fuera del término municipal respectivo:",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, con autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, con autorización de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica, cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma. ",
+            "c": "c. a) y b) son correctas ",
+            "d": "d. Falso, no podrán ejercer dicha función fuera de su ámbito territorial. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1777396104.2055051,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "21. En el cumplimiento de sus funciones, los funcionarios adscritos a Unidades de Policía Judicial dependen:",
+        "opciones_respuesta": {
+            "a": "a. Orgánicamente de los Jueces, tribunales y del Ministerio Fiscal. ",
+            "b": "b. Funcionalmente del Ministerio del Interior. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1777396120.029934,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "24. Los Mandos de los Cuerpos de Policía de las Comunidades Autónomas se designarán por las Autoridades competentes de la Comunidad Autónoma, entre:",
+        "opciones_respuesta": {
+            "a": "a. Los Agentes con mayor categoría entre los distintos Cuerpos de la Comunidad Autónoma. ",
+            "b": "b. Los Jefes, Oficiales y Mandos de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "c": "c. Los Agentes con mayor antigüedad dentro del propio cuerpo. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777396128.2137513,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "13. Como norma general, la figura del Gobernador Civil, en la actualidad es:",
+        "opciones_respuesta": {
+            "a": "a. El Subdelegado de Gobierno. ",
+            "b": "b. El Delegado de Gobierno. ",
+            "c": "c. El Secretario de Estado de Seguridad. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777396146.3339968,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "8. Señale la opción correcta respecto a los Principios básicos de actuación de los cuerpos y fuerzas de seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "b": "b. Los miembros de las Fuerzas y Cuerpos de Seguridad deberán identificarse debidamente como tales en el momento de iniciar una intervención ",
+            "c": "c. Deberán sujetarse en su actuación profesional, a los principios de honor y dignidad. ",
+            "d": "d. Todas son incorrectas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1777396165.253989,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿En qué casos actuarán fuera de su ámbito competencial el CNP o la GC?",
+        "opciones_respuesta": {
+            "a": "a. Por mandato judicial. ",
+            "b": "b. Por mandato del Ministerio Fiscal. ",
+            "c": "c. En casos excepcionales, cuando lo requiera la eficacia de la actuación. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1777396188.9582784,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "23. Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales. No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo.",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, previa autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, previa autorización del Delegado del Gobierno. ",
+            "c": "c. Verdadero, previa autorización del Director General de la Policía. ",
+            "d": "d. Falso. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396198.9183068,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "9. Objetividad, igualdad de oportunidades, mérito y capacidad, son los principios a los que se ajustará:",
+        "opciones_respuesta": {
+            "a": "a. La promoción. ",
+            "b": "b. La formación y perfeccionamiento. ",
+            "c": "c. La provisión de puestos de trabajo. ",
+            "d": "d. La remuneración. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1777396220.2382324,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué artículos constitucionales inspiran el marco normativo de la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 104, 148.1.22 y 149.1.29. ",
+            "b": "b. 105, 148.1.29 y 149.1.22. ",
+            "c": "c. 104, 148.1.29 y 149.1.22. ",
+            "d": "d. 105, 148.1.22 y 149.1.29. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396231.5104015,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿A quien le corresponde la responsabilidad de las relaciones de colaboración y auxilio con las Autoridades policiales de otros países?",
+        "opciones_respuesta": {
+            "a": "a. Al Ministro del Interior. ",
+            "b": "b. Al Ministro de Defensa. ",
+            "c": "c. Al Director General de la Policía. ",
+            "d": "d. Al Director de Seguridad del Estado. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396242.58237,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "6. Corresponde al principio básico de actuación de Adecuación al Ordenamiento Jurídico…",
+        "opciones_respuesta": {
+            "a": "a. Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral. ",
+            "b": "b. Actuar con integridad y dignidad. En particular, deberán abstenerse de todo acto de corrupción y oponerse a él resueltamente. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1777396268.7827685,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "7. Corresponde al principio básico de actuación de Dedicación Profesional…",
+        "opciones_respuesta": {
+            "a": "a. Deberán llevar a cabo sus funciones con total dedicación, debiendo intervenir siempre, en cualquier tiempo y lugar, se hallaren o no de servicio, en defensa de la Ley y de la seguridad ciudadana. ",
+            "b": "b. Observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fueren requeridos para ello. En todas sus intervenciones, proporcionarán información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de las mismas. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1777396282.0948985,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "29. ¿Qué funciones que practiquen los Cuerpos de Policía Local deben ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Instruir atestados por accidentes de circulación dentro del casco urbano (53/c). ",
+            "b": "b. Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad (53/g). ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. La prestación de auxilio, en los casos de accidente, catástrofe o calamidad pública, participando, en la forma prevista en las Leyes, en la ejecución de los planes de Protección Civil (53/f). "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1777396292.262976,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "17. En caso de conflicto de competencias, ya sea positivo o negativo, se hará cargo del servicio:",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía. ",
+            "b": "b. La Guardia Civil. ",
+            "c": "c. Quien haya realizado las primeras actuaciones. ",
+            "d": "d. Quien haya tenido conocimiento de los hechos en primer lugar. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1777396305.6786714,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "4. Los miembros de las Fuerzas y Cuerpos de Seguridad ajustarán su actuación al principio de:",
+        "opciones_respuesta": {
+            "a": "a. Colaboración recíproca. ",
+            "b": "b. Cooperación recíproca. ",
+            "c": "c. Coordinación recíproca. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    }
+]

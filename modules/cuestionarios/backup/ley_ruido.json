@@ -1,0 +1,80 @@
+[
+    {
+        "pregunta": "a) La no comunicación a la Administración competente de los datos requeridos por ésta dentro de los plazos establecidos al efecto.",
+        "respuesta": "leve",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "b) La instalación o comercialización de emisores acústicos sin acompañar la información sobre sus índices de emisión, cuando tal información sea exigible conforme a la normativa aplicable.",
+        "respuesta": "leve",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "c) El incumplimiento de las prescripciones establecidas en esta ley, cuando no esté tipificado como infracción muy grave o grave.",
+        "respuesta": "leve",
+        "fallos": 0,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "a) La superación de los valores límite que sean aplicables, cuando no se haya producido un daño o deterioro grave para el medio ambiente ni se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "b) El incumplimiento de las condiciones establecidas en materia de contaminación acústica, en la autorización ambiental integrada, en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental, en la licencia de actividades clasificadas o en otras figuras de intervención administrativa, cuando no se haya producido un daño o deterioro grave para el medio ambiente ni se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "c) La ocultación o alteración maliciosas de datos relativos a la contaminación acústica aportados a los expedientes administrativos encaminados a la obtención de autorizaciones o licencias relacionadas con el ejercicio de las actividades reguladas en esta ley.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "d) El impedimento, el retraso o la obstrucción a la actividad inspectora o de control de las Administraciones públicas.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "e) La no adopción de las medidas correctoras requeridas por la Administración competente en caso de incumplimiento de los objetivos de calidad acústica.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "a) La producción de contaminación acústica por encima de los valores límite establecidos en zonas de protección acústica especial y en zonas de situación acústica especial.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "b) La superación de los valores límite que sean aplicables, cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "c) El incumplimiento de las condiciones establecidas, en materia de contaminación acústica, en la autorización ambiental integrada, en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental, en la licencia de actividades clasificadas o en otras figuras de intervención administrativa, cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "d) El incumplimiento de las normas que establezcan requisitos relativos a la protección de las edificaciones contra el ruido, cuando se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "e) El incumplimiento de las obligaciones derivadas de la adopción de medidas provisionales conforme al artículo 31.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0
+    }
+]

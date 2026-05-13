@@ -1,15 +1,15 @@
 [
     {
+        "pregunta": "Automoviles con MMA <=3.5kg para un maximo de 8 pasajeros ademas del conductor",
+        "respuesta": "B",
+        "fallos": 3,
+        "aciertos": 1
+    },
+    {
         "pregunta": "Triciclos cuya potencia no exceda 15 Kw",
         "respuesta": "A1",
         "fallos": 2,
         "aciertos": 0
-    },
-    {
-        "pregunta": "Automoviles con MMA <=3.5kg para un maximo de 8 pasajeros ademas del conductor",
-        "respuesta": "B",
-        "fallos": 2,
-        "aciertos": 1
     },
     {
         "pregunta": "hasta los 21 años no se autoriza a conducir triciclos a motor cuya potencia maxima exceda 15Kw",
@@ -30,10 +30,22 @@
         "aciertos": 0
     },
     {
+        "pregunta": "El permiso ___ autoriza tambien para Triciclos y Cuatriciclos de Motor, Ciclomotores, y vehiculos para personas con movilidad reducida",
+        "respuesta": "B",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "Automoviles distintos a los que autoriza el D1/D con MMA <3.5  para un Max de 8 pasajeros ademas del conductor, remolque <=750kg",
+        "respuesta": "C",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso B y semiremolque  >750kg siempre que el conjunto <=12T",
         "respuesta": "C1+E",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "podra estar limitado a la circulacion de ciclomotores de 3 ruedas y cuatriciclos ligeros",
@@ -46,18 +58,6 @@
         "respuesta": "A1",
         "fallos": 1,
         "aciertos": 1
-    },
-    {
-        "pregunta": "El permiso ___ autoriza tambien para Triciclos y Cuatriciclos de Motor, Ciclomotores, y vehiculos para personas con movilidad reducida",
-        "respuesta": "B",
-        "fallos": 1,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "Automoviles distintos a los que autoriza el D1/D con MMA <3.5  para un Max de 8 pasajeros ademas del conductor, remolque <=750kg",
-        "respuesta": "C",
-        "fallos": 1,
-        "aciertos": 0
     },
     {
         "pregunta": "Conjunto de vehiculos que autoriza el permiso C y con remolque/semiremolque > 750",
@@ -75,7 +75,7 @@
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso D1 y remolque >750kg ",
         "respuesta": "D1+E",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "cuatriciclos ligeros",
@@ -141,7 +141,7 @@
         "pregunta": "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas <= 9 incluido el conductor",
         "respuesta": "B",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "vehiculos especiales agricolas (o sus conjuntos) si sus masas o dimensiones no exceden los limites, (o licencia)",
@@ -153,7 +153,7 @@
         "pregunta": "vehiculos especiales agricolas (o sus conjuntos) si excede su masa o dimensiones o si su velocidad MAX por construcion >45Km/h ",
         "respuesta": "B",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "No se exigira licencia para Vehiculos movilidad reducida con un permiso de clase A1 o ___",
@@ -177,7 +177,7 @@
         "pregunta": "Automoviles distintos a los que autoriza el D1/D con MMA >3.5 y <=7.5kg para un Max de 8 pasajeros ademas del conductor, remolque <=750kg",
         "respuesta": "C1",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso C1 y semiremolque  >750kg siempre que el conjunto <=12T",
@@ -189,13 +189,13 @@
         "pregunta": "Automoviles diseñados y construidos para el transporte de hasta 16 personas ademas del conductor, y longitud MAX 8 metros, remolque <=750kg",
         "respuesta": "D1",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas > 9 <= 17 incluido el conductor",
         "respuesta": "D1",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "Conjunto de vehiculos formado por vehiculo tractor habilitado por permiso D y remolque >750kg",
