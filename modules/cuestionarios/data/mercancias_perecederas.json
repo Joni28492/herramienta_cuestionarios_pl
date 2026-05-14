@@ -1,0 +1,111 @@
+{
+    "abrr_opts": {
+        "-40º": [
+            "-40"
+        ],
+        "-30º": [
+            "-30"
+        ],
+        "-20º": [
+            "-20"
+        ],
+        "-10º": [
+            "-10"
+        ],
+        "0º": [
+            "0"
+        ],
+        "7º": [
+            "7"
+        ],
+        "10º": [
+            "10"
+        ],
+        "12º": [
+            "12"
+        ],
+        "20º": [
+            "20"
+        ],
+        "30º": [
+            "30"
+        ]
+    },
+    "-40º": [
+        "CALORIFICA  -  Clase D",
+        "CALORIFICA & FRIGORIFICA -> Clase C  Temperatura media entre ___ ºC y 30 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase G  Temperatura media entre ___ ºC y 30 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase K  Temperatura media entre ___ ºC y 30 ºC"
+    ],
+    "-30º": [
+        "CALORIFICA  -  Clase C"
+    ],
+    "-20º": [
+        "REFRIGERANTE - Max Clase C",
+        "CALORIFICA  -  Clase B",
+        "FRIGORIFICA - Clase C Entre 12 ºC &  ___ ºC",
+        "FRIGORIFICA - Clase F Igual o Inferior ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase I Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase J Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase K Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase L Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase B  Temperatura media entre ___ ºC y 30 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase F  Temperatura media entre ___ ºC y 30 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase J  Temperatura media entre ___ ºC y 30 ºC"
+    ],
+    "-10º": [
+        "REFRIGERANTE - Max Clase B",
+        "CALORIFICA  -  Clase A",
+        "FRIGORIFICA - Clase B Entre  12ºC & ___ ºC",
+        "FRIGORIFICA - Clase E Igual o Inferior ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase E Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase F Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase G Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase H Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase E  Temperatura media entre ___ ºC y 30 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase I  Temperatura media entre ___ ºC y 30 ºC"
+    ],
+    "0º": [
+        "REFRIGERANTE - Max Clase D",
+        "FRIGORIFICA - Clase A Entre 12 ºC &  ___ ºC",
+        "FRIGORIFICA - Clase D Igual o Inferior ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase B Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase C Ti entre 12 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase D Ti entre 12 ºC y ___ ºC"
+    ],
+    "7º": [
+        "REFRIGERANTE - Max Clase A"
+    ],
+    "10º": [],
+    "12º": [
+        "FRIGORIFICA - Clase A Entre  ___ ºC &  0 ºC",
+        "FRIGORIFICA - Clase B Entre  ___ ºC & -10 ºC",
+        "FRIGORIFICA - Clase C Entre  ___ ºC &  -20 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase B Ti entre ___ ºC y 0 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase C Ti entre ___ ºC y 0 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase D Ti entre ___ ºC y 0 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase E Ti entre ___ ºC y -10 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase F Ti entre ___ ºC y -10 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase G Ti entre ___ ºC y -10 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase H Ti entre ___ ºC y -10 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase I Ti entre ___ ºC y -20 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase J Ti entre ___ ºC y -20 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase K Ti entre ___ ºC y -20 ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase L Ti entre ___ ºC y -20 ºC"
+    ],
+    "20º": [],
+    "30º": [
+        "UNIDAD REFRIGERANTE - Temperatura Exterior Media +30º",
+        "CALORIFICA & FRIGORIFICA -> Clase B  Temperatura media entre -20 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase C  Temperatura media entre -30 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase D  Temperatura media entre -40 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase E  Temperatura media entre -10 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase F  Temperatura media entre -20 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase G  Temperatura media entre -30 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase H  Temperatura media entre -40 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase I  Temperatura media entre -10 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase J  Temperatura media entre -20 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase K  Temperatura media entre -30 ºC y ___ ºC",
+        "CALORIFICA & FRIGORIFICA -> Clase L  Temperatura media entre -40 ºC y ___ ºC"
+    ]
+}

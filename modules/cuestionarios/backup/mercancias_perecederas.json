@@ -1,0 +1,356 @@
+[
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase L Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-20º",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase E Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-10º",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase D  Temperatura media entre -40 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA  -  Clase D",
+        "respuesta": "-40º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase C  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-40º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase G  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-40º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase K  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-40º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA  -  Clase C",
+        "respuesta": "-30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "REFRIGERANTE - Max Clase C",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA  -  Clase B",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase C Entre 12 ºC &  ___ ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase F Igual o Inferior ___ ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase I Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase J Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase K Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase B  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase F  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase J  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-20º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "REFRIGERANTE - Max Clase B",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA  -  Clase A",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase B Entre  12ºC & ___ ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase E Igual o Inferior ___ ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase F Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase G Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase H Ti entre 12 ºC y ___ ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase E  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase I  Temperatura media entre ___ ºC y 30 ºC",
+        "respuesta": "-10º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "REFRIGERANTE - Max Clase D",
+        "respuesta": "0º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase A Entre 12 ºC &  ___ ºC",
+        "respuesta": "0º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase D Igual o Inferior ___ ºC",
+        "respuesta": "0º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase B Ti entre 12 ºC y ___ ºC",
+        "respuesta": "0º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase C Ti entre 12 ºC y ___ ºC",
+        "respuesta": "0º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase D Ti entre 12 ºC y ___ ºC",
+        "respuesta": "0º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "REFRIGERANTE - Max Clase A",
+        "respuesta": "7º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase A Entre  ___ ºC &  0 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase B Entre  ___ ºC & -10 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "FRIGORIFICA - Clase C Entre  ___ ºC &  -20 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase B Ti entre ___ ºC y 0 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase C Ti entre ___ ºC y 0 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase D Ti entre ___ ºC y 0 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase E Ti entre ___ ºC y -10 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase F Ti entre ___ ºC y -10 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase G Ti entre ___ ºC y -10 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase H Ti entre ___ ºC y -10 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase I Ti entre ___ ºC y -20 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase J Ti entre ___ ºC y -20 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase K Ti entre ___ ºC y -20 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase L Ti entre ___ ºC y -20 ºC",
+        "respuesta": "12º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "UNIDAD REFRIGERANTE - Temperatura Exterior Media +30º",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase B  Temperatura media entre -20 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase C  Temperatura media entre -30 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase E  Temperatura media entre -10 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase F  Temperatura media entre -20 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase G  Temperatura media entre -30 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase H  Temperatura media entre -40 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase I  Temperatura media entre -10 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase J  Temperatura media entre -20 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase K  Temperatura media entre -30 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "CALORIFICA & FRIGORIFICA -> Clase L  Temperatura media entre -40 ºC y ___ ºC",
+        "respuesta": "30º",
+        "fallos": 0,
+        "aciertos": 0
+    }
+]

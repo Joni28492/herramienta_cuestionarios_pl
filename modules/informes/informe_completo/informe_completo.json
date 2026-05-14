@@ -8992,6 +8992,406 @@
         "mode": "test system"
     },
     {
+        "timestamp": 1777395970.4769425,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "20. El título IV de la Ley Orgánica 2/86, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. De la colaboración y coordinación entre el Estado y las Comunidades Autónomas. ",
+            "b": "b. De la colaboración entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "c": "c. De la adscripción de Unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas. ",
+            "d": "d. De los órganos de coordinación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777395976.340855,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Cuándo dependerá la Guardia Civil, exclusivamente, del Ministerio de Defensa?",
+        "opciones_respuesta": {
+            "a": "a. En todo momento. ",
+            "b": "b. En ningún caso. ",
+            "c": "c. En tiempo de guerra y durante el estado de sitio. ",
+            "d": "d. En tiempo de guerra, exclusivamente. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777395987.205481,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "18. Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas es una función:",
+        "opciones_respuesta": {
+            "a": "a. Que realizan los Cuerpos de Policía de las Comunidades Autónomas en colaboración con las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "b": "b. A) es correcta, y su ejercicio corresponderá con carácter prioritario a los Cuerpos de Policía de la Comunidad Autónoma. ",
+            "c": "c. A) es correcta, y su ejercicio corresponderá con carácter prioritario a las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "d": "d. Que realizan los Cuerpos de Policía de las Comunidades Autónomas, prestando dicho servicio de modo simultáneo e indiferenciado con las Fuerzas y Cuerpos de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777395995.7731113,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Qué ámbito territorial tienen los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. El municipio. ",
+            "b": "b. La provincia. ",
+            "c": "c. La Comunidad Autónoma. ",
+            "d": "d. El territorio nacional. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396003.0772934,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "3. La seguridad pública es competencia…",
+        "opciones_respuesta": {
+            "a": "a. Del Estado y de las Comunidades Autónomas. ",
+            "b": "b. Exclusiva del Estado. ",
+            "c": "c. Del Estado, de las Comunidades Autónomas y de las Corporaciones Locales. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396006.1251523,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "6. Los principios básicos de actuación se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 4 ",
+            "b": "b. 5 ",
+            "c": "c. 6 ",
+            "d": "d. 7 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396013.2452228,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "8. Las fuerzas y cuerpos de seguridad se regirán en la utilización de armas y medios a su alcance por los siguientes principios:",
+        "opciones_respuesta": {
+            "a": "a. Congruencia, Oportunidad y Proporcionalidad. ",
+            "b": "b. Intervención mínima y Seguridad. ",
+            "c": "c. Proporcionalidad y menor lesividad. ",
+            "d": "d. Decisión necesaria y sin demora. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396022.3736632,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "13.Las Fuerzas y Cuerpos de Seguridad del Estado tienen como misión:",
+        "opciones_respuesta": {
+            "a": "a. Proteger el libre ejercicio de los derechos y libertades. ",
+            "b": "b. Garantizar la seguridad ciudadana. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396037.3494341,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "9. Los miembros de las Fuerzas y Cuerpos de Seguridad, respecto al derecho de huelga:",
+        "opciones_respuesta": {
+            "a": "a. No lo podrán ejercer en ningún caso, y tampoco acciones sustitutivas del mismo. ",
+            "b": "b. No lo podrán ejercer en ningún caso, pero sí acciones sustitutivas del mismo. ",
+            "c": "c. Lo podrán ejercer, exclusivamente, conforme a la legislación específica en la materia. ",
+            "d": "d. Lo podrán ejercer al ser considerado un derecho constitucional, salvo que se altere el normal funcionamiento del servicio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396042.1651773,
+        "path": "/bloque_II/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "25. Las funciones de los cuerpos de Policía Local se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 51 ",
+            "b": "b. 53 ",
+            "c": "c. 54 ",
+            "d": "d. 56 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396088.413631,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "27. Los Cuerpos de Policía Local cuando ejerzan funciones de protección de autoridades de las corporaciones locales, podrán actuar fuera del término municipal respectivo:",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, con autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, con autorización de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica, cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma. ",
+            "c": "c. a) y b) son correctas ",
+            "d": "d. Falso, no podrán ejercer dicha función fuera de su ámbito territorial. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396104.2055051,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "21. En el cumplimiento de sus funciones, los funcionarios adscritos a Unidades de Policía Judicial dependen:",
+        "opciones_respuesta": {
+            "a": "a. Orgánicamente de los Jueces, tribunales y del Ministerio Fiscal. ",
+            "b": "b. Funcionalmente del Ministerio del Interior. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396120.029934,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "24. Los Mandos de los Cuerpos de Policía de las Comunidades Autónomas se designarán por las Autoridades competentes de la Comunidad Autónoma, entre:",
+        "opciones_respuesta": {
+            "a": "a. Los Agentes con mayor categoría entre los distintos Cuerpos de la Comunidad Autónoma. ",
+            "b": "b. Los Jefes, Oficiales y Mandos de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "c": "c. Los Agentes con mayor antigüedad dentro del propio cuerpo. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396128.2137513,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "13. Como norma general, la figura del Gobernador Civil, en la actualidad es:",
+        "opciones_respuesta": {
+            "a": "a. El Subdelegado de Gobierno. ",
+            "b": "b. El Delegado de Gobierno. ",
+            "c": "c. El Secretario de Estado de Seguridad. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396146.3339968,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "8. Señale la opción correcta respecto a los Principios básicos de actuación de los cuerpos y fuerzas de seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "b": "b. Los miembros de las Fuerzas y Cuerpos de Seguridad deberán identificarse debidamente como tales en el momento de iniciar una intervención ",
+            "c": "c. Deberán sujetarse en su actuación profesional, a los principios de honor y dignidad. ",
+            "d": "d. Todas son incorrectas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396165.253989,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿En qué casos actuarán fuera de su ámbito competencial el CNP o la GC?",
+        "opciones_respuesta": {
+            "a": "a. Por mandato judicial. ",
+            "b": "b. Por mandato del Ministerio Fiscal. ",
+            "c": "c. En casos excepcionales, cuando lo requiera la eficacia de la actuación. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396188.9582784,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "23. Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales. No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo.",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, previa autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, previa autorización del Delegado del Gobierno. ",
+            "c": "c. Verdadero, previa autorización del Director General de la Policía. ",
+            "d": "d. Falso. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396198.9183068,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "9. Objetividad, igualdad de oportunidades, mérito y capacidad, son los principios a los que se ajustará:",
+        "opciones_respuesta": {
+            "a": "a. La promoción. ",
+            "b": "b. La formación y perfeccionamiento. ",
+            "c": "c. La provisión de puestos de trabajo. ",
+            "d": "d. La remuneración. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396220.2382324,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué artículos constitucionales inspiran el marco normativo de la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 104, 148.1.22 y 149.1.29. ",
+            "b": "b. 105, 148.1.29 y 149.1.22. ",
+            "c": "c. 104, 148.1.29 y 149.1.22. ",
+            "d": "d. 105, 148.1.22 y 149.1.29. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396231.5104015,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿A quien le corresponde la responsabilidad de las relaciones de colaboración y auxilio con las Autoridades policiales de otros países?",
+        "opciones_respuesta": {
+            "a": "a. Al Ministro del Interior. ",
+            "b": "b. Al Ministro de Defensa. ",
+            "c": "c. Al Director General de la Policía. ",
+            "d": "d. Al Director de Seguridad del Estado. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396242.58237,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "6. Corresponde al principio básico de actuación de Adecuación al Ordenamiento Jurídico…",
+        "opciones_respuesta": {
+            "a": "a. Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral. ",
+            "b": "b. Actuar con integridad y dignidad. En particular, deberán abstenerse de todo acto de corrupción y oponerse a él resueltamente. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396268.7827685,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "7. Corresponde al principio básico de actuación de Dedicación Profesional…",
+        "opciones_respuesta": {
+            "a": "a. Deberán llevar a cabo sus funciones con total dedicación, debiendo intervenir siempre, en cualquier tiempo y lugar, se hallaren o no de servicio, en defensa de la Ley y de la seguridad ciudadana. ",
+            "b": "b. Observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fueren requeridos para ello. En todas sus intervenciones, proporcionarán información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de las mismas. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396282.0948985,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "29. ¿Qué funciones que practiquen los Cuerpos de Policía Local deben ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Instruir atestados por accidentes de circulación dentro del casco urbano (53/c). ",
+            "b": "b. Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad (53/g). ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. La prestación de auxilio, en los casos de accidente, catástrofe o calamidad pública, participando, en la forma prevista en las Leyes, en la ejecución de los planes de Protección Civil (53/f). "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396292.262976,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "17. En caso de conflicto de competencias, ya sea positivo o negativo, se hará cargo del servicio:",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía. ",
+            "b": "b. La Guardia Civil. ",
+            "c": "c. Quien haya realizado las primeras actuaciones. ",
+            "d": "d. Quien haya tenido conocimiento de los hechos en primer lugar. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
+        "timestamp": 1777396305.6786714,
+        "path": "/bloque_II/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "4. Los miembros de las Fuerzas y Cuerpos de Seguridad ajustarán su actuación al principio de:",
+        "opciones_respuesta": {
+            "a": "a. Colaboración recíproca. ",
+            "b": "b. Cooperación recíproca. ",
+            "c": "c. Coordinación recíproca. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c",
+        "date": "2026-04-28",
+        "mode": "test system"
+    },
+    {
         "pregunta": "No obstante, el defecto de forma sólo determinará la anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a la indefensión de los interesados.",
         "respuesta": "anulable",
         "fallos": 2,
@@ -9296,18 +9696,18 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "Triciclos cuya potencia no exceda 15 Kw",
-        "respuesta": "A1",
-        "fallos": 2,
-        "aciertos": 0,
+        "pregunta": "Automoviles con MMA <=3.5kg para un maximo de 8 pasajeros ademas del conductor",
+        "respuesta": "B",
+        "fallos": 3,
+        "aciertos": 1,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
     {
-        "pregunta": "Automoviles con MMA <=3.5kg para un maximo de 8 pasajeros ademas del conductor",
-        "respuesta": "B",
+        "pregunta": "Triciclos cuya potencia no exceda 15 Kw",
+        "respuesta": "A1",
         "fallos": 2,
-        "aciertos": 1,
+        "aciertos": 0,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9336,10 +9736,26 @@
         "mode": "columns system"
     },
     {
+        "pregunta": "El permiso ___ autoriza tambien para Triciclos y Cuatriciclos de Motor, Ciclomotores, y vehiculos para personas con movilidad reducida",
+        "respuesta": "B",
+        "fallos": 2,
+        "aciertos": 0,
+        "file_name_secction": "carnets permisos",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "Automoviles distintos a los que autoriza el D1/D con MMA <3.5  para un Max de 8 pasajeros ademas del conductor, remolque <=750kg",
+        "respuesta": "C",
+        "fallos": 2,
+        "aciertos": 0,
+        "file_name_secction": "carnets permisos",
+        "mode": "columns system"
+    },
+    {
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso B y semiremolque  >750kg siempre que el conjunto <=12T",
         "respuesta": "C1+E",
         "fallos": 1,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9356,22 +9772,6 @@
         "respuesta": "A1",
         "fallos": 1,
         "aciertos": 1,
-        "file_name_secction": "carnets permisos",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "El permiso ___ autoriza tambien para Triciclos y Cuatriciclos de Motor, Ciclomotores, y vehiculos para personas con movilidad reducida",
-        "respuesta": "B",
-        "fallos": 1,
-        "aciertos": 0,
-        "file_name_secction": "carnets permisos",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "Automoviles distintos a los que autoriza el D1/D con MMA <3.5  para un Max de 8 pasajeros ademas del conductor, remolque <=750kg",
-        "respuesta": "C",
-        "fallos": 1,
-        "aciertos": 0,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9395,7 +9795,7 @@
         "pregunta": "conjunto de vehiculos  formado por vehiculo tractor habilitado por el permiso D1 y remolque >750kg ",
         "respuesta": "D1+E",
         "fallos": 1,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9483,7 +9883,7 @@
         "pregunta": "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas <= 9 incluido el conductor",
         "respuesta": "B",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9499,7 +9899,7 @@
         "pregunta": "vehiculos especiales agricolas (o sus conjuntos) si excede su masa o dimensiones o si su velocidad MAX por construcion >45Km/h ",
         "respuesta": "B",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9531,7 +9931,7 @@
         "pregunta": "Automoviles distintos a los que autoriza el D1/D con MMA >3.5 y <=7.5kg para un Max de 8 pasajeros ademas del conductor, remolque <=750kg",
         "respuesta": "C1",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9547,7 +9947,7 @@
         "pregunta": "Automoviles diseñados y construidos para el transporte de hasta 16 personas ademas del conductor, y longitud MAX 8 metros, remolque <=750kg",
         "respuesta": "D1",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9555,7 +9955,7 @@
         "pregunta": "vehiculos especiales no agricolas (o sus conjuntos) si transportan personas > 9 <= 17 incluido el conductor",
         "respuesta": "D1",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "carnets permisos",
         "mode": "columns system"
     },
@@ -9747,7 +10147,7 @@
         "pregunta": "e) Mantener y restablecer, en su caso, el orden y la seguridad ciudadana.",
         "respuesta": "policia",
         "fallos": 2,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -9770,6 +10170,22 @@
     {
         "pregunta": "c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
         "respuesta": "simultaneas",
+        "fallos": 1,
+        "aciertos": 0,
+        "file_name_secction": "competencias policias",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.",
+        "respuesta": "policia",
+        "fallos": 1,
+        "aciertos": 0,
+        "file_name_secction": "competencias policias",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "c) Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.",
+        "respuesta": "colaboracion",
         "fallos": 1,
         "aciertos": 0,
         "file_name_secction": "competencias policias",
@@ -9832,14 +10248,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.",
-        "respuesta": "policia",
-        "fallos": 0,
-        "aciertos": 0,
-        "file_name_secction": "competencias policias",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "No obstante lo dispuesto en el apartado anterior, los miembros del Cuerpo Nacional de Policía podrán ejercer las funciones de investigación y las de coordinación de los datos a que se refieren los apartados g) y h) del número 1 de este artículo, en todo el territorio nacional",
         "respuesta": "policia",
         "fallos": 0,
@@ -9859,7 +10267,7 @@
         "pregunta": "b) El control de entrada y salida del territorio nacional de españoles y extranjeros.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -9875,7 +10283,7 @@
         "pregunta": "d) La vigilancia e inspección del cumplimiento de la normativa en materia de juego.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -9923,7 +10331,7 @@
         "pregunta": "c) Instruir atestados por accidentes de circulación dentro del casco urbano.",
         "respuesta": "policia local",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -9971,7 +10379,7 @@
         "pregunta": "Las actuaciones que practiquen los Cuerpos de ______ en el ejercicio de las funciones previstas en los apartados c) y g) precedentes deberán ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes",
         "respuesta": "policia local",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -9987,7 +10395,7 @@
         "pregunta": "b) El resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -10019,7 +10427,7 @@
         "pregunta": "f) La conducción interurbana de presos y detenidos.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -10035,7 +10443,7 @@
         "pregunta": "a) Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma.",
         "respuesta": "propias",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias policias",
         "mode": "columns system"
     },
@@ -10080,14 +10488,6 @@
         "mode": "columns system"
     },
     {
-        "pregunta": "c) Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.",
-        "respuesta": "colaboracion",
-        "fallos": 0,
-        "aciertos": 0,
-        "file_name_secction": "competencias policias",
-        "mode": "columns system"
-    },
-    {
         "pregunta": "a) La cooperación a la resolución amistosa de los conflictos privados cuando sean requeridos para ello.",
         "respuesta": "simultaneas",
         "fallos": 0,
@@ -10106,13 +10506,21 @@
     {
         "pregunta": "u) De conformidad con lo dispuesto en la Ley, las normas en materia de tráfico y seguridad vial que deberán cumplir los vehículos dotados de un sistema de conducción automatizado para su circulación, a excepción de los requisitos técnicos para la homologación de los vehículos cuyo desarrollo corresponde al Ministerio competente en materia de industria.",
         "respuesta": "ministerio del interior",
-        "fallos": 6,
+        "fallos": 7,
         "aciertos": 0,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
     {
         "pregunta": "q) La garantía de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, especialmente en su calidad de conductores, en todos los ámbitos regulados en esta ley.",
+        "respuesta": "ministerio del interior",
+        "fallos": 6,
+        "aciertos": 1,
+        "file_name_secction": "competencias trafico",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "r) La determinación de la duración, el contenido y los requisitos de los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, así como de los mecanismos de certificación y control de los mismos a tal efecto.",
         "respuesta": "ministerio del interior",
         "fallos": 5,
         "aciertos": 1,
@@ -10139,15 +10547,7 @@
         "pregunta": "h) La regulación de aquellas actividades industriales que tengan una incidencia directa sobre la seguridad vial y, en especial, la de los talleres de reparación de vehículos.",
         "respuesta": "administracion general del estado",
         "fallos": 3,
-        "aciertos": 1,
-        "file_name_secction": "competencias trafico",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "r) La determinación de la duración, el contenido y los requisitos de los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, así como de los mecanismos de certificación y control de los mismos a tal efecto.",
-        "respuesta": "ministerio del interior",
-        "fallos": 3,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10163,7 +10563,7 @@
         "pregunta": "e) Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
         "respuesta": "ministerio del interior",
         "fallos": 2,
-        "aciertos": 3,
+        "aciertos": 5,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10171,7 +10571,7 @@
         "pregunta": "h) Los registros de vehículos, de conductores e infractores, de profesionales de la enseñanza de la conducción, de centros de formación de conductores, de los centros de reconocimiento destinados a verificar las aptitudes psicofísicas de los conductores y de manipulación de placas de matrícula, en los términos que reglamentariamente se determine.",
         "respuesta": "ministerio del interior",
         "fallos": 2,
-        "aciertos": 3,
+        "aciertos": 5,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10186,8 +10586,16 @@
     {
         "pregunta": "g) La restricción de la circulación a determinados vehículos en vías urbanas por motivos medioambientales.",
         "respuesta": "municipio",
-        "fallos": 1,
-        "aciertos": 1,
+        "fallos": 2,
+        "aciertos": 2,
+        "file_name_secction": "competencias trafico",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "b) La previa homologación, en su caso, de los elementos de los vehículos, remolques y semirremolques que afecten a la seguridad vial, así como dictar instrucciones y directrices en materia de inspección técnica de vehículos.",
+        "respuesta": "administracion general del estado",
+        "fallos": 2,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10195,7 +10603,7 @@
         "pregunta": "d) La matriculación y expedición de los permisos de circulación de los vehículos a motor, remolques, semirremolques y ciclomotores, así como la declaración de nulidad, lesividad o pérdida de vigencia de dichos permisos, en los términos que reglamentariamente se determine.",
         "respuesta": "ministerio del interior",
         "fallos": 1,
-        "aciertos": 0,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10203,7 +10611,7 @@
         "pregunta": "o) La realización de las pruebas, reglamentariamente establecidas, para determinar el grado de intoxicación alcohólica, o por drogas, de los conductores que circulen por las vías públicas en las que tiene atribuida la ordenación, gestión, control y vigilancia del tráfico.",
         "respuesta": "ministerio del interior",
         "fallos": 1,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10211,7 +10619,7 @@
         "pregunta": "b) El canje, de acuerdo con las normas reglamentarias aplicables, de los permisos de conducción y de la autorización especial para conducir vehículos que transporten mercancías peligrosas expedidos en el ámbito militar y policial por los correspondientes en el ámbito civil, así como el canje, la inscripción o la renovación de los permisos expedidos en el extranjero cuando así lo prevea la legislación vigente.",
         "respuesta": "ministerio del interior",
         "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10219,15 +10627,7 @@
         "pregunta": "l) Las directrices básicas y esenciales para la formación y actuación de los agentes de la autoridad encargados de la vigilancia del tráfico, sin perjuicio de las atribuciones de las corporaciones locales, con cuyos órganos se instrumentará, de común acuerdo, la colaboración necesaria.",
         "respuesta": "ministerio del interior",
         "fallos": 1,
-        "aciertos": 1,
-        "file_name_secction": "competencias trafico",
-        "mode": "columns system"
-    },
-    {
-        "pregunta": "b) La previa homologación, en su caso, de los elementos de los vehículos, remolques y semirremolques que afecten a la seguridad vial, así como dictar instrucciones y directrices en materia de inspección técnica de vehículos.",
-        "respuesta": "administracion general del estado",
-        "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10235,7 +10635,7 @@
         "pregunta": "c) La aprobación de las normas básicas y mínimas para la programación de la educación vial para la movilidad segura y sostenible, en las distintas modalidades de la enseñanza, incluyendo la formación en conducción ciclista y en vehículos de movilidad personal.",
         "respuesta": "administracion general del estado",
         "fallos": 1,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10243,7 +10643,7 @@
         "pregunta": "a) La regulación, ordenación, gestión, vigilancia y disciplina, por medio de agentes propios, del tráfico en las vías urbanas de su titularidad, así como la denuncia de las infracciones que se cometan en dichas vías y la sanción de las mismas cuando no esté expresamente atribuida a otra Administración.",
         "respuesta": "municipio",
         "fallos": 1,
-        "aciertos": 3,
+        "aciertos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10251,7 +10651,7 @@
         "pregunta": "e) La realización de las pruebas a que alude el artículo 5.o) en las vías urbanas, en los términos que reglamentariamente se determine.",
         "respuesta": "municipio",
         "fallos": 1,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10259,7 +10659,7 @@
         "pregunta": "b) La regulación mediante ordenanza municipal de circulación, de los usos de las vías urbanas, haciendo compatible la equitativa distribución de los aparcamientos entre todos los usuarios con la necesaria fluidez del tráfico rodado y con el uso peatonal de las calles, así como el establecimiento de medidas de estacionamiento limitado, con el fin de garantizar la rotación de los aparcamientos, prestando especial atención a las necesidades de las personas con discapacidad que tienen reducida su movilidad y que utilizan vehículos, todo ello con el fin de favorecer su integración social.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 3,
+        "aciertos": 5,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10267,7 +10667,7 @@
         "pregunta": "c) La inmovilización de los vehículos en vías urbanas cuando no dispongan de título que habilite el estacionamiento en zonas limitadas en tiempo o excedan de la autorización concedida, hasta que se logre la identificación de su conductor. \nLa retirada de los vehículos de las vías urbanas y su posterior depósito cuando obstaculicen, dificulten o supongan un peligro para la circulación, o se encuentren incorrectamente aparcados en las zonas de estacionamiento restringido, en las condiciones previstas para la inmovilización en este mismo artículo. Las bicicletas sólo podrán ser retiradas y llevadas al correspondiente depósito si están abandonadas o si, estando amarradas, dificultan la circulación de vehículos o personas o dañan el mobiliario urbano. \nIgualmente, la retirada de vehículos en las vías interurbanas y el posterior depósito de éstos, en los términos que reglamentariamente se determine.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 3,
+        "aciertos": 5,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10275,7 +10675,7 @@
         "pregunta": "d) La autorización de pruebas deportivas cuando discurran íntegra y exclusivamente por el casco urbano, exceptuadas las travesías.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10283,7 +10683,7 @@
         "pregunta": "f) El cierre de vías urbanas cuando sea necesario.",
         "respuesta": "municipio",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10291,7 +10691,7 @@
         "pregunta": "a) La aprobación de la normativa técnica básica que afecte de manera directa a la seguridad vial.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10299,7 +10699,7 @@
         "pregunta": "d) La determinación del cuadro de las enfermedades y discapacidades que inhabilitan para conducir y los requisitos sanitarios mínimos para efectuar los reconocimientos para su detección, así como la inspección, control y, en su caso, suspensión o cierre de los establecimientos dedicados a esta actividad.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10307,7 +10707,7 @@
         "pregunta": "e) La determinación de las drogas que puedan afectar a la conducción, así como de las pruebas para su detección y, en su caso, sus niveles máximos.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 3,
+        "aciertos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10315,7 +10715,7 @@
         "pregunta": "f) La coordinación de la prestación de la asistencia sanitaria en las vías públicas o de uso público.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 3,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10323,7 +10723,7 @@
         "pregunta": "i) La regulación del transporte de personas y, especialmente, el transporte escolar y de menores, a los efectos relacionados con la seguridad vial.",
         "respuesta": "administracion general del estado",
         "fallos": 0,
-        "aciertos": 3,
+        "aciertos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10331,7 +10731,7 @@
         "pregunta": "a) La expedición y revisión de los permisos y licencias para conducir vehículos a motor y ciclomotores y de la autorización especial para conducir vehículos que transporten mercancías peligrosas, con los requisitos sobre conocimientos, aptitudes técnicas y psicofísicas y periodicidad que se determinen reglamentariamente, así como la declaración de la nulidad, lesividad o pérdida de vigencia de aquéllos.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10347,7 +10747,7 @@
         "pregunta": "f) Las normas especiales que posibiliten la circulación de vehículos históricos y fomenten la conservación y restauración de los que integran el patrimonio histórico.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10355,7 +10755,7 @@
         "pregunta": "g) La retirada de los vehículos de la vía fuera de poblado y la baja temporal o definitiva de la circulación de dichos vehículos.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10363,7 +10763,7 @@
         "pregunta": "i) La vigilancia y disciplina del tráfico en toda clase de vías interurbanas y en travesías cuando no exista policía local, así como la denuncia y sanción de las infracciones a las normas de circulación y de seguridad en dichas vías.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10379,7 +10779,7 @@
         "pregunta": "k) La regulación, ordenación y gestión del tráfico en vías interurbanas y en travesías, estableciendo para estas últimas fórmulas de cooperación o delegación con las Entidades Locales, y sin perjuicio de lo establecido en otras disposiciones y de las facultades de otros departamentos ministeriales.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 3,
+        "aciertos": 5,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10395,7 +10795,7 @@
         "pregunta": "n) El cierre a la circulación de carreteras o tramos de ellas por razones de seguridad o fluidez del tráfico o la restricción en ellas del acceso de determinados vehículos por motivos medioambientales, en los términos que reglamentariamente se determine.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10403,7 +10803,7 @@
         "pregunta": "s) La inspección de los centros y otros operadores cuya actividad esté vinculada con el ejercicio de funciones en el ámbito de las competencias establecidas en este artículo.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 4,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -10411,7 +10811,7 @@
         "pregunta": "t) La auditoría de los centros, operadores, servicios y trámites de competencia del organismo autónomo Jefatura Central de Tráfico, con objeto de supervisar y garantizar el correcto funcionamiento y la calidad de aquéllos, que se llevará a cabo, con arreglo a las normas legales que le sean de aplicación, directamente por empleados públicos formados para estas funciones, o mediante la colaboración de entidades acreditadas.",
         "respuesta": "ministerio del interior",
         "fallos": 0,
-        "aciertos": 2,
+        "aciertos": 3,
         "file_name_secction": "competencias trafico",
         "mode": "columns system"
     },
@@ -12274,7 +12674,7 @@
     {
         "pregunta": "No hacer uso, o no hacerlo de forma adecuada, del cinturón de seguridad, sistemas de retención infantil, casco y demás elementos de protección obligatorios.",
         "respuesta": "4",
-        "fallos": 1,
+        "fallos": 2,
         "aciertos": 0,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
@@ -12291,7 +12691,7 @@
         "pregunta": "El exceso en más del 50 por ciento en los tiempos de conducción o la minoración en más del 50 por ciento en los tiempos de descanso establecidos en la legislación sobre transporte terrestre.",
         "respuesta": "6",
         "fallos": 1,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12307,7 +12707,7 @@
         "pregunta": "19. Efectuar el cambio de sentido incumpliendo las disposiciones recogidas en esta Ley y en los términos establecidos reglamentariamente.",
         "respuesta": "3",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12339,7 +12739,7 @@
         "pregunta": "Incumplir las disposiciones legales sobre preferencia de paso, y la obligación de detenerse en la señal de stop, ceda el paso y en los semáforos con luz roja encendida.",
         "respuesta": "4",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12355,7 +12755,7 @@
         "pregunta": "No respetar las señales o las órdenes de la autoridad encargada de la regulación, ordenación, gestión, vigilancia y disciplina del tráfico, o de sus agentes.",
         "respuesta": "4",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12363,7 +12763,7 @@
         "pregunta": "No mantener la distancia de seguridad con el vehículo que le precede",
         "respuesta": "4",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12395,7 +12795,7 @@
         "pregunta": "Conducir con una tasa de alcohol superior a la reglamentariamente establecida: Valores mg/l aire espirado, más de 0,50 (profesionales y titulares de permisos de conducción con menos de dos años de antigüedad más de 0,30 mg/l).",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12403,7 +12803,7 @@
         "pregunta": "Conducir con presencia de drogas en el organismo.",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12427,7 +12827,7 @@
         "pregunta": "Arrojar a la vía o en sus inmediaciones objetos que puedan producir incendios o accidentes.",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 0,
+        "aciertos": 1,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -12435,7 +12835,7 @@
         "pregunta": "Adelantar poniendo en peligro o entorpeciendo a ciclistas o sin dejar la separación mínima de 1,5 metros",
         "respuesta": "6",
         "fallos": 0,
-        "aciertos": 1,
+        "aciertos": 2,
         "file_name_secction": "infracciones trafico puntos",
         "mode": "columns system"
     },
@@ -13093,6 +13493,110 @@
         "fallos": 0,
         "aciertos": 0,
         "file_name_secction": "lepar",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "a) La no comunicación a la Administración competente de los datos requeridos por ésta dentro de los plazos establecidos al efecto.",
+        "respuesta": "leve",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "b) La instalación o comercialización de emisores acústicos sin acompañar la información sobre sus índices de emisión, cuando tal información sea exigible conforme a la normativa aplicable.",
+        "respuesta": "leve",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "c) El incumplimiento de las prescripciones establecidas en esta ley, cuando no esté tipificado como infracción muy grave o grave.",
+        "respuesta": "leve",
+        "fallos": 0,
+        "aciertos": 1,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "a) La superación de los valores límite que sean aplicables, cuando no se haya producido un daño o deterioro grave para el medio ambiente ni se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "b) El incumplimiento de las condiciones establecidas en materia de contaminación acústica, en la autorización ambiental integrada, en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental, en la licencia de actividades clasificadas o en otras figuras de intervención administrativa, cuando no se haya producido un daño o deterioro grave para el medio ambiente ni se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 1,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "c) La ocultación o alteración maliciosas de datos relativos a la contaminación acústica aportados a los expedientes administrativos encaminados a la obtención de autorizaciones o licencias relacionadas con el ejercicio de las actividades reguladas en esta ley.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "d) El impedimento, el retraso o la obstrucción a la actividad inspectora o de control de las Administraciones públicas.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "e) La no adopción de las medidas correctoras requeridas por la Administración competente en caso de incumplimiento de los objetivos de calidad acústica.",
+        "respuesta": "grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "a) La producción de contaminación acústica por encima de los valores límite establecidos en zonas de protección acústica especial y en zonas de situación acústica especial.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "b) La superación de los valores límite que sean aplicables, cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "c) El incumplimiento de las condiciones establecidas, en materia de contaminación acústica, en la autorización ambiental integrada, en la autorización o aprobación del proyecto sometido a evaluación de impacto ambiental, en la licencia de actividades clasificadas o en otras figuras de intervención administrativa, cuando se haya producido un daño o deterioro grave para el medio ambiente o se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "d) El incumplimiento de las normas que establezcan requisitos relativos a la protección de las edificaciones contra el ruido, cuando se haya puesto en peligro grave la seguridad o la salud de las personas.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 1,
+        "file_name_secction": "ley ruido",
+        "mode": "columns system"
+    },
+    {
+        "pregunta": "e) El incumplimiento de las obligaciones derivadas de la adopción de medidas provisionales conforme al artículo 31.",
+        "respuesta": "muy grave",
+        "fallos": 0,
+        "aciertos": 0,
+        "file_name_secction": "ley ruido",
         "mode": "columns system"
     },
     {

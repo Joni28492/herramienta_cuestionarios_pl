@@ -8,7 +8,7 @@ class Generar_HTMLs:
         self.ruta_cuestionario = ruta_cuestionario
         self.docs_folder = docs_folder
         self.cuestionario_archivos =  os.listdir(self.ruta_cuestionario) 
-
+        print(self.cuestionario_archivos)
 
         self.border_colors = {
             '__all__': 'border-zinc-600',
@@ -301,5 +301,5 @@ if __name__ == '__main__':
     generador = Generar_HTMLs()
     generador.generar_index( str(generador.get_data_index_cuestionarios())  )
     
-    # generador.generar_html_cuestionario_archivo()
-    # generador.generar_htmls()
+    generador.generar_html_cuestionario_archivo()
+    generador.generar_htmls()
