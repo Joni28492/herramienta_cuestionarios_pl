@@ -92,6 +92,14 @@ def html_server():
         print(f"error al intentar mostrar ratios: {e}")
 
 
+# python .\modules\ley_bases\cuestinario_competencia_LBRL.py
+def ejecutar_cuestionario_ley_bases_competencias():
+    os.chdir(os.path.join(init_path, "modules", "ley_bases"))
+
+    try:
+        subprocess.run(["python", "cuestinario_competencia_LBRL.py"], shell=True )
+    except subprocess.CalledProcessError as e:
+        print(f"Error al ejecutar Cuestionario: {e}")
 
 
 if __name__ == '__main__':
@@ -103,7 +111,8 @@ if __name__ == '__main__':
         ejecutar_test_selector,
         generar_informe_completo,
         mostrar_ratio_fallos_Aciertos,
-        html_server
+        html_server,
+        ejecutar_cuestionario_ley_bases_competencias
         # activar_enviroment
     ]
 
