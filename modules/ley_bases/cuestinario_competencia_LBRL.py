@@ -2,6 +2,8 @@ import json
 import hashlib
 import random
 from pydantic import BaseModel
+from colorama import Style, init, Fore
+
 
 class Pregunta(BaseModel):
     _id: str
@@ -37,7 +39,7 @@ class CuestionarioCompetenciasLeyBases():
         with open(self.data_path, 'r', encoding='utf-8') as f:
             self.data_file = json.load(f)
 
-    
+        init()
     
     
     def _rellenar_id(self):
@@ -60,41 +62,48 @@ class CuestionarioCompetenciasLeyBases():
         aciertos = 0
         fallos = 0
         
-        print(f"{pregunta["regimen"]} => {pregunta["descripcion"]}")
+        print(Style.BRIGHT, Fore.CYAN if pregunta["regimen"] == "Regimen Comun" else Fore.YELLOW ,f"{pregunta["regimen"]} => {pregunta["descripcion"]}",Style.RESET_ALL)
         # print(f"Respuesta temporal: {pregunta["compete_a"]}")
         compete_a = input(f"Introduce respuesta: ")
         
         
-        # todo corregir duplicidad
-        # todo dar color
+        color_temps = {
+            "Gran Poblacion":"\033[38;5;208m",
+            "Alcalde": "\033[38;5;51m",
+            "Pleno": "\033[38;5;93m",
+            "Reset": "\033[0m",
+        }
 
         if compete_a in self._opciones_respuesta[pregunta["compete_a"]]:
-            print("✅✅✅ ¡Correcto!")
+            print(Fore.GREEN, "✅✅✅ ¡Correcto!",Style.RESET_ALL)
             aciertos += 1
         else: 
-            print(f"❌❌❌ Incorrecto.")
-            print(f"Respuesta: {pregunta["compete_a"]}")
-            fallos += 1
+            print(Fore.RED,f"❌❌❌ Incorrecto.")
+            # print(Fore.GREEN, f"Respuesta: {pregunta["compete_a"]}",Style.RESET_ALL)
             
             
-        print("Es delegable?")
+            print( f"{color_temps[pregunta["compete_a"]]}Respuesta: {pregunta["compete_a"]} {color_temps["Reset"]}",Style.RESET_ALL)
+            
+            
+            
+        print(Fore.MAGENTA, "Es delegable?", Style.RESET_ALL)
         # print("=> respuesta temporal", pregunta["es_delegable"])
         es_delegable = input("Introduce tu respuesta:").lower()
         
         
         if es_delegable in ("s", "si", "y", "yes"): 
             if pregunta["es_delegable"]:
-                print("✅✅✅ ¡Correcto!")
+                print(Fore.GREEN, "✅✅✅ ¡Correcto!",Style.RESET_ALL)
                 aciertos +=1
             else:
-                print(f"❌❌❌ Incorrecto.")
+                print(Fore.RED,f"❌❌❌ Incorrecto.",Style.RESET_ALL)
                 fallos+=1
         elif es_delegable in ("n", "no"): 
             if not pregunta["es_delegable"]:
                 print("✅✅✅ ¡Correcto!")
                 aciertos+=1
             else:
-                print(f"❌❌❌ Incorrecto.")
+                print(Fore.RED,f"❌❌❌ Incorrecto.",Style.RESET_ALL)
                 fallos += 1
         else: 
             pass
