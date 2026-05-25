@@ -8,13 +8,13 @@
     {
         "pregunta": "Cierre General - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
         "respuesta": "05:00",
-        "fallos": 5,
+        "fallos": 6,
         "aciertos": 2
     },
     {
         "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
         "respuesta": "05:30",
-        "fallos": 4,
+        "fallos": 5,
         "aciertos": 2
     },
     {
@@ -38,7 +38,7 @@
     {
         "pregunta": "Cierre D, L, M y X entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:00",
-        "fallos": 2,
+        "fallos": 3,
         "aciertos": 2
     },
     {
@@ -50,7 +50,7 @@
     {
         "pregunta": "Cierre 15 JUNIO y 30 SEPT - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
         "respuesta": "06:00",
-        "fallos": 1,
+        "fallos": 2,
         "aciertos": 4
     },
     {
@@ -63,7 +63,7 @@
         "pregunta": "Cierre horario general - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "01:30",
         "fallos": 1,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "locales destinados a menores 16 años, apertura dia lectivo",
@@ -93,13 +93,13 @@
         "pregunta": "apertura salon juegos",
         "respuesta": "10:00",
         "fallos": 0,
-        "aciertos": 7
+        "aciertos": 8
     },
     {
         "pregunta": "apertura salon recreativo",
         "respuesta": "10:00",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "funcionamiento de equipos de musica, analogos etc.. fuera de funcionamiento antes de las ...",
@@ -123,18 +123,18 @@
         "pregunta": "locales destinados menores de 16 años cierre horario general",
         "respuesta": "22:00",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "locales destinados menores de 16 años cierre no lectivo",
         "respuesta": "22:30",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "cierre salones recreativos",
         "respuesta": "23:00",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 5
     }
 ]

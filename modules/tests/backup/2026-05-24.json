@@ -1,0 +1,1206 @@
+[
+    {
+        "timestamp": 1779621671.378399,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "1. Los empleados públicos se clasifican en…",
+        "opciones_respuesta": {
+            "a": "a. a) Funcionarios de carrera, funcionarios interinos, ya sean fijos, por tiempo indefinido o temporal, personal laboral y personal eventual ",
+            "b": "b. b) Funcionarios de carrera, funcionarios interinos, ya sean fijos, por tiempo indefinido o temporal, y personal eventual ",
+            "c": "c. c) Funcionarios de carrera, funcionarios interinos, personal laboral, ya sea fijo, por tiempo indefinido o temporal, y personal eventual ",
+            "d": "d. d) Funcionarios de carrera, funcionarios interinos y personal laboral, ya sea fijo, por tiempo indefinido o temporal "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779621688.2483308,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "2. Los que, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente serán:",
+        "opciones_respuesta": {
+            "a": "a. a) Personal laboral ",
+            "b": "b. b) Funcionarios de carrera ",
+            "c": "c. c) Funcionarios interinos ",
+            "d": "d. d) Personal estatutario "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779621696.2800276,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "3. Con carácter general los puestos de trabajo en la Administración Local serán desempeñados por:",
+        "opciones_respuesta": {
+            "a": "a. a) Contratados en régimen de derecho laboral ",
+            "b": "b. b) Personal eventual ",
+            "c": "c. c) Personal temporal ",
+            "d": "d. d) Personal funcionario "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621710.672321,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "4. Corresponde en exclusiva a los funcionarios públicos, con carácter general,…",
+        "opciones_respuesta": {
+            "a": "a. a) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas, en todo caso ",
+            "b": "b. b) el ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas ",
+            "c": "c. c) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Gobierno y de las Administraciones Públicas, salvo excepciones ",
+            "d": "d. d) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Gobierno y de las Administraciones Públicas, en todo caso "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779621730.5842242,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Cuál de las siguientes no es una causa de pérdida de la condición de funcionario de carrera?",
+        "opciones_respuesta": {
+            "a": "a. a) Jubilación total del funcionario. ",
+            "b": "b. b) Pérdida de la nacionalidad. ",
+            "c": "c. c) Sanción disciplinaria de separación del servicio con carácter firme. ",
+            "d": "d. d) Excedencia forzosa por más de 10 años "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621754.3602974,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cuál de los siguientes no es un sistema selectivo del Personal Laboral fijo de la Administración?",
+        "opciones_respuesta": {
+            "a": "a. a) Oposición. ",
+            "b": "b. b) Concurso-oposición. ",
+            "c": "c. c) Concurso de valoración de méritos. ",
+            "d": "d. d) Promoción interna "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621780.1607003,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "7. Señale la circunstancia incorrecta para fundamentar el nombramiento de un funcionario interino",
+        "opciones_respuesta": {
+            "a": "a. a) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, por un máximo de tres años ",
+            "b": "b. b) La sustitución transitoria de los titulares, durante el tiempo estrictamente  necesario ",
+            "c": "c. c) La ejecución de programas de carácter temporal, que no podrán tener una duración superior a dos años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto ",
+            "d": "d. d) El exceso o acumulación de tareas por plazo máximo de 9 meses, dentro de un periodo de 18 meses "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779621789.4968803,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "8. Los procedimientos de selección de funcionarios interinos se regirán, en todo caso, por los principios de…",
+        "opciones_respuesta": {
+            "a": "a. a) igualdad, mérito, capacidad y antigüedad. ",
+            "b": "b. b) igualdad, mérito, capacidad, publicidad y celeridad. ",
+            "c": "c. c) igualdad, mérito, capacidad y publicidad. ",
+            "d": "d. d) igualdad, mérito, capacidad y eficiencia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779621798.8405683,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "9. Los procedimientos de selección del personal laboral temporal se regirán por los principios de…",
+        "opciones_respuesta": {
+            "a": "a. a) igualdad, mérito, capacidad ",
+            "b": "b. b) celeridad, igualdad, mérito ",
+            "c": "c. c) igualdad, mérito y antigüedad ",
+            "d": "d. d) igualdad, mérito, capacidad y celeridad "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779621817.7926724,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "10. Quien en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin, se considera:",
+        "opciones_respuesta": {
+            "a": "a. a) Personal laboral ",
+            "b": "b. b) Personal Funcionario ",
+            "c": "c. c) Funcionario eventual ",
+            "d": "d. d) Personal eventual "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621831.4089923,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "11. La carrera vertical consiste en:",
+        "opciones_respuesta": {
+            "a": "a. a) la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo ",
+            "b": "b. b) el ascenso desde un cuerpo o escala de un Subgrupo a otro superior ",
+            "c": "c. c) el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos ",
+            "d": "d. d) el acceso a cuerpos o escalas del mismo Subgrupo profesional "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779621837.3369412,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "12. Son retribuciones básicas",
+        "opciones_respuesta": {
+            "a": "a. a) El sueldo base ",
+            "b": "b. b) La a) y también el complemento de destino ",
+            "c": "c. c) Los trienios ",
+            "d": "d. d) a) y c) son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621866.1852522,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "13. En las unidades electorales donde el número de funcionarios sea igual o superior a 6 e inferior a 50, su representación corresponderá:",
+        "opciones_respuesta": {
+            "a": "a. a) a la Junta de Personal. Hasta 30 funcionarios estará compuesta por 1 miembro, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y solidariamente ",
+            "b": "b. b) a los Delegados de Personal. Hasta 30 funcionarios se elegirá un Delegado, y de 31 a 59 se elegirán tres, que ejercerán su representación conjunta y mancomunadamente ",
+            "c": "c. c) a los Delegados de Personal. Hasta 30 funcionarios se elegirán  dos Delegados, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y solidariamente ",
+            "d": "d. d) a los Delegados de Personal. Hasta 30 funcionarios se elegirá un Delegado, y de 31 a 49 se elegirán tres, que ejercerán su representación conjunta y mancomunadamente "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621879.0093791,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "14. El TREBEP se aprueba mediante…",
+        "opciones_respuesta": {
+            "a": "a. a) Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "b": "b. b) Real Decreto Legislativo 5/2016, de 30 de noviembre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "c": "c. c) Real Decreto Legislativo 5/2015, de 30 de noviembre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "d": "d. d) Real Decreto Legislativo 5/2015, de 20 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779621901.3537147,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "15. La Administración formalizará de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63, sin derecho a compensación alguna:",
+        "opciones_respuesta": {
+            "a": "a. a) Por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos ",
+            "b": "b. b) Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados ",
+            "c": "c. c) Por la finalización del plazo autorizado expresamente recogido en su nombramiento ",
+            "d": "d. d) Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621924.5295992,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "16. El que en virtud de contrato de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas, será considerado",
+        "opciones_respuesta": {
+            "a": "a. a) Personal laboral ",
+            "b": "b. b) Funcionarios de carrera ",
+            "c": "c. c) Funcionarios interinos ",
+            "d": "d. d) Personal eventual "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779621936.0417407,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "17. La condición de personal eventual:",
+        "opciones_respuesta": {
+            "a": "a. a) no podrá constituir mérito para el acceso a la Función Pública ",
+            "b": "b. b) no podrá constituir mérito para el acceso a la Función Pública pero podrá constituir mérito para la promoción interna ",
+            "c": "c. c) podrá constituir mérito para la promoción interna y para el acceso a la Función Pública ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779621948.0097744,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "18. A la formación continua y a la actualización permanente de los conocimientos y capacidades profesionales de los empleados públicos se llevará a cabo…",
+        "opciones_respuesta": {
+            "a": "a. a) preferentemente en horario laboral ",
+            "b": "b. b) preferentemente en días de descanso ",
+            "c": "c. c) preferentemente en el centro laboral ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779621959.2257564,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "19. El conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. a) Carrera horizontal ",
+            "b": "b. b) Carrera vertical ",
+            "c": "c. c) Carrera profesional ",
+            "d": "d. d) Evaluación del desempeño "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779621973.0980072,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "20. Será requisito para el acceso a la promoción interna…",
+        "opciones_respuesta": {
+            "a": "a. a) tener una antigüedad de, al menos, un año de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo ",
+            "b": "b. b) tener una antigüedad de, al menos, 2 años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo ",
+            "c": "c. c) tener una antigüedad de, al menos, 3 años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo ",
+            "d": "d. d) tener una antigüedad de, al menos, 5 años de servicio activo en el inferior Subgrupo, o Grupo de clasificación profesional, en el supuesto de que éste no tenga Subgrupo "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779621986.105965,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "21. La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en:",
+        "opciones_respuesta": {
+            "a": "a. a) los convenios colectivos, ya que el Estatuto de los Trabajadores se aplica en exclusiva al personal del sector privado ",
+            "b": "b. b) el Estatuto de los Trabajadores ",
+            "c": "c. c) el contrato de trabajo ",
+            "d": "d. d) b y c son correctas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779621996.754117,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "22. Los servicios extraordinarios prestados fuera de la jornada normal de trabajo son:",
+        "opciones_respuesta": {
+            "a": "a. a) Retribución básica ",
+            "b": "b. b) Retribución complementaria ",
+            "c": "c. c) Retribución extraordinaria ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779622008.3620148,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "23. Señale la respuesta incorrecta. Los funcionarios interinos…",
+        "opciones_respuesta": {
+            "a": "a. a) Tienen derecho al cobro de trienios ",
+            "b": "b. b) Tienen derecho al cobro de la carrera administrativa ",
+            "c": "c. c) Tienen derecho al cobro de las pagas extra ",
+            "d": "d. d) Tienen derecho al cobro por el grado de interés, iniciativa o esfuerzo con que el funcionario desempeña su trabajo "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779622017.3544538,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "24. Será requisito general para el acceso a la función pública el de tener la edad de…",
+        "opciones_respuesta": {
+            "a": "a. a) 16 años ",
+            "b": "b. b) 18 años ",
+            "c": "c. c) 21 años ",
+            "d": "d. d) 17 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779622026.154213,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "25. En las ofertas de empleo público se reservará un cupo no inferior ___ de las vacantes para ser cubiertas entre personas con discapacidad.",
+        "opciones_respuesta": {
+            "a": "a. a) 5 % ",
+            "b": "b. b) 6 % ",
+            "c": "c. c) 7 % ",
+            "d": "d. d) 8 % "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779622038.7941928,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "26. La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos:",
+        "opciones_respuesta": {
+            "a": "a. a) Superación del proceso selectivo, toma de posesión dentro del plazo que se establezca, nombramiento por el órgano o autoridad competente y acto de acatamiento de la Constitución. ",
+            "b": "b. b) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente, acto de acatamiento de la Constitución y toma de posesión dentro del plazo que se establezca. ",
+            "c": "c. c) Superación del proceso selectivo, acto de acatamiento de la Constitución, nombramiento por el órgano o autoridad competente, y toma de posesión dentro del plazo que se establezca. ",
+            "d": "d. d) Superación del proceso selectivo, nombramiento por el órgano o autoridad competente,  toma de posesión dentro del plazo que se establezca y acto de acatamiento de la Constitución "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779622070.7144513,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "27. Señale la incorrecta. Serán causas de pérdida de la condición de funcionario de carrera:",
+        "opciones_respuesta": {
+            "a": "a. a) La renuncia a la condición de funcionario. ",
+            "b": "b. b) La sanción disciplinaria de separación del servicio en plazo de recurso ",
+            "c": "c. c) La pérdida de la nacionalidad. ",
+            "d": "d. d) La jubilación total del funcionario. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779622079.1704996,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "28. El TREBEP se aplica a:",
+        "opciones_respuesta": {
+            "a": "a. a) La Administración General del Estado, a las Administraciones de las Comunidades Autónomas y de las Entidades Locales ",
+            "b": "b. b) Las Universidades Públicas ",
+            "c": "c. c) A y B son correctas ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779622090.5867417,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "29. En lo que respecta a los derechos de los funcionarios, el traslado de domicilio sin cambio de residencia, dará derecho al permiso de:",
+        "opciones_respuesta": {
+            "a": "a. a) 1 día ",
+            "b": "b. b) 2 días ",
+            "c": "c. c) 3 días ",
+            "d": "d. d) 4 días "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779622097.3224947,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "30. En lo que respecta a los derechos de los funcionarios, estos dispondrán de ___________  de permiso por asuntos particulares:",
+        "opciones_respuesta": {
+            "a": "a. a) 4 días al año ",
+            "b": "b. b) 5 días al año ",
+            "c": "c. c) 6 días al año ",
+            "d": "d. d) 7 días al año "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779622111.7065375,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "31. En lo que respecta a los derechos de los funcionarios y, con motivo del  cumplimiento de un deber inexcusable de carácter público o personal y por deberes relacionados con la conciliación de la vida familiar y laboral, dispondrán de un permiso de:",
+        "opciones_respuesta": {
+            "a": "a. a) 1 día ",
+            "b": "b. b) El tiempo indispensable ",
+            "c": "c. c) 6 horas ",
+            "d": "d. d) 2 días "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779622118.0508926,
+        "path": "/bloque_I/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "32. Según el artículo 50 de TREBEP, los funcionarios públicos tendrán derecho a disfrutar, durante cada año natural, de unas vacaciones retribuidas de ______, o de los días que correspondan proporcionalmente si el tiempo de servicio durante el año fue menor.",
+        "opciones_respuesta": {
+            "a": "a. a) 23 días naturales ",
+            "b": "b. b) 22 días hábiles ",
+            "c": "c. c) 23 días hábiles ",
+            "d": "d. d) 22 días naturales "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779624649.336368,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "1. Según el artículo 554 de la Ley de Enjuiciamiento Criminal, NO se reputa domicilio:",
+        "opciones_respuesta": {
+            "a": "a. a. Los buques del Estado ",
+            "b": "b. b. Los Palacios Reales si está habitado por el Monarca al tiempo de la entrada o registro. ",
+            "c": "c. c. Los Palacios Reales si no está habitado por el Monarca al tiempo e la entrada o registro. ",
+            "d": "d. d. Los buques nacionales mercantes. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779624667.0646951,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "2. Según el artículo 2 de la Ley Orgánica 6/1984, de 24 de mayo, es competente para conocer la solicitud de “Habeas Corpus”:",
+        "opciones_respuesta": {
+            "a": "a. a. El Juez de lo Penal donde se produjo la detención. ",
+            "b": "b. b. El Juez de Instrucción del lugar en que se encuentre la persona privada de libertad. ",
+            "c": "c. c. La Audiencia Provincial del lugar en que se encuentre la persona privada de libertad. ",
+            "d": "d. d. El Juez de Paz del lugar donde se produjo la detención, si no consta donde se encuentra la persona detenida. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779624687.5925593,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "3. Según el artículo 520 de la Ley de Enjuiciamiento Criminal:",
+        "opciones_respuesta": {
+            "a": "a. a. El abogado no podrá entrevistarse reservadamente con el detenido hasta que éste haya prestado declaración ante la Autoridad Judicial. ",
+            "b": "b. b. El abogado podrá entrevistarse reservadamente con el detenido, incluso antes de que se le reciba declaración por la policía, el fiscal o la autoridad judicial. ",
+            "c": "c. c. El abogado no podrá solicitar al juez o funcionario que hubiesen practicado la diligencia en la que haya intervenido, la declaración o ampliación de los extremos que considere convenientes una vez finalizada. ",
+            "d": "d. d. El detenido o preso podrá renunciar a la preceptiva asistencia de abogado si su detención lo fuere por hechos susceptibles de ser tipificados exclusivamente como delitos contra la seguridad del tráfico, sin que pueda revocar su renuncia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779624694.056639,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "4. Conforme a la Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de “Habeas Corpus”, promovida la solicitud de “Habeas Corpus”, la incoación se acordará mediante o a través de",
+        "opciones_respuesta": {
+            "a": "a. a. Sentencia ",
+            "b": "b. b. Exhorto ",
+            "c": "c. c. Auto ",
+            "d": "d. d. Providencia "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624697.45655,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "5. La Policía Judicial se regula en el _________ de la Constitución Española.",
+        "opciones_respuesta": {
+            "a": "a. a. Artículo 125 ",
+            "b": "b. b. Artículo 126 ",
+            "c": "c. c. Articulo 124 ",
+            "d": "d. d. Artículo 123 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779624718.200928,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "6. Señale el cuerpo normativo en el que no se regule la Policía Judicial:",
+        "opciones_respuesta": {
+            "a": "a. a. Ley Orgánica del Poder Judicial ",
+            "b": "b. b. Ley Orgánica de Fuerzas y Cuerpos de Seguridad ",
+            "c": "c. c. Ley de Enjuiciamiento Criminal ",
+            "d": "d. d. En todas las anteriores se regula la Policía Judicial "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779624721.5447254,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "7. Los Alcaldes, Tenientes de Alcalde y Alcaldes de Barrio…",
+        "opciones_respuesta": {
+            "a": "a. a. Son Policía Judicial en sentido amplio ",
+            "b": "b. b. Son Policía Judicial en sentido estricto ",
+            "c": "c. c. Serán Policía Judicial en sentido amplio o estricto, dependiendo de la gravedad del delito que se cometa. ",
+            "d": "d. d. Serán Policía Judicial en sentido amplio o estricto, dependiendo de la pena impuesta al delito cometido. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779624736.9767883,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "8. En el cumplimiento de sus funciones, los funcionarios adscritos a Unidades de Policía Judicial dependen:",
+        "opciones_respuesta": {
+            "a": "a. a. funcionalmente del Ministerio del Interior y orgánicamente de los Jueces, Tribunales o Ministerio Fiscal que estén conociendo del asunto objeto de su investigación. ",
+            "b": "b. b. funcionalmente del Ministerio del Interior y administrativamente de los Jueces, Tribunales o Ministerio Fiscal que estén conociendo del asunto objeto de su investigación. ",
+            "c": "c. c. orgánicamente del Ministerio del Interior y funcionalmente de los Jueces, Tribunales o Ministerio Fiscal que estén conociendo del asunto objeto de su investigación. ",
+            "d": "d. d. corporativamente del Ministerio del Interior y administrativamente de los Jueces, Tribunales o Ministerio Fiscal que estén conociendo del asunto objeto de su investigación. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624745.6729298,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "9. En las diligencias o actuaciones que lleven a cabo, por encargo y bajo la supervisión de los Jueces, Tribunales o Fiscales competentes de lo Penal, los funcionarios integrantes de las Unidades de Policía Judicial tendrán el carácter de __________ de dichos Jueces, Tribunales y Fiscales, y podrán requerir el auxilio necesario de las Autoridades y, en su caso, de los particulares.",
+        "opciones_respuesta": {
+            "a": "a. a. Auxiliares ",
+            "b": "b. b. Colaboradores ",
+            "c": "c. c. Cooperadores ",
+            "d": "d. d. Comisionados "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779624759.9210577,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "10. Los funcionarios de las Unidades de Policía Judicial no podrán ser removidos o apartados de la investigación concreta que se les hubiera encomendado…",
+        "opciones_respuesta": {
+            "a": "a. a. hasta que finalice sus cometidos, si no es por decisión o con la autorización del Juez o Fiscal competente, o el Mando Superior de la Unidad de Policía Judicial. ",
+            "b": "b. b. hasta que finalice la misma o la fase del procedimiento judicial que la originara, si no es por decisión o con la autorización del Juez o Fiscal competente, o el Mando Superior de la Unidad de Policía Judicial ",
+            "c": "c. c. hasta que finalice la misma o la fase del procedimiento judicial que la originara, si no es por decisión o con la autorización del Juez o Fiscal competente. ",
+            "d": "d. d. hasta que finalice sus cometidos, si no es por decisión o con la autorización del Juez o Fiscal competente. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779624780.4730892,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "11. Según establece el artículo 295 de la LECRIM, los funcionarios de Policía Judicial no podrán dejar transcurrir un lapso de tiempo sin dar conocimiento a la autoridad judicial o al Ministerio Fiscal de las diligencias que hubieran practicado, salvo en los supuestos de fuerza mayor y en el previsto en el apartado 2 del artículo 284, de más de…",
+        "opciones_respuesta": {
+            "a": "a. a. 12 horas ",
+            "b": "b. b. 24 horas ",
+            "c": "c. c. 36 horas ",
+            "d": "d. d. 48 horas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779624788.7450898,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "12. Los atestados que redactaren y las manifestaciones que hicieren los funcionarios de Policía judicial, a consecuencia de las averiguaciones que hubiesen practicado…",
+        "opciones_respuesta": {
+            "a": "a. a. se considerarán denuncias para los efectos legales ",
+            "b": "b. b. Se considerarán declaraciones testificales ",
+            "c": "c. c. Se considerarán querellas para los efectos legales ",
+            "d": "d. d. Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779624812.7611423,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "13. Señale la respuesta INCORRECTA, en relación a la diligencia de inspección ocular:",
+        "opciones_respuesta": {
+            "a": "a. a. Se regula en el Título V de la LECRIM ",
+            "b": "b. b. Deberá contener la descripción de todo aquello que pueda tener relación con la existencia y naturaleza del delito ",
+            "c": "c. c. La incomparecencia del procesado y/o su defensor a la práctica de la diligencia de inspección ocular provocará la suspensión de la misma ",
+            "d": "d. d. Todas son correctas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779624829.937373,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "14. El auto de entrada y registro en lugar cerrado…",
+        "opciones_respuesta": {
+            "a": "a. a. Se notificará a la persona interesada inmediatamente. ",
+            "b": "b. b. Se notificará lo más tarde dentro de las 24 horas de haberse dictado. ",
+            "c": "c. c. Se notificará dentro de las 48 horas de haberse dictado. ",
+            "d": "d. d. A y B son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779624843.2974176,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "15. Señale la respuesta INCORRECTA. Se podrá realizar entrada en domicilio particular…",
+        "opciones_respuesta": {
+            "a": "a. a. En caso de flagrante delito ",
+            "b": "b. b. En caso de orden de detención contra el que allí se encuentre ",
+            "c": "c. c. En caso de que el delincuente, inmediatamente perseguido por los agentes de la autoridad, se oculte o refugie en alguna casa. ",
+            "d": "d. d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624858.7935052,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "16. La decisión judicial que permite la entrada y registro en un domicilio particular adopta la forma de…",
+        "opciones_respuesta": {
+            "a": "a. a. Sentencia ",
+            "b": "b. b. Exhorto ",
+            "c": "c. c. Auto ",
+            "d": "d. d. Providencia "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624875.1134746,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "17. El registro se realizará siempre en presencia de…",
+        "opciones_respuesta": {
+            "a": "a. a. El interesado ",
+            "b": "b. b. De dos testigos ",
+            "c": "c. c. Del secretario del Juzgado o Tribunal que lo hubiera autorizado ",
+            "d": "d. d. Del Juez que lo hubiera autorizado "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624906.7297833,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "18. Si la entrada y registro se hubieren de hacer en el domicilio de un particular,  y en caso de no poder notificar la decisión judicial de su realización a aquel, …",
+        "opciones_respuesta": {
+            "a": "a. a. En caso de no ser hallado el particular se practicará, en primer lugar, la diligencia con la asistencia de dos vecinos. ",
+            "b": "b. b. Si no fuere tampoco habido el encargado, se hará la notificación a cualquier otra persona que se hallare en el domicilio, con independencia de su filiación. ",
+            "c": "c. c. Si no fuere tampoco habido el encargado, se hará la notificación a cualquier otra persona mayor de edad que se hallare en el domicilio, prefiriendo para esto a los individuos de la familia del interesado. ",
+            "d": "d. d. A y B son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779624937.9864688,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "19. Señale la respuesta correcta.",
+        "opciones_respuesta": {
+            "a": "a. a. El particular está obligado a detener al delincuente in fraganti, sin aportar justificación alguna. ",
+            "b": "b. b. El particular no está obligado a detener al delincuente in franganti, pero sí al que intentare cometer un delito ",
+            "c": "c. c. El particular está obligado a detener al delincuente in fraganti, justificando haber obrado en virtud de motivos racionalmente suficientes para creer que el detenido se halla comprendido en uno los casos que le habilitan para detener. ",
+            "d": "d. d. El particular no está obligado a detener al delincuente in fraganti, las obligaciones relativas a las detenciones están dirigidas a la autoridad o los agentes de policía judicial. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779624947.954216,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "20. En caso de la comisión de delitos leves, procederá detención cuando…",
+        "opciones_respuesta": {
+            "a": "a. a. El presunto reo no tuviese domicilio conocido ",
+            "b": "b. b. El presunto reo no diese fianza bastante ",
+            "c": "c. c. El presunto reo no tuviese domicilio conocido ni diese fianza bastante ",
+            "d": "d. d. Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624958.0102675,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "21. El particular, autoridad o agente de policía judicial que detuviere a una persona en virtud de lo dispuesto en los precedentes artículos, deberá ponerla en libertad o entregarla al juez más próximo al lugar en que hubiere hecho la detención dentro de las…",
+        "opciones_respuesta": {
+            "a": "a. a. 24 horas siguientes al acto de la misma. ",
+            "b": "b. b. 48 horas siguientes al acto de la misma. ",
+            "c": "c. c. 72 horas siguientes al acto de la misma. ",
+            "d": "d. d. 12 horas siguientes al acto de la misma. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779624980.8427525,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "22. La detención preventiva durará",
+        "opciones_respuesta": {
+            "a": "a. a. 72 horas ",
+            "b": "b. b. El tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos. ",
+            "c": "c. c. 48 horas ",
+            "d": "d. d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779625004.450336,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "23. Señale la respuesta INCORRECTA, en relación a los derechos que asisten al detenido conforme la LECRIM:",
+        "opciones_respuesta": {
+            "a": "a. a. Se informará al detenido del plazo máximo legal de duración de la detención hasta la puesta a disposición de la autoridad judicial y del procedimiento por medio del cual puede impugnar la legalidad de su detención. ",
+            "b": "b. b. Si se tratare de un menor, será puesto a disposición de las Secciones de Menores de la Fiscalía y se comunicará el hecho y el lugar de custodia a quienes ejerzan la patria potestad, la tutela o la guarda de hecho del mismo, tan pronto se tenga constancia de la minoría de edad ",
+            "c": "c. c. Se permitirá al detenido conservar en su poder la declaración escrita de derechos durante todo el tiempo de la detención, salvo en los supuestos descritos en el art. 123 del Código Penal. ",
+            "d": "d. d. La información de los derechos que asisten al detenido se facilitará en un lenguaje comprensible y que resulte accesible al destinatario. A estos efectos se adaptará la información a su edad, grado de madurez, discapacidad y cualquier otra circunstancia personal de la que pueda derivar una limitación de la capacidad para entender el alcance de la información que se le facilita "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779625010.4503286,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "24. El abogado del turno de oficio designado acudirá al centro de detención con la máxima premura…",
+        "opciones_respuesta": {
+            "a": "a. a. siempre dentro del plazo máximo de dos horas desde la recepción del encargo ",
+            "b": "b. b. siempre dentro del plazo máximo de tres horas desde la recepción del encargo ",
+            "c": "c. c. siempre dentro del plazo máximo de cuatro horas desde la recepción del encargo ",
+            "d": "d. d. siempre dentro del plazo máximo de seis horas desde la recepción del encargo "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779625028.6987991,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "25. En lo relativo a los derechos del detenido o preso por hechos susceptibles de ser tipificados exclusivamente como delitos contra la seguridad del tráfico (ahora seguridad vial), cabe decir que…",
+        "opciones_respuesta": {
+            "a": "a. a. Podrá renunciar a la preceptiva asistencia de abogado, no pudiendo revocar dicha renuncia. ",
+            "b": "b. b. Podrá renunciar a la preceptiva asistencia de abogado, pudiendo revocar dicha renuncia en cualquier momento. ",
+            "c": "c. c. No podrá renuncia a la preceptiva asistencia de abogado, ya que comete un delito. ",
+            "d": "d. d. Podrá renunciar en caso de que no tenga antecedentes y sea su primer delito. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779625039.1466203,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "26. El plazo máximo de la detención preventiva será de…",
+        "opciones_respuesta": {
+            "a": "a. a. 72 horas, en todo caso. ",
+            "b": "b. b. 48 horas. ",
+            "c": "c. c. 72 horas con carácter general, salvo en caso de detenido por delito cometido por persona integrada o relacionada con bandas armadas o individuos terroristas o rebeldes, en cuyo caso puede ser prorrogada 48 horas más. ",
+            "d": "d. d. El tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779625049.6503851,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "27. Detenida una persona por los motivos expresados en el número anterior, podrá solicitarse del Juez que decrete su INCOMUNICACIÓN, el cual deberá pronunciarse sobre la misma, en resolución motivada, en el plazo de",
+        "opciones_respuesta": {
+            "a": "a. a. 12 horas ",
+            "b": "b. b. 24 horas ",
+            "c": "c. c. 36 horas ",
+            "d": "d. d. 48 horas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779625065.8430576,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "28. Debe impedirse a los detenidos o presos la libertad de escribir a los funcionarios superiores del orden judicial…",
+        "opciones_respuesta": {
+            "a": "a. a. En caso de incomunicación ",
+            "b": "b. b. En caso de delitos contra las personas ",
+            "c": "c. c. En todo caso ",
+            "d": "d. d. En ningún caso "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779625093.410991,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "29. Señale cuál de los siguientes derechos NO puede ser privado un reo en supuestos de detención o prisión INCOMUNICADAS:",
+        "opciones_respuesta": {
+            "a": "a. a. Designar un abogado de su confianza. ",
+            "b": "b. b. Acceder él o su abogado a los elementos esenciales para poder impugnar la legalidad de la detención. ",
+            "c": "c. c. Comunicarse con todas o alguna de las personas con las que tenga derecho a hacerlo, salvo con la autoridad judicial, el Ministerio Fiscal y el Médico Forense. ",
+            "d": "d. d. Entrevistarse reservadamente con su abogado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779625101.106668,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "30. En el ámbito de la Jurisdicción Militar será competente para conocer de la solicitud de «Habeas Corpus» …",
+        "opciones_respuesta": {
+            "a": "a. a. El Juez de Instrucción ",
+            "b": "b. b. El Juez de la Sala de lo Militar del Tribunal Supremo ",
+            "c": "c. c. El Juez Togado Militar de instrucción constituido en la cabecera de la circunscripción jurisdiccional en la que se efectuó la detención ",
+            "d": "d. d. El Juez de la Sala de lo Militar del Tribunal Superior de Justicia "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779625119.8028529,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "31. Señale la respuesta INCORRECTA. Podrán instar el procedimiento de «Habeas Corpus»…",
+        "opciones_respuesta": {
+            "a": "a. a. El privado de libertad, su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes, hermanos y, en su caso, respecto a los menores y personas incapacitadas, sus representantes legales. ",
+            "b": "b. b. El Ministerio Fiscal y el Defensor del Pueblo. ",
+            "c": "c. c. De oficio, el Juez competente. ",
+            "d": "d. d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779625129.059173,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "32. Contra el auto dictado por el Juez competente para el “Habeas Corpus” acordando la incoación del procedimiento cabe…",
+        "opciones_respuesta": {
+            "a": "a. a. El recurso contencioso-administrativo ",
+            "b": "b. b. El recurso de reposición ",
+            "c": "c. c. El recurso de apelación ",
+            "d": "d. d. No cabrá recurso alguno. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779625150.2990632,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "33. Los Jueces competentes, en caso de una solicitud de “Habeas Corpus”, practicarán todas las actuaciones que procedan y dictarán resolución en el plazo de:",
+        "opciones_respuesta": {
+            "a": "a. a. 24 horas, contadas desde que sea dictado el auto de incoación ",
+            "b": "b. b. 6 horas, contadas desde que sea dictado el auto de incoación ",
+            "c": "c. c. 24 horas contadas desde que sea practicada la detención del individuo ",
+            "d": "d. d. 6 horas, contadas desde que sea practicada la detención del individuo. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779625167.1473887,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "34. En lo que respecta al pago de las costas del procedimiento de “Habeas Corpus”, cabe decir que:",
+        "opciones_respuesta": {
+            "a": "a. a. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en todo caso. ",
+            "b": "b. b. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en caso de reincidencia. ",
+            "c": "c. c. En este tipo de procedimiento, las costas no se declararán de oficio. ",
+            "d": "d. d. A y C son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779625177.0672185,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "35. La ley que regula el procedimiento de “Habeas Corpus” es:",
+        "opciones_respuesta": {
+            "a": "a. a. Ley Orgánica 6/1985, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "b": "b. b. Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "c": "c. c. Ley Orgánica 6/1984, de 25 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "d": "d. d. Ley Orgánica 6/1985, de 25 de mayo, reguladora del procedimiento de «Habeas Corpus "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779625195.0673637,
+        "path": "/bloque_IV/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "36. La ejecución del servicio, en régimen de competencia delegada, de depósito de detenidos a disposición judicial, en los Municipios en que no exista establecimiento penitenciario alguno, corresponderá a:",
+        "opciones_respuesta": {
+            "a": "a. a. Todos los Municipios. ",
+            "b": "b. b. Los Municipios cabeza de partido judicial ",
+            "c": "c. c. Las Comunidades Autónomas ",
+            "d": "d. d. La Delegación del Gobierno "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779635296.5700417,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿En qué año se publicó el primer marco normativo de actuación para la Protección Civil en España?",
+        "opciones_respuesta": {
+            "a": "a. a) 1975 ",
+            "b": "b. b) 1979 ",
+            "c": "c. c) 1985 ",
+            "d": "d. d) 1981 "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779635298.9381878,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Es la protección civil un servicio público?",
+        "opciones_respuesta": {
+            "a": "a. a) Si, conforme el artículo 1 de la Ley del Sistema Nacional de Protección Civil, es un servicio público utilizado como instrumento de la política de seguridad pública. ",
+            "b": "b. b) Si, salvo en los casos que las labores sean realizadas por personal de seguridad privada. ",
+            "c": "c. c) Es un servicio semipúblico al intervenir conjuntamente personal público, voluntariado y personal de ámbito privado. ",
+            "d": "d. d) Si, conforme el artículo 148.1.14 de la Constitución Española. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779635302.5700483,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿Quién aprueba la estrategia nacional de protección civil?",
+        "opciones_respuesta": {
+            "a": "a. a) El Consejo de Seguridad Nacional, a propuesta del Ministro del Interior. ",
+            "b": "b. b) El Ministro del Interior, a propuesta del Consejo de Seguridad Nacional. ",
+            "c": "c. c) El Consejo Nacional de Protección civil, a propuesta del Ministro del Interior. ",
+            "d": "d. d) El Ministro del Interior, a propuesta del Consejo Nacional de Protección Civil. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779635304.6740575,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "4. La Estrategia Nacional de Protección Civil se revisará, al menos...",
+        "opciones_respuesta": {
+            "a": "a. a) Cada año ",
+            "b": "b. b) Cada 2 años ",
+            "c": "c. c) Cada 3 años ",
+            "d": "d. d) Cada 4 años "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779635310.6901073,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Quién tiene derecho a la protección de la Administración en caso de catástrofe?",
+        "opciones_respuesta": {
+            "a": "a. a) Todo ciudadano español ",
+            "b": "b. b) Todo residente en España ",
+            "c": "c. c) Todo ciudadano español residente en España ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779635319.146129,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "6. Señale la opción CORRECTA",
+        "opciones_respuesta": {
+            "a": "a. a) En los casos de emergencia, toda persona mayor de edad está obligada a la realización de prestaciones personales que exijan las autoridades competentes en materia de protección civil, sin derecho a indemnización por esta causa. ",
+            "b": "b. b) En los casos de emergencia, toda persona está obligada a la realización de prestaciones personales que exijan las autoridades competentes en materia de protección civil, sin derecho a indemnización por esta causa. ",
+            "c": "c. c) En los casos de emergencia, toda persona mayor de edad está obligada a la realización de prestaciones personales que exijan las autoridades competentes en materia de protección civil, dando lugar el derecho a indemnización por esta causa. ",
+            "d": "d. d) En los casos de emergencia, toda persona está obligada a la realización de prestaciones personales que exijan las autoridades competentes en materia de protección civil, dando lugar el derecho a indemnización por esta causa. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779635335.7061865,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "7. \"Conjunto de medidas y acciones encaminadas a evitar o mitigar los posibles impactos adversos de los riesgos y amenazas de emergencia\"",
+        "opciones_respuesta": {
+            "a": "a. a) Anticipación ",
+            "b": "b. b) Prevención ",
+            "c": "c. c) Planificación ",
+            "d": "d. d) Respuesta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779635342.466644,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "8. Los planes de Protección Civil son:",
+        "opciones_respuesta": {
+            "a": "a. a) Ordinarios y Extraordinarios ",
+            "b": "b. b) Plan Estatal General, Planes Territoriales y Planes Especiales ",
+            "c": "c. c) Territoriales y Especiales ",
+            "d": "d. d) Plan Estatal General, Planes Territoriales, Planes Especiales y Planes de Autoprotección. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779635351.042313,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "9. El Plan Estatal General será aprobado por...",
+        "opciones_respuesta": {
+            "a": "a. a) El Consejo Nacional de Protección Civil ",
+            "b": "b. b) El Ministro del Interior ",
+            "c": "c. c) El Gobierno, a propuesta de la Comisión Nacional de Protección Civil ",
+            "d": "d. d) Acuerdo del Consejo de Ministros, a propuesta de la persona titular del Ministerio del Interior, previo informe del Consejo Nacional de Protección Civil. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779635366.4743848,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "10. Los Planes Especiales pueden ser...",
+        "opciones_respuesta": {
+            "a": "a. a) Estatales o Autonómicos ",
+            "b": "b. b) Básicos o Especiales ",
+            "c": "c. c) Autonómicos, locales o Estatales ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779635372.1946435,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "11. En caso de conflicto nuclear, se aplicará un Plan de Protección Civil:",
+        "opciones_respuesta": {
+            "a": "a. a) Especial Básico ",
+            "b": "b. b) Especial Estatal ",
+            "c": "c. c) Especial Autonómico o Estatal ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779635376.2586107,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "12. El Plan de Protección Civil de Emergencias por incendios forestales en Asturias se llama:",
+        "opciones_respuesta": {
+            "a": "a. a) PLAMERPA ",
+            "b": "b. b) PLANINPA ",
+            "c": "c. c) INFOPA ",
+            "d": "d. d) INCEFAST "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779635381.9784088,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "13. ¿A quién le corresponde la declaración de interés nacional en una emergencia?",
+        "opciones_respuesta": {
+            "a": "a. a) Al Consejo de Seguridad Nacional ",
+            "b": "b. b) Al Presidente del Gobierno ",
+            "c": "c. c) Al Consejo Nacional de Protección Civil ",
+            "d": "d. d) Al Ministro del Interior "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779635390.9066198,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿Quién preside el Consejo Nacional de Protección Civil?",
+        "opciones_respuesta": {
+            "a": "a. a) El Ministro del Interior ",
+            "b": "b. b) El Presidente del Gobierno ",
+            "c": "c. c) El Secretario de Estado de Seguridad ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779635399.5145996,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Qué norma aprueba la Norma Básica de Protección Civil?",
+        "opciones_respuesta": {
+            "a": "a. a) Ley 17/2015, de 9 de julio. ",
+            "b": "b. b) RD 524/2023, de 20 de junio. ",
+            "c": "c. c) RD 407/1992, de 24 de abril. ",
+            "d": "d. d) RD 393/2007, de 23 de marzo. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779635410.4908986,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Donde se encuentra el Catálogo de riesgos objeto de planificación?",
+        "opciones_respuesta": {
+            "a": "a. a) En la Ley 17/2015, de 9 de julio. ",
+            "b": "b. b) En el anexo del RD 524/2023, de 20 de junio. ",
+            "c": "c. c) En el anexo del RD 407/1992, de 24 de abril. ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779635423.0668473,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "17.Las Directrices Básicas de Planificación son aprobadas por...",
+        "opciones_respuesta": {
+            "a": "a. a) Acuerdo del Consejo de Ministros, a propuesta de la persona titular del Ministerio del Interior, previo informe del Consejo Nacional de Protección Civil ",
+            "b": "b. b) Los mismos órganos que el Plan Estatal General ",
+            "c": "c. c) a) y b) son correctas ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779635446.986828,
+        "path": "/bloque_II/_plan_pl_2.6.json",
+        "id": "id2340234",
+        "pregunta": "18. Señale la opción correcta:",
+        "opciones_respuesta": {
+            "a": "a. a) Los planes de protección civil relativos a riesgos no incluidos en el catálogo se denominarán protocolos, procedimientos de actuación, planes sectoriales o planes específicos. ",
+            "b": "b. b) Los PLANES DE ÁMBITO LOCAL son aprobados por el órgano competente de la respectiva entidad, con los informes previos que establezca la legislación autonómica. ",
+            "c": "c. c) La GESTIÓN DEL CICLO DE LAS EMERGENCIAS, abarca las fases de análisis de riesgos, prevención, planificación, respuesta, recuperación, y evaluación. ",
+            "d": "d. d) Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    }
+]

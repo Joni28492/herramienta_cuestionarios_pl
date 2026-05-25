@@ -6,6 +6,12 @@
         "aciertos": 1
     },
     {
+        "pregunta": "c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
+        "respuesta": "simultaneas",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
         "pregunta": "h) Aquellas otras que le atribuya la legislación vigente.",
         "respuesta": "policia nacional",
         "fallos": 1,
@@ -18,20 +24,20 @@
         "aciertos": 1
     },
     {
-        "pregunta": "c) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
-        "respuesta": "simultaneas",
-        "fallos": 1,
-        "aciertos": 0
-    },
-    {
         "pregunta": "i) Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública, en los términos que se establezcan en la legislación de protección civil.",
         "respuesta": "policia",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "c) Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.",
         "respuesta": "colaboracion",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "c) Vigilar y proteger los edificios e instalaciones públicos que lo requieran.",
+        "respuesta": "policia",
         "fallos": 1,
         "aciertos": 0
     },
@@ -43,12 +49,6 @@
     },
     {
         "pregunta": "b) Auxiliar y proteger a las personas y asegurar la conservación y custodia de los bienes que se encuentren en situación de peligro por cualquier causa.",
-        "respuesta": "policia",
-        "fallos": 0,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "c) Vigilar y proteger los edificios e instalaciones públicos que lo requieran.",
         "respuesta": "policia",
         "fallos": 0,
         "aciertos": 0
@@ -111,13 +111,13 @@
         "pregunta": "e) La investigación y persecución de los delitos relacionados con la droga.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "f) Colaborar y prestar auxilio a las policías de otros países, conforme a lo establecido en los Tratados o Acuerdos Internacionales sobre las Leyes, bajo la superior dirección del Ministro del Interior.",
         "respuesta": "policia nacional",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "g) El control de las entidades y servicios privados de seguridad, vigilancia e investigación, de su personal, medios y actuaciones.",
@@ -183,13 +183,13 @@
         "pregunta": "a) Las derivadas de la legislación vigente sobre armas y explosivos.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "b) El resguardo fiscal del Estado y las actuaciones encaminadas a evitar y perseguir el contrabando.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "c) La vigilancia del tráfico, tránsito y transporte en las vías públicas interurbanas.",
@@ -207,7 +207,7 @@
         "pregunta": "e) Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, de los recursos hidráulicos, así como de la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza.",
         "respuesta": "guardia civil",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "f) La conducción interurbana de presos y detenidos.",
@@ -225,7 +225,7 @@
         "pregunta": "a) Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma.",
         "respuesta": "propias",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "b) La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la Comunidad Autónoma y de sus entes instrumentales, garantizando el normal funcionamiento de las instalaciones y la seguridad de los usuarios de sus servicios.",
@@ -237,7 +237,7 @@
         "pregunta": "c) La inspección de las actividades sometidas a la ordenación o disciplina de la Comunidad Autónoma, denunciando toda actividad ilícita.",
         "respuesta": "propias",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "d) El uso de la coacción en orden a la ejecución forzosa de los actos o disposiciones de la propia Comunidad Autónoma.",

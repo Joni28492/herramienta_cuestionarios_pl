@@ -1,6 +1,7 @@
 import json
 import os
 
+# todo agregar competencias ley bases al informe
 
 class Informe_generator():
 

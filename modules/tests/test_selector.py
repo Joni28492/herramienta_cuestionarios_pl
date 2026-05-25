@@ -24,7 +24,7 @@ class Test_Selector():
         self.listado_preguntas_respondidas = []
         self.fails_path = 'backup'
 
-        init()
+        init() 
         # self.main()
     
 
@@ -83,13 +83,13 @@ class Test_Selector():
             for p in temp_list:
                 print(Style.RESET_ALL, f"\t{p})", pregunta["respuestas"][p])
             print()
-            # print(Style.BRIGHT, "Solucion", pregunta["solucion"])
-            # print()
+
+
         else:
             if pregunta["solucion"] != seleccion:
                 # impresion correcion
                 self.listado_aciertos_errores.append("❌")
-                print(f"❌❌❌ Incorrecto.")
+                print(Fore.RED, f"❌❌❌ Incorrecto.", Style.RESET_ALL)
                 
                 print()
                 print(Style.RESET_ALL, Style.BRIGHT,pregunta["pregunta"])
@@ -118,7 +118,7 @@ class Test_Selector():
                     else:
                         print(Style.RESET_ALL, f"\t{p})", pregunta["respuestas"][p])
                 print()
-        # print(self.listado_aciertos_errores)
+        
         self.imprimir_listado_conteo_aciertos_errores()
         print(Style.RESET_ALL,"="*50)
 
@@ -136,8 +136,9 @@ class Test_Selector():
         # todo imprimir calculo de puntuacion
         valor_calculo = 100
         valor_pregunta = total/valor_calculo
-        puntuacion_actual = (valor_pregunta*aciertos)-(fallos*1/3)
-        print(f"{puntuacion_actual}/{valor_calculo}")
+        puntuacion_actual = (aciertos-(fallos/3)) * valor_pregunta
+        # print(f"{puntuacion_actual}/{valor_calculo}") #no sale bien por algun calculo raro
+        print(f"{puntuacion_actual}/10")
 
         
     

@@ -1,0 +1,1346 @@
+[
+    {
+        "timestamp": 1779708898.4711576,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cuál de los siguientes no constituye un fin de la LO 4/2015, de 30 de marzo, de protección de la seguridad ciudadana:",
+        "opciones_respuesta": {
+            "a": "a. La protección del libre ejercicio de los derechos fundamentales y las libertades públicas y los demás derechos reconocidos y amparados por el ordenamiento jurídico. ",
+            "b": "b. La preservación de la seguridad y la convivencia ciudadanas. ",
+            "c": "c. La protección de las personas y bienes, con especial atención a los menores y a las personas con discapacidad necesitadas de especial protección. ",
+            "d": "d. La pacífica utilización de vías y demás bienes y, en general, espacios destinados al uso y disfrute privado. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779708904.8790033,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cual de las siguientes no constituye autoridad y órgano competente en materia de seguridad ciudadana, en el ámbito de la Administración General del Estado:",
+        "opciones_respuesta": {
+            "a": "a. El Ministro del Interior. ",
+            "b": "b. El Ministro de Defensa ",
+            "c": "c. El Secretario de Estado de Seguridad. ",
+            "d": "d. Los Delegados del Gobierno en las comunidades autónomas y en las Ciudades de Ceuta y Melilla "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779708910.167038,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La Administración General del Estado y las demás administraciones públicas con competencias en materia de seguridad ciudadana se regirán, en sus relaciones, por los principios de:",
+        "opciones_respuesta": {
+            "a": "a. coordinación y lealtad constitucional ",
+            "b": "b. cooperación y lealtad constitucional ",
+            "c": "c. coordinación y lealtad institucional ",
+            "d": "d. cooperación y lealtad institucional "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779708926.5351796,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las autoridades y órganos competentes y los miembros de las Fuerzas y Cuerpos de Seguridad podrán recabar de los particulares su ayuda y colaboración en la medida necesaria para el cumplimiento de los fines previstos en la  LO 4/2015, de 30 de marzo, de protección de la seguridad ciudadana:",
+        "opciones_respuesta": {
+            "a": "a. especialmente en los casos de grave calamidad pública o catástrofe extraordinaria, aunque implique un riesgo personal para los mismos ",
+            "b": "b. solamente en los casos de grave calamidad pública o catástrofe extraordinaria ",
+            "c": "c. especialemente en los casos de grave calamidad pública o catástrofe extraordinaria, siempre que ello no implique riesgo personal para los mismos. ",
+            "d": "d. solamente en los casos de grave calamidad pública o catástrofe extraordinaria, siempre que ello no implique riesgo personal para los mismos. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779708948.2233007,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "¿Cuál de las siguientes personas físicas o jurídicas no están obligadas a llevar el registro documental del art. 25 de la LO 4/2015 de ·30 de marzo?",
+        "opciones_respuesta": {
+            "a": "a. las de hospedaje ",
+            "b": "b. las de transporte de personas ",
+            "c": "c. establecimientos de comercio al por menor de chatarra o productos de desecho ",
+            "d": "d. cerrajería de seguridad "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779708964.9195263,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La regulación de los requisitos y condiciones de fabricación, reparación, circulación, almacenamiento, comercio, adquisición, enajenación, tenencia y utilización de armas, sus imitaciones, réplicas y piezas fundamentales; corresponde:",
+        "opciones_respuesta": {
+            "a": "a. A la Comunidad Autónoma ",
+            "b": "b. A la provincia ",
+            "c": "c. Al Gobierno ",
+            "d": "d. A la Guardia Civil "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779708972.7274678,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La intervención de armas, explosivos, cartuchería y artículos pirotécnicos corresponde al:",
+        "opciones_respuesta": {
+            "a": "a. Ministerio del Interior ",
+            "b": "b. Ministerio de Defensa ",
+            "c": "c. Ministerio de la Presidencia ",
+            "d": "d. A la Guardia Civil "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779708992.8315816,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La competencia sobre intervención de armas, explosivos, cartuchería y artículos pirotécnicos se ejerce a través de…",
+        "opciones_respuesta": {
+            "a": "a. la Dirección General de la Guardia Civil ",
+            "b": "b. la Intervención de Armas de la Guardia Civil ",
+            "c": "c. la Dirección General del Cuerpo Nacional de Policía ",
+            "d": "d. la Sección de Armamento de las Fuerzas Armadas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709013.3756754,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Todos los españoles tienen:",
+        "opciones_respuesta": {
+            "a": "a. Derecho a que se les expida el Documento Nacional de Identidad ",
+            "b": "b. Derecho y deber a que se les expida el Documento Nacional de Identidad ",
+            "c": "c. Deber a que se les expida el Documento Nacional de Identidad ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709035.335858,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El Documento Nacional de Identidad…",
+        "opciones_respuesta": {
+            "a": "a. Sólo tiene valor por sí solo para la acreditación, a todos los efectos, de la identidad del titular ",
+            "b": "b. Tiene valor por sí solo para la acreditación, a todos los efectos, de la identidad y del domicilio de su titular ",
+            "c": "c. Tiene valor, junto con el pasaporte, de la acreditación, a todos los efectos, de la identidad y del domicilio del titular ",
+            "d": "d. Tiene suficiente valor por sí solo para la acreditación, a todos los efectos, de la identidad y los datos personales de su titular "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709044.6958106,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El Documento Nacional de Identidad podrá contener datos relativos a:",
+        "opciones_respuesta": {
+            "a": "a. Raza ",
+            "b": "b. Religión ",
+            "c": "c. Ideología ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709058.7838748,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El Documento Nacional de Identidad permite…",
+        "opciones_respuesta": {
+            "a": "a. La identificación electrónica de su titular, así como la firma electrónica de documentos ",
+            "b": "b. Sólo la identificación electrónica de su titular ",
+            "c": "c. Sólo la firma electrónica de documentos ",
+            "d": "d. Ninguna de las anteriores es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709061.9758446,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El Documento Nacional de Identidad es obligatorio..",
+        "opciones_respuesta": {
+            "a": "a. A partir de los 14 años ",
+            "b": "b. A partir de los 15 años ",
+            "c": "c. A partir de los 16 años ",
+            "d": "d. A partir de los 12 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709069.3359327,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El titular de un Documento Nacional de Identidad tiene la obligación de...",
+        "opciones_respuesta": {
+            "a": "a. Custodiarlo con la debida diligencia ",
+            "b": "b. Mantenerlo en vigor ",
+            "c": "c. Llevarlo en la vía pública ",
+            "d": "d. A y B son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709077.3919613,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las personas mayores de 14 años..",
+        "opciones_respuesta": {
+            "a": "a. Están obligadas a exhibir el DNI antes los agentes de la autoridad siempre ",
+            "b": "b. Están obligadas a exhibir el DNI ante los agentes de la autoridad pero no a entregarlo físicamente a agente ",
+            "c": "c. Están obligadas a exhibir el DNI y permitir la comprobación de las medidas de seguridad del mismo ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709088.9680698,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "De la sustracción o extravío del DNI deberá darse cuenta tan pronto como sea posible a la comisaría de Policía o puesto de las Fuerzas y Cuerpos de Seguridad…",
+        "opciones_respuesta": {
+            "a": "a. donde fue expedido el Documento Nacional de Identidad ",
+            "b": "b. más próximo ",
+            "c": "c. donde fue extraviado o sustraído el Documento Nacional de Identidad ",
+            "d": "d. más próximo al lugar de residencia del titular "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709096.9599478,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La competencia exclusiva para la dirección, organización y gestión de todos los aspectos referentes a la confección y expedición del Documento Nacional de Identidad será ejercida por:",
+        "opciones_respuesta": {
+            "a": "a. La Dirección General de la Guardia Civil ",
+            "b": "b. La Dirección General de la Policía ",
+            "c": "c. El Ministerio del Interior ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709104.3360593,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El pasaporte español es:",
+        "opciones_respuesta": {
+            "a": "a. Un documento público ",
+            "b": "b. Un documento personal ",
+            "c": "c. Un documento individual ",
+            "d": "d. Todas las anteriores "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709116.5040874,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los titulares del pasaporte tienen la obligación de:",
+        "opciones_respuesta": {
+            "a": "a. Exhibirlo y facilitarlo cuando fuesen requeridos para ello por la autoridad o sus agentes ",
+            "b": "b. Su custodia y conservación con la debida diligencia ",
+            "c": "c. Dar cuenta de su sustracción o extravío ",
+            "d": "d. Todas las anteriores "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709132.2083316,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La competencia para la expedición del pasaporte corresponde:",
+        "opciones_respuesta": {
+            "a": "a. En el territorio nacional, a la Policía Nacional ",
+            "b": "b. En el territorio nacional, a las Representaciones Diplomáticas y Consulares de España ",
+            "c": "c. En el territorio nacional, a la Dirección General de la Guardia Civil ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709147.384464,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los extranjeros que se encuentren en territorio español…",
+        "opciones_respuesta": {
+            "a": "a. No tienen la obligación de conservar la documentación que acredite su identidad expedida por las autoridades competentes del país de origen o de procedencia ",
+            "b": "b. Al igual que los españoles, tienen la obligación de poseer documentación en vigor pero no es necesario que la porten consigo ",
+            "c": "c. Tienen la obligación de portar consigo sólo la documentación que acredite su identidad expedida por las autoridades competentes del país de origen o de procedencia ",
+            "d": "d. Tienen la obligación de portar consigo la documentación que acredite su situación regular en España "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709153.1044388,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los extranjeros podrán ser privados de su documentación de origen…",
+        "opciones_respuesta": {
+            "a": "a. en el curso de investigaciones judiciales de carácter civil ",
+            "b": "b. en el curso de investigaciones judiciales de carácter penal ",
+            "c": "c. en el curso de investigaciones judiciales de carácter administrativo ",
+            "d": "d. en el curso de investigaciones judiciales de carácter laboral "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709170.536438,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los extranjeros que se encuentren en territorio español…",
+        "opciones_respuesta": {
+            "a": "a. Están obligados a exhibir su documentación antes los agentes de la autoridad siempre ",
+            "b": "b. Están obligados a exhibir su documentación ante los agentes de la autoridad pero no a entregarlo físicamente al agente ",
+            "c": "c. Están obligados a exhibir su documentación y permitir la comprobación de las medidas de seguridad de la misma ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709189.928619,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Será causa legítima suficiente para la entrada en domicilio…",
+        "opciones_respuesta": {
+            "a": "a. La necesidad de evitar daños inminentes de cualquier índole a las personas y a las cosas, en supuestos de catástrofe, calamidad, ruina inminente u otros semejantes de extrema y urgente necesidad ",
+            "b": "b. La necesidad de evitar daños graves a las personas y a las cosas, en supuestos de catástrofe, calamidad, ruina inminente u otros semejantes de extrema y urgente necesidad ",
+            "c": "c. La necesidad de evitar daños inminentes y graves sólo a las personas, en supuestos de catástrofe, calamidad, ruina inminente u otros semejantes de extrema y urgente necesidad ",
+            "d": "d. La necesidad de evitar daños inminentes y graves a las personas y a las cosas, en supuestos de catástrofe, calamidad, ruina inminente u otros semejantes de extrema y urgente necesidad "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709204.8487039,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Para la entrada en edificios ocupados por organismos oficiales o entidades públicas…",
+        "opciones_respuesta": {
+            "a": "a. no será preciso el consentimiento de la autoridad o funcionario que los tuviere a su cargo ",
+            "b": "b. no será preciso el consentimiento de la autoridad pero sí el del funcionario que los tuviere a su cargo ",
+            "c": "c. será preciso el consentimiento de la autoridad pero no el del funcionario que los tuviere a su cargo ",
+            "d": "d. será preciso el consentimiento del superior jerárquico de la autoridad o funcionario que los tuviere a su cargo "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709218.3046718,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Según la LOPSC, Cuando por las causas previstas en este artículo las Fuerzas y Cuerpos de Seguridad entren en un domicilio particular, remitirán sin dilación el acta o atestado que instruyan a la autoridad judicial competente en el plazo de:",
+        "opciones_respuesta": {
+            "a": "a. La LOPSC no establece un plazo para ello ",
+            "b": "b. 24 horas ",
+            "c": "c. 48 horas ",
+            "d": "d. 12 horas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709240.0410247,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "En el cumplimiento de sus funciones de indagación y prevención delictiva, así como para la sanción de infracciones penales y administrativas, los agentes de las Fuerzas y Cuerpos de Seguridad podrán requerir la identificación de las personas en el siguiente supuesto",
+        "opciones_respuesta": {
+            "a": "a. Cuando existan indicios de que han podido participar en la comisión de una infracción penal, únicamente. ",
+            "b": "b. Cuando existan indicios de que han podido participar en la comisión de una infracción administrativa, únicamente. ",
+            "c": "c. Cuando existan indicios de que han podido participar en la comisión de una infracción. ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709252.1135244,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El traslado a efectos de identificación del artículo 16 de la LOPSC, deberá realizarse…",
+        "opciones_respuesta": {
+            "a": "a. en 6 horas ",
+            "b": "b. en el tiempo estrictamente necesario ",
+            "c": "c. en cualquier dependencia que cuente con los medios necesarios para su práctica ",
+            "d": "d. El artículo 16 no menciona el traslado a efectos de identificación "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709292.305196,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los agentes, con objeto de prevenir la comisión de cualquier delito, o cuando exista peligro para la seguridad de las personas o de los bienes, podrán:",
+        "opciones_respuesta": {
+            "a": "a. proceder a la ocupación definitiva de cualesquiera objetos, instrumentos o medios de agresión, incluso de las armas que se utilicen con licencia ",
+            "b": "b. proceder a la ocupación temporal de cualesquiera objetos, instrumentos o medios de agresión, incluso de las armas que se utilicen con licencia ",
+            "c": "c. proceder a la ocupación temporal de cualesquiera objetos, instrumentos o medios de agresión, pero no de las armas que se utilicen con licencia ",
+            "d": "d. proceder a la ocupación definitiva de cualesquiera objetos, instrumentos o medios de agresión, pero no de las armas que se utilicen con licencia "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709304.3374538,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las diligencias de identificación, registro y comprobación practicadas por los agentes de las Fuerzas y Cuerpos de Seguridad con ocasión de actuaciones realizadas conforme a lo dispuesto en la Sección 1ª del Capítulo III de la LOPSC..",
+        "opciones_respuesta": {
+            "a": "a. no estarán sujetas a las mismas formalidades que la detención. ",
+            "b": "b. estarán sujetas a las mismas formalidades que la detención, siempre. ",
+            "c": "c. estarán sujetas a las mismas formalidades que la detención, en los casos del art. 96 del Código Penal. ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709319.9372559,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El registro corporal externo se realizará por un agente del mismo sexo que la persona sobre la que se practique esta diligencia…",
+        "opciones_respuesta": {
+            "a": "a. En todo caso ",
+            "b": "b. En todo caso, salvo que exista una situación de urgencia por riesgo grave e inminente para los agentes ",
+            "c": "c. En todo caso, salvo que la Unidad que realice la diligencia no cuente con personas del mismo sexo trabajando en ese momento ",
+            "d": "d. B y C son correctas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709340.4415865,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Podrán acordar, como medidas de seguridad extraordinarias, el cierre o desalojo de locales o establecimientos, la prohibición del paso, la evacuación de inmuebles o espacios públicos debidamente acotados, o el depósito de explosivos u otras sustancias susceptibles de ser empleadas como tales, en situaciones de emergencia que las hagan imprescindibles y durante el tiempo estrictamente necesario para garantizar la seguridad ciudadana:",
+        "opciones_respuesta": {
+            "a": "a. Las autoridades ",
+            "b": "b. Los agentes de la autoridad ",
+            "c": "c. Los agentes de la autoridad, mediante órdenes verbales ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709352.745505,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las autoridades a las que se refiere esta Ley podrán acordar la disolución de reuniones en lugares de tránsito público y manifestaciones en los supuestos previstos …",
+        "opciones_respuesta": {
+            "a": "a. En el artículo 4 de la Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión. ",
+            "b": "b. En el artículo 5 de la Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión. ",
+            "c": "c. En el artículo 6 de la Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión. ",
+            "d": "d. En el artículo 7 de la Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709379.4257455,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "En caso de que se produzca una alteración de la seguridad ciudadana con armas, artefactos explosivos u objetos contundentes o de cualquier otro modo peligrosos, las Fuerzas y Cuerpos de Seguridad podrán disolver la reunión o manifestación o retirar los vehículos y obstáculos…",
+        "opciones_respuesta": {
+            "a": "a. Preavisando al promotor de la reunión o manifestación con 15 minutos de antelación ",
+            "b": "b. Preavisando a los asistentes a la reunión o manifestación con 15 minutos de antelación ",
+            "c": "c. sin necesidad de previo aviso ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709402.817836,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las autoridades a las que se refiere la LOPSC podrán disolver las concentraciones de vehículos en las vías públicas y retirar aquéllos o cualesquiera otra clase de obstáculos cuando:",
+        "opciones_respuesta": {
+            "a": "a. impidieran, pusieran en peligro o dificultaran la circulación por dichas vías ",
+            "b": "b. impidieran, pusieran en peligro y dificultaran la circulación por dichas vías ",
+            "c": "c. impidieran y dificultaran la circulación por dichas vías ",
+            "d": "d. no impidieran, ni pusieran en peligro ni dificultaran la circulación por dichas vías "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709410.5380476,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "En lo referente a la responsabilidad por infracciones a la LOPSC, cabe decir que:",
+        "opciones_respuesta": {
+            "a": "a. Estarán exentos de responsabilidad por las infracciones cometidas los menores de doce años ",
+            "b": "b. Estarán exentos de responsabilidad por las infracciones cometidas los menores de catorce años ",
+            "c": "c. Estarán exentos de responsabilidad por las infracciones cometidas los menores de trece años ",
+            "d": "d. Estarán exentos de responsabilidad por las infracciones cometidas los menores de quince años "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709425.4500117,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "En el caso de que un solo hecho constituya dos o más infracciones, o cuando una de ellas sea medio necesario para cometer la otra, la conducta será sancionada…",
+        "opciones_respuesta": {
+            "a": "a. por aquella infracción que aplique una mayor sanción, en caso de reincidencia ",
+            "b": "b. por aquella infracción que aplique una menor sanción ",
+            "c": "c. por aquella infracción que aplique una menor sanción, en caso de que sea la primera vez que infringe la LOPSC ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709439.986003,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los alcaldes podrán imponer las sanciones y adoptar las medidas previstas en la LOPSC…",
+        "opciones_respuesta": {
+            "a": "a. cuando las infracciones se cometieran en espacios públicos municipales o afecten a bienes de titularidad local, siempre que ostenten competencia sobre la materia de acuerdo con la legislación específica. ",
+            "b": "b. cuando las infracciones se cometieran en espacios públicos municipales y afecten a bienes de titularidad local, siempre que ostenten competencia sobre la materia de acuerdo con la legislación específica. ",
+            "c": "c. cuando las infracciones se cometieran en espacios públicos municipales o afecten a bienes de titularidad local, aunque no ostenten competencia sobre la materia de acuerdo con la legislación específica. ",
+            "d": "d. Ninguna de las anteriores "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709469.4342656,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las multas derivadas de infracciones a la LOPSC se dividirán en tres tramos de igual extensión, correspondientes a los grados mínimo, medio y máximo:",
+        "opciones_respuesta": {
+            "a": "a. Dentro de los límites previstos para las infracciones muy graves y graves, solamente ",
+            "b": "b. Dentro de los límites previstos para las infracciones muy graves, graves y leves ",
+            "c": "c. Dentro de los límites previstos para las infracciones muy graves, solamente ",
+            "d": "d. Dentro de los límites previstos para las infracciones muy graves y graves, solo en caso de reincidencia "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709479.570204,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "A efectos de la sanciones a infracciones a la LOPSC, se entiende por reincidencia:",
+        "opciones_respuesta": {
+            "a": "a. La comisión en el término de un año de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa ",
+            "b": "b. La comisión en el término de dos años de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa ",
+            "c": "c. La comisión en el término de 6 meses de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa ",
+            "d": "d. La comisión en el término de tres años de más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709489.2665899,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las infracciones tipificadas en la LOPSC se clasifican en:",
+        "opciones_respuesta": {
+            "a": "a. Graves, menos graves y leves ",
+            "b": "b. Muy graves, graves y leves ",
+            "c": "c. Muy graves, graves, menos graves y leves ",
+            "d": "d. Muy graves, menos graves y leves "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709493.8583107,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La desobediencia o la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones, cuando no sean constitutivas de delito, constituye una infracción … según la LOPSC.",
+        "opciones_respuesta": {
+            "a": "a. muy grave ",
+            "b": "b. grave ",
+            "c": "c. leve ",
+            "d": "d. menos grave "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709506.122456,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las infracciones administrativas tipificadas en la LOPSC prescribirán:",
+        "opciones_respuesta": {
+            "a": "a. a los seis meses, al año o a los dos años de haberse cometido, según sean leves, graves o muy graves, respectivamente. ",
+            "b": "b. a los tres meses, al año o a los dos años de haberse cometido, según sean leves, graves o muy graves, respectivamente. ",
+            "c": "c. a los seis meses, al año o a los tres años de haberse cometido, según sean leves, graves o muy graves, respectivamente. ",
+            "d": "d. al año, a los dos años o a los tres años de haberse cometido, según sean leves, graves o muy graves, respectivamente. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709529.5865884,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "En lo relativo a las cuantías de las sanciones a la LOPSC..",
+        "opciones_respuesta": {
+            "a": "a. Las infracciones muy graves se sancionarán con multa de 30.001 a 600.000 euros ",
+            "b": "b. las graves, con multa de 601 a 30.001 euros ",
+            "c": "c. las leves, con multa de 101 a 600 euros ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709537.6905024,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las sanciones impuestas por infracciones a la LOPSC prescribirán:",
+        "opciones_respuesta": {
+            "a": "a. a los seis meses, al año o a los dos años de haberse cometido, según sean leves, graves o muy graves, respectivamente. ",
+            "b": "b. a los tres meses, al año o a los dos años de haberse cometido, según sean leves, graves o muy graves, respectivamente. ",
+            "c": "c. a los seis meses, al año o a los tres años de haberse cometido, según sean leves, graves o muy graves, respectivamente. ",
+            "d": "d. al año, a los dos años o a los tres años de haberse cometido, según sean leves, graves o muy graves, respectivamente. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709548.6346226,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La responsabilidad civil derivada de una infracción a la LOPSC...",
+        "opciones_respuesta": {
+            "a": "a. será siempre solidaria entre todos los causantes del daño ",
+            "b": "b. será siempre mancomunada entre todos los causantes del daño ",
+            "c": "c. será siempre solidaria y mancomunada entre todos los causantes del daño ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709573.2428114,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "En lo que respecta al Registro Central de Infracciones contra la Seguridad Ciudadana, cabe decir que:",
+        "opciones_respuesta": {
+            "a": "a. Los asientos se cancelarán de oficio transcurridos tres años cuando se trate de infracciones muy graves, dos años en el caso de infracciones graves y uno en el de infracciones leves, a contar desde la firmeza de la sanción. ",
+            "b": "b. Los asientos se cancelarán de oficio transcurridos dos años cuando se trate de infracciones muy graves, un año en el caso de infracciones graves y seis meses en el de infracciones leves, a contar desde la firmeza de la sanción. ",
+            "c": "c. Los asientos se cancelarán de oficio transcurridos tres años cuando se trate de infracciones muy graves, dos años en el caso de infracciones graves y seis meses en el de infracciones leves, a contar desde la firmeza de la sanción. ",
+            "d": "d. Los asientos se cancelarán de oficio transcurrido un año cuando se trate de infracciones muy graves, seis meses en el caso de infracciones graves y tres meses en el de infracciones leves, a contar desde la firmeza de la sanción. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709585.3228436,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El procedimiento abreviado del art. 54 de la LOPSC",
+        "opciones_respuesta": {
+            "a": "a. Es aplicable a sanciones por infracciones muy graves, graves y leves ",
+            "b": "b. Es aplicable a sanciones por infracciones graves y leves ",
+            "c": "c. Es aplicable a sanciones por infracciones muy graves y graves ",
+            "d": "d. Es aplicable a sanciones por infracciones muy graves, únicamente "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709600.2187922,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El plazo para el pago voluntario en el procedimiento abreviado de art. 54 de la LOPSC es de:",
+        "opciones_respuesta": {
+            "a": "a. quince días contados desde el día siguiente al de su notificación ",
+            "b": "b. quince días contados desde el día de su notificación ",
+            "c": "c. veinte días contados desde el día siguiente al de su notificación ",
+            "d": "d. treinta días contados desde el día de su notificación "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709629.2111702,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Queda fuera del ámbito de aplicación de la L.O.4/2015, de 30 de marzo:",
+        "opciones_respuesta": {
+            "a": "a. a) Las prescripciones que tienen por objeto velar por el buen orden de los espectáculos y la protección de las personas y bienes a través de una acción administrativa ordinaria, aun cuando la misma pueda conllevar la intervención de las Fuerzas y Cuerpos de Seguridad, siempre que ésta se conciba como elemento integrante del sistema preventivo habitual del control del espectáculo. ",
+            "b": "b. b) Las prescripciones que tienen por objeto velar por el buen orden de los espectáculos y la protección de las personas y bienes a través de una acción administrativa extraordinaria, aun cuando la misma pueda conllevar la intervención de las Fuerzas y Cuerpos de Seguridad, siempre que ésta se conciba como elemento integrante del sistema preventivo habitual del control del espectáculo. ",
+            "c": "c. c) Las prescripciones que tienen por objeto velar por el buen orden de los espectáculos y la protección de las personas y bienes a través de una acción administrativa ordinaria, sin que la misma pueda conllevar la intervención de las Fuerzas y Cuerpos de Seguridad, aun cuando ésta se conciba como elemento integrante del sistema preventivo habitual del control del espectáculo. ",
+            "d": "d. d) Las prescripciones que tienen por objeto velar por el buen orden de los espectáculos y la protección de las personas y bienes a través de una acción administrativa extraordinaria, sin que la misma pueda conllevar la intervención de las Fuerzas y Cuerpos de Seguridad, aun cuando ésta se conciba como elemento integrante del sistema preventivo habitual del control del espectáculo. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709642.7072864,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "¿Cuál de los siguientes NO es un principio rector de las Administraciones Públicas conforme el artículo 4 de la Ley Orgánica 4/2015?",
+        "opciones_respuesta": {
+            "a": "a. a) Eficacia ",
+            "b": "b. b) Eficiencia ",
+            "c": "c. c) Responsabilidad ",
+            "d": "d. d) Capacidad "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709669.667344,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Serán autoridades y órganos competentes, a los efectos de esta Ley:",
+        "opciones_respuesta": {
+            "a": "a. a) Los correspondientes de las comunidades autónomas que no hayan asumido competencias para la protección de personas y bienes y para el mantenimiento de la seguridad ciudadana. ",
+            "b": "b. b) Los correspondientes de las comunidades autónomas que hayan asumido competencias para la protección de personas y bienes y para el mantenimiento de la seguridad ciudadana. ",
+            "c": "c. c) A) es correcta, siempre y cuando cuenten con un cuerpo de policía propio. ",
+            "d": "d. d) B) es correcta, siempre y cuando cuenten con un cuerpo de policía propio. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709690.4992733,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los miembros de las Fuerzas y Cuerpos de Seguridad podrán recabar de los particulares su ayuda y colaboración en la medida necesaria para el cumplimiento de los fines previstos en esta Ley, especialmente en los casos de grave calamidad pública o catástrofe extraordinaria:",
+        "opciones_respuesta": {
+            "a": "a. a) Aunque implique riesgo personal para los mismos. Quienes sufran daños y perjuicios por estas causas serán indemnizados de acuerdo con las leyes. ",
+            "b": "b. b) Sin que ello implique riesgo personal para los mismos. Quienes sufran daños y perjuicios por estas causas serán indemnizados de acuerdo con las leyes. ",
+            "c": "c. c) Aunque implique riesgo personal para los mismo. Quienes sufran daños y perjuicios por estas causas no serán indemnizados. ",
+            "d": "d. d) Sin que ello implique riesgo personal para los mismos. Quienes sufran daños y perjuicios por estas causas no serán indemnizados. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709708.355539,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "¿Cuándo se puede trasladar a una persona a las dependencias policiales más próximas para efectuar su identificación?",
+        "opciones_respuesta": {
+            "a": "a. a) Cuando se niegue a identificarse. ",
+            "b": "b. b) Cuando no sea posible su identificación por cualquier medio, exceptuada la vía telemática o telefónica. ",
+            "c": "c. c) a) y b) son correctas. ",
+            "d": "d. d) c) es correcta, para impedir la comisión de un delito o al objeto de sancionar una infracción. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709738.8677619,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Es una infracción muy grave:",
+        "opciones_respuesta": {
+            "a": "a. a) La celebración de espectáculos públicos o actividades recreativas quebrantando la prohibición o suspensión ordenada por la autoridad correspondiente por razones de seguridad pública. ",
+            "b": "b. b) La perturbación grave de la seguridad ciudadana que se produzca con ocasión de reuniones o manifestaciones frente a las sedes del Congreso de los Diputados, el Senado y las asambleas legislativas de las comunidades autónomas. ",
+            "c": "c. c) La intrusión en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad, incluyendo su sobrevuelo, cuando se haya producido una interferencia grave en su funcionamiento. ",
+            "d": "d. d) Todas son infracciones muy graves. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709754.259945,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Es una infracción grave:",
+        "opciones_respuesta": {
+            "a": "a. a) La ejecución de actos de plantación y cultivo ilícitos de drogas tóxicas, estupefacientes o sustancias psicotrópicas en lugares visibles al público. ",
+            "b": "b. b) Los actos de obstrucción que pretendan impedir a cualquier autoridad, empleado público o corporación oficial el ejercicio legítimo de sus funciones, el cumplimiento o la ejecución de acuerdos o resoluciones administrativas o judiciales. ",
+            "c": "c. c) a) y b) son correctas. ",
+            "d": "d. d) c) es correcta, y también la proyección de haces de luz, mediante cualquier tipo de dispositivo, sobre los pilotos o conductores de medios de transporte que puedan deslumbrarles o distraer su atención y provocar accidentes. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709766.6197906,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos o culturales, solemnidades y oficios religiosos u otras reuniones a las que asistan numerosas personas, cuando no sean constitutivas de infracción penal, es una infracción:",
+        "opciones_respuesta": {
+            "a": "a. a) Muy grave. ",
+            "b": "b. b) Grave. ",
+            "c": "c. c) Leve ",
+            "d": ""
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779709772.3078625,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Las faltas de respeto y consideración cuyo destinatario sea un miembro de las Fuerzas y Cuerpos de Seguridad en el ejercicio de sus funciones de protección de la seguridad, cuando estas conductas no sean constitutivas de infracción penal, es una infracción:",
+        "opciones_respuesta": {
+            "a": "a. a) Muy grave. ",
+            "b": "b. b) Grave. ",
+            "c": "c. c) Leve. ",
+            "d": ""
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709798.0760417,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Es una infracción leve (señale la incorrecta):",
+        "opciones_respuesta": {
+            "a": "a. a) Dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida. ",
+            "b": "b. b) La realización o incitación a la realización de actos que atenten contra la libertad e indemnidad sexual, o ejecutar actos de exhibición obscena. ",
+            "c": "c. c) Las irregularidades en la cumplimentación de los registros previstos en esta Ley con trascendencia para la seguridad ciudadana, incluyendo la alegación de datos o circunstancias falsos o la omisión de comunicaciones obligatorias dentro de los plazos establecidos. ",
+            "d": "d. d) El incumplimiento de las restricciones a la navegación reglamentariamente impuestas a las embarcaciones de alta velocidad y aeronaves ligeras. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709804.8760383,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "El escalamiento de edificios o monumentos sin autorización cuando exista un riesgo cierto de que se ocasionen daños a las personas o a los bienes, es una infracción:",
+        "opciones_respuesta": {
+            "a": "a. a) Leve ",
+            "b": "b. b) Grave ",
+            "c": "c. c) Muy grave. ",
+            "d": ""
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709818.420384,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "¿Cuál de las siguientes es una infracción leve?",
+        "opciones_respuesta": {
+            "a": "a. a) El traslado de personas, con cualquier tipo de vehículo, con el objeto de facilitar a éstas el acceso a drogas tóxicas, estupefacientes o sustancias psicotrópicas, siempre que no constituya delito. ",
+            "b": "b. b) La perturbación del desarrollo de una reunión o manifestación lícita. ",
+            "c": "c. c) El uso no autorizado de imágenes o datos personales o profesionales de autoridades o miembros de las Fuerzas y Cuerpos de Seguridad que pueda poner en peligro la seguridad personal o familiar de los agentes, de las instalaciones protegidas o en riesgo el éxito de una operación, con respeto al derecho fundamental a la información. ",
+            "d": "d. d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779709828.0601916,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Se considera negligencia en la custodia y conservación de la documentación personal legalmente exigida:",
+        "opciones_respuesta": {
+            "a": "a. a) La segunda y posteriores pérdidas o extravíos en el plazo de un año. ",
+            "b": "b. b) La segunda y posteriores pérdidas o extravíos en el plazo de dos años. ",
+            "c": "c. c) La tercera y posteriores pérdidas o extravíos en el plazo de un año. ",
+            "d": "d. d) La tercera y posteriores pérdidas o extravíos en el plazo de dos años. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779709838.9561322,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "Los daños o el deslucimiento de bienes muebles o inmuebles privados en la vía pública.",
+        "opciones_respuesta": {
+            "a": "a. a) Es una infracción leve. ",
+            "b": "b. b) Es una infracción grave. ",
+            "c": "c. c) Es una infracción muy grave. ",
+            "d": "d. d) No se considera infracción administrativa. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779709850.5403907,
+        "path": "/bloque_II/_plan_pl_2.5.1.json",
+        "id": "id2340234",
+        "pregunta": "La proyección de haces de luz, mediante cualquier tipo de dispositivo, sobre miembros de las Fuerzas y Cuerpos de Seguridad para impedir o dificultar el ejercicio de sus funciones, constituye una infracción …",
+        "opciones_respuesta": {
+            "a": "a. muy grave ",
+            "b": "b. grave ",
+            "c": "c. leve ",
+            "d": "d. menos grave "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779727890.660198,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "1. De las torturas y otros delitos contra la integridad moral se contiene en el …",
+        "opciones_respuesta": {
+            "a": "Título VII del CP ",
+            "b": "Título VIII del CP ",
+            "c": "Título VI del CP ",
+            "d": "Título V del CP "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779727905.3243492,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "2. Los delitos contra la libertad sexual se contiene en el…",
+        "opciones_respuesta": {
+            "a": "Título VII del CP ",
+            "b": "Título VIII del CP ",
+            "c": "Título VI del CP ",
+            "d": "Título V del CP "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779727911.8203034,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "3. Los delitos contra el honor se contiene en el",
+        "opciones_respuesta": {
+            "a": "Título XIII del CP ",
+            "b": "Título IX del CP ",
+            "c": "Título XI del CP ",
+            "d": "Título X del CP "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779727920.084399,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "4. El delito de maltrato habitual en el ámbito familiar se contiene en",
+        "opciones_respuesta": {
+            "a": "El artículo 172.2 ",
+            "b": "El artículo 173.2 ",
+            "c": "El artículo 174.1 ",
+            "d": "El artículo 175.3 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779727930.7084055,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "5. El delito de torturas, lo comete…",
+        "opciones_respuesta": {
+            "a": "Cualquier persona ",
+            "b": "Solo los funcionarios públicos ",
+            "c": "La autoridad ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779727944.1324067,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "6. El delito de torturas se comete:",
+        "opciones_respuesta": {
+            "a": "con el fin de obtener una confesión o información de cualquier persona ",
+            "b": "con el fin de castigarla por cualquier hecho que haya cometido o se sospe-che que ha cometido ",
+            "c": "por cualquier razón basada en algún tipo de discriminación ",
+            "d": "Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779727953.2283788,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "7. La violación es…",
+        "opciones_respuesta": {
+            "a": "Una agresión sexual ",
+            "b": "Un abuso sexual ",
+            "c": "Un acoso sexual ",
+            "d": "Ninguna de las anteriores, es una infracción penal por sí misma, asilada del concepto del resto de delitos contra la libertad e indemnidad sexuales "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779727963.4047837,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "8. El elemento típico más definitorio de la agresión sexual es…",
+        "opciones_respuesta": {
+            "a": "El acceso carnal ",
+            "b": "El consentimiento ",
+            "c": "La violencia o intimidación ",
+            "d": "El abuso de superioridad "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779727983.3886104,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "9. Señale la respuesta INCORRECTA. El tipo penal de la violación se agrava:",
+        "opciones_respuesta": {
+            "a": "Cuando la violencia o intimidación ejercidas revistan un carácter particu-larmente grave ",
+            "b": "Cuando los hechos se cometan por la actuación conjunta de dos o más personas. ",
+            "c": "Cuando los hechos se cometan contra una persona que se halle en una si-tuación de especial vulnerabilidad por razón de su edad, enfermedad, discapacidad o por cualquier otra circunstancia ",
+            "d": "Cuando, para la ejecución del delito, la persona responsable se hubiera prevalido de una situación de convivencia o de una relación de superioridad o parentesco, por ser ascendiente, o hermano, por naturaleza o adopción, o afines, con la víctima. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779727991.6766539,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "10. Señale la respuesta INCORRECTA. En el delito de abuso sexual, no hay…",
+        "opciones_respuesta": {
+            "a": "Violencia ",
+            "b": "Intimidación ",
+            "c": "Consentimiento ",
+            "d": "No existe el delito de abuso sexual "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779728001.5568519,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "11. Será responsable de agresión sexual, al que realizare actos de carácter sexual con un menor de…",
+        "opciones_respuesta": {
+            "a": "16 años ",
+            "b": "17 años ",
+            "c": "18 años ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728031.8528447,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "12. Jacinto, quien cuenta con 40 años, aprovechando la visita a su casa de un vecino suyo de 15 años, y tras varias horas jugando a la Play, pone en el ordenador varios videos porno que ambos visionan. Por esta conducta, Jacinto podría incurrir en…",
+        "opciones_respuesta": {
+            "a": "Corrupción de menores ",
+            "b": "Un delito de agresión sexual a menor ",
+            "c": "Un delito de abuso sexual a menor ",
+            "d": "Un delito de acoso sexual a un menor "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728038.0209606,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "13. En el caso anterior, ¿Tendrá el consentimiento del menor tendrá alguna validez?",
+        "opciones_respuesta": {
+            "a": "a. a) Si ",
+            "b": "b. b) No ",
+            "c": "",
+            "d": ""
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728053.764934,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "14. Para que se cumpla el tipo penal del delito de exhibicionismo, cabe decir que los actos de exhibición obscena deben realizarse:",
+        "opciones_respuesta": {
+            "a": "Ante cualquier persona ",
+            "b": "Ante mujeres ",
+            "c": "Únicamente ante menores de edad ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779728063.996948,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "15. El que induzca, promueva, favorezca o facilite la prostitución de un menor de edad o una persona con discapacidad, comete un delito tipificado en el",
+        "opciones_respuesta": {
+            "a": "Artículo 187 del CP ",
+            "b": "Artículo 188 del CP ",
+            "c": "Artículo 189 del CP ",
+            "d": "Artículo 190 del CP "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779728082.3733997,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "16. Jacinto tiene fotografías de índole sexual de su expareja en su teléfono móvil, tomadas con el consentimiento de aquella cuando la relación estaba activa. Una vez finalizada la relación, Jacinto empieza a enviar a algunos amigos comunes diversas fotografías de las citadas anteriormente, sin el consentimiento de su expareja. En ese caso, Jacinto incurriría en un delito de…",
+        "opciones_respuesta": {
+            "a": "Acoso sexual ",
+            "b": "Descubrimiento y revelación de secretos ",
+            "c": "Coacciones ",
+            "d": "Extorsión "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728087.3731475,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "17. El allanamiento de morada por particular, se tipifica en:",
+        "opciones_respuesta": {
+            "a": "El artículo 201 del CP ",
+            "b": "El artículo 202 del CP ",
+            "c": "El artículo 203 del CP ",
+            "d": "El artículo 204 del CP "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728100.8694634,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "18. El allanamiento de morada por parte de autoridad o funcionario público se comete cuando entrare en morada ajena o se mantuviere en ella contra la voluntad de su morador…",
+        "opciones_respuesta": {
+            "a": "Fuera de los casos permitidos por la Ley y sin mediar causa legal por delito ",
+            "b": "Dentro de los casos permitidos por la Ley y mediando causa legal por delito ",
+            "c": "Fuera de los casos permitidos por la Ley y mediando causa legal por delito ",
+            "d": "Dentro de los casos permitidos por la Ley y sin mediar causa legal por delito "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728110.4373453,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "19. El artículo 198 del Código Penal versa sobre:",
+        "opciones_respuesta": {
+            "a": "Facilitación de contraseñas informáticas para la revelación de secretos. ",
+            "b": "Revelación de secretos por funcionario público. ",
+            "c": "Revelación de secretos en el ámbito laboral. ",
+            "d": "Revelación de datos reservados de personas jurídicas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728123.637438,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "20. Señale cuál de los siguientes NO constituye morada a efectos penales:",
+        "opciones_respuesta": {
+            "a": "Las segundas residencias ",
+            "b": "La cabina de un camión ",
+            "c": "Los camarotes de una embarcación ",
+            "d": "La habitación de un hotel "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728132.1894157,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "21. Según el artículo 554 de la LECRIM, NO se reputa domicilio:",
+        "opciones_respuesta": {
+            "a": "Los buques del Estado ",
+            "b": "Los Palacios Reales si está habitado por el Monarca al tiempo de la entrada o registro ",
+            "c": "Los Palacios Reales si no está habitado el Monarca al tiempo de la entrada o registro ",
+            "d": "Los buques nacionales mercantes "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728176.3977003,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "22. Señale la INCORRECTA. En lo que respecta al concepto de morada a efectos penales, cabe decir que:",
+        "opciones_respuesta": {
+            "a": "El concepto de morada a efectos penales se identifica con la noción admi-nistrativa de vivienda ",
+            "b": "La edificación no debe cumplir unos mínimos requisitos registrales para ser considerada morada a efectos penales ",
+            "c": "Mediante el delito de allanamiento de morada se protege la propiedad o posesión de dicho domicilio. ",
+            "d": "A y C son incorrectas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779728197.2539039,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "23. La injuria es:",
+        "opciones_respuesta": {
+            "a": "La imputación de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad ",
+            "b": "la acción o expresión que lesionan la dignidad de otra persona, menoscabando su fama o atentando contra su propia estimación ",
+            "c": "la acción que lesiona la integridad física de otra persona, menoscabando su fama o atentando contra su propia estimación ",
+            "d": "Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728217.9737182,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "24. El acusado por calumnia quedará exento de toda pena…",
+        "opciones_respuesta": {
+            "a": "Probando el hecho criminal que hubiere imputado ",
+            "b": "Probando la verdad de las imputaciones ",
+            "c": "Probando la inexistencia de lesiones ",
+            "d": "Probando la inexistencia de daño moral "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728235.3658874,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "25. Para el enjuiciamiento de la calumnia o la injuria, es necesario",
+        "opciones_respuesta": {
+            "a": "Denuncia de la persona ofendida ",
+            "b": "Denuncia de su representante legal ",
+            "c": "Querella de la persona ofendida ",
+            "d": "A y B son correctas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779728245.1021583,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "26. Los delitos contra el honor se regulan en el:",
+        "opciones_respuesta": {
+            "a": "Título X del CP ",
+            "b": "Titulo XI del CP ",
+            "c": "Título XII del CP ",
+            "d": "Título XIII del CP "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728254.4380395,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "27. Las injurias se perseguirán de oficio…",
+        "opciones_respuesta": {
+            "a": "Nunca ",
+            "b": "Cuando se dirijan contra un agente de la autoridad sobre hechos relativos al ejercicio de su cargo ",
+            "c": "Cuando se dirijan contra un funcionario público, en todo caso ",
+            "d": "Cuando se dirijan sólo contra la autoridad "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779728271.438142,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "28. Los delitos contra la intimidad, el derecho a la propia imagen y la inviolabilidad del domicilio se regulan en el:",
+        "opciones_respuesta": {
+            "a": "Título X del CP ",
+            "b": "Titulo XI del CP ",
+            "c": "Título XII del CP ",
+            "d": "Título XIII del CP "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779728290.8782985,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "29. Los delitos contra la libertad se encuentran tipificados en los artículos 163 al 172 del Código Penal, entre los que NO se encuentra incluido el delito de",
+        "opciones_respuesta": {
+            "a": "Amenazas ",
+            "b": "Coacciones ",
+            "c": "Detenciones ilegales y secuestros ",
+            "d": "Calumnias "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728332.0225108,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "30. NO es una circunstancia de las previstas en el tipo agravado del delito de agresión sexual…",
+        "opciones_respuesta": {
+            "a": "Cuando se realice quebrantando una pena o medida de seguridad. ",
+            "b": "Cuando la violencia o intimidación ejercidas revistan un carácter particularmente degradante o vejatorio. ",
+            "c": "Cuando el autor haga uso de armas u otros medios igualmente peligrosos, susceptibles de producir la muerte o alguna de las lesiones previstas en los artículos 149 y 150 de este Código, sin perjuicio de la pena que pudiera co-rresponder por la muerte o lesiones causadas. ",
+            "d": "Cuando, para la ejecución del delito, la persona responsable se hubiera prevalido de una situación de convivencia o de una relación de superioridad o parentesco, por ser ascendiente, o hermano, por naturaleza o adopción, o afines, con la víctima. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728349.454714,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "31. De acuerdo con el Código Penal, cuando nos referimos a un delito de calumnias, nos estamos refiriendo a:",
+        "opciones_respuesta": {
+            "a": "Un delito menos grave si están realizadas con publicidad y leve si no se realiza con publicidad ",
+            "b": "Un delito menos grave en todo caso ",
+            "c": "Un delito leve en todo caso ",
+            "d": "Un delito grave si están realizadas con publicidad y menos grave si no se realiza con publicidad "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779728383.6147218,
+        "path": "/bloque_IV/_plan_pl_4.4.json",
+        "id": "id2340234",
+        "pregunta": "32. De conformidad con el Código Penal, el perdón del ofendido en el caso de un delito de descubrimiento y revelación de secretos:",
+        "opciones_respuesta": {
+            "a": "Es irrelevante, pues lo que se protege es la intimidad de las personas ",
+            "b": "Es relevante, cuando se otorga por persona mayor de edad ",
+            "c": "Es parcialmente relevante, pues atenúa la pena ",
+            "d": "Es irrelevante pues lo que se protege es el tráfico jurídico "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    }
+]
