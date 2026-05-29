@@ -1,0 +1,142 @@
+[
+    {
+        "timestamp": 1779992904.7671285,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Quién es el órgano encargado de aprobar la Estrategia del SNPC?",
+        "opciones_respuesta": {
+            "a": "A) El Consejo de Ministros.",
+            "b": "B) El Consejo Nacional de Protección Civil.",
+            "c": "C) El Consejo de Seguridad Nacional.",
+            "d": "D) El titular del Ministerio del Interior."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779992927.2872028,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿Qué norma aprobó la actual \"Norma Básica de Protección Civil\"?",
+        "opciones_respuesta": {
+            "a": "A) La Ley 17/2015, de 9 de julio.",
+            "b": "B) El Real Decreto 407/1992, de 24 de abril.",
+            "c": "C) El Real Decreto 524/2023, de 20 de junio.",
+            "d": "D) La Ley 2/1985, de 21 de enero."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779992992.9195757,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "13. ¿Cuál es el plazo máximo para la adaptación de los planes vigentes a la entrada en vigor de la nueva Norma Básica de Protección Civil?",
+        "opciones_respuesta": {
+            "a": "A) 1 año.",
+            "b": "B) 2 años.",
+            "c": "C) 4 años.",
+            "d": "D) 5 años."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779993034.7198312,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Cómo se integran los Planes de Ámbito Local en la jerarquía del SNPC?",
+        "opciones_respuesta": {
+            "a": "A) Directamente en el Plan Estatal General (PLEGEM).",
+            "b": "B) En los planes territoriales de ámbito superior (Autonómicos).",
+            "c": "C) Tienen autonomía propia y no se integran en otros planes.",
+            "d": "D) Se integran directamente en el Consejo Nacional de Protección Civil."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779993068.040073,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "17. Según el PLATERPA, la \"Situación Operativa 0\" se define como:",
+        "opciones_respuesta": {
+            "a": "A) Situación de alerta ante un riesgo inminente.",
+            "b": "B) Modo ordinario de funcionamiento de los servicios oficiales, con mínima movilización para daños muy localizados.",
+            "c": "C) Emergencia que requiere la movilización de medios estatales.",
+            "d": "D) Fase de recuperación tras el siniestro."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779993097.0961652,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Qué situación operativa constituye el máximo nivel de las emergencias de dirección autonómica, donde se requiere la asistencia de medios estatales no asignados al plan?",
+        "opciones_respuesta": {
+            "a": "A) Situación Operativa 1.",
+            "b": "B) Situación Operativa 2.",
+            "c": "C) Situación Operativa 3.",
+            "d": "D) Fase de Interés Nacional."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779993117.2561908,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿Cuándo se declara una Situación Operativa 3?",
+        "opciones_respuesta": {
+            "a": "A) Cuando la emergencia afecta a más de dos concejos.",
+            "b": "B) Cuando se declara una emergencia de Interés Nacional.",
+            "c": "C) Cuando se agotan los medios de la Comunidad Autónoma.",
+            "d": "D) Cuando hay riesgo de catástrofe nuclear."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779993138.5043068,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "21. ¿Qué fase del ciclo de emergencias tiene por objeto determinar los riesgos basándose en condiciones de vulnerabilidad y posibles amenazas?",
+        "opciones_respuesta": {
+            "a": "A) Prevención.",
+            "b": "B) Planificación.",
+            "c": "C) Anticipación.",
+            "d": "D) Respuesta."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779993227.0408368,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "28. En la estructura del Plan de Emergencia Municipal (PEMU), el Área IV corresponde a:",
+        "opciones_respuesta": {
+            "a": "A) Conocimiento del riesgo y del territorio.",
+            "b": "B) Actuaciones en materia de prevención.",
+            "c": "C) Organización y actuaciones para la respuesta ante emergencias.",
+            "d": "D) Organización de la Protección Civil Municipal."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779993245.6329322,
+        "path": "/proteccion_civil.json",
+        "id": "id2340234",
+        "pregunta": "30. Los Planes de Ámbito Local son aprobados por:",
+        "opciones_respuesta": {
+            "a": "A) El Ministerio del Interior.",
+            "b": "B) El órgano competente de la respectiva entidad local.",
+            "c": "C) El Consejo de Gobierno del Principado de Asturias.",
+            "d": "D) El Consejo Nacional de Protección Civil."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    }
+]

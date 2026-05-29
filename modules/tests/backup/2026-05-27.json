@@ -1,0 +1,1766 @@
+[
+    {
+        "timestamp": 1779867867.6775925,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "1) ¿Qué real decreto aprueba el Reglamento de Conductores?",
+        "opciones_respuesta": {
+            "a": "a) RDL 6/2015, de 30 de octubre. ",
+            "b": "b) RD 818/2009, de 8 de mayo. ",
+            "c": "c) RD 1428/2003, de 21 de noviembre. ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779867870.7394993,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "2) ¿Qué título de la LSV regula las autorizaciones administrativas?",
+        "opciones_respuesta": {
+            "a": "a) Título III ",
+            "b": "b) Título IV ",
+            "c": "c) Título I ",
+            "d": "d) Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779867879.7712762,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "3) ¿Qué documentos son obligatorios llevar consigo por todo conductor de vehículos a motor y a su vez exhibirlos ante los Agentes de la Autoridad encargados de la vigilancia del tráfico?",
+        "opciones_respuesta": {
+            "a": "a) Permiso de conducir, permiso de circulación y tarjeta de inspección técnica. ",
+            "b": "b) Permiso de circulación y tarjeta de inspección técnica. ",
+            "c": "c) a) es correcta, y también documento acreditativo de poseer seguro de responsabilidad civil obligatorio. ",
+            "d": "d) b) es correcta, y también documento acreditativo de poseer seguro de responsabilidad civil obligatorio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867884.3152165,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "4) El RD 2822/1998, de 23 de diciembre, aprueba:",
+        "opciones_respuesta": {
+            "a": "a) El Reglamento general de Conductores. ",
+            "b": "b) El Reglamento general de Vehículos. ",
+            "c": "c) El Reglamento de Inspección Técnica de Vehículos. ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779867913.1396613,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "5) El titular de un permiso o licencia de conducción o del permiso de circulación de un vehículo comunicará a los registros del organismo autónomo Jefatura Central de Tráfico su domicilio. Éste se utilizará para efectuar las notificaciones respecto de todas las autorizaciones de que disponga. A estos efectos, ¿Quienes podrán comunicar al organismo autónomo Jefatura Central de Tráfico los nuevos domicilios de que tengan constancia?",
+        "opciones_respuesta": {
+            "a": "a) Únicamente los propios titulares de las referidas autorizaciones administrativas. ",
+            "b": "b) Los Ayuntamientos. ",
+            "c": "c) Los Ayuntamientos y la Agencia Estatal de Administración Tributaria. ",
+            "d": "d) c) es correcta, y también los centros de reconocimiento de conductores. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867921.69141,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "6) ¿Quiénes deben solicitar voluntariamente la Dirección Electrónica Vial?",
+        "opciones_respuesta": {
+            "a": "a) Las personas físicas ",
+            "b": "b) Las personas jurídicas ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867932.827819,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "7) La conducción de vehículos a motor y ciclomotores exigirá haber obtenido previamente el preceptivo permiso o licencia de conducción dirigido a verificar que el conductor tenga los requisitos de:",
+        "opciones_respuesta": {
+            "a": "a) Capacidad, conocimientos y habilidad. ",
+            "b": "b) Aptitud y capacidad. ",
+            "c": "c) Aptitud, conocimientos y habilidad. ",
+            "d": "d) Conocimientos y aptitud. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867946.371539,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "8) En el supuesto de que alguna persona esté en posesión de más de un permiso de conducción expedido por una Estado miembro de la UE o por un Estado parte del Acuerdo sobre el Espacio Económico Europeo:",
+        "opciones_respuesta": {
+            "a": "a) Le será retirado el de mayor antigüedad. ",
+            "b": "b) Le será retirado el último que ha obtenido. ",
+            "c": "c) Le será retirado el que proceda en función de las circunstancias concurrentes. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779867953.2997143,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "9) Los permisos y licencias de conducción, así como las autorizaciones administrativas que provisionalmente los sustituyan, serán expedidos por:",
+        "opciones_respuesta": {
+            "a": "a) La Jefatura Provincial de Tráfico. ",
+            "b": "b) La Dirección General de Tráfico. ",
+            "c": "c) La Jefatura Central de Tráfico. ",
+            "d": "d) Los Ayuntamientos respectivos. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867958.2436166,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "10) En relación a la pregunta anterior, que permisos se exceptúan de dicha expedición:",
+        "opciones_respuesta": {
+            "a": "a) Los que autorizan a conducir vehículos de las Fuerzas Armadas. ",
+            "b": "b) Los que autorizan a conducir vehículos de la Dirección General de Policía y de la Guardia Civil. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779867963.7156458,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "11) La obtención del permiso de la clase C1 está condicionado a:",
+        "opciones_respuesta": {
+            "a": "a) La posesión del permiso B en vigor. ",
+            "b": "b) La posesión del permiso B en vigor, con un año, al menos, de antigüedad. ",
+            "c": "c) La posesión del permiso B en vigor, con dos años, al menos, de antigüedad. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867971.395669,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "12) La obtención del permiso de la clase A está condicionado a:",
+        "opciones_respuesta": {
+            "a": "a) La posesión del permiso A2 en vigor, con un año, al menos, de antigüedad. ",
+            "b": "b) La posesión del permiso A1 en vigor, con un año, al menos, de antigüedad. ",
+            "c": "c) La posesión del permiso A2 en vigor, con dos años, al menos, de antigüedad. ",
+            "d": "d) La posesión del permiso A1 en vigor, con dos años, al menos, de antigüedad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779867984.2117875,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "13) Si obtenemos el permiso C+E y, a su vez, somos poseedores del permiso D, nos concederán…",
+        "opciones_respuesta": {
+            "a": "a) El permiso C1+E ",
+            "b": "b) El permiso  D+E ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868016.4360278,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "14) Para conducir un conjunto formado por un vehículo tractor de la categoría B y un remolque cuya MMA sea superior a 750 kg, en el caso de que el conjunto así formado exceda de 3.500 kg:",
+        "opciones_respuesta": {
+            "a": "a) Es suficiente el permiso B, siempre y cuando no exceda el conjunto de 4.250 kilos. ",
+            "b": "b) Es necesario, en todo caso, el permiso B+E. ",
+            "c": "c) a) es correcta, pero requerirá habilitación B96. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868035.7719727,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "15) Para conducir un vehículo especial agrícola autopropulsado con MMA superior a 7.500 kg, requeriremos el siguiente permiso de conducir:",
+        "opciones_respuesta": {
+            "a": "a) Licencia de vehículo especial agrícola autopropulsado. ",
+            "b": "b) Permiso B ",
+            "c": "c) Permiso C1 ",
+            "d": "d) Permiso C "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868059.628393,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "16) ¿Qué licencias de conducir existen? (señale la incorrecta)",
+        "opciones_respuesta": {
+            "a": "a) Licencia de ciclomotor ",
+            "b": "b) Licencia de vehículos especiales agrícolas autopropulsados. ",
+            "c": "c) Licencia de vehículos para personas con movilidad reducida. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868069.8041363,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "17) ¿A qué edad se puede obtener licencia de vehículos para personas con movilidad reducida?",
+        "opciones_respuesta": {
+            "a": "a) 14 años ",
+            "b": "b) 15 años ",
+            "c": "c) 16 años ",
+            "d": "d) 18 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868086.4683712,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "18) En el caso de extranjeros, ¿Qué requisito recae sobre ellos para obtener permiso de conducir en España?",
+        "opciones_respuesta": {
+            "a": "a) acreditar la situación de residencia normal ",
+            "b": "b) estancia por estudios en España de, al menos, 3 meses. ",
+            "c": "c) a) y b) son correctas. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868092.1642992,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "19) Cualquier variación de los datos que figuran en el permiso o licencia de conducción, así como la del domicilio de su titular, deberá ser comunicada:",
+        "opciones_respuesta": {
+            "a": "a) En el plazo de 15 días. ",
+            "b": "b) En el plazo de 20 días. ",
+            "c": "c) En el plazo de 3 meses. ",
+            "d": "d) En el momento de la renovación del permiso. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868103.8523874,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "20) La vigencia de los permisos de conducir se encuentra condicionada a:",
+        "opciones_respuesta": {
+            "a": "a) Plazos de tiempo. ",
+            "b": "b) Mantenimiento de los requisitos exigidos. ",
+            "c": "c) Crédito de puntos. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779868108.6844063,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "21) A partir de los 65 años, ¿Cuál es el periodo de vigencia de un permiso de la clase C1?",
+        "opciones_respuesta": {
+            "a": "a) 5 años ",
+            "b": "b) 3 años ",
+            "c": "c) 10 años ",
+            "d": "d) 2 años "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868113.0363693,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "22) La solicitud de prórroga de vigencia del permiso o licencia podrá presentarse con una antelación máxima de:",
+        "opciones_respuesta": {
+            "a": "a) 2 meses ",
+            "b": "b) 3 meses ",
+            "c": "c) 6 meses ",
+            "d": "d) 9 meses "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868124.2765064,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "23) Al renovar un permiso de conducir, ¿desde cuándo se computa el periodo de vigencia?",
+        "opciones_respuesta": {
+            "a": "a) Fecha de la renovación. ",
+            "b": "b) Fecha en que el permiso caducaba. ",
+            "c": "c) b) es correcta, salvo que se renueve excepcionalmente con una antelación superior a la mencionada en la pregunta anterior. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868185.077144,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "24) Si una persona se encuentra en España con un permiso de conducir expedido en otro país de la Unión Europea que no se encuentra sujeto a plazos de vigencia...",
+        "opciones_respuesta": {
+            "a": "a) Su titular deberá proceder a su renovación tras 2 años de adquirir residencia normal en España. ",
+            "b": "b) Su titular no se verá obligado a su renovación. ",
+            "c": "c) Su titular deberá proceder a su canje por uno español en el momento en que adquiera la residencia normal en España. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868205.9489636,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "25) ¿Cuándo se procederá a canjear de oficio un permiso de conducir expedido en otro país de la Unión Europea por uno español?",
+        "opciones_respuesta": {
+            "a": "a) Al adquirir residencia normal en España. ",
+            "b": "b) Tras 2 años de adquirir residencia normal en España. ",
+            "c": "c) Cuando sea necesario imponerle restricciones, adaptaciones, limitaciones, o se deba declarar su nulidad. ",
+            "d": "d) c) es correcta, y también cuando haya sido sancionado en firme en vía administrativa por la comisión de infracciones que lleven aparejadas pérdida de puntos. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779868217.6135209,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "26) Señale la opción correcta en relación a la autorización especial para transportes de mercancías peligrosas:",
+        "opciones_respuesta": {
+            "a": "a) Requerirá permiso B con una antigüedad mínima de un año, y tendrá un periodo de vigencia de 5 años. ",
+            "b": "b) Requerirá permiso B y tendrá un periodo de vigencia de 10 años. ",
+            "c": "c) Requerirá permiso B con una antigüedad mínima de dos años, y tendrá un periodo de vigencia de 5 años. ",
+            "d": "d) Requerirá permiso B con una antigüedad mínima de dos años, y tendrá un periodo de vigencia de 3 años. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868223.997122,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "27) ¿Cuál es el plazo de validez del permiso internacional para conducir?",
+        "opciones_respuesta": {
+            "a": "a) Un año ",
+            "b": "b) 2 años ",
+            "c": "c) 5 años ",
+            "d": "d) 10 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868240.0050893,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "28) El titular de un permiso o licencia de conducción que, tras perder su asignación total de puntos, ha obtenido nuevamente el permiso o la licencia de conducción, tendrá:",
+        "opciones_respuesta": {
+            "a": "a) 6 puntos ",
+            "b": "b) 8 puntos ",
+            "c": "c) 12 puntos ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868243.0931737,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "29) ¿Cuál es el máximo de puntos que se pueden tener?",
+        "opciones_respuesta": {
+            "a": "a) 12 puntos ",
+            "b": "b) 14 puntos ",
+            "c": "c) 15 puntos ",
+            "d": "d) 18 puntos "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868261.2773447,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "30) ¿Cuándo tendrá un conductor que acaba de obtener por primera vez su permiso de conducir 15 puntos?",
+        "opciones_respuesta": {
+            "a": "a) Tras 8 años de la obtención del permiso. ",
+            "b": "b) Tras 5 años de la obtención del permiso. ",
+            "c": "c) Tras 6 años de la obtención del permiso. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868307.0136013,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "31) Un conductor posee 12 puntos. En un mismo día es sancionado por: no respetar la luz roja de un semáforo, hablar por el teléfono móvil y no llevar cinturón de seguridad. Al conductor le quedarán:",
+        "opciones_respuesta": {
+            "a": "a) 1 punto ",
+            "b": "b) 0 puntos ",
+            "c": "c) 3 puntos ",
+            "d": "d) 4 puntos "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779868316.461694,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "32) Un conductor posee 12 puntos. En un mismo día es sancionado por: no respetar la luz roja de un semáforo, hablar por el teléfono móvil y conducción temeraria. Al conductor le quedarán:",
+        "opciones_respuesta": {
+            "a": "a) 1 punto ",
+            "b": "b) 0 puntos ",
+            "c": "c) 3 puntos ",
+            "d": "d) 4 puntos "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868336.3017216,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "33) Excepcionalmente, se asignará un crédito inicial de ___ puntos, en caso de que el titular de un permiso de conducción posea una antigüedad no superior a ___ años  salvo que ya fuera titular de otro permiso con aquella antigüedad.",
+        "opciones_respuesta": {
+            "a": "a) 6 / 3 años. ",
+            "b": "b) 8 / 3 años ",
+            "c": "c) 6 / 2 años ",
+            "d": "d) 8 / 2 años. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868348.5497675,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "34) Si un conductor posee permiso de conducción tipo A y tipo B , y comete con su motocicleta una infracción que supone la retirada de 3 puntos:",
+        "opciones_respuesta": {
+            "a": "a) Dicha cantidad será retirada del permiso de conducción tipo A. ",
+            "b": "b) Dicha cantidad será retirada del permiso de conducción tipo B. ",
+            "c": "c) El crédito de puntos es único para todas las autorizaciones administrativas. ",
+            "d": "d) El crédito de puntos es único para todas las autorizaciones administrativas, salvo para el permiso AM que será un crédito de puntos diferencial. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868365.382029,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "35) Quienes mantengan la totalidad de puntos al no haber sido sancionados en firme en vía administrativa por la comisión de infracciones, recibirán como bonificación:",
+        "opciones_respuesta": {
+            "a": "a) 2 puntos durante los 3 primeros años y un punto por los 3 siguientes; pudiendo llegar a un máximo de 15 puntos. ",
+            "b": "b) 2 puntos durante los 2 primeros años y un punto por los 2 siguientes; pudiendo llegar a un máximo de 15 puntos ",
+            "c": "c) 2 puntos durante los 3 primeros años y un punto por los 3 siguientes; pudiendo llegar a un máximo de 16 puntos ",
+            "d": "d) 2 puntos durante los 2 primeros años y un punto por los 2 siguientes; pudiendo llegar a un máximo de 16 puntos "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868378.8779442,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "36) Un conductor posee el crédito máximo que un conductor puede poseer. Después pierde 6 puntos. Transcurridos 2 años sin haber sido sancionado en firme por la comisión de infracciones que lleven aparejada la pérdida de puntos, dicho conductor tendrá:",
+        "opciones_respuesta": {
+            "a": "a) 12 puntos ",
+            "b": "b) 8 puntos ",
+            "c": "c) Falta información para responder con certeza. ",
+            "d": "d) 9 puntos "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868390.1579328,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "37) Un conductor con permiso de conducción de la clase B se encuentra circulando en bicicleta por vía urbana mientras utiliza manualmente el teléfono móvil.",
+        "opciones_respuesta": {
+            "a": "a) Será sancionado con 200 euros y 3 puntos. ",
+            "b": "b) Será sancionado con 200 euros. ",
+            "c": "c) Será sancionado con cuantía correspondiente a infracción leve y 3 puntos. ",
+            "d": "d) Será sancionado con cuantía correspondiente a infracción leve. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868401.8941078,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "38)  Mediante el curso de sensibilización y reeducación vial:",
+        "opciones_respuesta": {
+            "a": "a) Un conductor que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de 6 puntos, por una sola vez cada 2 años. ",
+            "b": "b) Un conductor que haya perdido una parte del crédito inicial de puntos asignado, podrá optar a su recuperación parcial, hasta un máximo de 4 puntos, por una sola vez cada año. ",
+            "c": "c) La opción a) es correcta, con la excepción de los conductores profesionales que podrán realizar el curso anualmente. ",
+            "d": "d) La opción b) es correcta, con la excepción de los conductores profesionales que podrán realizar el curso cada 6 meses. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868408.2381623,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "39) En relación a la pregunta anterior, la duración de los citados cursos será:",
+        "opciones_respuesta": {
+            "a": "a) Como mínimo 15 horas. ",
+            "b": "b) Como máximo 15 horas. ",
+            "c": "c) Como mínimo 30 horas. ",
+            "d": "d) Como máximo 30 horas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868429.038228,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "40) ¿Qué clases de cursos de sensibilización y reeducación vial existen?:",
+        "opciones_respuesta": {
+            "a": "a) Conductores ordinarios y conductores profesionales ",
+            "b": "b) Conductores con pérdida parcial de puntos y Conductores con pérdida total de puntos ",
+            "c": "c) La opción a) es correcta, y su duración será 15 y 30 horas máximas, respectivamente. ",
+            "d": "d) La opción b) es correcta, y su duración será 15 y 30 horas máximas, respectivamente. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779868440.8214333,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "41) Una persona es condenada a una pena de privación del derecho a conducir inferior a 2 años. Para volver a conducir tras dicha pena :",
+        "opciones_respuesta": {
+            "a": "a) Deberá pasar con éxito las pruebas de aptitud. ",
+            "b": "b) Deberá acreditar haber superado con aprovechamiento un curso de sensibilización y reeducación vial. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": ""
+    },
+    {
+        "timestamp": 1779868474.0626738,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "42) La Jefatura Provincial de Tráfico que tenga conocimiento de la presunta desaparición de alguno de los requisitos iniciará el procedimiento de declaración de pérdida de vigencia de ésta. El acuerdo se notificará por la Jefatura Provincial de Tráfico al titular de la autorización, se le dará vista del expediente, y se le indicarán los plazos y formas de que dispone para acreditar la existencia del requisito o requisitos exigidos. Contra dicho acuerdo, el titular de la autorización podrá alegar lo que estime pertinente a su defensa o, en su caso, demostrar en tiempo y forma que no carece de tales requisitos. Los plazos para acreditar la existencia de los requisitos exigidos serán los siguientes:",
+        "opciones_respuesta": {
+            "a": "a) Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 2 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 2 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "b": "b) Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 3 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 3 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "c": "c) Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 6 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 6 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868498.102573,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "43) Un conductor que pierda todos los puntos no podrá obtener un nuevo permiso o una nueva licencia de conducción hasta transcurridos:",
+        "opciones_respuesta": {
+            "a": "a) 3 meses desde la notificación del acuerdo. Este plazo se reducirá a 2 meses en el caso de conductores profesionales. ",
+            "b": "b) 6 meses desde la notificación del acuerdo. Este plazo se reducirá a 3 meses en el caso de conductores profesionales. ",
+            "c": "c) 12 meses desde la notificación del acuerdo. Este plazo se reducirá a 6 meses en el caso de conductores profesionales. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868510.2466807,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": " 44) ¿Qué permiso de conducir necesito, como mínimo, para circular con una Motocicletas con una potencia máxima de 35 kW, una relación potencia-peso máxima de 0,2 Kw/kg y no derivadas de un vehículo con más del doble de su potencia?",
+        "opciones_respuesta": {
+            "a": "AM ",
+            "b": "A1 ",
+            "c": "A2 ",
+            "d": "A "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779868531.5828042,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "45) El permiso de conducir “B” NO habilita para conducir….",
+        "opciones_respuesta": {
+            "a": "a) Vehículos para personas de movilidad reducida ",
+            "b": "b) Triciclos de motor ",
+            "c": "c) Conjunto de vehículos formado por Vehículo tractor habilitado por Permiso B y remolque > 750 kg, siempre que el conjunto ≤ 4250 kg. ",
+            "d": "d) El permiso B habilita a conducir todo lo anterior "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868540.0147562,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "46) El permiso de conducir “D1” autoriza a conducir Automóviles diseñados y construidos para el transporte de hasta 16 pasajeros, además del conductor, y con una longitud máxima…",
+        "opciones_respuesta": {
+            "a": "a) De 6 metros ",
+            "b": "b) De 8 metros ",
+            "c": "c) De 12 metros ",
+            "d": "d) La longitud es indiferente "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871591.559697,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "1.La Constitución Española de 1978 establece que corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, de acuerdo a lo dispuesto en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 9.1 ",
+            "b": "b. 9.2 ",
+            "c": "c. 9.3 ",
+            "d": "d. 14 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871600.3600447,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "2. Indique cuál de los siguientes derechos NO se encuentra comprendido entre los Derechos fundamentales y Libertades públicas establecidos entre los artículos 15 a 29 de la CE:",
+        "opciones_respuesta": {
+            "a": "a. La Justicia gratuita cuando así lo disponga la Ley. ",
+            "b": "b. La presunción de inocencia. ",
+            "c": "c. El derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión. ",
+            "d": "d. El derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871605.1275728,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "3. Indique la opción INCORRECTA:",
+        "opciones_respuesta": {
+            "a": "a. El título VII de la CE está dedicado al Poder Judicial. ",
+            "b": "b. El título VIII de la CE está dividido en tres capítulos. ",
+            "c": "c. El título IV de la CE comprende los artículos 97 a 107. ",
+            "d": "d. Las relaciones entre el Gobierno y las Cortes Generales se regulan en el título V de la CE. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871615.3196313,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "4. En relación a las garantías de las libertades y derechos fundamentales, establece el artículo 53 de la Constitución Española que:",
+        "opciones_respuesta": {
+            "a": "a. El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo segundo informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. ",
+            "b": "b. Los derechos y libertades reconocidos en el Capítulo primero del presente Título vinculan a todos los poderes públicos. ",
+            "c": "c. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871630.9117305,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "5. Establece el artículo 92 de la Constitución Española que las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos. El referéndum será convocado:",
+        "opciones_respuesta": {
+            "a": "a. por el Rey, a propuesta del Congreso, previa ratificación del Senado. ",
+            "b": "b. por el Congreso, previa ratificación por el Senado, a propuesta del Presidente del Gobierno. ",
+            "c": "c. por el Presidente del Gobierno, a propuesta del Congreso de los Diputados. ",
+            "d": "d. por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779871637.7359571,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "6. Establece el artículo 14 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, que el Tribunal en Pleno puede adoptar acuerdos cuando estén presentes, al menos:",
+        "opciones_respuesta": {
+            "a": "a. un tercio de los miembros que en cada momento lo compongan ",
+            "b": "b. dos tercios de los miembros que en cada momento lo compongan ",
+            "c": "c. la mayoría de los miembros que en cada momento lo compongan ",
+            "d": "d. tres quintos de los miembros que en cada momento lo compongan "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871646.55181,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "7. De acuerdo al artículo 10 del Estatuto de Autonomía de Asturias, el Principado tendrá competencia exclusiva en:",
+        "opciones_respuesta": {
+            "a": "a. Productos farmacéuticos. ",
+            "b": "b. Régimen minero y energético. ",
+            "c": "c. Tratamiento especial de las zonas de montaña. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871656.4078379,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "8. Las leyes promulgadas por la Junta General serán promulgadas:",
+        "opciones_respuesta": {
+            "a": "a. por el Consejo de Gobierno, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "b": "b. en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación, y en el BOE. ",
+            "c": "c. en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 20 días desde su aprobación, y en el BOE. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871668.7519016,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿De quién es competencia aprobar la Oferta de Empleo Público?",
+        "opciones_respuesta": {
+            "a": "a. Del Pleno, en municipios de régimen común. ",
+            "b": "b. Del Alcalde, en todos los municipios. ",
+            "c": "c. De la Junta de Gobierno Local, en los municipios en régimen de gran población. ",
+            "d": "d. A) y C) son correctas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871674.543994,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "10. Conforme el artículo 70 de la Ley reguladora de Bases de Régimen Local, las sesiones del pleno de las corporaciones locales son públicas. No obstante, cuando así se acuerde por mayoría absoluta, podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos a que se refiere el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 18.1 de la Constitución ",
+            "b": "b. 19.1 de la Constitución ",
+            "c": "c. 20.1 de la Constitución ",
+            "d": "d. 21.1 de la Constitución "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871681.0645497,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "11. De acuerdo a lo establecido en el artículo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrán ser objeto de convalidación:",
+        "opciones_respuesta": {
+            "a": "a. Los actos nulos. ",
+            "b": "b. Los actos anulables. ",
+            "c": "c. Los actos que ponen fin a la vía administrativa. ",
+            "d": "d. Los actos viciados. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871690.9443462,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "12. Las sesiones extraordinarias de los Plenos de los Ayuntamientos podrán ser convocadas por:",
+        "opciones_respuesta": {
+            "a": "a. Una cuarta parte de los miembros del Pleno. ",
+            "b": "b. Una tercera parte de los miembros del Pleno. ",
+            "c": "c. Dos terceras partes de los miembros del Pleno. ",
+            "d": "d. La mayoría de los miembros del Pleno. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871703.2161875,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "13. De acuerdo a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un interesado quiere recurrir un acto que pone fin a la vía administrativa:",
+        "opciones_respuesta": {
+            "a": "a. Podrá interponer el recurso extraordinario de revisión ante el órgano administrativo que lo dictó, que también será el competente para su resolución. ",
+            "b": "b. Podrán recurrir potestativamente en reposición ante el mismo órgano que lo hubiera dictado o ser impugnado directamente ante el orden jurisdiccional contencioso-administrativo. ",
+            "c": "c. No podrá interponer directamente recurso contencioso-administrativo, debiendo interponer recurso de reposición previamente ante el mismo órgano que lo hubiera dictado. ",
+            "d": "d. No cabe recurso administrativo. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871727.7682183,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "14. De acuerdo a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "opciones_respuesta": {
+            "a": "a. Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia. ",
+            "b": "b. La presentación de una denuncia confiere la condición de interesado en el procedimiento. ",
+            "c": "c. La petición razonada vincula al órgano competente para iniciar el procedimiento. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871739.6245303,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "15. De acuerdo a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, durante la fase de instrucción del procedimiento, los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio. Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo:",
+        "opciones_respuesta": {
+            "a": "a. No superior a 10 días. ",
+            "b": "b. No inferior a 10 días ni superior a 15 días. ",
+            "c": "c. No inferior a 10 días ni superior a 30 días. ",
+            "d": "d. De 20 días. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871745.1442971,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "16. De acuerdo al artículo 16 del TREBEP, la promoción interna horizontal consiste en:",
+        "opciones_respuesta": {
+            "a": "a. El ascenso desde un cuerpo o escala de un Subgrupo a otro superior. ",
+            "b": "b. La progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo. ",
+            "c": "c. El ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos. ",
+            "d": "d. El acceso a cuerpos o escalas del mismo Subgrupo profesional. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779871753.5604882,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "17. De acuerdo a lo dispuesto en el artículo 52 del TREBEP, indique cual de los siguientes principios NO informa la actuación de los empleados públicos de conformidad con el Código de Conducta:",
+        "opciones_respuesta": {
+            "a": "a. Promoción del entorno cultural y medioambiental. ",
+            "b": "b. Accesibilidad. ",
+            "c": "c. Proporcionalidad. ",
+            "d": "d. Todos los anteriores informan el código de conducta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871757.8724463,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "18. Según lo establecido en el artículo 2 del RDL 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la ley reguladora de las haciendas locales, ¿Cuál de los siguientes recursos NO tiene la consideración de TRIBUTO de las entidades locales?",
+        "opciones_respuesta": {
+            "a": "a. Precios públicos ",
+            "b": "b. Tasas ",
+            "c": "c. Contribuciones especiales ",
+            "d": "d. Impuestos "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871764.6326241,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "19. Según lo establecido en el artículo 17 del RDL 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la ley reguladora de las haciendas locales, las diputaciones provinciales, consejos, cabildos insulares y, en todo caso, las demás entidades locales cuando su población sea superior a 20.000 habitantes, editarán el texto íntegro de las ordenanzas fiscales reguladoras de sus tributos…",
+        "opciones_respuesta": {
+            "a": "a. Dentro del primer semestre del ejercicio económico correspondiente. ",
+            "b": "b. Dentro del primer cuatrimestre del ejercicio económico correspondiente. ",
+            "c": "c. Dentro del primer trimestre del ejercicio económico correspondiente. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871770.128596,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "20. Indique cuál de las siguientes edificaciones ha sido declarada patrimonio de la humanidad:",
+        "opciones_respuesta": {
+            "a": "a. Iglesia de Santa María del Naranco ",
+            "b": "b. Iglesia de San Miguel de Lillo ",
+            "c": "c. A) y B) son correctas ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871776.2244895,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "21. De acuerdo al artículo 5 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, NO es un principio básico de actuación de los miembros de las Fuerzas y Cuerpos de Seguridad los siguientes:",
+        "opciones_respuesta": {
+            "a": "a. Jurar o prometer acatamiento a la Constitución como norma fundamental del Estado. ",
+            "b": "b. Colaborar con la Administración de Justicia y auxiliarla en los términos establecidos en la Ley. ",
+            "c": "c. No estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "d": "d. Todos los anteriores son principios básicos de actuación establecidos en el artículo 5. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871784.5845807,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "22. De acuerdo a lo establecido en el artículo 14 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad. ¿Quién propone al Gobierno el nombramiento del titular de la Dirección General de la Guardia Civil?",
+        "opciones_respuesta": {
+            "a": "a. El Secretario de Estado de Seguridad ",
+            "b": "b. El Ministro del Interior ",
+            "c": "c. El Ministro de Defensa ",
+            "d": "d. Conjuntamente, los Ministros de Interior y Defensa. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779871789.0406756,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "23. La declaración sobre la Policía es…",
+        "opciones_respuesta": {
+            "a": "a. La Resolución 690 de 1979, de la Asamblea Parlamentaria del Consejo de Europa. ",
+            "b": "b. La Resolución 34/169, de 17 de diciembre de 1979, de la Asamblea General de Naciones Unidas. ",
+            "c": "c. La Resolución 690 de 1979, de la Asamblea General de Naciones Unidas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871795.5605905,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "24. Según el Real Decreto 1087/2010, de 3 de septiembre, por el que se aprueba el Reglamento que regula las Juntas Locales de Seguridad, ¿Cuántos vocales serán representantes de la Administración Autonómica?",
+        "opciones_respuesta": {
+            "a": "a. Ninguno ",
+            "b": "b. 1 ",
+            "c": "c. 2 ",
+            "d": "d. 3 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871804.264682,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "25. Conforme a lo establecido en el artículo 12 de la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, ¿A quién le corresponde desarrollar esta Ley en lo referente al régimen jurídico del pasaporte?",
+        "opciones_respuesta": {
+            "a": "a. Al Gobierno, a propuesta del Ministro del Interior. ",
+            "b": "b. Al Gobierno, a propuesta del Ministro del Interior, oído el Secretario de Estado de Seguridad. ",
+            "c": "c. Al Gobierno, a propuesta de los Ministros del Interior y de Asuntos Exteriores y de Cooperación. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871814.4727826,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "26. Constituye infracción GRAVE a la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana:",
+        "opciones_respuesta": {
+            "a": "a. Las acciones y omisiones que impidan u obstaculicen el funcionamiento de los servicios de emergencia, provocando o incrementando un riesgo para la vida o integridad de las personas o de daños en los bienes, o agravando las consecuencias del suceso que motive la actuación. ",
+            "b": "b. La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos o culturales, solemnidades y oficios religiosos u otras reuniones a las que asistan numerosas personas, cuando no sean constitutivas de infracción penal. ",
+            "c": "c. La intrusión en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad, incluyendo su sobrevuelo, cuando se haya producido una interferencia grave en su funcionamiento. ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779871821.1288548,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "27. Conforme al artículo 32 de la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, es una autoridad competente para imponer sanciones:",
+        "opciones_respuesta": {
+            "a": "a. El Secretario de Estado de Seguridad para todas las infracciones muy graves. ",
+            "b": "b. Los Delegados de Gobierno para las infracciones muy graves en grado mínimo. ",
+            "c": "c. Los subdelegados de Gobierno para las infracciones graves y leves. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779871827.2649632,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "28. De acuerdo al artículo 25 de la LOPSC, quedarán sujetas a las obligaciones de registro documental e información las personas físicas o jurídicas que ejerzan actividades relevantes para la seguridad ciudadana, como:",
+        "opciones_respuesta": {
+            "a": "a. Centros gestores de residuos ",
+            "b": "b. Transporte de personas ",
+            "c": "c. Alquiler de bicicletas ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871835.2167432,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "29. Conforme a la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, corresponde la declaración de emergencia de interés nacional:",
+        "opciones_respuesta": {
+            "a": "a. Al consejo de ministros, a propuesta de los ministros de hacienda y administraciones públicas y del interior y, en su caso, de los titulares de los demás ministerios concernidos. ",
+            "b": "b. Al titular del Ministerio del Interior, a propuesta del Consejo Nacional de Protección Civil. ",
+            "c": "c. Al titular del Ministerio del Interior, bien por propia iniciativa o a instancia de las Comunidades Autónomas o Delegados del Gobierno en las mismas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871843.145041,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "30. El PLATERPA fue aprobado por el Consejo de Gobierno a través de:",
+        "opciones_respuesta": {
+            "a": "a. Decreto 69/2014 del 16/07/2014 ",
+            "b": "b. Decreto 79/2013 del 15/08/2013 ",
+            "c": "c. Decreto 69/2014 del 15/06/2014 ",
+            "d": "d. Decreto 524/2023 del 20/06/2023 "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871851.6327977,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "31. De acuerdo a lo establecido en la Ley 2/2007, de 23 de marzo, de coordinación de Policías Locales, indique la opción CORRECTA.",
+        "opciones_respuesta": {
+            "a": "a. Las normas-marco serán aprobadas por la Comisión de Coordinación de Policías Locales. ",
+            "b": "b. La Comisión de Coordinación de Policías Locales está compuesta por 16 miembros, ejerciendo uno de ellos como secretario. ",
+            "c": "c. La Comisión de Coordinación se reunirá en sesión extraordinaria a iniciativa de la Presidencia o de, al menos, un tercio de sus miembros. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871857.1130755,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "32. ¿En qué categoría de armas se encuentran las armas de avancarga?",
+        "opciones_respuesta": {
+            "a": "a. Categoría 7ª-4 ",
+            "b": "b. Categoría 6ª-3 ",
+            "c": "c. Categoría 6ª-4 ",
+            "d": "d. Armas prohibidas del artículo 4. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871865.184968,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "33. Las Armas accionadas por aire u otro gas comprimido, sean lisas o rayadas, siempre que la energía cinética del proyectil en boca exceda de 24,2 julios, requerirán:",
+        "opciones_respuesta": {
+            "a": "a. Tarjeta de armas. ",
+            "b": "b. Licencia F ",
+            "c": "c. Licencia D ",
+            "d": "d. Licencia E "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779871871.0731385,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "34. Establece el PLATERPA en sus directrices para la planificación local que las emergencias que por su naturaleza, gravedad y/o extensión del riesgo originan daños limitados sobre la población, bienes o medio ambiente, y en cuyo control son suficientes los medios y recursos municipales, se encuentran en la siguiente situación de emergencia:",
+        "opciones_respuesta": {
+            "a": "a. Situación 0 ",
+            "b": "b. Situación 1 ",
+            "c": "c. Situación 2 ",
+            "d": "d. Situación 3 "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871880.5691032,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "35. De acuerdo a lo establecido en la Ley Orgánica 4/2010, de 20 de mayo, prescindir del conducto reglamentario para formular cualquier solicitud o reclamación por los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical, constituye:",
+        "opciones_respuesta": {
+            "a": "a. Falta disciplinaria muy grave ",
+            "b": "b. Falta disciplinaria grave ",
+            "c": "c. Falta disciplinaria leve ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871895.8652,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "36. Conforme a la Ley Orgánica 4/2010, de 20 de mayo, en cuanto a la responsabilidad…",
+        "opciones_respuesta": {
+            "a": "a. Los superiores jerárquicos que toleren una falta muy grave o grave incurrirán en la misma responsabilidad. ",
+            "b": "b. Los encubridores de una falta disciplinaria incurrirán en falta de inferior grado. ",
+            "c": "c. Incurrirán en la misma responsabilidad que los autores de una falta los que induzcan a su comisión. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871903.7691445,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "37. Conforme al artículo 41 de la Ley 8/2002, de 21 de octubre, de espectáculos públicos y actividades recreativas del Principado de Asturias, y según lo dispuesto en el artículo 56 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, los órganos competentes de la Administración Local remitirán a los de la Administración del Principado una relación de los procedimientos sancionadores iniciados…",
+        "opciones_respuesta": {
+            "a": "a. dentro de los 10 días siguientes a la fecha de adopción del acuerdo de iniciación. ",
+            "b": "b. dentro de los 15 días siguientes a la fecha de adopción del acuerdo de iniciación. ",
+            "c": "c. dentro de los 20 días siguientes a la fecha de adopción del acuerdo de iniciación. ",
+            "d": "d. dentro de los 30 días siguientes a la fecha de adopción del acuerdo de iniciación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779871911.4252114,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "38. Constituye infracción MUY GRAVE a la Ley 8/2002, de 21 de octubre, de espectáculos públicos y actividades recreativas del Principado de Asturias…",
+        "opciones_respuesta": {
+            "a": "a. La admisión de menores de edad en establecimientos públicos, locales e instalaciones en que lo tengan prohibido. ",
+            "b": "b. La admisión en establecimientos, locales o instalaciones de espectadores o usuarios en número superior al previsto en su aforo oficial. ",
+            "c": "c. La apertura de establecimientos, locales o instalaciones y la celebración de EPAR careciendo de licencia o autorización. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871920.1453867,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "39. Según lo previsto en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, los propietarios y demás titulares de derechos reales sobre bienes muebles de notable valor histórico, artístico, arqueológico, científico, técnico o cultural, podrán presentar solicitud debidamente documentada ante la Administración competente, a fin de que se inicie el procedimiento para la inclusión de dichos bienes en el Inventario General. La resolución sobre esta solicitud deberá recaer en un plazo de:",
+        "opciones_respuesta": {
+            "a": "a. 2 meses ",
+            "b": "b. 3 meses ",
+            "c": "c. 4 meses ",
+            "d": "d. 20 meses "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871925.7933083,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "40. No poseer cartilla sanitaria, ni certificado de vacunación obligatoria, para los animales que preceptivamente la requieran, constituye a la Ley 13/2002, de 23 de diciembre, una infracción que será castigada con la siguiente cuantía:",
+        "opciones_respuesta": {
+            "a": "a. Hasta 601,01 euros ",
+            "b": "b. De 60,10 a 601,01 euros ",
+            "c": "c. De 601,02 a 3.005,06 euros ",
+            "d": "d. De 601,02 euros a 6.010,12 euros. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872007.2419548,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "41. Establece el Anexo I de la Ley de Seguridad Vial que el Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas reglamentariamente establecidas o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. Tractocarro ",
+            "b": "b. Tractocamión ",
+            "c": "c. Portador ",
+            "d": "d. Vehículo especial "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872012.337876,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "42. “Informar y, en su caso, proponer planes de actuación conjunta en materia de tráfico y seguridad vial para dar cumplimiento a las directrices del Gobierno o para someterlos a su aprobación”, será competencia de:",
+        "opciones_respuesta": {
+            "a": "a. Administración General del Estado ",
+            "b": "b. Ministerio del Interior ",
+            "c": "c. Municipios ",
+            "d": "d. Consejo Superior de Tráfico y Seguridad Vial "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872016.3299112,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "43. El Texto consolidado del Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en esos transportes (ATP) hecho en Ginebra el 1 de septiembre de 1970 y actualizado a 23 de septiembre de 2013, establece que se entiende como Unidad calorífica aquella Unidad isoterma que permite elevar la temperatura en el interior de la caja vacía y mantenerla…",
+        "opciones_respuesta": {
+            "a": "a. durante 12 horas al menos sin repostado, a un valor no inferior a +12 ºC. ",
+            "b": "b. durante 12 horas al menos sin repostado, a un valor no inferior a +20 ºC. ",
+            "c": "c. durante 12 horas al menos sin repostado, a un valor no inferior a +30 ºC. ",
+            "d": "d. durante 6 horas al menos sin repostado, a un valor no inferior a +12 ºC. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872019.7298365,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "44. Establece el RD 2822/1998, de 23 de diciembre, que la señal de vehículo lento…",
+        "opciones_respuesta": {
+            "a": "a. Es la señal V-4, recogida en el anexo IX ",
+            "b": "b. Es la señal V-5, recogida en el anexo IX ",
+            "c": "c. Es la señal V-4, recogida en el anexo XI ",
+            "d": "d. Es la señal V-5, recogida en el anexo XI "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872027.345998,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "45. El acuerdo sobre transporte internacional de mercancías peligrosas por carretera (ADR 2025), establece que, en la parte superior de la señal V-11, cuando el peligro venga identificado por el dígito 6, indica:",
+        "opciones_respuesta": {
+            "a": "a. Toxicidad o peligro de infección ",
+            "b": "b. Radiactividad ",
+            "c": "c. Corrosividad ",
+            "d": "d. Inflamabilidad "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872032.7538779,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "46. Según el Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, los transportes objeto de este Real Decreto no podrán ser realizados por vehículos cuya antigüedad al comienzo del curso escolar sea superior a:",
+        "opciones_respuesta": {
+            "a": "a. 10 años ",
+            "b": "b. 12 años ",
+            "c": "c. 16 años ",
+            "d": "d. 22 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779872038.8819072,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "47. Establece la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, que no será necesaria la previa obtención de autorización para realizar transporte de viajeros o mercancías realizado en vehículos cuya velocidad máxima autorizada no supere los:",
+        "opciones_respuesta": {
+            "a": "a. 25 kilómetros por hora ",
+            "b": "b. 40 kilómetros por hora ",
+            "c": "c. 45 kilómetros por hora ",
+            "d": "d. 60 kilómetros por hora "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872046.2340348,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "48. Se encuentran exentos de someterse a inspección técnica periódica:",
+        "opciones_respuesta": {
+            "a": "a. Ciclomotores históricos, con independencia de su antigüedad. ",
+            "b": "b. Vehículos históricos, con antigüedad superior a 50 años. ",
+            "c": "c. Vehículos especiales cuya velocidad por construcción no alcance los 45 km/h. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872060.3940513,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "49. Indique la opción INCORRECTA:",
+        "opciones_respuesta": {
+            "a": "a. Existe libertad de elección de la estación ITV para efectuar tanto la primera inspección técnica como las inspecciones sucesivas tras la subsanación de defectos. ",
+            "b": "b. Quedan exentos de la colocación del distintivo V-19 aquellos vehículos catalogados o clasificados por la Administración como vehículos históricos. ",
+            "c": "c. Los defectos de un vehículo que tienen un impacto sobre el medio ambiente se consideran Defectos Graves. ",
+            "d": "d. En el caso de vehículos mixtos, la frecuencia de inspección aplicable será la correspondiente a la categoría N en la que el vehículo pueda catalogarse. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779872064.7621357,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "50. Conducir un vehículo a motor con presencia de drogas en el organismo:",
+        "opciones_respuesta": {
+            "a": "a. Será sancionado con 500 euros ",
+            "b": "b. Será sancionado con 1.000 euros ",
+            "c": "c. Será sancionado con 6.000 euros ",
+            "d": "d. Constituye un delito contra la seguridad vial "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872072.914103,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "51. Establece el artículo 46 del RD 1428/03, del 21 de noviembre, que aprueba el Reglamento General de Circulación, que se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, al aproximarse a pasos a nivel, a glorietas e intersecciones en que no se goce de prioridad, a lugares de reducida visibilidad o a estrechamientos. Si las intersecciones están debidamente señalizadas y la visibilidad de la vía es prácticamente nula, la velocidad de los vehículos no deberá exceder de:",
+        "opciones_respuesta": {
+            "a": "a. 20 km/h ",
+            "b": "b. 25 km/h ",
+            "c": "c. 30 km/h ",
+            "d": "d. 50 km/h "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872082.9301934,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "52. Podrán circular sin los cinturones u otros sistemas de retención homologados:",
+        "opciones_respuesta": {
+            "a": "a. Los conductores y pasajeros de los vehículos en servicios de urgencia en vías urbanas o carreteras convencionales. ",
+            "b": "b. Los conductores de taxis, siempre que estén de servicio. ",
+            "c": "c. Los conductores y pasajeros, al efectuar la maniobra de marcha atrás o de estacionamiento. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872094.6103418,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "53. De acuerdo al artículo 62 del RD 1428/2003, sin perjuicio de lo que pueda ordenar el agente de la autoridad o, en su caso, indicar el personal de obras y el de acompañamiento de vehículos especiales o en régimen de transporte especial, el orden de preferencia entre los distintos tipos de vehículos cuando uno de ellos tenga que dar marcha atrás es:",
+        "opciones_respuesta": {
+            "a": "a. Tracción animal, autocaravanas, camiones, motocicletas con sidecar y bicicletas. ",
+            "b": "b. Vehículos especiales que excedan de las masas, autocaravanas, tracción animal y cuadriciclos ligeros ",
+            "c": "c. Turismos con remolques ligeros, tractocamiones, vehículos de 3 ruedas y turismos. ",
+            "d": "d. Transporte colectivo de viajeros, tracción animal, autocaravanas y ciclomotores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872103.842469,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "54. En relación a los Datos que se deben suministrar por los agentes encargados de la vigilancia y el control del tráfico, los conductores que han dejado de llevar la dirección del vehículo y son arrollados mientras suben o bajan del mismo se consideran:",
+        "opciones_respuesta": {
+            "a": "a. Conductores ",
+            "b": "b. Pasajeros ",
+            "c": "c. Peatones ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872107.914429,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "55. La señal P-1 de intersección con prioridad es una señal…",
+        "opciones_respuesta": {
+            "a": "a. De advertencia de peligro ",
+            "b": "b. De reglamentación: de prioridad ",
+            "c": "c. De reglamentación: de restricción de paso ",
+            "d": "d. De indicación "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872113.5784583,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "56. El permiso B autoriza a conducir…",
+        "opciones_respuesta": {
+            "a": "a. Motocicletas con una potencia máxima de 35kW, siempre que se circule por territorio nacional y se tenga una antigüedad superior a 3 años. ",
+            "b": "b. Triciclos de motor. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872125.5065088,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "57. El conductor que advierta que otro que le sigue tiene el propósito de adelantar a su vehículo estará obligado a ceñirse al borde derecho de la calzada. En el caso de que no sea posible ceñirse por completo al borde derecho de la calzada y, sin embargo, el adelantamiento pueda efectuarse con seguridad, ¿Qué conductores que vayan a ser adelantados indicarán la posibilidad de ello al que se acerque, extendiendo el brazo horizontalmente y moviéndolo repetidas veces de atrás adelante, con el dorso de la mano hacia atrás, o poniendo en funcionamiento el intermitente derecho, cuando no crean conveniente hacer la señal con el brazo?",
+        "opciones_respuesta": {
+            "a": "a. Todos los conductores. ",
+            "b": "b. Los conductores de vehículos pesados o de grandes dimensiones. ",
+            "c": "c. B) es correcta y también los obligados a respetar un límite específico de velocidad. ",
+            "d": "d. En ningún caso se realizarán señales con el brazo. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779872135.8345594,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "58. Las notificaciones que no puedan efectuarse en la Dirección Electrónica Vial (DEV) y, en caso de no disponer de la misma, en el domicilio expresamente indicado para el procedimiento o, de no haber indicado ninguno, en el domicilio que figure en los registros del organismo autónomo Jefatura Central de Tráfico, se practicarán en el «Boletín Oficial del Estado» (BOE). Transcurrido el período de _________________ desde que la notificación se hubiese publicado en el BOE se entenderá que ésta ha sido practicada, dándose por cumplido dicho trámite.",
+        "opciones_respuesta": {
+            "a": "a. 10 días naturales ",
+            "b": "b. 15 días naturales ",
+            "c": "c. 20 días naturales ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779872148.3705864,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "59. A los efectos de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor y su normativa de desarrollo, se entiende como vehículo a motor todo vehículo automóvil accionado exclusivamente mediante una fuerza mecánica que circula por el suelo y que no utiliza una vía férrea, con:",
+        "opciones_respuesta": {
+            "a": "a. Velocidad máxima de fabricación superior a 25 km/h, independientemente de su peso. ",
+            "b": "b. Un peso neto máximo superior a 25 km/h y una velocidad máxima de fabricación superior a 14 km/h. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779872156.6586845,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "60. Conforme a lo establecido en el artículo 43 del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, los permisos de circulación temporales para particulares podrán tener la siguiente duración:",
+        "opciones_respuesta": {
+            "a": "a. 10 o 30 días. ",
+            "b": "b. 10 o 60 días. ",
+            "c": "c. 30 o 60 días. ",
+            "d": "d. 30 o 90 días. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872167.683084,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "61. Establece el artículo 559 de la LeCRIM que para la entrada y registro en los edificios destinados a la habitación u oficina de los representantes de naciones extranjeras acreditados cerca del Gobierno de España, les pedirá su venia el Juez, por medio de atento oficio, en el que les rogará que contesten en el término de:",
+        "opciones_respuesta": {
+            "a": "a. 12 horas ",
+            "b": "b. 24 horas ",
+            "c": "c. 48 horas ",
+            "d": "d. 72 horas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872182.30678,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "62. En base a lo establecido en la Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de Habeas Corpus, indique cual de los siguientes NO podrá instar el citado procedimiento:",
+        "opciones_respuesta": {
+            "a": "a. El abogado defensor del privado de libertad. ",
+            "b": "b. El defensor del pueblo ",
+            "c": "c. La persona que preste su apoyo con facultad de representación específica para este acto concreto, respecto a las personas con discapacidad con medidas de apoyo judiciales. ",
+            "d": "d. Todos los anteriores podrán instar el procedimiento de Habeas Corpus. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872190.4510133,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "63. Establece la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en su artículo 30, que el Estado se organiza territorialmente, a efectos judiciales, en:",
+        "opciones_respuesta": {
+            "a": "a. Municipios, Partidos, Provincias y Comunidades Autónomas. ",
+            "b": "b. Municipios, Provincias y Comunidades Autónomas. ",
+            "c": "c. Partidos, Audiencias y Tribunales. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872197.090783,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "64. Conocerá de las peticiones de la Fiscalía Europea, relativas a la adopción de medidas cautelares personales:",
+        "opciones_respuesta": {
+            "a": "a. La sección de instrucción del Tribunal de Instancia correspondiente. ",
+            "b": "b. La sección de instrucción del Tribunal Central de Instancia. ",
+            "c": "c. La sección de lo penal de la Audiencia Nacional. ",
+            "d": "d. La sección de lo penal del Tribunal Central de Instancia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872207.9468246,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "65. Desde que sea dictado el auto de incoación, los Jueces practicarán todas las actuaciones y dictarán la resolución del procedimiento de Habeas Corpus que proceda, en el plazo de:",
+        "opciones_respuesta": {
+            "a": "a. 12 horas ",
+            "b": "b. 24 horas ",
+            "c": "c. 48 horas ",
+            "d": "d. 72 horas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872223.291077,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "66. Establece el artículo 191 del Código Penal, respecto a los delitos de agresiones sexuales y acoso sexual que:",
+        "opciones_respuesta": {
+            "a": "a. Será precisa denuncia de la persona agraviada, de su representante legal o querella del Ministerio Fiscal, que actuará ponderando los legítimos intereses en presencia. Cuando la víctima sea menor de edad, persona con discapacidad necesitada de especial protección o una persona desvalida, bastará la denuncia del Ministerio Fiscal. ",
+            "b": "b. No será precisa denuncia de la persona agraviada, interviniendo de oficio al tratarse de delitos públicos graves. ",
+            "c": "c. En estos delitos el perdón del ofendido extingue la acción penal. ",
+            "d": "d. B) y C) son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872235.5792,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "67. Respecto a los actos sexuales con menores de 16 años, establece el artículo 181.5 del Código Penal, que son circunstancias agravantes que suponen castigar la pena en su mitad superior las siguientes:",
+        "opciones_respuesta": {
+            "a": "a. Cuando los hechos se cometan contra una persona que se halle en una situación de especial vulnerabilidad por razón de su edad, enfermedad, discapacidad o por cualquier otra circunstancia, y, en todo caso, cuando sea menor de cuatro años. ",
+            "b": "b. Cuando la víctima sea o haya sido pareja del autor, aun sin convivencia. ",
+            "c": "c. Cuando para la comisión de estos hechos el autor haya anulado la voluntad de la víctima suministrándole fármacos, drogas o cualquier otra sustancia natural o química idónea a tal efecto. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872253.0271692,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "68. Establece el artículo 142.2 del Código Penal que el que por imprudencia menos grave causare la muerte de otro, será castigado con la pena de multa de tres meses a dieciocho meses.",
+        "opciones_respuesta": {
+            "a": "a. Salvo en los casos en que se produzca utilizando un vehículo a motor o un ciclomotor, este delito solo será perseguible mediante denuncia de la persona agraviada o de su representante legal. ",
+            "b": "b. Salvo en los casos en que se produzca utilizando un vehículo a motor o un ciclomotor, este delito solo será perseguible mediante denuncia de la persona agraviada, de su representante legal, o del ministerio fiscal. ",
+            "c": "c. Este delito no requiere denuncia, al tratarse de un delito público se interviene de oficio. ",
+            "d": "d. La pena que establece el enunciado es incorrecta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872274.9074652,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "69. Establece el artículo 31 quater del Código Penal que sólo podrán considerarse circunstancias atenuantes de la responsabilidad penal de las personas jurídicas haber realizado, con posterioridad a la comisión del delito y a través de sus representantes legales, las siguientes actividades:",
+        "opciones_respuesta": {
+            "a": "a. Haber procedido, en cualquier momento del procedimiento y con anterioridad al juicio oral, a confesar la infracción a las autoridades. ",
+            "b": "b. Haber colaborado en la investigación del hecho aportando pruebas, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos. ",
+            "c": "c. Haber establecido, antes resolverse el procedimiento judicial, medidas eficaces para prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona jurídica ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872281.2354727,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "70. La detención de un menor por funcionarios de policía no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos y, en todo caso, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal:",
+        "opciones_respuesta": {
+            "a": "a. Dentro del plazo máximo de 24 horas ",
+            "b": "b. Dentro del plazo máximo de 48 horas ",
+            "c": "c. Dentro del plazo máximo de 72 horas ",
+            "d": "d. A un menor de edad no se le puede detener, únicamente realizar una función de custodia y protección hasta ponerlo a disposición de sus tutores legales o centro establecido al efecto. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872292.8194752,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "71. El que condujere un vehículo de motor o ciclomotor en los casos de pérdida de vigencia del permiso o licencia por pérdida total de los puntos asignados legalmente, será castigado con la pena de:",
+        "opciones_respuesta": {
+            "a": "a. Prisión de tres a seis meses o con la de multa de doce a veinticuatro meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días. ",
+            "b": "b. Prisión de tres a seis meses o con la de multa de doce a veinticuatro meses y con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días. ",
+            "c": "c. Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872311.539853,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "72. De acuerdo a lo establecido en el Código Penal, ¿Cuándo se castigarán las acciones y omisiones imprudentes?",
+        "opciones_respuesta": {
+            "a": "a. Siempre que se haya creado una ocasión de riesgo para el bien jurídicamente protegido mediante una acción u omisión precedente. ",
+            "b": "b. Cuando se infrinja un especial deber jurídico del autor. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Sólo cuando expresamente lo disponga la Ley. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779872316.9635282,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "73. La dilación extraordinaria e indebida en la tramitación del procedimiento, siempre que no sea atribuible al propio inculpado y que no guarde proporción con la complejidad de la causa, constituye:",
+        "opciones_respuesta": {
+            "a": "a. Una circunstancia agravante ",
+            "b": "b. Una circunstancia atenuante ",
+            "c": "c. Una circunstancia eximente ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872324.4514532,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "74. Establece el artículo 770 de la LeCRIM que la Policía Judicial acudirá de inmediato al lugar de los hechos y entre las diligencias a realizar puede requerir la presencia de cualquier facultativo o personal sanitario que fuere habido para prestar, si fuere necesario, los oportunos auxilios al ofendido. El requerido, aunque sólo lo fuera verbalmente, que no atienda sin justa causa el requerimiento será sancionado con una multa de:",
+        "opciones_respuesta": {
+            "a": "a. 3.000 a 20.000 euros ",
+            "b": "b. 500 a 5.000 euros ",
+            "c": "c. 300 a 6.000 euros ",
+            "d": "d. 150 a 750 euros "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872344.547785,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "75. El procedimiento de amparo judicial de las libertades y derechos, previsto en el artículo 53.2 de la Constitución española, se regirá, en el orden contencioso-administrativo, por lo dispuesto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa. Formalizada la demanda, el letrado o letrada de la Administración de Justicia dará traslado de la misma, con entrega del expediente administrativo, al Ministerio Fiscal y a las partes demandadas para que presenten sus alegaciones en el plazo común e improrrogable de:",
+        "opciones_respuesta": {
+            "a": "a. 5 días ",
+            "b": "b. 8 días ",
+            "c": "c. 10 días ",
+            "d": "d. 20 días "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872349.9318218,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "76. Establece el artículo 23 de la Ley de Enjuiciamiento Civil que los litigantes podrán comparecer por sí mismos, sin necesidad de procurador, en los juicios verbales cuya determinación se haya efectuado por razón de la cuantía y ésta no exceda de:",
+        "opciones_respuesta": {
+            "a": "a. 2.000 euros ",
+            "b": "b. 3.000 euros ",
+            "c": "c. 6.000 euros ",
+            "d": "d. 15.000 euros "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872358.4837162,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "77. Conforme al Código Penal, el que, sin estar legítimamente autorizado, impidiere a otro con violencia hacer lo que la ley no prohíbe, o le compeliere a efectuar lo que no quiere, sea justo o injusto, será castigado como reo de:",
+        "opciones_respuesta": {
+            "a": "a. Amenazas ",
+            "b": "b. Coacciones ",
+            "c": "c. Extorsión ",
+            "d": "d. Realización arbitraria del propio derecho "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779872367.0440676,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "78. Establece el artículo 404 del Código Penal que a la autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo se le castigará con la pena de:",
+        "opciones_respuesta": {
+            "a": "a. Inhabilitación especial ",
+            "b": "b. Inhabilitación absoluta ",
+            "c": "c. Suspensión de empleo ",
+            "d": "d. Prisión "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872373.0758493,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "79. La reciente modificación del artículo 235 del Código Penal establece que el hurto de un teléfono móvil será penado con prisión de 1 a 3 años. Indique en cual de los siguientes casos el hurto de un teléfono móvil NO será penado con dicha pena:",
+        "opciones_respuesta": {
+            "a": "a. Cuando se encuentre a la venta, almacén o exposición en un establecimiento comercial. ",
+            "b": "b. Cuando no haya reincidencia. ",
+            "c": "c. Cuando tenga un valor inferior a 400 euros. ",
+            "d": "d. B) y C) son correctas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779872378.5562088,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "80. Indique cuál de las siguientes penas se considera una pena menos grave:",
+        "opciones_respuesta": {
+            "a": "a. La privación de patria potestad ",
+            "b": "b. La prisión de 3 meses hasta 5 años ",
+            "c": "c. Inhabilitación especial para el ejercicio de profesión, oficio o comercio que tenga relación con los animales y para la tenencia de animales de 3 meses a un año. ",
+            "d": "d. B) y C) son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    }
+]

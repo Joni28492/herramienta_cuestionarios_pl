@@ -1,0 +1,198 @@
+[
+    {
+        "timestamp": 1779820072.1279597,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "6. En el periodo extraordinario de prueba, a petición de los interesados, se podrán practicar las que sean pertinentes en un plazo:",
+        "opciones_respuesta": {
+            "a": "a) No superior a quince días.",
+            "b": "b) No superior a diez días.",
+            "c": "c) De siete días hábiles.",
+            "d": "d) No existe el periodo extraordinario de prueba en la Ley 39/2015."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779820107.2882447,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "10. Se podrá prescindir del trámite de audiencia cuando:",
+        "opciones_respuesta": {
+            "a": "a) El procedimiento sea de urgencia.",
+            "b": "b) No figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
+            "c": "c) La resolución sea favorable al interesado.",
+            "d": "d) Así lo decida el instructor por razones de interés público debidamente motivadas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779820128.8241498,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "11. El plazo para que los interesados formulen alegaciones tras la realización de actuaciones complementarias es de:",
+        "opciones_respuesta": {
+            "a": "a) Cinco días.",
+            "b": "b) Siete días.",
+            "c": "c) Diez días.",
+            "d": "d) Quince días."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779820150.3602521,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "12. En los procedimientos iniciados a solicitud del interesado, la paralización del expediente por causa imputable al mismo producirá la caducidad transcurridos:",
+        "opciones_respuesta": {
+            "a": "a) Tres meses.",
+            "b": "b) Seis meses.",
+            "c": "c) Un mes.",
+            "d": "d) Dos meses."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779820337.553142,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "19. La multa coercitiva es:",
+        "opciones_respuesta": {
+            "a": "a) Una sanción administrativa por infracción de la ley.",
+            "b": "b) Independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas.",
+            "c": "c) Un medio para castigar el impago de tasas.",
+            "d": "d) Un recargo del 20% sobre la deuda principal."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779820371.9934373,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "20. La ejecución por compulsión directa sobre las personas solo podrá utilizarse:",
+        "opciones_respuesta": {
+            "a": "a) En cualquier acto administrativo que implique una obligación de hacer.",
+            "b": "b) Para el cobro de multas de tráfico.",
+            "c": "c) En los casos en que la ley expresamente lo autorice y con respeto a la dignidad y derechos constitucionales.",
+            "d": "d) Cuando el interesado sea una persona jurídica."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779820500.6822202,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "26. La Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos que:",
+        "opciones_respuesta": {
+            "a": "a) No exceda de la mitad de los mismos.",
+            "b": "b) No exceda de diez días.",
+            "c": "c) Sea igual al plazo original.",
+            "d": "d) Solo puede ser solicitada por la Administración."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779820553.802297,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "28. Son actos nulos de pleno derecho aquellos que:",
+        "opciones_respuesta": {
+            "a": "a) Tengan un defectu de forma que impida al acto alcanzar su fin.",
+            "b": "b) Sean dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+            "c": "c) Contengan cualquier infracción del ordenamiento jurídico.",
+            "d": "d) Se dicten fuera del plazo establecido."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779820667.5230172,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "34. El recurso de alzada podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo. Si se interpone ante el primero, este deberá remitirlo al segundo en el plazo de:",
+        "opciones_respuesta": {
+            "a": "a) Cinco días.",
+            "b": "b) Diez días.",
+            "c": "c) Quince días.",
+            "d": "d) Un mes."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779820736.3394315,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "39. El plazo para resolver y notificar el recurso potestativo de reposición será de:",
+        "opciones_respuesta": {
+            "a": "a) Un mes.",
+            "b": "b) Tres meses.",
+            "c": "c) Diez días.",
+            "d": "d) Veinte días."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779820771.5397422,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "42. El órgano competente para la resolución del recurso extraordinario de revisión deberá pronunciarse sobre la admisión a trámite del mismo en el plazo de:",
+        "opciones_respuesta": {
+            "a": "a) Un mes desde su interposición.",
+            "b": "b) Tres meses desde su interposición.",
+            "c": "c) Diez días.",
+            "d": "d) No hay plazo de admisión, se resuelve directamente en seis meses."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779820787.7636578,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "43. ¿Cuándo se entenderá desestimado un recurso extraordinario de revisión?",
+        "opciones_respuesta": {
+            "a": "a) Transcurrido un mes desde su interposición sin dictarse resolución.",
+            "b": "b) Transcurridos tres meses desde su interposición sin dictarse resolución.",
+            "c": "c) Transcurridos seis meses desde su interposición sin dictarse resolución.",
+            "d": "d) Nunca se entiende desestimado por silencio."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779820803.9237576,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "44. Contra las disposiciones administrativas de carácter general:",
+        "opciones_respuesta": {
+            "a": "a) Cabe recurso de alzada.",
+            "b": "b) Cabe recurso de reposición.",
+            "c": "c) No cabrá recurso en vía administrativa.",
+            "d": "d) Cabe recurso extraordinario de revisión."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779820827.8839104,
+        "path": "/procedimiento_administrativo.json",
+        "id": "id2340234",
+        "pregunta": "45. La suspensión de la ejecución de un acto impugnado mediante recurso se entenderá concedida si el órgano competente no dicta resolución expresa al respecto transcurrido:",
+        "opciones_respuesta": {
+            "a": "a) Un mes desde que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente.",
+            "b": "b) Diez días desde la solicitud.",
+            "c": "c) Quince días desde la interposición del recurso.",
+            "d": "d) Tres meses, coincidiendo con el plazo del recurso de alzada."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    }
+]

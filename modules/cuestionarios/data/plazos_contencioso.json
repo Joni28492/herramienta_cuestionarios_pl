@@ -1,0 +1,107 @@
+{
+    "abrr_opts": {
+        "48 horas": [
+            "48h"
+        ],
+        "2 dias": [
+            "2d"
+        ],
+        "5 dias": [
+            "5d"
+        ],
+        "7 dias": [
+            "7d"
+        ],
+        "8 dias": [
+            "8d"
+        ],
+        "9 dias": [
+            "9d"
+        ],
+        "10 dias": [
+            "10d"
+        ],
+        "15 dias": [
+            "15d"
+        ],
+        "20 dias": [
+            "20d"
+        ],
+        "30 dias": [
+            "30d"
+        ],
+        "1 mes": [
+            "1m"
+        ],
+        "2 mes": [
+            "2m"
+        ],
+        "3 mes": [
+            "3m"
+        ],
+        "6 mes": [
+            "6m"
+        ]
+    },
+    "48 horas": [
+        "alegaciones proteccion derechos fundamentales"
+    ],
+    "2 dias": [
+        ""
+    ],
+    "5 dias": [
+        "Alegaciones previas",
+        "solicitud de vista",
+        "remision de expediente urgente",
+        "Derechos fundamentales, emplazamiento ___",
+        "Proteccion derechos fundamentales, sentencia"
+    ],
+    "7 dias": [
+        ""
+    ],
+    "8 dias": [
+        "Formalizacion de demanda para proteccion de derechos fundamentales improrrogable de ____ "
+    ],
+    "9 dias": [
+        "emplazamiento. plazo para personarse",
+        "La resolución por la que se acuerde remitir el expediente se notificará en los cinco días siguientes a su adopción, a cuantos aparezcan como interesados en él, emplazándoles para que puedan personarse como demandados en el plazo de…",
+        "Recibido el expediente administrativo en el Juzgado o Tribunal y comprobados, y en su caso completados, los emplazamientos, por el Secretario judicial se acordará que se entregue al recurrente para que se deduzca la demanda en el plazo de"
+    ],
+    "10 dias": [
+        "iniciacion, via de hecho ___ a XXX ",
+        "subsanacion de faltas/defectos",
+        "Sentencia, procedimiento ordinario",
+        "Sentencia, procedimiento abreviado ___ o en el acto",
+        "conclusiones de vista ___ sucesivos cada parte",
+        "tramitacion preferente, interposicion"
+    ],
+    "15 dias": [
+        "fase condicional de prueba, solo si hay conformidad ___ para proponer",
+        "citacion procedimiento abreviadom min ___ antelacion"
+    ],
+    "20 dias": [
+        "iniciacion, via de hecho XXX a ___ ",
+        "El expediente deberá ser remitido en el plazo improrrogable de ___, a contar desde que la comunicación judicial tenga entrada en el registro general del órgano requerido. ",
+        "cada cuanto plazo de retraso la penalizacion al funcionario es de 300 a 1200€  ",
+        "demanda. formalizar tras recibir expediente de riesgo de caducidad",
+        "demanda. para contestar tras dar traslado a la administracion"
+    ],
+    "30 dias": [
+        "fase condicional de prueba, solo si hay conformidad ___ para practicar",
+        "La prueba se desarrollará con arreglo a las normas generales establecidas para el proceso civil, siendo el plazo para practicarla de "
+    ],
+    "1 mes": [
+        ""
+    ],
+    "2 mes": [
+        "interponer recursos -  expreso",
+        "interponer recurso de lesividad",
+        "Segun la LJCA cuando una administracion interponga un recurso contencioso-administrativo contra otra, podra requerirla para que previamente, derogue, modifique anule etc.. en un plazo de ___ desde la publicacion"
+    ],
+    "3 mes": [
+        ""
+    ],
+    "6 mes": [
+        "iniciacion acto presunto"
+    ]
+}

@@ -1,0 +1,184 @@
+[
+    {
+        "timestamp": 1779867913.1396613,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "5) El titular de un permiso o licencia de conducción o del permiso de circulación de un vehículo comunicará a los registros del organismo autónomo Jefatura Central de Tráfico su domicilio. Éste se utilizará para efectuar las notificaciones respecto de todas las autorizaciones de que disponga. A estos efectos, ¿Quienes podrán comunicar al organismo autónomo Jefatura Central de Tráfico los nuevos domicilios de que tengan constancia?",
+        "opciones_respuesta": {
+            "a": "a) Únicamente los propios titulares de las referidas autorizaciones administrativas. ",
+            "b": "b) Los Ayuntamientos. ",
+            "c": "c) Los Ayuntamientos y la Agencia Estatal de Administración Tributaria. ",
+            "d": "d) c) es correcta, y también los centros de reconocimiento de conductores. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779867984.2117875,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "13) Si obtenemos el permiso C+E y, a su vez, somos poseedores del permiso D, nos concederán…",
+        "opciones_respuesta": {
+            "a": "a) El permiso C1+E ",
+            "b": "b) El permiso  D+E ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779868016.4360278,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "14) Para conducir un conjunto formado por un vehículo tractor de la categoría B y un remolque cuya MMA sea superior a 750 kg, en el caso de que el conjunto así formado exceda de 3.500 kg:",
+        "opciones_respuesta": {
+            "a": "a) Es suficiente el permiso B, siempre y cuando no exceda el conjunto de 4.250 kilos. ",
+            "b": "b) Es necesario, en todo caso, el permiso B+E. ",
+            "c": "c) a) es correcta, pero requerirá habilitación B96. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1779868035.7719727,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "15) Para conducir un vehículo especial agrícola autopropulsado con MMA superior a 7.500 kg, requeriremos el siguiente permiso de conducir:",
+        "opciones_respuesta": {
+            "a": "a) Licencia de vehículo especial agrícola autopropulsado. ",
+            "b": "b) Permiso B ",
+            "c": "c) Permiso C1 ",
+            "d": "d) Permiso C "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868059.628393,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "16) ¿Qué licencias de conducir existen? (señale la incorrecta)",
+        "opciones_respuesta": {
+            "a": "a) Licencia de ciclomotor ",
+            "b": "b) Licencia de vehículos especiales agrícolas autopropulsados. ",
+            "c": "c) Licencia de vehículos para personas con movilidad reducida. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868069.8041363,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "17) ¿A qué edad se puede obtener licencia de vehículos para personas con movilidad reducida?",
+        "opciones_respuesta": {
+            "a": "a) 14 años ",
+            "b": "b) 15 años ",
+            "c": "c) 16 años ",
+            "d": "d) 18 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868261.2773447,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "30) ¿Cuándo tendrá un conductor que acaba de obtener por primera vez su permiso de conducir 15 puntos?",
+        "opciones_respuesta": {
+            "a": "a) Tras 8 años de la obtención del permiso. ",
+            "b": "b) Tras 5 años de la obtención del permiso. ",
+            "c": "c) Tras 6 años de la obtención del permiso. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868440.8214333,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "41) Una persona es condenada a una pena de privación del derecho a conducir inferior a 2 años. Para volver a conducir tras dicha pena :",
+        "opciones_respuesta": {
+            "a": "a) Deberá pasar con éxito las pruebas de aptitud. ",
+            "b": "b) Deberá acreditar haber superado con aprovechamiento un curso de sensibilización y reeducación vial. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": ""
+    },
+    {
+        "timestamp": 1779868474.0626738,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "42) La Jefatura Provincial de Tráfico que tenga conocimiento de la presunta desaparición de alguno de los requisitos iniciará el procedimiento de declaración de pérdida de vigencia de ésta. El acuerdo se notificará por la Jefatura Provincial de Tráfico al titular de la autorización, se le dará vista del expediente, y se le indicarán los plazos y formas de que dispone para acreditar la existencia del requisito o requisitos exigidos. Contra dicho acuerdo, el titular de la autorización podrá alegar lo que estime pertinente a su defensa o, en su caso, demostrar en tiempo y forma que no carece de tales requisitos. Los plazos para acreditar la existencia de los requisitos exigidos serán los siguientes:",
+        "opciones_respuesta": {
+            "a": "a) Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 2 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 2 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "b": "b) Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 3 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 3 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "c": "c) Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 6 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 6 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779868510.2466807,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": " 44) ¿Qué permiso de conducir necesito, como mínimo, para circular con una Motocicletas con una potencia máxima de 35 kW, una relación potencia-peso máxima de 0,2 Kw/kg y no derivadas de un vehículo con más del doble de su potencia?",
+        "opciones_respuesta": {
+            "a": "AM ",
+            "b": "A1 ",
+            "c": "A2 ",
+            "d": "A "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1779868531.5828042,
+        "path": "/_plan_pl_3.6.json",
+        "id": "id2340234",
+        "pregunta": "45) El permiso de conducir “B” NO habilita para conducir….",
+        "opciones_respuesta": {
+            "a": "a) Vehículos para personas de movilidad reducida ",
+            "b": "b) Triciclos de motor ",
+            "c": "c) Conjunto de vehículos formado por Vehículo tractor habilitado por Permiso B y remolque > 750 kg, siempre que el conjunto ≤ 4250 kg. ",
+            "d": "d) El permiso B habilita a conducir todo lo anterior "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1779871656.4078379,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "8. Las leyes promulgadas por la Junta General serán promulgadas:",
+        "opciones_respuesta": {
+            "a": "a. por el Consejo de Gobierno, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "b": "b. en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación, y en el BOE. ",
+            "c": "c. en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 20 días desde su aprobación, y en el BOE. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1779871880.5691032,
+        "path": "/_simulacro_5-26.json",
+        "id": "id2340234",
+        "pregunta": "35. De acuerdo a lo establecido en la Ley Orgánica 4/2010, de 20 de mayo, prescindir del conducto reglamentario para formular cualquier solicitud o reclamación por los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical, constituye:",
+        "opciones_respuesta": {
+            "a": "a. Falta disciplinaria muy grave ",
+            "b": "b. Falta disciplinaria grave ",
+            "c": "c. Falta disciplinaria leve ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    }
+]

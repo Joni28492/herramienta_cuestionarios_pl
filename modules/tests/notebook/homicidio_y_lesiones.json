@@ -1,0 +1,442 @@
+[
+    {
+        "pregunta": "1. El delito de homicidio básico, según el artículo 138.1 del Código Penal, está castigado con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de diez a quince años.",
+            "b": "b) Prisión de quince a veinticinco años.",
+            "c": "c) Prisión de diez a veinte años.",
+            "d": "d) Prisión de doce a dieciocho años."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 138.1). La b es asesinato; la c y d son cifras inventadas."
+    },
+    {
+        "pregunta": "2. ¿Cuál de las siguientes circunstancias NO convierte un homicidio en asesinato según el artículo 139.1?",
+        "respuestas": {
+            "a": "a) Alevosía.",
+            "b": "b) Ensañamiento, aumentando deliberada e inhumanamente el dolor del ofendido.",
+            "c": "c) Cometer el delito por precio, recompensa o promesa.",
+            "d": "d) Que la víctima sea menor de dieciséis años."
+        },
+        "solucion": "d",
+        "explicacion": "Ser menor de 16 es una agravante del asesinato (art. 140) para la permanente revisable, no el elemento que define el asesinato en sí."
+    },
+    {
+        "pregunta": "3. En un asesinato, si concurren dos o más de las circunstancias del art. 139.1, se impondrá la pena de:",
+        "respuestas": {
+            "a": "a) Prisión permanente revisable.",
+            "b": "b) Prisión en su mitad superior (de 20 años y 1 día a 25 años).",
+            "c": "c) Prisión de quince a veinticinco años en su mitad superior.",
+            "d": "d) La pena superior en grado."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 139.2). La a es para casos del art. 140; la d es una regla general pero el 139.2 especifica \"mitad superior\"."
+    },
+    {
+        "pregunta": "4. Según el artículo 139, actuar para \"facilitar la comisión de otro delito o para evitar que se descubra\" se considera:",
+        "respuestas": {
+            "a": "a) Una agravante genérica del artículo 22.",
+            "b": "b) Una circunstancia que califica el delito como asesinato.",
+            "c": "c) Un tipo agravado de homicidio (138.2).",
+            "d": "d) Una causa de justificación."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 139.1.4.ª). Se añadió en la reforma de 2015."
+    },
+    {
+        "pregunta": "5. El artículo 140 establishes la prisión permanente revisable para el asesinato cuando la víctima es:",
+        "respuestas": {
+            "a": "a) Menor de 18 años.",
+            "b": "b) Menor de 14 años.",
+            "c": "c) Menor de 16 años o persona especialmente vulnerable por razón de su edad, enfermedad o discapacidad.",
+            "d": "d) Menor de 12 años únicamente."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 140.1.1.ª). La a y b confunden edades (18 es mayoría de edad, 14 era el límite antiguo)."
+    },
+    {
+        "pregunta": "6. Se impondrá la prisión permanente revisable al reo de asesinato que hubiera sido condenado por la muerte de más de:",
+        "respuestas": {
+            "a": "a) Dos personas.",
+            "b": "b) Tres personas.",
+            "c": "c) Cinco personas.",
+            "d": "d) Una persona (es decir, el asesinato de 2 o más personas)."
+        },
+        "solucion": "d",
+        "explicacion": "(Art. 140.2). Se refiere al asesinato de \"más de dos personas\", es decir, 2 o más condenas."
+    },
+    {
+        "pregunta": "7. El homicidio por imprudencia grave cometido con vehículo a motor requiere, para ser castigado con la pena de 1 a 4 años, que se den las circunstancias del artículo:",
+        "respuestas": {
+            "a": "a) 379 CP (velocidad excesiva o alcohol/drogas).",
+            "b": "b) 380 CP (conducción temeraria).",
+            "c": "c) 381 CP (manifiesto desprecio por la vida).",
+            "d": "d) No requiere remisión a otros artículos, basta con la apreciación del juez."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 142.1). Remite expresamente al 379 para definir la gravedad automática por velocidad o alcohol."
+    },
+    {
+        "pregunta": "8. En el homicidio por imprudencia grave con arma de fuego, se impondrá además la privación del derecho al porte o tenencia de armas por tiempo de:",
+        "respuestas": {
+            "a": "a) Uno a tres años.",
+            "b": "b) Uno a seis años.",
+            "c": "c) Tres a seis años.",
+            "d": "d) Seis meses a dos años."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 142.1). La c es para inhabilitación profesional."
+    },
+    {
+        "pregunta": "9. Si el homicidio por imprudencia grave fuera calificado como de \"notoria gravedad\" (art. 142 bis), el Juez podrá imponer la pena superior en:",
+        "respuestas": {
+            "a": "a) Un grado.",
+            "b": "b) Dos grados.",
+            "c": "c) Un grado si mueren dos personas y en dos grados si el número de fallecidos es \"muy elevado\".",
+            "d": "d) Mitad superior únicamente."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 142 bis). Es una regla específica y no facultativa del todo si mueren muchos."
+    },
+    {
+        "pregunta": "10. Se considera que el número de fallecidos o lesionados es \"muy elevado\" a efectos del art. 142 bis y 152 bis cuando es igual o superior a:",
+        "respuestas": {
+            "a": "a) 5 personas.",
+            "b": "b) 6 personas.",
+            "c": "c) 10 personas.",
+            "d": "d) 15 personas."
+        },
+        "solucion": "b",
+        "explicacion": "Según el Dictamen 1/2021 de la Fiscalía recogido en tus fuentes."
+    },
+    {
+        "pregunta": "11. El homicidio por imprudencia menos grave se castiga con la pena de:",
+        "respuestas": {
+            "a": "a) Multa de tres meses a dieciocho meses.",
+            "b": "b) Multa de uno a tres meses.",
+            "c": "c) Prisión de tres meses a un año.",
+            "d": "d) Multa de seis a doce meses."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 142.2). La b es para lesiones leves; la c es el mínimo del homicidio imprudente grave."
+    },
+    {
+        "pregunta": "12. Para la persecución del homicidio por imprudencia menos grave realizado con vehículo a motor, se requiere:",
+        "respuestas": {
+            "a": "a) Denuncia del Ministerio Fiscal.",
+            "b": "b) Actuación de oficio siempre.",
+            "c": "c) Denuncia de la persona agraviada o su representante legal.",
+            "d": "d) Solo es perseguible si hay más de dos víctimas."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 142.2 in fine). Sin denuncia no hay procedimiento por imprudencia menos grave."
+    },
+    {
+        "pregunta": "13. El que induzca al suicidio de otro será castigado con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de dos a cinco años.",
+            "b": "b) Prisión de cuatro a ocho años.",
+            "c": "c) Prisión de seis a diez años.",
+            "d": "d) Prisión permanente revisable."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 143.1). La a es para cooperación no ejecutiva."
+    },
+    {
+        "pregunta": "14. Si la cooperación al suicidio llega hasta el punto de ejecutar la muerte (auxilio ejecutivo), la pena es:",
+        "respuestas": {
+            "a": "a) Prisión de cuatro a ocho años.",
+            "b": "b) Prisión de seis a diez años.",
+            "c": "c) Prisión de diez a quince años.",
+            "d": "d) La misma que el homicidio."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 143.3). Es el auxilio ejecutivo."
+    },
+    {
+        "pregunta": "15. En los supuestos de eutanasia (art. 143.4), la pena se reducirá en:",
+        "respuestas": {
+            "a": "a) Un grado.",
+            "b": "b) Dos grados.",
+            "c": "c) Uno o dos grados.",
+            "d": "d) No se reduce, se aplica la pena mínima de la cooperación."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 143.4). Es discrecional para el juez (\"en uno o dos grados\")."
+    },
+    {
+        "pregunta": "16. La distribución a través de Internet de contenidos destinados a promover el suicidio de menores o personas con discapacidad se castiga con:",
+        "respuestas": {
+            "a": "a) Prisión de uno a cuatro años.",
+            "b": "b) Prisión de dos a cinco años.",
+            "c": "c) Multa de seis a doce meses.",
+            "d": "d) Prisión de seis meses a dos años."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 143 bis). Es un tipo nuevo para evitar el fomento del suicidio en redes."
+    },
+    {
+        "pregunta": "17. El tipo básico de lesiones (art. 147.1) requiere que la lesión necesite objetivamente para su sanidad:",
+        "respuestas": {
+            "a": "a) Solo una primera asistencia facultativa.",
+            "b": "b) Tratamiento médico o quirúrgico.",
+            "c": "c) Vigilancia o seguimiento facultativo del curso de la lesión.",
+            "d": "d) Más de 30 días de baja."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 147.1). Define la diferencia entre delito menos grave y leve."
+    },
+    {
+        "pregunta": "18. ¿Qué se considera tratamiento médico según la jurisprudencia citada en tus apuntes?",
+        "respuestas": {
+            "a": "a) Los puntos de aproximación (stari-strip).",
+            "b": "b) El uso de collarín cervical por prescripción facultativa.",
+            "c": "c) La rehabilitación prescrita por un médico para la curación.",
+            "d": "d) La simple vigilancia de una herida."
+        },
+        "solucion": "c",
+        "explicacion": "Los puntos de aproximación son quirúrgicos (a), el collarín suele ser profiláctico, no tratamiento curativo per se según casos."
+    },
+    {
+        "pregunta": "19. El delito leve de lesiones (art. 147.2) se castiga con pena de multa de:",
+        "respuestas": {
+            "a": "a) Diez a treinta días.",
+            "b": "b) Uno a tres meses.",
+            "c": "c) Tres a seis meses.",
+            "d": "d) Uno a dos meses."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 147.2). Es la pena para la lesión que no requiere tratamiento."
+    },
+    {
+        "pregunta": "20. El que golpeare o maltratare de obra a otro sin causarle lesión (art. 147.3):",
+        "respuestas": {
+            "a": "a) No es delito tras la reforma.",
+            "b": "b) Es un delito leve castigado con multa de uno a dos meses.",
+            "c": "c) Es un delito leve castigado con multa de uno a tres meses.",
+            "d": "d) Se persigue de oficio siempre."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 147.3). La c confunde el plazo de la lesión leve (147.2)."
+    },
+    {
+        "pregunta": "21. El art. 148 permite agravar las lesiones del 147.1 con pena de prisión de 2 a 5 años si:",
+        "respuestas": {
+            "a": "a) Hay alevosía o ensañamiento.",
+            "b": "b) Se usan armas o instrumentos peligrosos.",
+            "c": "c) La víctima es menor de 14 años o persona con discapacidad necesitada de especial protección.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "(Art. 148). Recoge todos estos supuestos de mayor peligrosidad."
+    },
+    {
+        "pregunta": "22. La pérdida o inutilidad de un órgano o miembro \"no principal\" se castiga en el art. 150 con:",
+        "respuestas": {
+            "a": "a) Prisión de seis a doce años.",
+            "b": "b) Prisión de tres a seis años.",
+            "c": "c) Prisión de dos a cinco años.",
+            "d": "d) Multa de doce a veinticuatro meses."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 150). La a es para miembros principales (149)."
+    },
+    {
+        "pregunta": "23. La mutilación genital se castiga con la pena de prisión de:",
+        "respuestas": {
+            "a": "a) Tres a seis años.",
+            "b": "b) Seis a doce años.",
+            "c": "c) Diez a quince años.",
+            "d": "d) Prisión permanente revisable."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 149.2). Es equiparable a la pérdida de miembro principal."
+    },
+    {
+        "pregunta": "24. En el caso de mutilación genital a una menor, el juez podrá imponer adicionalmente la inhabilitación especial para el ejercicio de la patria potestad por tiempo de:",
+        "respuestas": {
+            "a": "a) 4 a 10 años.",
+            "b": "b) 5 a 15 años.",
+            "c": "c) 2 a 6 años.",
+            "d": "d) 1 a 5 años."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 149.2). Es obligatoria si el juez lo estima adecuado al interés del menor."
+    },
+    {
+        "pregunta": "25. Si en un delito de lesiones media el consentimiento válido, libre, espontáneo y expreso del ofendido:",
+        "respuestas": {
+            "a": "a) El hecho es atípico (no hay delito).",
+            "b": "b) Se impondrá la pena inferior en uno o dos grados.",
+            "c": "c) Se impondrá la pena inferior en un grado únicamente.",
+            "d": "d) El consentimiento no tiene valor en delitos de lesiones."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 155). Nunca exime, solo reduce."
+    },
+    {
+        "pregunta": "26. La imprudencia grave en lesiones se determina si el conductor circula con una tasa de alcohol en aire espirado superior a:",
+        "respuestas": {
+            "a": "a) 0,25 mg/l.",
+            "b": "b) 0,50 mg/l.",
+            "c": "c) 0,60 mg/l.",
+            "d": "d) 1,2 mg/l."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 152.1). La b es el límite administrativo; la d es la tasa en sangre."
+    },
+    {
+        "pregunta": "27. La imprudencia menos grave en lesiones del art. 147.1 se castiga con la pena de:",
+        "respuestas": {
+            "a": "a) Multa de tres meses a doce meses.",
+            "b": "b) Multa de uno a dos meses.",
+            "c": "c) Prisión de tres meses a un año.",
+            "d": "d) Multa de uno a tres meses."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 152.2). La d es para lesiones de los arts. 149 y 150 por imprudencia menos grave."
+    },
+    {
+        "pregunta": "28. ¿Qué plazo de privación del derecho a conducir se impone en las lesiones por imprudencia menos grave (art. 152.2)?",
+        "respuestas": {
+            "a": "a) De tres meses a un año.",
+            "b": "b) De tres meses a dieciocho meses.",
+            "c": "c) De uno a cuatro años.",
+            "d": "d) No se impone privación del permiso, solo multa."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 152.2). La a es para imprudencia grave. Cuidado con este cruce de datos."
+    },
+    {
+        "pregunta": "29. En el delito de maltrato en el ámbito familiar (art. 153.1), la pena de prisión es de:",
+        "respuestas": {
+            "a": "a) Tres meses a un año.",
+            "b": "b) Seis meses a un año.",
+            "c": "c) Seis meses a dos años.",
+            "d": "d) Nueve meses a dos años."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 153.1). La a confunde con el tipo del 153.2 (otros familiares)."
+    },
+    {
+        "pregunta": "30. El art. 153.1 se aplica cuando la víctima sea (entre otros):",
+        "respuestas": {
+            "a": "a) Esposa o mujer ligada por análoga relación de afectividad aun sin convivencia.",
+            "b": "b) Persona especialmente vulnerable que conviva con el autor.",
+            "c": "c) Ambas son correctas.",
+            "d": "d) Solo si hay convivencia en todos los casos."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 153.1). Protege tanto el género como la vulnerabilidad en convivencia."
+    },
+    {
+        "pregunta": "31. La pena del art. 153 se impondrá en su mitad superior cuando el delito se perpetre:",
+        "respuestas": {
+            "a": "a) En presencia de menores.",
+            "b": "b) Utilizando armas.",
+            "c": "c) En el domicilio común o de la víctima.",
+            "d": "d) Todas son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "(Art. 153.3). Son las agravantes específicas del maltrato."
+    },
+    {
+        "pregunta": "32. ¿Puede el Juez imponer una pena inferior en grado en el delito de maltrato del art. 153?",
+        "respuestas": {
+            "a": "a) No, las penas son mínimas.",
+            "b": "b) Sí, razonándolo en sentencia en atención a las circunstancias personales del autor y las del hecho.",
+            "c": "c) Solo si hay arrepentimiento espontáneo.",
+            "d": "d) Solo si la víctima retira la denuncia."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 153.4). Es una facultad excepcional del juez (\"podrá\")."
+    },
+    {
+        "pregunta": "33. La riña tumultuaria (art. 154) requiere que los que riñen entre sí lo hagan utilizando medios o instrumentos que pongan en peligro:",
+        "respuestas": {
+            "a": "a) La propiedad privada.",
+            "b": "b) La vida o integridad de las personas.",
+            "c": "c) El orden público únicamente.",
+            "d": "d) La libertad de deambulación."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 154). \"Acometiéndose tumultuariamente\"."
+    },
+    {
+        "pregunta": "34. La pena para la riña tumultuaria es de:",
+        "respuestas": {
+            "a": "a) Prisión de tres meses a un año o multa de seis a 24 meses.",
+            "b": "b) Prisión de seis meses a dos años.",
+            "c": "c) Multa de uno a tres meses.",
+            "d": "d) Prisión de uno a tres años."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 154). La b es para maltrato agravado."
+    },
+    {
+        "pregunta": "35. Para que el consentimiento exima de responsabilidad penal en trasplantes de órganos o esterilizaciones (art. 156), este debe ser:",
+        "respuestas": {
+            "a": "a) Viciado.",
+            "b": "b) Obtenido mediante precio o recompensa.",
+            "c": "c) Válido, libre, consciente y expresamente emitido.",
+            "d": "d) Verbal ante dos testigos."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 156). Si hay precio (b) no exime."
+    },
+    {
+        "pregunta": "36. El tráfico de órganos humanos (art. 156 bis) se castiga, en el caso de órganos de personas vivas, con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de tres a seis años.",
+            "b": "b) Prisión de seis a doce años.",
+            "c": "c) Prisión de cinco a diez años.",
+            "d": "d) Prisión de dos a cinco años."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 156 bis.1). Si es de persona fallecida es de 3 a 6 años."
+    },
+    {
+        "pregunta": "37. En el tráfico de órganos, si el receptor del órgano consiente la realización del trasplante conociendo su origen ilícito:",
+        "respuestas": {
+            "a": "a) Queda exento de pena.",
+            "b": "b) Se le impone la misma pena que al promotor.",
+            "c": "c) Podrá ser castigado con las mismas penas que el apartado 1, rebajadas en uno o dos grados.",
+            "d": "d) Solo se le sanciona administrativamente."
+        },
+        "solucion": "c",
+        "explicacion": "(Art. 156 bis.3). También el receptor es castigado."
+    },
+    {
+        "pregunta": "38. La provocación, conspiración y proposición para el homicidio se castiga con:",
+        "respuestas": {
+            "a": "a) La pena del homicidio.",
+            "b": "b) La pena inferior en uno o dos grados.",
+            "c": "c) No se castigan los actos preparatorios en el homicidio.",
+            "d": "d) Multa de seis a doce meses."
+        },
+        "solucion": "b",
+        "explicacion": "(Art. 141). Regla general para actos preparatorios en este título."
+    },
+    {
+        "pregunta": "39. Según el art. 140 bis, a los condenados por delitos de este título (homicidio/asesinato) se les podrá imponer además:",
+        "respuestas": {
+            "a": "a) Una medida de libertad vigilada.",
+            "b": "b) La prohibición de residir en Asturias.",
+            "c": "c) La pérdida de la nacionalidad.",
+            "d": "d) Una multa del triple del beneficio obtenido."
+        },
+        "solucion": "a",
+        "explicacion": "(Art. 140 bis). Es una medida de seguridad post-pena."
+    },
+    {
+        "pregunta": "40. Se considera \"miembro principal\" a efectos de lesiones (art. 149) según los ejemplos de tus apuntes:",
+        "respuestas": {
+            "a": "a) Un dedo.",
+            "b": "b) El bazo.",
+            "c": "c) Una pierna.",
+            "d": "d) Las piezas dentales."
+        },
+        "solucion": "c",
+        "explicacion": "Ojos, brazos, manos, pies son principales. Los dedos y el bazo no lo son (art. 150)."
+    }
+]

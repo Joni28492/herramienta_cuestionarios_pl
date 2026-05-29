@@ -1,0 +1,497 @@
+[
+    {
+        "pregunta": "1. Las medidas provisionales adoptadas antes de la iniciación del procedimiento deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que deberá efectuarse dentro de los:",
+        "respuestas": {
+            "a": "a) Diez días siguientes a su adopción.",
+            "b": "b) Quince días siguientes a su adopción.",
+            "c": "c) Diez días siguientes a su notificación.",
+            "d": "d) Veinte días naturales siguientes a su adopción."
+        },
+        "solucion": "b",
+        "explicacion": "El Art. 56 establece este plazo máximo para confirmar medidas tras la iniciación. Trampa: Se suele confundir con los 10 días de subsanación."
+    },
+    {
+        "pregunta": "2. Según la Ley 39/2015, los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa, como consecuencia de orden superior, por denuncia o:",
+        "respuestas": {
+            "a": "a) Por petición razonada de otros órganos.",
+            "b": "b) Por solicitud razonada de los interesados.",
+            "c": "c) Por mandato legal expreso.",
+            "d": "d) Por providencia de apremio."
+        },
+        "solucion": "a",
+        "explicacion": "El Art. 58 define las 4 formas de inicio de oficio. La opción b) es inicio a solicitud."
+    },
+    {
+        "pregunta": "3. Si una solicitud de iniciación no reúne los requisitos exigidos, se requerirá al interesado para que subsane la falta en un plazo de:",
+        "respuestas": {
+            "a": "a) Diez días, ampliables a cinco más si la dificultad del caso lo requiere.",
+            "b": "b) Diez días hábiles, improrrogables.",
+            "c": "c) Quince días naturales.",
+            "d": "d) Diez días, salvo que el procedimiento sea de urgencia, en cuyo caso serán cinco."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 68. Trampa: El plazo de urgencia (opción d) reduce plazos a la mitad, pero la subsanación tiene su propia regla de ampliación."
+    },
+    {
+        "pregunta": "4. ¿En qué momento del procedimiento pueden los interesados aducir alegaciones y aportar documentos u otros elementos de juicio?",
+        "respuestas": {
+            "a": "a) Únicamente en el trámite de audiencia.",
+            "b": "b) En cualquier momento anterior al trámite de audiencia.",
+            "c": "c) En cualquier momento anterior a la propuesta de resolución.",
+            "d": "d) Solo durante el periodo de prueba."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 76. Tras la audiencia se redacta la propuesta de resolución, por lo que ya no es el momento procesal oportuno."
+    },
+    {
+        "pregunta": "5. Cuando la Administración no tenga por ciertos los hechos alegados por los interesados, el instructor acordará la apertura de un período de prueba por un plazo:",
+        "respuestas": {
+            "a": "a) No superior a treinta días ni inferior a diez.",
+            "b": "b) No superior a veinte días ni inferior a diez.",
+            "c": "c) De quince días hábiles.",
+            "d": "d) De treinta días naturales."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 77. Es el plazo estándar de prueba."
+    },
+    {
+        "pregunta": "6. En el periodo extraordinario de prueba, a petición de los interesados, se podrán practicar las que sean pertinentes en un plazo:",
+        "respuestas": {
+            "a": "a) No superior a quince días.",
+            "b": "b) No superior a diez días.",
+            "c": "c) De siete días hábiles.",
+            "d": "d) No existe el periodo extraordinario de prueba en la Ley 39/2015."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 77. El periodo extraordinario es una cifra específica y corta."
+    },
+    {
+        "pregunta": "7. Los informes solicitados a otros órganos para resolver el procedimiento serán, por norma general:",
+        "respuestas": {
+            "a": "a) Preceptivos y vinculantes.",
+            "b": "b) Facultativos y vinculantes.",
+            "c": "c) Facultativos y no vinculantes.",
+            "d": "d) Preceptivos y no vinculantes."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 80. Es la regla general salvo que la ley diga lo contrario."
+    },
+    {
+        "pregunta": "8. El plazo para emitir los informes, salvo que una disposición o el cumplimiento del resto de plazos exija otro menor o mayor, será de:",
+        "respuestas": {
+            "a": "a) Diez días.",
+            "b": "b) Quince días.",
+            "c": "c) Un mes.",
+            "d": "d) Cinco días."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 80. Plazo general para emitir informes."
+    },
+    {
+        "pregunta": "9. El trámite de audiencia se realizará en un plazo:",
+        "respuestas": {
+            "a": "a) No inferior a diez días ni superior a quince.",
+            "b": "b) No inferior a diez días ni superior a veinte.",
+            "c": "c) De quince días naturales.",
+            "d": "d) De diez días hábiles improrrogables."
+        },
+        "solucion": "a",
+        "explicacion": "No inferior a diez días ni superior a quince. Art. 82. Plazo crítico para exámenes."
+    },
+    {
+        "pregunta": "10. Se podrá prescindir del trámite de audiencia cuando:",
+        "respuestas": {
+            "a": "a) El procedimiento sea de urgencia.",
+            "b": "b) No figuren en el procedimiento ni sean tenidos en cuenta en la resolución otros hechos ni otras alegaciones y pruebas que las aducidas por el interesado.",
+            "c": "c) La resolución sea favorable al interesado.",
+            "d": "d) Así lo decida el instructor por razones de interés público debidamente motivadas."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 82.4. Si no hay nada nuevo que el interesado no sepa, la audiencia es redundante."
+    },
+    {
+        "pregunta": "11. El plazo para que los interesados formulen alegaciones tras la realización de actuaciones complementarias es de:",
+        "respuestas": {
+            "a": "a) Cinco días.",
+            "b": "b) Siete días.",
+            "c": "c) Diez días.",
+            "d": "d) Quince días."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 87. Plazo muy específico para alegaciones tras actuaciones complementarias."
+    },
+    {
+        "pregunta": "12. En los procedimientos iniciados a solicitud del interesado, la paralización del expediente por causa imputable al mismo producirá la caducidad transcurridos:",
+        "respuestas": {
+            "a": "a) Tres meses.",
+            "b": "b) Seis meses.",
+            "c": "c) Un mes.",
+            "d": "d) Dos meses."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 95. Es el plazo de inactividad del interesado que conlleva el archivo."
+    },
+    {
+        "pregunta": "13. No se producirá la caducidad del procedimiento por la inactividad del interesado si:",
+        "respuestas": {
+            "a": "a) El interesado es una Administración Pública.",
+            "b": "b) La cuestión suscitada afecta al interés general o fuera conveniente sustanciarla para su definición y esclarecimiento.",
+            "c": "c) El procedimiento es sancionador.",
+            "d": "d) El interesado ha solicitado una ampliación de plazo."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 95. La Administración puede seguir de oficio si es de importancia pública."
+    },
+    {
+        "pregunta": "14. En la tramitación simplificada del procedimiento, este deberá ser resuelto en el plazo de:",
+        "respuestas": {
+            "a": "a) Treinta días.",
+            "b": "b) Quince días.",
+            "c": "c) Dos meses.",
+            "d": "d) Tres meses."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 96. La resolución en el procedimiento simplificado es mucho más rápida que los 3 o 6 meses habituales."
+    },
+    {
+        "pregunta": "15. Contra la resolución que declare la aplicación de la tramitación de urgencia al procedimiento:",
+        "respuestas": {
+            "a": "a) Cabe recurso de alzada.",
+            "b": "b) Cabe recurso potestativo de reposición.",
+            "c": "c) No cabrá recurso alguno.",
+            "d": "d) Cabe recurso ante la jurisdicción contencioso-administrativa en el plazo de dos meses."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 33. Es una decisión de gestión procesal no recurrible de forma independiente."
+    },
+    {
+        "pregunta": "16. Los actos de las Administraciones Públicas sujetos al Derecho Administrativo serán ejecutivos, salvo que (señale la incorrecta):",
+        "respuestas": {
+            "a": "a) Se produzca la suspensión de la ejecución del acto.",
+            "b": "b) Se trate de una resolución de un procedimiento sancionador contra la que quepa recurso en vía administrativa.",
+            "c": "c) Se trate de un acto de trámite cualificado.",
+            "d": "d) Una disposición establezca lo contrario o se necesite aprobación o autorización superior."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 98. Los actos de trámite cualificados permiten interponer recursos, pero no son una causa de falta de ejecutividad por sí mismos."
+    },
+    {
+        "pregunta": "17. El medio de ejecución forzosa consistente en la exacción de deudas pecuniarias es:",
+        "respuestas": {
+            "a": "a) La ejecución subsidiaria.",
+            "b": "b) El apremio sobre el patrimonio.",
+            "c": "c) La multa coercitiva.",
+            "d": "d) La compulsión sobre las personas."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 101. Específico para deudas de dinero."
+    },
+    {
+        "pregunta": "18. ¿Qué medio de ejecución forzosa se utilizará para actos que, por no ser personalísimos, puedan ser realizados por sujeto distinto del obligado?",
+        "respuestas": {
+            "a": "a) Multa coercitiva.",
+            "b": "b) Compulsión sobre las personas.",
+            "c": "c) Ejecución subsidiaria.",
+            "d": "d) Apremio sobre el patrimonio."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 102. Se hace a costa del obligado por un tercero."
+    },
+    {
+        "pregunta": "19. La multa coercitiva es:",
+        "respuestas": {
+            "a": "a) Una sanción administrativa por infracción de la ley.",
+            "b": "b) Independiente de las sanciones que puedan imponerse con tal carácter y compatible con ellas.",
+            "c": "c) Un medio para castigar el impago de tasas.",
+            "d": "d) Un recargo del 20% sobre la deuda principal."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 103. No es una sanción, es un medio de presión para que se cumpla lo ordenado."
+    },
+    {
+        "pregunta": "20. La ejecución por compulsión directa sobre las personas solo podrá utilizarse:",
+        "respuestas": {
+            "a": "a) En cualquier acto administrativo que implique una obligación de hacer.",
+            "b": "b) Para el cobro de multas de tráfico.",
+            "c": "c) En los casos en que la ley expresamente lo autorice y con respeto a la dignidad y derechos constitucionales.",
+            "d": "d) Cuando el interesado sea una persona jurídica."
+        },
+        "solucion": "c",
+        "explicacion": "Es el medio más restrictivo, exige habilitación legal de rango legal. Art. 104."
+    },
+    {
+        "pregunta": "21. Son motivos de abstención para las autoridades y personal al servicio de las Administraciones (señale la falsa):",
+        "respuestas": {
+            "a": "a) Tener interés personal en el asunto.",
+            "b": "b) Tener parentesco de consanguinidad dentro del cuarto grado con los interesados.",
+            "c": "c) Mantener una relación de servicio con persona física interesada directamente en el asunto.",
+            "d": "d) Haber participado en un procedimiento similar hace más de dos años."
+        },
+        "solucion": "d",
+        "explicacion": "Art. 23 Ley 40/2015. No es motivo de abstención. Los otros sí (interés, parentesco, relación de servicio)."
+    },
+    {
+        "pregunta": "22. Si el recusado niega la causa de recusación, el superior resolverá en el plazo de:",
+        "respuestas": {
+            "a": "a) Diez días.",
+            "b": "b) Tres días.",
+            "c": "c) Cinco días.",
+            "d": "d) Tres meses."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 24 Ley 40/2015. Plazo brevísimo para resolver incidentes de recusación."
+    },
+    {
+        "pregunta": "23. Cuando los plazos se señalen por horas, se entiende que estas son:",
+        "respuestas": {
+            "a": "a) Naturales.",
+            "b": "b) Hábiles todas las horas del día que formen parte de un día hábil.",
+            "c": "c) Laborables según el convenio del ayuntamiento.",
+            "d": "d) Solo las horas de oficina de 8:00 a 15:00."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 30.1."
+    },
+    {
+        "pregunta": "24. Siempre que por Ley o en el Derecho de la Unión Europea no se exprese otro cómputo, cuando los plazos se señalen por días, se entiende que estos son:",
+        "respuestas": {
+            "a": "a) Naturales, excluyéndose los domingos y festivos.",
+            "b": "b) Hábiles, excluyéndose sábados, domingos y festivos.",
+            "c": "c) Laborales, incluyendo sábados.",
+            "d": "d) Naturales en todo caso."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 30.2. Trampa: Antes los sábados eran hábiles, ahora no."
+    },
+    {
+        "pregunta": "25. Si el último día de un plazo es inhábil en el municipio de residencia del interesado y hábil en la sede del órgano administrativo:",
+        "respuestas": {
+            "a": "a) El plazo vence en la fecha del órgano administrativo.",
+            "b": "b) Se entenderá prorrogado al primer día hábil siguiente.",
+            "c": "c) El interesado debe presentar el documento de forma electrónica.",
+            "d": "d) El plazo se reduce en un día."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 30.6. Prevalece la protección del interesado en caso de disparidad de calendarios."
+    },
+    {
+        "pregunta": "26. La Administración podrá conceder de oficio o a petición de los interesados una ampliación de los plazos establecidos que:",
+        "respuestas": {
+            "a": "a) No exceda de la mitad de los mismos.",
+            "b": "b) No exceda de diez días.",
+            "c": "c) Sea igual al plazo original.",
+            "d": "d) Solo puede ser solicitada por la Administración."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 32. Regla general de ampliación."
+    },
+    {
+        "pregunta": "27. En la tramitación de urgencia, los plazos establecidos para el procedimiento ordinario:",
+        "respuestas": {
+            "a": "a) Se reducen en cinco días.",
+            "b": "b) Se reducen a la mitad, salvo los relativos a presentación de solicitudes y recursos.",
+            "c": "c) Se suspenden.",
+            "d": "d) Se mantienen igual para el interesado pero se reducen para la Administración."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 33. Excepto solicitudes y recursos para no mermar derechos de defensa."
+    },
+    {
+        "pregunta": "28. Son actos nulos de pleno derecho aquellos que:",
+        "respuestas": {
+            "a": "a) Tengan un defectu de forma que impida al acto alcanzar su fin.",
+            "b": "b) Sean dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.",
+            "c": "c) Contengan cualquier infracción del ordenamiento jurídico.",
+            "d": "d) Se dicten fuera del plazo establecido."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 47. Es el caso clásico de nulidad radical."
+    },
+    {
+        "pregunta": "29. La realización de actuaciones administrativas fuera del tiempo establecido para ellas:",
+        "respuestas": {
+            "a": "a) Solo implicará la anulabilidad del acto cuando así lo imponga la naturaleza del término o plazo.",
+            "b": "b) Implica la nulidad de pleno derecho en todo caso.",
+            "c": "c) No tiene efectos jurídicos si no hay dolo.",
+            "d": "d) Produce la caducidad inmediata del expediente."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 48. El incumplimiento de plazos suele ser irregularidad no invalidante salvo que el plazo sea esencial."
+    },
+    {
+        "pregunta": "30. La declaración de lesividad de actos anulables no podrá adoptarse una vez transcurridos:",
+        "respuestas": {
+            "a": "a) Cuatro años desde que se dictó el acto.",
+            "b": "b) Dos años desde que se dictó el acto.",
+            "c": "c) Seis meses desde la iniciación del procedimiento.",
+            "d": "d) Diez años en caso de infracciones graves."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 107. Plazo de caducidad de la acción para impugnar actos favorables pero anulables."
+    },
+    {
+        "pregunta": "31. El procedimiento de revisión de oficio de actos nulos, si se inicia de oficio, producirá la caducidad si no se dicta resolución en:",
+        "respuestas": {
+            "a": "a) Tres meses.",
+            "b": "b) Un mes.",
+            "c": "c) Seis meses.",
+            "d": "d) Cuatro años."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 106.5. La revisión de oficio tiene un plazo de resolución largo pero tasado para evitar la incertidumbre."
+    },
+    {
+        "pregunta": "32. Las Administraciones Públicas podrán rectificar en cualquier momento, de oficio o a instancia de los interesados:",
+        "respuestas": {
+            "a": "a) Los actos que incurran en infracción de ley.",
+            "b": "b) Los errores materiales, de hecho o aritméticos existentes en sus actos.",
+            "c": "c) Las sanciones impuestas por la Policía Local.",
+            "d": "d) Los actos dictados por órganos incompetentes."
+        },
+        "solucion": "b",
+        "explicacion": "Pueden rectificarse \"en cualquier momento\", sin plazos. Art. 109."
+    },
+    {
+        "pregunta": "33. Ponen fin a la vía administrativa:",
+        "respuestas": {
+            "a": "a) Las resoluciones de los recursos de alzada.",
+            "b": "b) Los actos dictados por órganos que tengan superior jerárquico.",
+            "c": "c) Las propuestas de resolución.",
+            "d": "d) Los informes preceptivos."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 114. Al ser el recurso ante el superior, su decisión agota la vía."
+    },
+    {
+        "pregunta": "34. El recurso de alzada podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo. Si se interpone ante el primero, este deberá remitirlo al segundo en el plazo de:",
+        "respuestas": {
+            "a": "a) Cinco días.",
+            "b": "b) Diez días.",
+            "c": "c) Quince días.",
+            "d": "d) Un mes."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 121. Plazo de remisión entre órganos."
+    },
+    {
+        "pregunta": "35. El plazo para interponer el recurso de alzada, si el acto fuera expreso, es de:",
+        "respuestas": {
+            "a": "a) Un mes.",
+            "b": "b) Tres meses.",
+            "c": "c) Diez días.",
+            "d": "d) Quince días."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 122. Plazo estándar de interposición."
+    },
+    {
+        "pregunta": "36. El plazo máximo para dictar y notificar la resolución del recurso de alzada será de:",
+        "respuestas": {
+            "a": "a) Un mes.",
+            "b": "b) Tres meses.",
+            "c": "c) Seis meses.",
+            "d": "d) Diez días."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 122. Si no se resuelve en este plazo, se entiende desestimado por silencio (salvo la excepción de \"doble silencio\" positivo)."
+    },
+    {
+        "pregunta": "37. Contra la resolución de un recurso de alzada:",
+        "respuestas": {
+            "a": "a) Cabe interponer recurso potestativo de reposición.",
+            "b": "b) No cabrá ningún otro recurso administrativo, salvo el extraordinario de revisión en los casos previstos.",
+            "c": "c) Cabe interponer otro recurso de alzada ante el mismo órgano.",
+            "d": "d) No cabe recurso contencioso-administrativo."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 122. Solo queda la vía judicial."
+    },
+    {
+        "pregunta": "38. El recurso potestativo de reposición se interpone contra actos que:",
+        "respuestas": {
+            "a": "a) No ponen fin a la vía administrativa.",
+            "b": "b) Ponen fin a la vía administrativa.",
+            "c": "c) Son actos de trámite no cualificados.",
+            "d": "d) Son nulos de pleno derecho únicamente."
+        },
+        "solucion": "b",
+        "explicacion": "Es \"potestativo\" porque el interesado elige si ponerlo o ir directo al juzgado. Art. 123."
+    },
+    {
+        "pregunta": "39. El plazo para resolver y notificar el recurso potestativo de reposición será de:",
+        "respuestas": {
+            "a": "a) Un mes.",
+            "b": "b) Tres meses.",
+            "c": "c) Diez días.",
+            "d": "d) Veinte días."
+        },
+        "solucion": "a",
+        "explicacion": "Es más rápido que la alzada. Art. 124."
+    },
+    {
+        "pregunta": "40. En el recurso extraordinario de revisión, si se interpone por aparecer documentos de valor esencial para la resolución del asunto que evidencien el error de la resolución recurrida, el plazo es de:",
+        "respuestas": {
+            "a": "a) Tres meses desde el conocimiento de los documentos.",
+            "b": "b) Cuatro años siguientes a la fecha de la notificación de la resolución impugnada.",
+            "c": "c) Un mes desde la notificación.",
+            "d": "d) Seis meses desde que los documentos fueron expedidos."
+        },
+        "solucion": "a",
+        "explicacion": "Para documentos nuevos o sentencias criminales el plazo es corto desde que se descubren. Art. 125."
+    },
+    {
+        "pregunta": "41. El plazo de interposición del recurso extraordinario de revisión por error de hecho es de:",
+        "respuestas": {
+            "a": "a) Un mes.",
+            "b": "b) Tres meses.",
+            "c": "c) Cuatro años.",
+            "d": "d) Diez años."
+        },
+        "solucion": "c",
+        "explicacion": "El error de hecho permite un plazo de reacción muy largo. Art. 125."
+    },
+    {
+        "pregunta": "42. El órgano competente para la resolución del recurso extraordinario de revisión deberá pronunciarse sobre la admisión a trámite del mismo en el plazo de:",
+        "respuestas": {
+            "a": "a) Un mes desde su interposición.",
+            "b": "b) Tres meses desde su interposición.",
+            "c": "c) Diez días.",
+            "d": "d) No hay plazo de admisión, se resuelve directamente en seis meses."
+        },
+        "solucion": "a",
+        "explicacion": "Plazo para que el órgano decida si el recurso tiene base para ser admitido. Art. 126."
+    },
+    {
+        "pregunta": "43. ¿Cuándo se entenderá desestimado un recurso extraordinario de revisión?",
+        "respuestas": {
+            "a": "a) Transcurrido un mes desde su interposición sin dictarse resolución.",
+            "b": "b) Transcurridos tres meses desde su interposición sin dictarse resolución.",
+            "c": "c) Transcurridos seis meses desde su interposición sin dictarse resolución.",
+            "d": "d) Nunca se entiende desestimado por silencio."
+        },
+        "solucion": "b",
+        "explicacion": "Silencio administrativo negativo. Art. 126.3."
+    },
+    {
+        "pregunta": "44. Contra las disposiciones administrativas de carácter general:",
+        "respuestas": {
+            "a": "a) Cabe recurso de alzada.",
+            "b": "b) Cabe recurso de reposición.",
+            "c": "c) No cabrá recurso en vía administrativa.",
+            "d": "d) Cabe recurso extraordinario de revisión."
+        },
+        "solucion": "c",
+        "explicacion": "Contra reglamentos se va directo a la vía contencioso-administrativa. Art. 112.3."
+    },
+    {
+        "pregunta": "45. La suspensión de la ejecución de un acto impugnado mediante recurso se entenderá concedida si el órgano competente no dicta resolución expresa al respecto transcurrido:",
+        "respuestas": {
+            "a": "a) Un mes desde que la solicitud haya tenido entrada en el registro electrónico de la Administración u Organismo competente.",
+            "b": "b) Diez días desde la solicitud.",
+            "c": "c) Quince días desde la interposición del recurso.",
+            "d": "d) Tres meses, coincidiendo con el plazo del recurso de alzada."
+        },
+        "solucion": "a",
+        "explicacion": "Es un caso de silencio positivo \"temporal\" sobre la suspensión. Art. 117.3."
+    }
+]

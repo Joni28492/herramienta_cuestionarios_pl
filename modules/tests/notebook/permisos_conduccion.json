@@ -1,0 +1,497 @@
+[
+    {
+        "pregunta": "1. El permiso de conducción de la clase A1 autoriza a conducir tricycles de motor cuya potencia máxima:",
+        "respuestas": {
+            "a": "a) No exceda de 11 kW.",
+            "b": "b) No exceda de 15 kW.",
+            "c": "c) Sea superior a 15 kW, siempre que el conductor tenga 21 años.",
+            "d": "d) No exceda de 35 kW."
+        },
+        "solucion": "b",
+        "explicacion": "Los 11 kW son para motocicletas, los tricycles tienen su propio límite en el A1."
+    },
+    {
+        "pregunta": "2. ¿A qué edad mínima se pueden conducir tricycles de motor cuya potencia exceda de 15 kW?",
+        "respuestas": {
+            "a": "a) 18 años, con el permiso de la clase A2.",
+            "b": "b) 20 años, con el permiso de la clase A.",
+            "c": "c) 21 años, con el permiso de la clase A.",
+            "d": "d) 21 años, con el permiso de la clase B."
+        },
+        "solucion": "c",
+        "explicacion": "Hasta los 21 años el permiso A no autoriza tricycles > 15 kW."
+    },
+    {
+        "pregunta": "3. El permiso de la clase B, con una antigüedad superior a 3 años, permite conducir por territorio nacional las motocicletas del permiso A1. ¿Es esto aplicable a otros países?",
+        "respuestas": {
+            "a": "a) Sí, en toda la Unión Europea por reciprocidad.",
+            "b": "b) No, solo es válido en territorio nacional.",
+            "c": "c) Sí, pero solo en los países del Espacio Económico Europeo.",
+            "d": "d) Solo si la motocicleta tiene cambio automático."
+        },
+        "solucion": "b",
+        "explicacion": "Es una concesión interna de España."
+    },
+    {
+        "pregunta": "4. Un conjunto de vehículos compuesto por un turismo y un remolque cuya MMA es de 800 kg, siendo la MMA del conjunto de 4.100 kg, requiere:",
+        "respuestas": {
+            "a": "a) Solo el permiso de la clase B.",
+            "b": "b) El permiso de la clase B con la autorización armonizada B-96.",
+            "c": "c) El permiso de la clase B + E obligatoriamente por superar el remolque los 750 kg.",
+            "d": "d) La licencia LVA si el remolque es de carga."
+        },
+        "solucion": "b",
+        "explicacion": "Al superar el conjunto los 3.500 kg pero no los 4.250 kg, basta con el B-96."
+    },
+    {
+        "pregunta": "5. El permiso de la clase D1 autoriza a conducir automóviles para el transporte de hasta:",
+        "respuestas": {
+            "a": "a) 8 pasajeros además del conductor y 8 metros de longitud.",
+            "b": "b) 16 pasajeros además del conductor y 8 metros de longitud.",
+            "c": "c) 17 pasajeros además del conductor y 10 metros de longitud.",
+            "d": "d) 9 pasajeros además del conductor y sin límite de longitud."
+        },
+        "solucion": "b",
+        "explicacion": "Definición exacta del D1."
+    },
+    {
+        "pregunta": "6. Para obtener el permiso de la clase A, es requisito necesario ser titular del permiso A2 con una experiencia mínima de:",
+        "respuestas": {
+            "a": "a) 1 año.",
+            "b": "b) 2 años.",
+            "c": "c) 3 años.",
+            "d": "d) No se requiere experiencia previa si se supera un curso de formación."
+        },
+        "solucion": "b",
+        "explicacion": "Requisito legal para pasar del A2 al A."
+    },
+    {
+        "pregunta": "7. ¿Qué permiso se requiere para conducir un vehicle especial no agrícola que transporta a 12 personas (incluido el conductor) y cuya velocidad máxima es de 30 km/h?",
+        "respuestas": {
+            "a": "a) Permiso B.",
+            "b": "b) Permiso D1.",
+            "c": "c) Permiso D.",
+            "d": "d) Licencia LVA."
+        },
+        "solucion": "b",
+        "explicacion": "Al transportar entre 9 y 17 personas en un VE no agrícola, se rige por el permiso D1."
+    },
+    {
+        "pregunta": "8. La vigencia de los permisos de las clases C1, C1+E, C, C+E, D1, D1+E, D y D+E será de:",
+        "respuestas": {
+            "a": "a) 10 años hasta que el titular cumpla los 65 años.",
+            "b": "b) 5 años hasta que el titular cumpla los 65 años.",
+            "c": "c) 3 años a partir de los 65 años.",
+            "d": "d) Las opciones B y C son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "5 años hasta los 65, luego cada 3 años."
+    },
+    {
+        "pregunta": "9. Un conductor novel que obtiene su primer permiso (clase B) el 1 de junio de 2024, ¿con cuántos puntos parte inicialmente?",
+        "respuestas": {
+            "a": "a) 12 puntos.",
+            "b": "b) 10 puntos.",
+            "c": "c) 8 puntos.",
+            "d": "d) 6 puntos."
+        },
+        "solucion": "c",
+        "explicacion": "Saldo inicial para conductores noveles."
+    },
+    {
+        "pregunta": "10. ¿Cuál es el plazo máximo de antelación para presentar la solicitud de prórroga de un permiso de conducción antes de su caducidad?",
+        "respuestas": {
+            "a": "a) 1 mes.",
+            "b": "b) 3 meses.",
+            "c": "c) 6 meses.",
+            "d": "d) 15 días."
+        },
+        "solucion": "b",
+        "explicacion": "Plazo máximo legal para pedir la prórroga."
+    },
+    {
+        "pregunta": "11. La licencia de conducción para vehículos de personas de movilidad reducida (LCM) se puede obtener a partir de los:",
+        "respuestas": {
+            "a": "a) 14 años, pero no podrá transportar pasajeros hasta los 16.",
+            "b": "b) 15 años.",
+            "c": "c) 16 años.",
+            "d": "d) 14 años, pudiendo llevar pasajeros desde el primer momento."
+        },
+        "solucion": "a",
+        "explicacion": "Regla específica para la licencia LCM."
+    },
+    {
+        "pregunta": "12. Los titulares de un permiso de conducción expedido en un tercer país (no UE) que adquieran su residencia normal en España, podrán utilizarlo durante un plazo máximo de:",
+        "respuestas": {
+            "a": "a) 3 meses.",
+            "b": "b) 6 meses.",
+            "c": "c) 1 año.",
+            "d": "d) 2 años."
+        },
+        "solucion": "b",
+        "explicacion": "Desde que adquieren la residencia normal en España."
+    },
+    {
+        "pregunta": "13. Un camión con una MMA de 4.000 kg y que transporta a 5 personas además del conductor, requiere el permiso:",
+        "respuestas": {
+            "a": "a) B.",
+            "b": "b) C1.",
+            "c": "c) C.",
+            "d": "d) C1+E."
+        },
+        "solucion": "b",
+        "explicacion": "Automóviles > 3.500 kg hasta 7.500 kg y hasta 8 pasajeros."
+    },
+    {
+        "pregunta": "14. Para conducir un trolebús, según los apuntes, se requerirá:",
+        "respuestas": {
+            "a": "a) Un permiso especial de la clase T.",
+            "b": "b) El permiso exigido para la conducción de autobuses (D1 o D).",
+            "c": "c) El permiso C.",
+            "d": "d) Solo el permiso B y un curso de formación de la empresa."
+        },
+        "solucion": "b",
+        "explicacion": "Instrucción específica de los apuntes."
+    },
+    {
+        "pregunta": "15. La superación de un curso de sensibilización y reeducación vial de recuperación parcial permite recuperar un máximo de:",
+        "respuestas": {
+            "a": "a) 4 puntos.",
+            "b": "b) 6 puntos.",
+            "c": "c) 8 puntos.",
+            "d": "d) La mitad de los puntos perdidos."
+        },
+        "solucion": "b",
+        "explicacion": "Límite máximo de recuperación parcial."
+    },
+    {
+        "pregunta": "16. Un conductor que pierde todos sus puntos y obtiene un nuevo permiso tras el curso y examen, ¿con qué saldo de puntos empezará?",
+        "respuestas": {
+            "a": "a) 12 puntos.",
+            "b": "b) 8 puntos.",
+            "c": "c) 6 puntos.",
+            "d": "d) 10 puntos."
+        },
+        "solucion": "b",
+        "explicacion": "Tras recuperar el permiso por pérdida total de puntos, el saldo es de 8."
+    },
+    {
+        "pregunta": "17. ¿Qué antigüedad mínima en el permiso B se requiere para obtener la autorización especial para transportar mercancías peligrosas (ADR)?",
+        "respuestas": {
+            "a": "a) 1 año.",
+            "b": "b) 2 años.",
+            "c": "c) 3 años.",
+            "d": "d) No se requiere antigüedad."
+        },
+        "solucion": "a",
+        "explicacion": "Requisito de antigüedad en el permiso B para el ADR."
+    },
+    {
+        "pregunta": "18. La vigencia de la autorización especial ADR para mercancías peligrosas es de:",
+        "respuestas": {
+            "a": "a) 10 años.",
+            "b": "b) 5 años, prorrogables por otros 5.",
+            "c": "c) 3 años si el conductor es mayor de 65 años.",
+            "d": "d) Permanente mientras esté vigente el permiso de conducir."
+        },
+        "solucion": "b",
+        "explicacion": "Vigencia del ADR."
+    },
+    {
+        "pregunta": "19. El permiso de la clase AM autoriza a conducir:",
+        "respuestas": {
+            "a": "a) Ciclomotores de 2 o 3 ruedas y cuatriciclos ligeros.",
+            "b": "b) Motocicletas de hasta 50 cc.",
+            "c": "c) Solo ciclomotores de 2 ruedas.",
+            "d": "d) Vehículos agrícolas que no superen los 45 km/h."
+        },
+        "solucion": "a",
+        "explicacion": "Definición del permiso AM."
+    },
+    {
+        "pregunta": "20. Un aspirante al permiso A2 que ya posee el A1 con 2 años de experiencia, ¿qué prueba debe superar obligatoriamente?",
+        "respuestas": {
+            "a": "a) Control de conocimientos teóricos específicos.",
+            "b": "b) Control de aptitudes y comportamientos (circulación en vías abiertas).",
+            "c": "c) No tiene que hacer ninguna prueba.",
+            "d": "d) Solo el examen teórico común."
+        },
+        "solucion": "b",
+        "explicacion": "Al tener 2 años de A1, se ahorra la específica y circuito, pero no circulación."
+    },
+    {
+        "pregunta": "21. El permiso C+E habilita para conducir conjuntos de vehículos acoplados compuestos por un vehículo motor de la clase C y un remolque o semirremolque cuya MMA sea:",
+        "respuestas": {
+            "a": "a) Superior a 450 kg.",
+            "b": "b) Superior a 750 kg.",
+            "c": "c) Exactamente de 3.500 kg.",
+            "d": "d) De cualquier peso, siempre que el conjunto no pase de 12.000 kg."
+        },
+        "solucion": "b",
+        "explicacion": "El \"+E\" siempre implica remolque pesado > 750 kg."
+    },
+    {
+        "pregunta": "22. La Modalidad de Cualificación Inicial ACELERADA (CAP) para el permiso de la clase D autoriza a conducir dicho vehículo a los 21 años siempre que:",
+        "respuestas": {
+            "a": "a) El trayecto no sea superior a 50 km.",
+            "b": "b) Solo realice transporte discrecional.",
+            "c": "c) Se realice transporte de viajeros en servicios regulares cuyo trayecto no supere los 50 km.",
+            "d": "d) No lleve pasajeros."
+        },
+        "solucion": "c",
+        "explicacion": "Excepción del CAP acelerado para el permiso D a los 21 años."
+    },
+    {
+        "pregunta": "23. ¿Cuál es el crédito inicial de puntos para un conductor que, tras perder su permiso por agotamiento de puntos, obtiene uno nuevo?",
+        "respuestas": {
+            "a": "a) 12 puntos.",
+            "b": "b) 8 puntos.",
+            "c": "c) 4 puntos.",
+            "d": "d) Depende de su antigüedad anterior."
+        },
+        "solucion": "b",
+        "explicacion": "Confirmado en el art. 73.1."
+    },
+    {
+        "pregunta": "24. ¿Cuántos puntos se pierden por conducir un vehículo teniendo suspendida la autorización administrativa para conducir?",
+        "respuestas": {
+            "a": "a) 6 puntos.",
+            "b": "b) 4 puntos.",
+            "c": "c) 3 puntos.",
+            "d": "d) No resta puntos, es una infracción penal directa."
+        },
+        "solucion": "b",
+        "explicacion": "Infracción recogida en el Anexo II de la LSV."
+    },
+    {
+        "pregunta": "25. El permiso D1+E autoriza a conducir conjuntos de vehículos cuyo remolque tiene una MMA:",
+        "respuestas": {
+            "a": "a) Superior a 750 kg.",
+            "b": "b) Inferior a 750 kg.",
+            "c": "c) Máxima de 3.500 kg.",
+            "d": "d) Superior a 3.500 kg."
+        },
+        "solucion": "a",
+        "explicacion": "Igual que en el C+E, el \"+E\" define remolque pesado."
+    },
+    {
+        "pregunta": "26. Un tractor agrícola que, por construcción, puede alcanzar los 50 km/h, requiere para su conducción:",
+        "respuestas": {
+            "a": "a) Licencia LVA.",
+            "b": "b) Permiso de la clase B.",
+            "c": "c) Permiso de la clase C1.",
+            "d": "d) Solo ser mayor de 16 años."
+        },
+        "solucion": "b",
+        "explicacion": "Si el VE agrícola supera los 45 km/h, ya no vale la licencia LVA, se requiere el permiso B."
+    },
+    {
+        "pregunta": "27. Los conductores que mantengan la totalidad de sus puntos al no haber sido sancionados en firme durante 3 años, recibirán una bonificación de:",
+        "respuestas": {
+            "a": "a) 1 punto.",
+            "b": "b) 2 puntos.",
+            "c": "c) 3 puntos.",
+            "d": "d) 5 puntos."
+        },
+        "solucion": "b",
+        "explicacion": "Bonificación por los primeros 3 años sin sanciones."
+    },
+    {
+        "pregunta": "28. La pérdida de vigencia por desaparición de los requisitos psicofísicos exige un plazo de notificación de la resolución de:",
+        "respuestas": {
+            "a": "a) 15 días.",
+            "b": "b) 1 mes.",
+            "c": "c) 3 meses.",
+            "d": "d) 6 meses."
+        },
+        "solucion": "d",
+        "explicacion": "Plazo máximo para notificar la resolución de pérdida de vigencia."
+    },
+    {
+        "pregunta": "29. Si un conductor es condenado por sentencia firme a privación del derecho a conducir por tiempo SUPERIOR a 2 años, para volver a conducir debe:",
+        "respuestas": {
+            "a": "a) Superar solo un curso de reeducación.",
+            "b": "b) Realizar curso de sensibilización y superar la prueba de control de conocimientos (examen) en la JPT.",
+            "c": "c) Esperar 6 meses tras cumplir la condena.",
+            "d": "d) Canjear su permiso por uno extranjero."
+        },
+        "solucion": "b",
+        "explicacion": "Para condenas > 2 años se asimila a la pérdida total de puntos."
+    },
+    {
+        "pregunta": "30. En caso de sustracción del permiso de conducción, el duplicado debe solicitarse en el plazo de:",
+        "respuestas": {
+            "a": "a) 10 días.",
+            "b": "b) 15 días.",
+            "c": "c) 1 mes.",
+            "d": "d) Inmediatamente."
+        },
+        "solucion": "b",
+        "explicacion": "Plazo para comunicar variación de datos o solicitar duplicados."
+    },
+    {
+        "pregunta": "31. El permiso de la clase B permite conducir automóviles impulsados por combustibles alternativos (mercancías) de hasta 4.250 kg si el exceso de masa sobre 3.500 kg proviene del sistema de propulsión y el conductor tiene una antigüedad de:",
+        "respuestas": {
+            "a": "a) 1 año.",
+            "b": "b) 2 años.",
+            "c": "c) 3 años.",
+            "d": "d) 5 años."
+        },
+        "solucion": "b",
+        "explicacion": "Requisito de antigüedad para llevar vehículos de combustible alternativo de 4.250 kg con el B."
+    },
+    {
+        "pregunta": "32. El curso de sensibilización y reeducación vial para recuperar el permiso tras perder todos los puntos tiene una duración máxima de:",
+        "respuestas": {
+            "a": "a) 12 horas.",
+            "b": "b) 15 horas.",
+            "c": "c) 24 horas.",
+            "d": "d) 30 horas."
+        },
+        "solucion": "d",
+        "explicacion": "Duración máxima del curso para recuperación de permiso tras pérdida total."
+    },
+    {
+        "pregunta": "33. Un permiso de conducción cuya vigencia ha CADUCADO conlleva:",
+        "respuestas": {
+            "a": "a) Inmovilización inmediata del vehículo.",
+            "b": "b) Denuncia administrativa y retirada del permiso para remitirlo a la JPT.",
+            "c": "c) Detención por delito contra la seguridad vial.",
+            "d": "d) Pérdida de 4 puntos."
+        },
+        "solucion": "b",
+        "explicacion": "No procede inmovilización si el conductor tiene el permiso adecuado aunque esté caducado."
+    },
+    {
+        "pregunta": "34. ¿A qué grupo de conductores pertenecen los titulares del permiso de la clase B+E?",
+        "respuestas": {
+            "a": "a) Grupo 1.",
+            "b": "b) Grupo 2.",
+            "c": "c) Grupo Especial.",
+            "d": "d) Grupo de Profesionales."
+        },
+        "solucion": "a",
+        "explicacion": "El Grupo 1 incluye AM, A1, A2, A, B y B+E."
+    },
+    {
+        "pregunta": "35. Un vehículo especial agrícola autopropulsado que supera las dimensiones máximas establecidas para los vehículos ordinarios requiere:",
+        "respuestas": {
+            "a": "a) Licencia LVA.",
+            "b": "b) Permiso B.",
+            "c": "c) Permiso C1.",
+            "d": "d) No puede circular por la vía pública."
+        },
+        "solucion": "b",
+        "explicacion": "Si excede masas o dimensiones de ordinarios, requiere permiso B y no licencia."
+    },
+    {
+        "pregunta": "36. El permiso internacional para conducir tiene una validez de:",
+        "respuestas": {
+            "a": "a) 6 meses.",
+            "b": "b) 1 año.",
+            "c": "c) 2 años.",
+            "d": "d) Lo que reste de vigencia al permiso nacional."
+        },
+        "solucion": "b",
+        "explicacion": "Validez del permiso internacional."
+    },
+    {
+        "pregunta": "37. ¿Cuántos puntos se pueden recuperar, como máximo, cada dos años mediante la realización de un curso de recuperación parcial?",
+        "respuestas": {
+            "a": "a) 4 puntos.",
+            "b": "b) 6 puntos.",
+            "c": "c) 8 puntos.",
+            "d": "d) Todos los que falten hasta llegar a 12."
+        },
+        "solucion": "b",
+        "explicacion": "Límite máximo por curso cada dos años."
+    },
+    {
+        "pregunta": "38. La pérdida de puntos por una sola infracción no podrá ser superior a 8 puntos, salvo que:",
+        "respuestas": {
+            "a": "a) El conductor sea profesional.",
+            "b": "b) Concurran infracciones muy graves expresamente previstas (alcohol, drogas, velocidad, etc.).",
+            "c": "c) El conductor sea reincidente en el mismo año.",
+            "d": "d) El vehículo sea de transporte escolar."
+        },
+        "solucion": "b",
+        "explicacion": "Como alcohol, drogas o exceso de velocidad extremo."
+    },
+    {
+        "pregunta": "39. Un conductor que ha perdido la totalidad de los puntos no podrá obtener un nuevo permiso hasta transcurridos:",
+        "respuestas": {
+            "a": "a) 3 meses (6 para profesionales).",
+            "b": "b) 6 meses (3 para profesionales).",
+            "c": "c) 1 año en todos los casos.",
+            "d": "d) 2 años."
+        },
+        "solucion": "b",
+        "explicacion": "Plazo general para poder obtener el nuevo permiso tras pérdida total."
+    },
+    {
+        "pregunta": "40. El permiso de la clase C autoriza a conducir automóviles distintos de los D1 o D, cuya MMA sea superior a 3.500 kg y el número de asientos (incluido conductor) no sea superior a:",
+        "respuestas": {
+            "a": "a) 8.",
+            "b": "b) 9.",
+            "c": "c) 17.",
+            "d": "d) No hay límite de asientos si es un camión."
+        },
+        "solucion": "b",
+        "explicacion": "El permiso C autoriza hasta 8 pasajeros + conductor = 9 plazas."
+    },
+    {
+        "pregunta": "41. ¿Cuál es el porcentaje de exceso de tiempo de conducción que conlleva la pérdida de 6 puntos?",
+        "respuestas": {
+            "a": "a) Más del 20%.",
+            "b": "b) Más del 30%.",
+            "c": "c) Más del 50%.",
+            "d": "d) Cualquier exceso superior a 1 hora."
+        },
+        "solucion": "c",
+        "explicacion": "Tanto en exceso de conducción como en falta de descanso."
+    },
+    {
+        "pregunta": "42. Los conductores clasificados en el Grupo 2 (C, D, etc.) deben renovar su permiso a partir de los 65 años cada:",
+        "respuestas": {
+            "a": "a) 5 años.",
+            "b": "b) 3 años.",
+            "c": "c) 2 años.",
+            "d": "d) 1 año."
+        },
+        "solucion": "b",
+        "explicacion": "Periodicidad de renovación para el Grupo 2 a partir de los 65 años."
+    },
+    {
+        "pregunta": "43. Para conducir un conjunto de vehículos con permiso B y remolque > 750 kg, si el conjunto mide entre 3.500 kg y 4.250 kg de MMA, se requiere:",
+        "respuestas": {
+            "a": "a) Permiso B+E obligatoriamente.",
+            "b": "b) Solo el permiso B.",
+            "c": "c) Autorización B-96 (superando prueba de aptitudes y comportamientos).",
+            "d": "d) No está permitida esa combinación."
+        },
+        "solucion": "c",
+        "explicacion": "Es la habilitación específica para conjuntos entre 3.500 y 4.250 kg."
+    },
+    {
+        "pregunta": "44. El permiso AM habilita a conducir vehículos para personas de movilidad reducida:",
+        "respuestas": {
+            "a": "a) Sí, siempre.",
+            "b": "b) No, para eso está la licencia LCM.",
+            "c": "c) Solo si el titular tiene más de 18 años.",
+            "d": "d) Solo si el vehículo no supera los 50 cc."
+        },
+        "solucion": "a",
+        "explicacion": "El permiso AM autoriza explícitamente vehículos para personas de movilidad reducida."
+    },
+    {
+        "pregunta": "45. Si se detecta a un conductor que cumplió una condena de privación de conducir por 1 año y NO ha realizado el curso de reeducación:",
+        "respuestas": {
+            "a": "a) Se le detiene por delito del art. 384 CP.",
+            "b": "b) Se le denuncia administrativamente (multa 200€) pero no se le detiene.",
+            "c": "c) Se le inmoviliza el vehículo por carecer de permiso.",
+            "d": "d) No se le puede sancionar si el plazo de la condena ya pasó."
+        },
+        "solucion": "b",
+        "explicacion": "Al ser condena ≤ 2 años y haber cumplido el tiempo, es falta administrativa por no hacer el curso, no es delito."
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "pregunta": "1. Según el artículo 2 de la Ley 17/2015, ¿cómo se define la característica de una colectividad de personas o bienes que los hacen susceptibles de ser afectados en mayor o menor grado por un peligro?",
+        "respuestas": {
+            "a": "A) Peligro.",
+            "b": "B) Vulnerabilidad.",
+            "c": "C) Amenaza.",
+            "d": "D) Riesgo."
+        },
+        "solucion": "b",
+        "explicacion": "Vulnerabilidad. Incorrectas: A (se refiere al potencial de daño), C (peligro inminente/latente), D (posibilidad de que ocurra)."
+    },
+    {
+        "pregunta": "2. ¿Qué término define la \"posibilidad de que una amenaza llegue a afectar a colectivos de personas o a bienes\"?",
+        "respuestas": {
+            "a": "A) Peligro.",
+            "b": "B) Emergencia de Protección Civil.",
+            "c": "C) Riesgo.",
+            "d": "D) Catástrofe."
+        },
+        "solucion": "c",
+        "explicacion": "Riesgo. Incorrectas: A (es el potencial de daño), B (exige gestión rápida de poderes públicos), D (alteración sustancial)."
+    },
+    {
+        "pregunta": "3. La situación en la que personas y bienes están expuestos en mayor o menor medida a un peligro inminente o latente se denomina:",
+        "respuestas": {
+            "a": "A) Riesgo inminente.",
+            "b": "B) Amenaza.",
+            "c": "C) Peligro potencial.",
+            "d": "D) Situación operativa 1."
+        },
+        "solucion": "b",
+        "explicacion": "Amenaza. Incorrectas: A (término no definido así), C (término confuso), D (es un nivel de gestión, no una definición)."
+    },
+    {
+        "pregunta": "4. El \"potencial de ocasionar daño en determinadas situaciones a colectivos de personas o bienes\" es la definición de:",
+        "respuestas": {
+            "a": "A) Peligro.",
+            "b": "B) Riesgo.",
+            "c": "C) Siniestro.",
+            "d": "D) Emergencia."
+        },
+        "solucion": "a",
+        "explicacion": "El \"potencial\" es la clave. Las otras opciones refieren a la materialización o la probabilidad del daño."
+    },
+    {
+        "pregunta": "5. Una situación que altera o interrumpe sustancialmente el funcionamiento de una comunidad por ocasionar gran cantidad de víctimas y daños que superan los medios disponibles, se denomina:",
+        "respuestas": {
+            "a": "A) Emergencia de interés nacional.",
+            "b": "B) Calamidad pública.",
+            "c": "C) Catástrofe.",
+            "d": "D) Siniestro total."
+        },
+        "solucion": "c",
+        "explicacion": "La palabra clave es \"sustancialmente\" y la superación de medios. Las otras son tipos de emergencias o términos generales."
+    },
+    {
+        "pregunta": "6. ¿Cada cuánto tiempo, al menos, debe revisarse la Estrategia del Sistema Nacional de Protección Civil?",
+        "respuestas": {
+            "a": "A) Cada 2 años.",
+            "b": "B) Cada 4 años.",
+            "c": "C) Cada 5 años.",
+            "d": "D) No tiene plazo de revisión obligatorio, depende del Ministerio del Interior."
+        },
+        "solucion": "b",
+        "explicacion": "El artículo 4 establece explícitamente 4 años. Las demás son plazos comunes en otras leyes pero incorrectos aquí."
+    },
+    {
+        "pregunta": "7. ¿Quién es el órgano encargado de aprobar la Estrategia del SNPC?",
+        "respuestas": {
+            "a": "A) El Consejo de Ministros.",
+            "b": "B) El Consejo Nacional de Protección Civil.",
+            "c": "C) El Consejo de Seguridad Nacional.",
+            "d": "D) El titular del Ministerio del Interior."
+        },
+        "solucion": "c",
+        "explicacion": "Es una pregunta \"trampa\" común; la Estrategia es aprobada por el Consejo de Seguridad Nacional, a propuesta del Ministro del Interior."
+    },
+    {
+        "pregunta": "8. Según la Ley 17/2015, los ciudadanos mayores de edad tienen el deber de realizar prestaciones personales en situaciones de emergencia:",
+        "respuestas": {
+            "a": "A) Con derecho a una indemnización fijada por baremo.",
+            "b": "B) Sin derecho a indemnización por esta causa.",
+            "c": "C) Solo si pertenecen a agrupaciones de voluntarios.",
+            "d": "D) Solo si la emergencia es declarada de interés nacional."
+        },
+        "solucion": "b",
+        "explicacion": "El artículo 7 bis especifica \"sin derecho a indemnización por esta causa\". Las otras opciones contradicen el carácter de deber público."
+    },
+    {
+        "pregunta": "9. ¿Qué norma aprobó la actual \"Norma Básica de Protección Civil\"?",
+        "respuestas": {
+            "a": "A) La Ley 17/2015, de 9 de julio.",
+            "b": "B) El Real Decreto 407/1992, de 24 de abril.",
+            "c": "C) El Real Decreto 524/2023, de 20 de junio.",
+            "d": "D) La Ley 2/1985, de 21 de enero."
+        },
+        "solucion": "c",
+        "explicacion": "La Ley 17/2015 es la norma marco, pero la Norma Básica específica es el RD 524/2023. El RD 407/1992 está derogado."
+    },
+    {
+        "pregunta": "10. Los planes que establecen el marco orgánico y funcional previsto para los centros o establecimientos que puedan originar riesgos de emergencia se denominan:",
+        "respuestas": {
+            "a": "A) Planes Territoriales.",
+            "b": "B) Planes Especiales.",
+            "c": "C) Planes de Autoprotección.",
+            "d": "D) Planes Sectoriales."
+        },
+        "solucion": "c",
+        "explicacion": "Definición literal del artículo 12 del RD 524/2023. Los especiales y territoriales tienen otros objetivos."
+    },
+    {
+        "pregunta": "11. ¿A quién corresponde la aprobación de las Directrices Básicas de Planificación?",
+        "respuestas": {
+            "a": "A) Al Consejo de Ministros, a propuesta del Ministro del Interior, previo informe del Consejo Nacional de Protección Civil.",
+            "b": "B) Al Consejo Nacional de Protección Civil, a propuesta de las Comunidades Autónomas.",
+            "c": "C) Al Ministro del Interior, previo informe del Consejo de Seguridad Nacional.",
+            "d": "D) Al Gobierno de la Nación mediante Real Decreto, sin necesidad de informes previos."
+        },
+        "solucion": "a",
+        "explicacion": "Procedimiento reglado: Consejo de Ministros + Propuesta Interior + Informe CNPC. Las otras omiten pasos o cambian el órgano."
+    },
+    {
+        "pregunta": "12. El instrumento de planificación que contiene el marco orgánico-funcional y los mecanismos de movilización de capacidades de la Administración General del Estado es el:",
+        "respuestas": {
+            "a": "A) PLATERPA.",
+            "b": "B) PLEGEM.",
+            "c": "C) Plan Estratégico Nacional.",
+            "d": "D) Plan de Contingencia Estatal."
+        },
+        "solucion": "b",
+        "explicacion": "PLEGEM son las siglas de Plan Estatal General. PLATERPA es autonómico."
+    },
+    {
+        "pregunta": "13. ¿Cuál es el plazo máximo para la adaptación de los planes vigentes a la entrada en vigor de la nueva Norma Básica de Protección Civil?",
+        "respuestas": {
+            "a": "A) 1 año.",
+            "b": "B) 2 años.",
+            "c": "C) 4 años.",
+            "d": "D) 5 años."
+        },
+        "solucion": "c",
+        "explicacion": "Disposición del RD 524/2023. Los planes vigentes tienen 4 años para adaptarse."
+    },
+    {
+        "pregunta": "14. Los planes elaborados para hacer frente a riesgos específicos cuya naturaleza requiere una metodología técnico-científica propia, y que están incluidos en el catálogo del anexo del RD 524/2023, son:",
+        "respuestas": {
+            "a": "A) Planes Territoriales.",
+            "b": "B) Planes de Autoprotección.",
+            "c": "C) Planes Especiales.",
+            "d": "D) Planes de Emergencia Municipal."
+        },
+        "solucion": "c",
+        "explicacion": "Son los que requieren \"metodología técnico-científica propia\" y están en el Anexo."
+    },
+    {
+        "pregunta": "15. ¿Cómo se integran los Planes de Ámbito Local en la jerarquía del SNPC?",
+        "respuestas": {
+            "a": "A) Directamente en el Plan Estatal General (PLEGEM).",
+            "b": "B) En los planes territoriales de ámbito superior (Autonómicos).",
+            "c": "C) Tienen autonomía propia y no se integran en otros planes.",
+            "d": "D) Se integran directamente en el Consejo Nacional de Protección Civil."
+        },
+        "solucion": "b",
+        "explicacion": "Regla de integración (a): Planes locales e insulares se integran en los autonómicos."
+    },
+    {
+        "pregunta": "16. En Asturias, el Plan Territorial de Protección Civil del Principado de Asturias se conoce por el acrónimo:",
+        "respuestas": {
+            "a": "A) PLATERA.",
+            "b": "B) PLATERPA.",
+            "c": "C) PLATINA.",
+            "d": "D) SEPA."
+        },
+        "solucion": "b",
+        "explicacion": "Acrónimo oficial para el Plan Territorial del Principado de Asturias."
+    },
+    {
+        "pregunta": "17. Según el PLATERPA, la \"Situación Operativa 0\" se define como:",
+        "respuestas": {
+            "a": "A) Situación de alerta ante un riesgo inminente.",
+            "b": "B) Modo ordinario de funcionamiento de los servicios oficiales, con mínima movilización para daños muy localizados.",
+            "c": "C) Emergencia que requiere la movilización de medios estatales.",
+            "d": "D) Fase de recuperación tras el siniestro."
+        },
+        "solucion": "b",
+        "explicacion": "Se define como el \"modo ordinario de funcionamiento\". La alerta es la fase previa, no la situación 0."
+    },
+    {
+        "pregunta": "18. ¿Qué situación operativa constituye el máximo nivel de las emergencias de dirección autonómica, donde se requiere la asistencia de medios estatales no asignados al plan?",
+        "respuestas": {
+            "a": "A) Situación Operativa 1.",
+            "b": "B) Situación Operativa 2.",
+            "c": "C) Situación Operativa 3.",
+            "d": "D) Fase de Interés Nacional."
+        },
+        "solucion": "b",
+        "explicacion": "La Situación 2 requiere medios \"no asignados al plan\", pero bajo dirección autonómica. La 3 ya es interés nacional."
+    },
+    {
+        "pregunta": "19. ¿Cuándo se declara una Situación Operativa 3?",
+        "respuestas": {
+            "a": "A) Cuando la emergencia afecta a más de dos concejos.",
+            "b": "B) Cuando se declara una emergencia de Interés Nacional.",
+            "c": "C) Cuando se agotan los medios de la Comunidad Autónoma.",
+            "d": "D) Cuando hay riesgo de catástrofe nuclear."
+        },
+        "solucion": "b",
+        "explicacion": "La Situación 3 se reserva exclusivamente para las emergencias declaradas de Interés Nacional."
+    },
+    {
+        "pregunta": "20. ¿A quién corresponde la declaración de Interés Nacional de una emergencia?",
+        "respuestas": {
+            "a": "A) Al Presidente del Gobierno.",
+            "b": "B) Al Consejo de Ministros.",
+            "c": "C) Al titular del Ministerio del Interior.",
+            "d": "D) Al Director General de Protección Civil y Emergencias."
+        },
+        "solucion": "c",
+        "explicacion": "Es competencia exclusiva del Ministro del Interior (Art. 28 Ley 17/2015). El Presidente o el Consejo de Ministros intervienen en otras fases."
+    },
+    {
+        "pregunta": "21. ¿Qué fase del ciclo de emergencias tiene por objeto determinar los riesgos basándose en condiciones de vulnerabilidad y posibles amenazas?",
+        "respuestas": {
+            "a": "A) Prevención.",
+            "b": "B) Planificación.",
+            "c": "C) Anticipación.",
+            "d": "D) Respuesta."
+        },
+        "solucion": "c",
+        "explicacion": "La anticipación se basa en el \"análisis y estudio\" de riesgos. La prevención son las \"medidas y acciones\" para evitarlos."
+    },
+    {
+        "pregunta": "22. ¿Quién es competente para la resolución de los procedimientos sancionadores en el ámbito municipal en materia de protección civil?",
+        "respuestas": {
+            "a": "A) El Concejal de Seguridad Ciudadana.",
+            "b": "B) El Pleno del Ayuntamiento.",
+            "c": "C) El Alcalde.",
+            "d": "D) El Jefe de la Policía Local."
+        },
+        "solucion": "c",
+        "explicacion": "Disposición adicional novena: los Alcaldes son competentes para sancionar en el ámbito municipal."
+    },
+    {
+        "pregunta": "23. La declaración de \"Zona afectada gravemente por una emergencia de protección civil\" se efectúa por:",
+        "respuestas": {
+            "a": "A) Acuerdo de Consejo de Ministros.",
+            "b": "B) Orden del Ministro del Interior.",
+            "c": "C) Decreto del Presidente del Principado.",
+            "d": "D) Resolución del Consejo Nacional de Protección Civil."
+        },
+        "solucion": "a",
+        "explicacion": "Requiere Acuerdo de Consejo de Ministros, a propuesta de Hacienda e Interior."
+    },
+    {
+        "pregunta": "24. El Plan Especial de Protección Civil ante el Riesgo de Inundaciones del Principado de Asturias se denomina:",
+        "respuestas": {
+            "a": "A) INFOPA.",
+            "b": "B) PLAMERPA.",
+            "c": "C) PLANINPA.",
+            "d": "D) PLACAMPA."
+        },
+        "solucion": "c",
+        "explicacion": "PLANINundacionesPA."
+    },
+    {
+        "pregunta": "25. El Plan de Protección Civil por Incendios Forestales en Asturias es el:",
+        "respuestas": {
+            "a": "A) INFOPA.",
+            "b": "B) PLANINPA.",
+            "c": "C) PLAQUIMPA.",
+            "d": "D) SAPLA."
+        },
+        "solucion": "a",
+        "explicacion": "Incendios FOrestales Principado de Asturias."
+    },
+    {
+        "pregunta": "26. ¿Cuál de los siguientes no es un \"Servicio Público de Intervención y Asistencia\" según el artículo 17 de la Ley 17/2015?",
+        "respuestas": {
+            "a": "A) Servicios Técnicos de Protección Civil de las Administraciones Públicas.",
+            "b": "B) Fuerzas y Cuerpos de Seguridad.",
+            "c": "C) Agrupaciones de Voluntarios de Protección Civil (con carácter general).",
+            "d": "D) Servicios de Prevención, Extinción de Incendios y Salvamento."
+        },
+        "solucion": "c",
+        "explicacion": "Los voluntarios tienen consideración de \"colaboradores\", pero no son \"servicios públicos\" de intervención según la lista del artículo 17."
+    },
+    {
+        "pregunta": "27. La fase que comprende el conjunto de acciones y medidas de ayuda una vez finalizada la respuesta inmediata se denomina:",
+        "respuestas": {
+            "a": "A) Evaluación.",
+            "b": "B) Recuperación.",
+            "c": "C) Restauración.",
+            "d": "D) Rehabilitación."
+        },
+        "solucion": "b",
+        "explicacion": "Definición del artículo 20 de la Ley 17/2015."
+    },
+    {
+        "pregunta": "28. En la estructura del Plan de Emergencia Municipal (PEMU), el Área IV corresponde a:",
+        "respuestas": {
+            "a": "A) Conocimiento del riesgo y del territorio.",
+            "b": "B) Actuaciones en materia de prevención.",
+            "c": "C) Organización y actuaciones para la respuesta ante emergencias.",
+            "d": "D) Organización de la Protección Civil Municipal."
+        },
+        "solucion": "c",
+        "explicacion": "El Área IV del PEMU es la fase operativa de respuesta. La IV del PEMU general es organización."
+    },
+    {
+        "pregunta": "29. ¿Quién preside el Consejo Nacional de Protección Civil?",
+        "respuestas": {
+            "a": "A) El Presidente del Gobierno.",
+            "b": "B) El titular del Ministerio del Interior.",
+            "c": "C) El Secretario de Estado de Seguridad.",
+            "d": "D) El Director General de la Guardia Civil."
+        },
+        "solucion": "b",
+        "explicacion": "El Consejo Nacional de Protección Civil es presidido por el Ministro del Interior."
+    },
+    {
+        "pregunta": "30. Los Planes de Ámbito Local son aprobados por:",
+        "respuestas": {
+            "a": "A) El Ministerio del Interior.",
+            "b": "B) El órgano competente de la respectiva entidad local.",
+            "c": "C) El Consejo de Gobierno del Principado de Asturias.",
+            "d": "D) El Consejo Nacional de Protección Civil."
+        },
+        "solucion": "b",
+        "explicacion": "Son aprobados por el \"órgano competente de la respectiva entidad\", con informes previos que establezca la legislación autonómica."
+    }
+]

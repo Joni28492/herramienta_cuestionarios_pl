@@ -10,8 +10,12 @@ import time
 # todo calcular nota
 
 class Test_Selector():
-    def __init__(self, cantidad_preguntas=3):
-        self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db'
+    def __init__(self, cantidad_preguntas=3, root_path='E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db'):
+        # todo selector de test, errores o db
+        self.root_path = root_path
+        # self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db'
+        # self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\errors' #? usar para test de errores
+        # self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\notebook' #? usar para test de notebooklm
         self.mixed_path = ''
         self.test_backup = 'test'
         self.cuestionario = None
@@ -45,7 +49,8 @@ class Test_Selector():
             # todo optimizar timestamp
             "timestamp": time.time(),
             # todo optimizar ruta
-            "path": path.replace('E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db', '').replace("\\", "/"),
+            "path": path.replace(self.root_path, '').replace("\\", "/"), # todo comprobar que funciona, porque ahora hay mas tipos de rutas y puede cambiar
+            # "path": path.replace('E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db', '').replace("\\", "/"),
             "id": "id2340234",
             "pregunta": pregunta["pregunta"],
             "opciones_respuesta": {
@@ -133,12 +138,12 @@ class Test_Selector():
         print(Fore.GREEN, Style.BRIGHT,aciertos, Style.RESET_ALL, end="/")
         print( Style.BRIGHT,total, Style.RESET_ALL, end='\t')
 
-        # todo imprimir calculo de puntuacion
+        
         valor_calculo = 100
-        valor_pregunta = total/valor_calculo
+        valor_pregunta = valor_calculo/total
         puntuacion_actual = (aciertos-(fallos/3)) * valor_pregunta
         # print(f"{puntuacion_actual}/{valor_calculo}") #no sale bien por algun calculo raro
-        print(f"{puntuacion_actual}/10")
+        print(f"{puntuacion_actual}/{valor_calculo}")
 
         
     
@@ -200,6 +205,22 @@ class Test_Selector():
 
 
     def menu_seleccion(self):
+        # seleccion de carpetas por defecto testSelecotr
+        opt = int(input("""
+        ELIGE DE DONDE VAS A ESCOGER EL TEST(DB por default):
+        1. test generados notebook
+        2. test de  errores
+                    
+        """))
+        
+        if opt == 1: 
+            self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\notebook' #? usar para test de notebooklm
+        elif opt == 2:
+            self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\errors' #? usar para test de errores
+        else:
+            print("ACCEDIENDO A LA DB:")
+        
+        # 
         while True:
 
             temp_list = os.listdir(os.path.join(self.root_path, self.mixed_path))
