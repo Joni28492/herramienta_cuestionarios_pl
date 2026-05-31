@@ -3,13 +3,13 @@
         "pregunta": "Cierre Jueves entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:30",
         "fallos": 8,
-        "aciertos": 2
+        "aciertos": 4
     },
     {
         "pregunta": "Cierre General - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
         "respuesta": "05:00",
         "fallos": 7,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "locales musica amplificada excepto discotecas - Cierre Viernes, Sabado y Visperas",
@@ -21,13 +21,13 @@
         "pregunta": "locales musica amplificada excepto discotecas - Cierre 15 JUNIO y 30 SEPT los jueves",
         "respuesta": "04:30",
         "fallos": 4,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "Cierre D, L, M y X entre el 15 JUNIO y 30 SEPT - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "02:00",
         "fallos": 4,
-        "aciertos": 3
+        "aciertos": 5
     },
     {
         "pregunta": "locales musica amplificada excepto discotecas - horario general apertura",
@@ -54,34 +54,34 @@
         "aciertos": 7
     },
     {
+        "pregunta": "Cierre Viernes, Sabado y Visperas - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
+        "respuesta": "07:30",
+        "fallos": 2,
+        "aciertos": 6
+    },
+    {
         "pregunta": "locales musica amplificada excepto discotecas - Cierre general",
         "respuesta": "03:30",
         "fallos": 1,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "Cierre horario general - bares, cafeterias, restaurantes, sidrearia restauracion etc...",
         "respuesta": "01:30",
         "fallos": 1,
-        "aciertos": 7
+        "aciertos": 9
     },
     {
         "pregunta": "locales destinados a menores 16 años, apertura dia lectivo",
         "respuesta": "14:00",
         "fallos": 1,
-        "aciertos": 4
-    },
-    {
-        "pregunta": "Cierre Viernes, Sabado y Visperas - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
-        "respuesta": "07:30",
-        "fallos": 1,
-        "aciertos": 6
+        "aciertos": 5
     },
     {
         "pregunta": "cierre salon de juego",
         "respuesta": "00:00",
         "fallos": 1,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "Apertura bares, cafeterias, restaurantes, sidrearia restauracion etc...",
@@ -93,31 +93,31 @@
         "pregunta": "apertura salon juegos",
         "respuesta": "10:00",
         "fallos": 0,
-        "aciertos": 10
+        "aciertos": 12
     },
     {
         "pregunta": "apertura salon recreativo",
         "respuesta": "10:00",
         "fallos": 0,
-        "aciertos": 6
+        "aciertos": 8
     },
     {
         "pregunta": "funcionamiento de equipos de musica, analogos etc.. fuera de funcionamiento antes de las ...",
         "respuesta": "10:00",
         "fallos": 0,
-        "aciertos": 6
+        "aciertos": 7
     },
     {
         "pregunta": "locales destinados a menores 16 años, apertura dia NO lectivo",
         "respuesta": "11:00",
         "fallos": 0,
-        "aciertos": 8
+        "aciertos": 9
     },
     {
         "pregunta": "Apertura - Discotecas, salas de baile, salas de fiestas con pases o espectaculos o pases de atracciones, cafes teatro, tablaos flamencos o bodas",
         "respuesta": "11:00",
         "fallos": 0,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "locales destinados menores de 16 años cierre horario general",
@@ -135,6 +135,6 @@
         "pregunta": "cierre salones recreativos",
         "respuesta": "23:00",
         "fallos": 0,
-        "aciertos": 5
+        "aciertos": 6
     }
 ]

@@ -1,9 +1,15 @@
 [
     {
+        "pregunta": "D Ordinaria",
+        "respuesta": "21",
+        "fallos": 4,
+        "aciertos": 2
+    },
+    {
         "pregunta": "Vehiculos para movilidad reducida",
         "respuesta": "16",
         "fallos": 3,
-        "aciertos": 2
+        "aciertos": 4
     },
     {
         "pregunta": "D1+E Ordinaria",
@@ -15,23 +21,29 @@
         "pregunta": "D",
         "respuesta": "24",
         "fallos": 3,
-        "aciertos": 2
+        "aciertos": 5
     },
     {
         "pregunta": "D Modalidad ordinaria dentro del territorio hasta que cumpla los 21",
         "respuesta": "20",
         "fallos": 3,
+        "aciertos": 2
+    },
+    {
+        "pregunta": "D Acelerada",
+        "respuesta": "23",
+        "fallos": 3,
         "aciertos": 1
+    },
+    {
+        "pregunta": "D+E Ordinaria, transporte viajeros <=50km",
+        "respuesta": "21",
+        "fallos": 3,
+        "aciertos": 3
     },
     {
         "pregunta": "D1 Ordinaria",
         "respuesta": "18",
-        "fallos": 2,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "D Ordinaria",
-        "respuesta": "21",
         "fallos": 2,
         "aciertos": 2
     },
@@ -39,31 +51,25 @@
         "pregunta": "C",
         "respuesta": "21",
         "fallos": 2,
-        "aciertos": 1
-    },
-    {
-        "pregunta": "D Acelerada",
-        "respuesta": "23",
-        "fallos": 2,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "D+E Ordinaria, transporte viajeros <=50km",
-        "respuesta": "21",
-        "fallos": 2,
         "aciertos": 3
     },
     {
         "pregunta": "vehiculos especiales agricolas autopropulsados",
         "respuesta": "16",
-        "fallos": 1,
-        "aciertos": 2
+        "fallos": 2,
+        "aciertos": 3
+    },
+    {
+        "pregunta": "D+E Ordinaria",
+        "respuesta": "21",
+        "fallos": 2,
+        "aciertos": 4
     },
     {
         "pregunta": "A",
         "respuesta": "20",
         "fallos": 1,
-        "aciertos": 4
+        "aciertos": 5
     },
     {
         "pregunta": "D+E Modalidad ordinaria dentro del territorio hasta que cumpla los 21",
@@ -72,16 +78,10 @@
         "aciertos": 1
     },
     {
-        "pregunta": "D+E Ordinaria",
-        "respuesta": "21",
-        "fallos": 1,
-        "aciertos": 3
-    },
-    {
         "pregunta": "D+E Acelerada",
         "respuesta": "23",
         "fallos": 1,
-        "aciertos": 1
+        "aciertos": 3
     },
     {
         "pregunta": "D Acelerada, transporte viajeros <=50km",
@@ -93,25 +93,25 @@
         "pregunta": "Vehiculos para movilidad reducida, sin pasajeros",
         "respuesta": "14",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 5
     },
     {
         "pregunta": "AM",
         "respuesta": "15",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "A1",
         "respuesta": "16",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 3
     },
     {
         "pregunta": "A2",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 5
     },
     {
         "pregunta": "B",
@@ -123,31 +123,31 @@
         "pregunta": "B+E",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 7
+        "aciertos": 8
     },
     {
         "pregunta": "C1",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "C1+E",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 4
     },
     {
         "pregunta": "C Ordinaria",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "C+E Ordinaria",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "C+E",
@@ -159,18 +159,18 @@
         "pregunta": "D1",
         "respuesta": "21",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 5
     },
     {
         "pregunta": "D1+E",
         "respuesta": "21",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "D+E",
         "respuesta": "24",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     }
 ]

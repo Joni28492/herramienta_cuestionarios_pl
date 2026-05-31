@@ -1,7 +1,7 @@
 from playwright.sync_api import sync_playwright # importante requiere tener playwright instalado = playwright install
 
 
-# todo hacer para todos los tests
+# todo hacer para todos los tests o pasarlo al convertidor de archivos y errores
 # class HtmlToPdfConverter():
     
 #     def __init__(self):
@@ -42,7 +42,9 @@ def html_to_pdf(html_file, output_pdf):
         browser.close()
 
 
+file = "procedimiento_administrativo"
+
 html_to_pdf(
-    "html/proteccion_civil.html",
-    "pdfs/proteccion_civil.pdf"
+    f"html/{file}.html",
+    f"pdfs/{file}.pdf"
 )

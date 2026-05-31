@@ -1,0 +1,882 @@
+[
+    {
+        "pregunta": "1.La Constitución Española de 1978 establece que corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas, de acuerdo a lo dispuesto en el artículo:",
+        "respuestas": {
+            "a": "a. 9.1 ",
+            "b": "b. 9.2 ",
+            "c": "c. 9.3 ",
+            "d": "d. 14 "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 9.2"
+    },
+    {
+        "pregunta": "2. Indique cuál de los siguientes derechos NO se encuentra comprendido entre los Derechos fundamentales y Libertades públicas establecidos entre los artículos 15 a 29 de la CE:",
+        "respuestas": {
+            "a": "a. La Justicia gratuita cuando así lo disponga la Ley. ",
+            "b": "b. La presunción de inocencia. ",
+            "c": "c. El derecho a comunicar o recibir libremente información veraz por cualquier medio de difusión. ",
+            "d": "d. El derecho de los sindicatos a formar confederaciones y a fundar organizaciones sindicales internacionales. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: La Justicia gratuita cuando así lo disponga la Ley."
+    },
+    {
+        "pregunta": "3. Indique la opción INCORRECTA:",
+        "respuestas": {
+            "a": "a. El título VII de la CE está dedicado al Poder Judicial. ",
+            "b": "b. El título VIII de la CE está dividido en tres capítulos. ",
+            "c": "c. El título IV de la CE comprende los artículos 97 a 107. ",
+            "d": "d. Las relaciones entre el Gobierno y las Cortes Generales se regulan en el título V de la CE. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: El título VII de la CE está dedicado al Poder Judicial."
+    },
+    {
+        "pregunta": "4. En relación a las garantías de las libertades y derechos fundamentales, establece el artículo 53 de la Constitución Española que:",
+        "respuestas": {
+            "a": "a. El reconocimiento, el respeto y la protección de los principios reconocidos en el Capítulo segundo informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos. ",
+            "b": "b. Los derechos y libertades reconocidos en el Capítulo primero del presente Título vinculan a todos los poderes públicos. ",
+            "c": "c. Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Cualquier ciudadano podrá recabar la tutela de las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo segundo ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional."
+    },
+    {
+        "pregunta": "5. Establece el artículo 92 de la Constitución Española que las decisiones políticas de especial trascendencia podrán ser sometidas a referéndum consultivo de todos los ciudadanos. El referéndum será convocado:",
+        "respuestas": {
+            "a": "a. por el Rey, a propuesta del Congreso, previa ratificación del Senado. ",
+            "b": "b. por el Congreso, previa ratificación por el Senado, a propuesta del Presidente del Gobierno. ",
+            "c": "c. por el Presidente del Gobierno, a propuesta del Congreso de los Diputados. ",
+            "d": "d. por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados."
+    },
+    {
+        "pregunta": "6. Establece el artículo 14 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, que el Tribunal en Pleno puede adoptar acuerdos cuando estén presentes, al menos:",
+        "respuestas": {
+            "a": "a. un tercio de los miembros que en cada momento lo compongan ",
+            "b": "b. dos tercios de los miembros que en cada momento lo compongan ",
+            "c": "c. la mayoría de los miembros que en cada momento lo compongan ",
+            "d": "d. tres quintos de los miembros que en cada momento lo compongan "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: dos tercios de los miembros que en cada momento lo compongan"
+    },
+    {
+        "pregunta": "7. De acuerdo al artículo 10 del Estatuto de Autonomía de Asturias, el Principado tendrá competencia exclusiva en:",
+        "respuestas": {
+            "a": "a. Productos farmacéuticos. ",
+            "b": "b. Régimen minero y energético. ",
+            "c": "c. Tratamiento especial de las zonas de montaña. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Tratamiento especial de las zonas de montaña."
+    },
+    {
+        "pregunta": "8. Las leyes promulgadas por la Junta General serán promulgadas:",
+        "respuestas": {
+            "a": "a. por el Consejo de Gobierno, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "b": "b. en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación, y en el BOE. ",
+            "c": "c. en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 20 días desde su aprobación, y en el BOE. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: en nombre del Rey, por el Presidente del Principado, que dispondrá su publicación en el BOPA en el plazo de 15 días desde su aprobación, y en el BOE."
+    },
+    {
+        "pregunta": "9. ¿De quién es competencia aprobar la Oferta de Empleo Público?",
+        "respuestas": {
+            "a": "a. Del Pleno, en municipios de régimen común. ",
+            "b": "b. Del Alcalde, en todos los municipios. ",
+            "c": "c. De la Junta de Gobierno Local, en los municipios en régimen de gran población. ",
+            "d": "d. A) y C) son correctas "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: De la Junta de Gobierno Local, en los municipios en régimen de gran población."
+    },
+    {
+        "pregunta": "10. Conforme el artículo 70 de la Ley reguladora de Bases de Régimen Local, las sesiones del pleno de las corporaciones locales son públicas. No obstante, cuando así se acuerde por mayoría absoluta, podrán ser secretos el debate y votación de aquellos asuntos que puedan afectar al derecho fundamental de los ciudadanos a que se refiere el artículo:",
+        "respuestas": {
+            "a": "a. 18.1 de la Constitución ",
+            "b": "b. 19.1 de la Constitución ",
+            "c": "c. 20.1 de la Constitución ",
+            "d": "d. 21.1 de la Constitución "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: 18.1 de la Constitución"
+    },
+    {
+        "pregunta": "11. De acuerdo a lo establecido en el artículo 52 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrán ser objeto de convalidación:",
+        "respuestas": {
+            "a": "a. Los actos nulos. ",
+            "b": "b. Los actos anulables. ",
+            "c": "c. Los actos que ponen fin a la vía administrativa. ",
+            "d": "d. Los actos viciados. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Los actos anulables."
+    },
+    {
+        "pregunta": "12. Las sesiones extraordinarias de los Plenos de los Ayuntamientos podrán ser convocadas por:",
+        "respuestas": {
+            "a": "a. Una cuarta parte de los miembros del Pleno. ",
+            "b": "b. Una tercera parte de los miembros del Pleno. ",
+            "c": "c. Dos terceras partes de los miembros del Pleno. ",
+            "d": "d. La mayoría de los miembros del Pleno. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Una cuarta parte de los miembros del Pleno."
+    },
+    {
+        "pregunta": "13. De acuerdo a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, si un interesado quiere recurrir un acto que pone fin a la vía administrativa:",
+        "respuestas": {
+            "a": "a. Podrá interponer el recurso extraordinario de revisión ante el órgano administrativo que lo dictó, que también será el competente para su resolución. ",
+            "b": "b. Podrán recurrir potestativamente en reposición ante el mismo órgano que lo hubiera dictado o ser impugnado directamente ante el orden jurisdiccional contencioso-administrativo. ",
+            "c": "c. No podrá interponer directamente recurso contencioso-administrativo, debiendo interponer recurso de reposición previamente ante el mismo órgano que lo hubiera dictado. ",
+            "d": "d. No cabe recurso administrativo. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Podrán recurrir potestativamente en reposición ante el mismo órgano que lo hubiera dictado o ser impugnado directamente ante el orden jurisdiccional contencioso-administrativo."
+    },
+    {
+        "pregunta": "14. De acuerdo a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "respuestas": {
+            "a": "a. Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia. ",
+            "b": "b. La presentación de una denuncia confiere la condición de interesado en el procedimiento. ",
+            "c": "c. La petición razonada vincula al órgano competente para iniciar el procedimiento. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Los procedimientos se iniciarán de oficio por acuerdo del órgano competente, bien por propia iniciativa o como consecuencia de orden superior, a petición razonada de otros órganos o por denuncia."
+    },
+    {
+        "pregunta": "15. De acuerdo a lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, durante la fase de instrucción del procedimiento, los interesados podrán, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir alegaciones y aportar documentos u otros elementos de juicio. Cuando la Administración no tenga por ciertos los hechos alegados por los interesados o la naturaleza del procedimiento lo exija, el instructor del mismo acordará la apertura de un período de prueba por un plazo:",
+        "respuestas": {
+            "a": "a. No superior a 10 días. ",
+            "b": "b. No inferior a 10 días ni superior a 15 días. ",
+            "c": "c. No inferior a 10 días ni superior a 30 días. ",
+            "d": "d. De 20 días. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: No inferior a 10 días ni superior a 30 días."
+    },
+    {
+        "pregunta": "16. De acuerdo al artículo 16 del TREBEP, la promoción interna horizontal consiste en:",
+        "respuestas": {
+            "a": "a. El ascenso desde un cuerpo o escala de un Subgrupo a otro superior. ",
+            "b": "b. La progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo. ",
+            "c": "c. El ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos. ",
+            "d": "d. El acceso a cuerpos o escalas del mismo Subgrupo profesional. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: El acceso a cuerpos o escalas del mismo Subgrupo profesional."
+    },
+    {
+        "pregunta": "17. De acuerdo a lo dispuesto en el artículo 52 del TREBEP, indique cual de los siguientes principios NO informa la actuación de los empleados públicos de conformidad con el Código de Conducta:",
+        "respuestas": {
+            "a": "a. Promoción del entorno cultural y medioambiental. ",
+            "b": "b. Accesibilidad. ",
+            "c": "c. Proporcionalidad. ",
+            "d": "d. Todos los anteriores informan el código de conducta. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Proporcionalidad."
+    },
+    {
+        "pregunta": "18. Según lo establecido en el artículo 2 del RDL 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la ley reguladora de las haciendas locales, ¿Cuál de los siguientes recursos NO tiene la consideración de TRIBUTO de las entidades locales?",
+        "respuestas": {
+            "a": "a. Precios públicos ",
+            "b": "b. Tasas ",
+            "c": "c. Contribuciones especiales ",
+            "d": "d. Impuestos "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Precios públicos"
+    },
+    {
+        "pregunta": "19. Según lo establecido en el artículo 17 del RDL 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la ley reguladora de las haciendas locales, las diputaciones provinciales, consejos, cabildos insulares y, en todo caso, las demás entidades locales cuando su población sea superior a 20.000 habitantes, editarán el texto íntegro de las ordenanzas fiscales reguladoras de sus tributos…",
+        "respuestas": {
+            "a": "a. Dentro del primer semestre del ejercicio económico correspondiente. ",
+            "b": "b. Dentro del primer cuatrimestre del ejercicio económico correspondiente. ",
+            "c": "c. Dentro del primer trimestre del ejercicio económico correspondiente. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Dentro del primer cuatrimestre del ejercicio económico correspondiente."
+    },
+    {
+        "pregunta": "20. Indique cuál de las siguientes edificaciones ha sido declarada patrimonio de la humanidad:",
+        "respuestas": {
+            "a": "a. Iglesia de Santa María del Naranco ",
+            "b": "b. Iglesia de San Miguel de Lillo ",
+            "c": "c. A) y B) son correctas ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: A) y B) son correctas"
+    },
+    {
+        "pregunta": "21. De acuerdo al artículo 5 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, NO es un principio básico de actuación de los miembros de las Fuerzas y Cuerpos de Seguridad los siguientes:",
+        "respuestas": {
+            "a": "a. Jurar o prometer acatamiento a la Constitución como norma fundamental del Estado. ",
+            "b": "b. Colaborar con la Administración de Justicia y auxiliarla en los términos establecidos en la Ley. ",
+            "c": "c. No estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "d": "d. Todos los anteriores son principios básicos de actuación establecidos en el artículo 5. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Jurar o prometer acatamiento a la Constitución como norma fundamental del Estado."
+    },
+    {
+        "pregunta": "22. De acuerdo a lo establecido en el artículo 14 de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad. ¿Quién propone al Gobierno el nombramiento del titular de la Dirección General de la Guardia Civil?",
+        "respuestas": {
+            "a": "a. El Secretario de Estado de Seguridad ",
+            "b": "b. El Ministro del Interior ",
+            "c": "c. El Ministro de Defensa ",
+            "d": "d. Conjuntamente, los Ministros de Interior y Defensa. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Conjuntamente, los Ministros de Interior y Defensa."
+    },
+    {
+        "pregunta": "23. La declaración sobre la Policía es…",
+        "respuestas": {
+            "a": "a. La Resolución 690 de 1979, de la Asamblea Parlamentaria del Consejo de Europa. ",
+            "b": "b. La Resolución 34/169, de 17 de diciembre de 1979, de la Asamblea General de Naciones Unidas. ",
+            "c": "c. La Resolución 690 de 1979, de la Asamblea General de Naciones Unidas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: La Resolución 690 de 1979, de la Asamblea Parlamentaria del Consejo de Europa."
+    },
+    {
+        "pregunta": "24. Según el Real Decreto 1087/2010, de 3 de septiembre, por el que se aprueba el Reglamento que regula las Juntas Locales de Seguridad, ¿Cuántos vocales serán representantes de la Administración Autonómica?",
+        "respuestas": {
+            "a": "a. Ninguno ",
+            "b": "b. 1 ",
+            "c": "c. 2 ",
+            "d": "d. 3 "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 1"
+    },
+    {
+        "pregunta": "25. Conforme a lo establecido en el artículo 12 de la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, ¿A quién le corresponde desarrollar esta Ley en lo referente al régimen jurídico del pasaporte?",
+        "respuestas": {
+            "a": "a. Al Gobierno, a propuesta del Ministro del Interior. ",
+            "b": "b. Al Gobierno, a propuesta del Ministro del Interior, oído el Secretario de Estado de Seguridad. ",
+            "c": "c. Al Gobierno, a propuesta de los Ministros del Interior y de Asuntos Exteriores y de Cooperación. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Al Gobierno, a propuesta de los Ministros del Interior y de Asuntos Exteriores y de Cooperación."
+    },
+    {
+        "pregunta": "26. Constituye infracción GRAVE a la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana:",
+        "respuestas": {
+            "a": "a. Las acciones y omisiones que impidan u obstaculicen el funcionamiento de los servicios de emergencia, provocando o incrementando un riesgo para la vida o integridad de las personas o de daños en los bienes, o agravando las consecuencias del suceso que motive la actuación. ",
+            "b": "b. La perturbación de la seguridad ciudadana en actos públicos, espectáculos deportivos o culturales, solemnidades y oficios religiosos u otras reuniones a las que asistan numerosas personas, cuando no sean constitutivas de infracción penal. ",
+            "c": "c. La intrusión en infraestructuras o instalaciones en las que se prestan servicios básicos para la comunidad, incluyendo su sobrevuelo, cuando se haya producido una interferencia grave en su funcionamiento. ",
+            "d": "d. Todas son correctas "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Todas son correctas"
+    },
+    {
+        "pregunta": "27. Conforme al artículo 32 de la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, es una autoridad competente para imponer sanciones:",
+        "respuestas": {
+            "a": "a. El Secretario de Estado de Seguridad para todas las infracciones muy graves. ",
+            "b": "b. Los Delegados de Gobierno para las infracciones muy graves en grado mínimo. ",
+            "c": "c. Los subdelegados de Gobierno para las infracciones graves y leves. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Ninguna es correcta."
+    },
+    {
+        "pregunta": "28. De acuerdo al artículo 25 de la LOPSC, quedarán sujetas a las obligaciones de registro documental e información las personas físicas o jurídicas que ejerzan actividades relevantes para la seguridad ciudadana, como:",
+        "respuestas": {
+            "a": "a. Centros gestores de residuos ",
+            "b": "b. Transporte de personas ",
+            "c": "c. Alquiler de bicicletas ",
+            "d": "d. Todas son correctas "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Transporte de personas"
+    },
+    {
+        "pregunta": "29. Conforme a la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, corresponde la declaración de emergencia de interés nacional:",
+        "respuestas": {
+            "a": "a. Al consejo de ministros, a propuesta de los ministros de hacienda y administraciones públicas y del interior y, en su caso, de los titulares de los demás ministerios concernidos. ",
+            "b": "b. Al titular del Ministerio del Interior, a propuesta del Consejo Nacional de Protección Civil. ",
+            "c": "c. Al titular del Ministerio del Interior, bien por propia iniciativa o a instancia de las Comunidades Autónomas o Delegados del Gobierno en las mismas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Al titular del Ministerio del Interior, bien por propia iniciativa o a instancia de las Comunidades Autónomas o Delegados del Gobierno en las mismas."
+    },
+    {
+        "pregunta": "30. El PLATERPA fue aprobado por el Consejo de Gobierno a través de:",
+        "respuestas": {
+            "a": "a. Decreto 69/2014 del 16/07/2014 ",
+            "b": "b. Decreto 79/2013 del 15/08/2013 ",
+            "c": "c. Decreto 69/2014 del 15/06/2014 ",
+            "d": "d. Decreto 524/2023 del 20/06/2023 "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Decreto 69/2014 del 16/07/2014"
+    },
+    {
+        "pregunta": "31. De acuerdo a lo establecido en la Ley 2/2007, de 23 de marzo, de coordinación de Policías Locales, indique la opción CORRECTA.",
+        "respuestas": {
+            "a": "a. Las normas-marco serán aprobadas por la Comisión de Coordinación de Policías Locales. ",
+            "b": "b. La Comisión de Coordinación de Policías Locales está compuesta por 16 miembros, ejerciendo uno de ellos como secretario. ",
+            "c": "c. La Comisión de Coordinación se reunirá en sesión extraordinaria a iniciativa de la Presidencia o de, al menos, un tercio de sus miembros. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: La Comisión de Coordinación se reunirá en sesión extraordinaria a iniciativa de la Presidencia o de, al menos, un tercio de sus miembros."
+    },
+    {
+        "pregunta": "32. ¿En qué categoría de armas se encuentran las armas de avancarga?",
+        "respuestas": {
+            "a": "a. Categoría 7ª-4 ",
+            "b": "b. Categoría 6ª-3 ",
+            "c": "c. Categoría 6ª-4 ",
+            "d": "d. Armas prohibidas del artículo 4. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Categoría 6ª-4"
+    },
+    {
+        "pregunta": "33. Las Armas accionadas por aire u otro gas comprimido, sean lisas o rayadas, siempre que la energía cinética del proyectil en boca exceda de 24,2 julios, requerirán:",
+        "respuestas": {
+            "a": "a. Tarjeta de armas. ",
+            "b": "b. Licencia F ",
+            "c": "c. Licencia D ",
+            "d": "d. Licencia E "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Licencia E"
+    },
+    {
+        "pregunta": "34. Establece el PLATERPA en sus directrices para la planificación local que las emergencias que por su naturaleza, gravedad y/o extensión del riesgo originan daños limitados sobre la población, bienes o medio ambiente, y en cuyo control son suficientes los medios y recursos municipales, se encuentran en la siguiente situación de emergencia:",
+        "respuestas": {
+            "a": "a. Situación 0 ",
+            "b": "b. Situación 1 ",
+            "c": "c. Situación 2 ",
+            "d": "d. Situación 3 "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Situación 0"
+    },
+    {
+        "pregunta": "35. De acuerdo a lo establecido en la Ley Orgánica 4/2010, de 20 de mayo, prescindir del conducto reglamentario para formular cualquier solicitud o reclamación por los representantes de las organizaciones sindicales en el ejercicio de la actividad sindical, constituye:",
+        "respuestas": {
+            "a": "a. Falta disciplinaria muy grave ",
+            "b": "b. Falta disciplinaria grave ",
+            "c": "c. Falta disciplinaria leve ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Ninguna es correcta"
+    },
+    {
+        "pregunta": "36. Conforme a la Ley Orgánica 4/2010, de 20 de mayo, en cuanto a la responsabilidad…",
+        "respuestas": {
+            "a": "a. Los superiores jerárquicos que toleren una falta muy grave o grave incurrirán en la misma responsabilidad. ",
+            "b": "b. Los encubridores de una falta disciplinaria incurrirán en falta de inferior grado. ",
+            "c": "c. Incurrirán en la misma responsabilidad que los autores de una falta los que induzcan a su comisión. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Incurrirán en la misma responsabilidad que los autores de una falta los que induzcan a su comisión."
+    },
+    {
+        "pregunta": "37. Conforme al artículo 41 de la Ley 8/2002, de 21 de octubre, de espectáculos públicos y actividades recreativas del Principado de Asturias, y según lo dispuesto en el artículo 56 de la Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local, los órganos competentes de la Administración Local remitirán a los de la Administración del Principado una relación de los procedimientos sancionadores iniciados…",
+        "respuestas": {
+            "a": "a. dentro de los 10 días siguientes a la fecha de adopción del acuerdo de iniciación. ",
+            "b": "b. dentro de los 15 días siguientes a la fecha de adopción del acuerdo de iniciación. ",
+            "c": "c. dentro de los 20 días siguientes a la fecha de adopción del acuerdo de iniciación. ",
+            "d": "d. dentro de los 30 días siguientes a la fecha de adopción del acuerdo de iniciación. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: dentro de los 10 días siguientes a la fecha de adopción del acuerdo de iniciación."
+    },
+    {
+        "pregunta": "38. Constituye infracción MUY GRAVE a la Ley 8/2002, de 21 de octubre, de espectáculos públicos y actividades recreativas del Principado de Asturias…",
+        "respuestas": {
+            "a": "a. La admisión de menores de edad en establecimientos públicos, locales e instalaciones en que lo tengan prohibido. ",
+            "b": "b. La admisión en establecimientos, locales o instalaciones de espectadores o usuarios en número superior al previsto en su aforo oficial. ",
+            "c": "c. La apertura de establecimientos, locales o instalaciones y la celebración de EPAR careciendo de licencia o autorización. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: La admisión en establecimientos, locales o instalaciones de espectadores o usuarios en número superior al previsto en su aforo oficial."
+    },
+    {
+        "pregunta": "39. Según lo previsto en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, los propietarios y demás titulares de derechos reales sobre bienes muebles de notable valor histórico, artístico, arqueológico, científico, técnico o cultural, podrán presentar solicitud debidamente documentada ante la Administración competente, a fin de que se inicie el procedimiento para la inclusión de dichos bienes en el Inventario General. La resolución sobre esta solicitud deberá recaer en un plazo de:",
+        "respuestas": {
+            "a": "a. 2 meses ",
+            "b": "b. 3 meses ",
+            "c": "c. 4 meses ",
+            "d": "d. 20 meses "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: 4 meses"
+    },
+    {
+        "pregunta": "40. No poseer cartilla sanitaria, ni certificado de vacunación obligatoria, para los animales que preceptivamente la requieran, constituye a la Ley 13/2002, de 23 de diciembre, una infracción que será castigada con la siguiente cuantía:",
+        "respuestas": {
+            "a": "a. Hasta 601,01 euros ",
+            "b": "b. De 60,10 a 601,01 euros ",
+            "c": "c. De 601,02 a 3.005,06 euros ",
+            "d": "d. De 601,02 euros a 6.010,12 euros. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: De 60,10 a 601,01 euros"
+    },
+    {
+        "pregunta": "41. Establece el Anexo I de la Ley de Seguridad Vial que el Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas reglamentariamente establecidas o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, se denomina:",
+        "respuestas": {
+            "a": "a. Tractocarro ",
+            "b": "b. Tractocamión ",
+            "c": "c. Portador ",
+            "d": "d. Vehículo especial "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Vehículo especial"
+    },
+    {
+        "pregunta": "42. “Informar y, en su caso, proponer planes de actuación conjunta en materia de tráfico y seguridad vial para dar cumplimiento a las directrices del Gobierno o para someterlos a su aprobación”, será competencia de:",
+        "respuestas": {
+            "a": "a. Administración General del Estado ",
+            "b": "b. Ministerio del Interior ",
+            "c": "c. Municipios ",
+            "d": "d. Consejo Superior de Tráfico y Seguridad Vial "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Consejo Superior de Tráfico y Seguridad Vial"
+    },
+    {
+        "pregunta": "43. El Texto consolidado del Acuerdo sobre transportes internacionales de mercancías perecederas y sobre vehículos especiales utilizados en esos transportes (ATP) hecho en Ginebra el 1 de septiembre de 1970 y actualizado a 23 de septiembre de 2013, establece que se entiende como Unidad calorífica aquella Unidad isoterma que permite elevar la temperatura en el interior de la caja vacía y mantenerla…",
+        "respuestas": {
+            "a": "a. durante 12 horas al menos sin repostado, a un valor no inferior a +12 ºC. ",
+            "b": "b. durante 12 horas al menos sin repostado, a un valor no inferior a +20 ºC. ",
+            "c": "c. durante 12 horas al menos sin repostado, a un valor no inferior a +30 ºC. ",
+            "d": "d. durante 6 horas al menos sin repostado, a un valor no inferior a +12 ºC. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: durante 12 horas al menos sin repostado, a un valor no inferior a +12 ºC."
+    },
+    {
+        "pregunta": "44. Establece el RD 2822/1998, de 23 de diciembre, que la señal de vehículo lento…",
+        "respuestas": {
+            "a": "a. Es la señal V-4, recogida en el anexo IX ",
+            "b": "b. Es la señal V-5, recogida en el anexo IX ",
+            "c": "c. Es la señal V-4, recogida en el anexo XI ",
+            "d": "d. Es la señal V-5, recogida en el anexo XI "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Es la señal V-5, recogida en el anexo XI"
+    },
+    {
+        "pregunta": "45. El acuerdo sobre transporte internacional de mercancías peligrosas por carretera (ADR 2025), establece que, en la parte superior de la señal V-11, cuando el peligro venga identificado por el dígito 6, indica:",
+        "respuestas": {
+            "a": "a. Toxicidad o peligro de infección ",
+            "b": "b. Radiactividad ",
+            "c": "c. Corrosividad ",
+            "d": "d. Inflamabilidad "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Toxicidad o peligro de infección"
+    },
+    {
+        "pregunta": "46. Según el Real Decreto 443/2001, de 27 de abril, sobre condiciones de seguridad en el transporte escolar y de menores, los transportes objeto de este Real Decreto no podrán ser realizados por vehículos cuya antigüedad al comienzo del curso escolar sea superior a:",
+        "respuestas": {
+            "a": "a. 10 años ",
+            "b": "b. 12 años ",
+            "c": "c. 16 años ",
+            "d": "d. 22 años "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: 16 años"
+    },
+    {
+        "pregunta": "47. Establece la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, que no será necesaria la previa obtención de autorización para realizar transporte de viajeros o mercancías realizado en vehículos cuya velocidad máxima autorizada no supere los:",
+        "respuestas": {
+            "a": "a. 25 kilómetros por hora ",
+            "b": "b. 40 kilómetros por hora ",
+            "c": "c. 45 kilómetros por hora ",
+            "d": "d. 60 kilómetros por hora "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 40 kilómetros por hora"
+    },
+    {
+        "pregunta": "48. Se encuentran exentos de someterse a inspección técnica periódica:",
+        "respuestas": {
+            "a": "a. Ciclomotores históricos, con independencia de su antigüedad. ",
+            "b": "b. Vehículos históricos, con antigüedad superior a 50 años. ",
+            "c": "c. Vehículos especiales cuya velocidad por construcción no alcance los 45 km/h. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Ciclomotores históricos, con independencia de su antigüedad."
+    },
+    {
+        "pregunta": "49. Indique la opción INCORRECTA:",
+        "respuestas": {
+            "a": "a. Existe libertad de elección de la estación ITV para efectuar tanto la primera inspección técnica como las inspecciones sucesivas tras la subsanación de defectos. ",
+            "b": "b. Quedan exentos de la colocación del distintivo V-19 aquellos vehículos catalogados o clasificados por la Administración como vehículos históricos. ",
+            "c": "c. Los defectos de un vehículo que tienen un impacto sobre el medio ambiente se consideran Defectos Graves. ",
+            "d": "d. En el caso de vehículos mixtos, la frecuencia de inspección aplicable será la correspondiente a la categoría N en la que el vehículo pueda catalogarse. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Los defectos de un vehículo que tienen un impacto sobre el medio ambiente se consideran Defectos Graves."
+    },
+    {
+        "pregunta": "50. Conducir un vehículo a motor con presencia de drogas en el organismo:",
+        "respuestas": {
+            "a": "a. Será sancionado con 500 euros ",
+            "b": "b. Será sancionado con 1.000 euros ",
+            "c": "c. Será sancionado con 6.000 euros ",
+            "d": "d. Constituye un delito contra la seguridad vial "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Será sancionado con 1.000 euros"
+    },
+    {
+        "pregunta": "51. Establece el artículo 46 del RD 1428/03, del 21 de noviembre, que aprueba el Reglamento General de Circulación, que se circulará a velocidad moderada y, si fuera preciso, se detendrá el vehículo cuando las circunstancias lo exijan, al aproximarse a pasos a nivel, a glorietas e intersecciones en que no se goce de prioridad, a lugares de reducida visibilidad o a estrechamientos. Si las intersecciones están debidamente señalizadas y la visibilidad de la vía es prácticamente nula, la velocidad de los vehículos no deberá exceder de:",
+        "respuestas": {
+            "a": "a. 20 km/h ",
+            "b": "b. 25 km/h ",
+            "c": "c. 30 km/h ",
+            "d": "d. 50 km/h "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: 50 km/h"
+    },
+    {
+        "pregunta": "52. Podrán circular sin los cinturones u otros sistemas de retención homologados:",
+        "respuestas": {
+            "a": "a. Los conductores y pasajeros de los vehículos en servicios de urgencia en vías urbanas o carreteras convencionales. ",
+            "b": "b. Los conductores de taxis, siempre que estén de servicio. ",
+            "c": "c. Los conductores y pasajeros, al efectuar la maniobra de marcha atrás o de estacionamiento. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Ninguna es correcta"
+    },
+    {
+        "pregunta": "53. De acuerdo al artículo 62 del RD 1428/2003, sin perjuicio de lo que pueda ordenar el agente de la autoridad o, en su caso, indicar el personal de obras y el de acompañamiento de vehículos especiales o en régimen de transporte especial, el orden de preferencia entre los distintos tipos de vehículos cuando uno de ellos tenga que dar marcha atrás es:",
+        "respuestas": {
+            "a": "a. Tracción animal, autocaravanas, camiones, motocicletas con sidecar y bicicletas. ",
+            "b": "b. Vehículos especiales que excedan de las masas, autocaravanas, tracción animal y cuadriciclos ligeros ",
+            "c": "c. Turismos con remolques ligeros, tractocamiones, vehículos de 3 ruedas y turismos. ",
+            "d": "d. Transporte colectivo de viajeros, tracción animal, autocaravanas y ciclomotores. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Tracción animal, autocaravanas, camiones, motocicletas con sidecar y bicicletas."
+    },
+    {
+        "pregunta": "54. En relación a los Datos que se deben suministrar por los agentes encargados de la vigilancia y el control del tráfico, los conductores que han dejado de llevar la dirección del vehículo y son arrollados mientras suben o bajan del mismo se consideran:",
+        "respuestas": {
+            "a": "a. Conductores ",
+            "b": "b. Pasajeros ",
+            "c": "c. Peatones ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Pasajeros"
+    },
+    {
+        "pregunta": "55. La señal P-1 de intersección con prioridad es una señal…",
+        "respuestas": {
+            "a": "a. De advertencia de peligro ",
+            "b": "b. De reglamentación: de prioridad ",
+            "c": "c. De reglamentación: de restricción de paso ",
+            "d": "d. De indicación "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: De advertencia de peligro"
+    },
+    {
+        "pregunta": "56. El permiso B autoriza a conducir…",
+        "respuestas": {
+            "a": "a. Motocicletas con una potencia máxima de 35kW, siempre que se circule por territorio nacional y se tenga una antigüedad superior a 3 años. ",
+            "b": "b. Triciclos de motor. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Triciclos de motor."
+    },
+    {
+        "pregunta": "57. El conductor que advierta que otro que le sigue tiene el propósito de adelantar a su vehículo estará obligado a ceñirse al borde derecho de la calzada. En el caso de que no sea posible ceñirse por completo al borde derecho de la calzada y, sin embargo, el adelantamiento pueda efectuarse con seguridad, ¿Qué conductores que vayan a ser adelantados indicarán la posibilidad de ello al que se acerque, extendiendo el brazo horizontalmente y moviéndolo repetidas veces de atrás adelante, con el dorso de la mano hacia atrás, o poniendo en funcionamiento el intermitente derecho, cuando no crean conveniente hacer la señal con el brazo?",
+        "respuestas": {
+            "a": "a. Todos los conductores. ",
+            "b": "b. Los conductores de vehículos pesados o de grandes dimensiones. ",
+            "c": "c. B) es correcta y también los obligados a respetar un límite específico de velocidad. ",
+            "d": "d. En ningún caso se realizarán señales con el brazo. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: B) es correcta y también los obligados a respetar un límite específico de velocidad."
+    },
+    {
+        "pregunta": "58. Las notificaciones que no puedan efectuarse en la Dirección Electrónica Vial (DEV) y, en caso de no disponer de la misma, en el domicilio expresamente indicado para el procedimiento o, de no haber indicado ninguno, en el domicilio que figure en los registros del organismo autónomo Jefatura Central de Tráfico, se practicarán en el «Boletín Oficial del Estado» (BOE). Transcurrido el período de _________________ desde que la notificación se hubiese publicado en el BOE se entenderá que ésta ha sido practicada, dándose por cumplido dicho trámite.",
+        "respuestas": {
+            "a": "a. 10 días naturales ",
+            "b": "b. 15 días naturales ",
+            "c": "c. 20 días naturales ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: 20 días naturales"
+    },
+    {
+        "pregunta": "59. A los efectos de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor y su normativa de desarrollo, se entiende como vehículo a motor todo vehículo automóvil accionado exclusivamente mediante una fuerza mecánica que circula por el suelo y que no utiliza una vía férrea, con:",
+        "respuestas": {
+            "a": "a. Velocidad máxima de fabricación superior a 25 km/h, independientemente de su peso. ",
+            "b": "b. Un peso neto máximo superior a 25 km/h y una velocidad máxima de fabricación superior a 14 km/h. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: A) y B) son correctas."
+    },
+    {
+        "pregunta": "60. Conforme a lo establecido en el artículo 43 del Real Decreto 2822/1998, de 23 de diciembre, por el que se aprueba el Reglamento General de Vehículos, los permisos de circulación temporales para particulares podrán tener la siguiente duración:",
+        "respuestas": {
+            "a": "a. 10 o 30 días. ",
+            "b": "b. 10 o 60 días. ",
+            "c": "c. 30 o 60 días. ",
+            "d": "d. 30 o 90 días. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 10 o 60 días."
+    },
+    {
+        "pregunta": "61. Establece el artículo 559 de la LeCRIM que para la entrada y registro en los edificios destinados a la habitación u oficina de los representantes de naciones extranjeras acreditados cerca del Gobierno de España, les pedirá su venia el Juez, por medio de atento oficio, en el que les rogará que contesten en el término de:",
+        "respuestas": {
+            "a": "a. 12 horas ",
+            "b": "b. 24 horas ",
+            "c": "c. 48 horas ",
+            "d": "d. 72 horas "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: 12 horas"
+    },
+    {
+        "pregunta": "62. En base a lo establecido en la Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de Habeas Corpus, indique cual de los siguientes NO podrá instar el citado procedimiento:",
+        "respuestas": {
+            "a": "a. El abogado defensor del privado de libertad. ",
+            "b": "b. El defensor del pueblo ",
+            "c": "c. La persona que preste su apoyo con facultad de representación específica para este acto concreto, respecto a las personas con discapacidad con medidas de apoyo judiciales. ",
+            "d": "d. Todos los anteriores podrán instar el procedimiento de Habeas Corpus. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Todos los anteriores podrán instar el procedimiento de Habeas Corpus."
+    },
+    {
+        "pregunta": "63. Establece la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en su artículo 30, que el Estado se organiza territorialmente, a efectos judiciales, en:",
+        "respuestas": {
+            "a": "a. Municipios, Partidos, Provincias y Comunidades Autónomas. ",
+            "b": "b. Municipios, Provincias y Comunidades Autónomas. ",
+            "c": "c. Partidos, Audiencias y Tribunales. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Municipios, Partidos, Provincias y Comunidades Autónomas."
+    },
+    {
+        "pregunta": "64. Conocerá de las peticiones de la Fiscalía Europea, relativas a la adopción de medidas cautelares personales:",
+        "respuestas": {
+            "a": "a. La sección de instrucción del Tribunal de Instancia correspondiente. ",
+            "b": "b. La sección de instrucción del Tribunal Central de Instancia. ",
+            "c": "c. La sección de lo penal de la Audiencia Nacional. ",
+            "d": "d. La sección de lo penal del Tribunal Central de Instancia. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: La sección de instrucción del Tribunal Central de Instancia."
+    },
+    {
+        "pregunta": "65. Desde que sea dictado el auto de incoación, los Jueces practicarán todas las actuaciones y dictarán la resolución del procedimiento de Habeas Corpus que proceda, en el plazo de:",
+        "respuestas": {
+            "a": "a. 12 horas ",
+            "b": "b. 24 horas ",
+            "c": "c. 48 horas ",
+            "d": "d. 72 horas "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 24 horas"
+    },
+    {
+        "pregunta": "66. Establece el artículo 191 del Código Penal, respecto a los delitos de agresiones sexuales y acoso sexual que:",
+        "respuestas": {
+            "a": "a. Será precisa denuncia de la persona agraviada, de su representante legal o querella del Ministerio Fiscal, que actuará ponderando los legítimos intereses en presencia. Cuando la víctima sea menor de edad, persona con discapacidad necesitada de especial protección o una persona desvalida, bastará la denuncia del Ministerio Fiscal. ",
+            "b": "b. No será precisa denuncia de la persona agraviada, interviniendo de oficio al tratarse de delitos públicos graves. ",
+            "c": "c. En estos delitos el perdón del ofendido extingue la acción penal. ",
+            "d": "d. B) y C) son correctas. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Será precisa denuncia de la persona agraviada, de su representante legal o querella del Ministerio Fiscal, que actuará ponderando los legítimos intereses en presencia. Cuando la víctima sea menor de edad, persona con discapacidad necesitada de especial protección o una persona desvalida, bastará la denuncia del Ministerio Fiscal."
+    },
+    {
+        "pregunta": "67. Respecto a los actos sexuales con menores de 16 años, establece el artículo 181.5 del Código Penal, que son circunstancias agravantes que suponen castigar la pena en su mitad superior las siguientes:",
+        "respuestas": {
+            "a": "a. Cuando los hechos se cometan contra una persona que se halle en una situación de especial vulnerabilidad por razón de su edad, enfermedad, discapacidad o por cualquier otra circunstancia, y, en todo caso, cuando sea menor de cuatro años. ",
+            "b": "b. Cuando la víctima sea o haya sido pareja del autor, aun sin convivencia. ",
+            "c": "c. Cuando para la comisión de estos hechos el autor haya anulado la voluntad de la víctima suministrándole fármacos, drogas o cualquier otra sustancia natural o química idónea a tal efecto. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Todas son correctas."
+    },
+    {
+        "pregunta": "68. Establece el artículo 142.2 del Código Penal que el que por imprudencia menos grave causare la muerte de otro, será castigado con la pena de multa de tres meses a dieciocho meses.",
+        "respuestas": {
+            "a": "a. Salvo en los casos en que se produzca utilizando un vehículo a motor o un ciclomotor, este delito solo será perseguible mediante denuncia de la persona agraviada o de su representante legal. ",
+            "b": "b. Salvo en los casos en que se produzca utilizando un vehículo a motor o un ciclomotor, este delito solo será perseguible mediante denuncia de la persona agraviada, de su representante legal, o del ministerio fiscal. ",
+            "c": "c. Este delito no requiere denuncia, al tratarse de un delito público se interviene de oficio. ",
+            "d": "d. La pena que establece el enunciado es incorrecta. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Salvo en los casos en que se produzca utilizando un vehículo a motor o un ciclomotor, este delito solo será perseguible mediante denuncia de la persona agraviada o de su representante legal."
+    },
+    {
+        "pregunta": "69. Establece el artículo 31 quater del Código Penal que sólo podrán considerarse circunstancias atenuantes de la responsabilidad penal de las personas jurídicas haber realizado, con posterioridad a la comisión del delito y a través de sus representantes legales, las siguientes actividades:",
+        "respuestas": {
+            "a": "a. Haber procedido, en cualquier momento del procedimiento y con anterioridad al juicio oral, a confesar la infracción a las autoridades. ",
+            "b": "b. Haber colaborado en la investigación del hecho aportando pruebas, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos. ",
+            "c": "c. Haber establecido, antes resolverse el procedimiento judicial, medidas eficaces para prevenir y descubrir los delitos que en el futuro pudieran cometerse con los medios o bajo la cobertura de la persona jurídica ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Haber colaborado en la investigación del hecho aportando pruebas, en cualquier momento del proceso, que fueran nuevas y decisivas para esclarecer las responsabilidades penales dimanantes de los hechos."
+    },
+    {
+        "pregunta": "70. La detención de un menor por funcionarios de policía no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos y, en todo caso, el menor detenido deberá ser puesto en libertad o a disposición del Ministerio Fiscal:",
+        "respuestas": {
+            "a": "a. Dentro del plazo máximo de 24 horas ",
+            "b": "b. Dentro del plazo máximo de 48 horas ",
+            "c": "c. Dentro del plazo máximo de 72 horas ",
+            "d": "d. A un menor de edad no se le puede detener, únicamente realizar una función de custodia y protección hasta ponerlo a disposición de sus tutores legales o centro establecido al efecto. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Dentro del plazo máximo de 24 horas"
+    },
+    {
+        "pregunta": "71. El que condujere un vehículo de motor o ciclomotor en los casos de pérdida de vigencia del permiso o licencia por pérdida total de los puntos asignados legalmente, será castigado con la pena de:",
+        "respuestas": {
+            "a": "a. Prisión de tres a seis meses o con la de multa de doce a veinticuatro meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días. ",
+            "b": "b. Prisión de tres a seis meses o con la de multa de doce a veinticuatro meses y con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días. ",
+            "c": "c. Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Prisión de tres a seis meses o con la de multa de doce a veinticuatro meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días."
+    },
+    {
+        "pregunta": "72. De acuerdo a lo establecido en el Código Penal, ¿Cuándo se castigarán las acciones y omisiones imprudentes?",
+        "respuestas": {
+            "a": "a. Siempre que se haya creado una ocasión de riesgo para el bien jurídicamente protegido mediante una acción u omisión precedente. ",
+            "b": "b. Cuando se infrinja un especial deber jurídico del autor. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Sólo cuando expresamente lo disponga la Ley. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Sólo cuando expresamente lo disponga la Ley."
+    },
+    {
+        "pregunta": "73. La dilación extraordinaria e indebida en la tramitación del procedimiento, siempre que no sea atribuible al propio inculpado y que no guarde proporción con la complejidad de la causa, constituye:",
+        "respuestas": {
+            "a": "a. Una circunstancia agravante ",
+            "b": "b. Una circunstancia atenuante ",
+            "c": "c. Una circunstancia eximente ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Una circunstancia atenuante"
+    },
+    {
+        "pregunta": "74. Establece el artículo 770 de la LeCRIM que la Policía Judicial acudirá de inmediato al lugar de los hechos y entre las diligencias a realizar puede requerir la presencia de cualquier facultativo o personal sanitario que fuere habido para prestar, si fuere necesario, los oportunos auxilios al ofendido. El requerido, aunque sólo lo fuera verbalmente, que no atienda sin justa causa el requerimiento será sancionado con una multa de:",
+        "respuestas": {
+            "a": "a. 3.000 a 20.000 euros ",
+            "b": "b. 500 a 5.000 euros ",
+            "c": "c. 300 a 6.000 euros ",
+            "d": "d. 150 a 750 euros "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 500 a 5.000 euros"
+    },
+    {
+        "pregunta": "75. El procedimiento de amparo judicial de las libertades y derechos, previsto en el artículo 53.2 de la Constitución española, se regirá, en el orden contencioso-administrativo, por lo dispuesto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa. Formalizada la demanda, el letrado o letrada de la Administración de Justicia dará traslado de la misma, con entrega del expediente administrativo, al Ministerio Fiscal y a las partes demandadas para que presenten sus alegaciones en el plazo común e improrrogable de:",
+        "respuestas": {
+            "a": "a. 5 días ",
+            "b": "b. 8 días ",
+            "c": "c. 10 días ",
+            "d": "d. 20 días "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: 8 días"
+    },
+    {
+        "pregunta": "76. Establece el artículo 23 de la Ley de Enjuiciamiento Civil que los litigantes podrán comparecer por sí mismos, sin necesidad de procurador, en los juicios verbales cuya determinación se haya efectuado por razón de la cuantía y ésta no exceda de:",
+        "respuestas": {
+            "a": "a. 2.000 euros ",
+            "b": "b. 3.000 euros ",
+            "c": "c. 6.000 euros ",
+            "d": "d. 15.000 euros "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: 2.000 euros"
+    },
+    {
+        "pregunta": "77. Conforme al Código Penal, el que, sin estar legítimamente autorizado, impidiere a otro con violencia hacer lo que la ley no prohíbe, o le compeliere a efectuar lo que no quiere, sea justo o injusto, será castigado como reo de:",
+        "respuestas": {
+            "a": "a. Amenazas ",
+            "b": "b. Coacciones ",
+            "c": "c. Extorsión ",
+            "d": "d. Realización arbitraria del propio derecho "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Coacciones"
+    },
+    {
+        "pregunta": "78. Establece el artículo 404 del Código Penal que a la autoridad o funcionario público que, a sabiendas de su injusticia, dictare una resolución arbitraria en un asunto administrativo se le castigará con la pena de:",
+        "respuestas": {
+            "a": "a. Inhabilitación especial ",
+            "b": "b. Inhabilitación absoluta ",
+            "c": "c. Suspensión de empleo ",
+            "d": "d. Prisión "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Inhabilitación especial"
+    },
+    {
+        "pregunta": "79. La reciente modificación del artículo 235 del Código Penal establece que el hurto de un teléfono móvil será penado con prisión de 1 a 3 años. Indique en cual de los siguientes casos el hurto de un teléfono móvil NO será penado con dicha pena:",
+        "respuestas": {
+            "a": "a. Cuando se encuentre a la venta, almacén o exposición en un establecimiento comercial. ",
+            "b": "b. Cuando no haya reincidencia. ",
+            "c": "c. Cuando tenga un valor inferior a 400 euros. ",
+            "d": "d. B) y C) son correctas "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Cuando se encuentre a la venta, almacén o exposición en un establecimiento comercial."
+    },
+    {
+        "pregunta": "80. Indique cuál de las siguientes penas se considera una pena menos grave:",
+        "respuestas": {
+            "a": "a. La privación de patria potestad ",
+            "b": "b. La prisión de 3 meses hasta 5 años ",
+            "c": "c. Inhabilitación especial para el ejercicio de profesión, oficio o comercio que tenga relación con los animales y para la tenencia de animales de 3 meses a un año. ",
+            "d": "d. B) y C) son correctas. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: La prisión de 3 meses hasta 5 años"
+    }
+]

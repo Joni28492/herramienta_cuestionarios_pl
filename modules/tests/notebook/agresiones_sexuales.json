@@ -1,0 +1,442 @@
+[
+    {
+        "pregunta": "1. El tipo básico del maltrato habitual (Art. 173.2) castiga la violencia física o psíquica ejercida sobre personas ligadas al autor por ciertos vínculos. ¿Cuál es la pena de prisión prevista?",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a dos años.",
+            "b": "b) Prisión de seis meses a tres años.",
+            "c": "c) Prisión de uno a tres años.",
+            "d": "d) Prisión de tres meses a un año."
+        },
+        "solucion": "b",
+        "explicacion": "El Art. 173.2 fija prisión de 6 meses a 3 años. La opción (a) es para el trato degradante básico del 173.1."
+    },
+    {
+        "pregunta": "2. En relación al delito de maltrato habitual, ¿qué criterio se utiliza para apreciar la \"habitualidad\" según el Art. 173.3?",
+        "respuestas": {
+            "a": "a) El número de actos de violencia que resulten acreditados.",
+            "b": "b) La proximidad temporal de los actos de violencia.",
+            "c": "c) La independencia de que dicha violencia se haya ejercido sobre la misma o diferentes víctimas.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Todas están recogidas explícitamente en el Art. 173.3 como criterios de apreciación judicial."
+    },
+    {
+        "pregunta": "3. (PREGUNTA DE REPASO) Según el Art. 173.2, ¿sobre qué personas se puede cometer el delito de maltrato habitual para que se aplique dicho artículo?",
+        "respuestas": {
+            "a": "a) Cónyuge o persona ligada por análoga relación de afectividad aun sin convivencia.",
+            "b": "b) Descendientes, ascendientes o hermanos por naturaleza, adopción o afinidad, propios o del cónyuge o conviviente.",
+            "c": "c) Personas amparadas en cualquier otra relación por la que se encuentre integrada en el núcleo de su convivencia familiar.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "El Art. 173.2 define un círculo amplio que incluye convivientes, familiares y personas vulnerables bajo custodia."
+    },
+    {
+        "pregunta": "4. El funcionario público que, abusando de su cargo y para obtener una confesión, someta a una persona a procedimientos que le supongan sufrimientos físicos o mentales gravemente discriminatorios, comete un delito de tortura. ¿Cuál es la pena si el atentado es grave?",
+        "respuestas": {
+            "a": "a) Prisión de uno a tres años e inhabilitación absoluta de seis a doce años.",
+            "b": "b) Prisión de dos a seis años e inhabilitación absoluta de ocho a doce años.",
+            "c": "c) Prisión de seis meses a dos años e inhabilitación especial.",
+            "d": "d) Prisión de cuatro a ocho años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 174.1. La opción (a) es para cuando el atentado no es grave."
+    },
+    {
+        "pregunta": "5. Si una autoridad o funcionario público, faltando a los deberes de su cargo, permite que otras personas ejecuten actos de tortura o tratos degradantes, incurrirá en:",
+        "respuestas": {
+            "a": "a) Las mismas penas que los autores materiales.",
+            "b": "b) Una falta administrativa únicamente.",
+            "c": "c) Las mismas penas respectivamente establecidas para los autores, según el Art. 176.",
+            "d": "d) La pena inferior en un grado a la de los autores."
+        },
+        "solucion": "c",
+        "explicacion": "El Art. 176 castiga la omisión de socorro/permisión con la misma pena que la autoría."
+    },
+    {
+        "pregunta": "6. Cuando en un delito de tortura o atentado contra la integridad moral se produciera, además del atentado a la integridad, una lesión o daño a la vida o salud de la víctima:",
+        "respuestas": {
+            "a": "a) El delito de lesiones absorbe al de tortura.",
+            "b": "b) Se castigarán los hechos separadamente con la pena que corresponda a los delitos cometidos, salvo que ya esté especialmente castigado por ley.",
+            "c": "c) Solo se castiga por el delito que tenga la pena más grave.",
+            "d": "d) Se aplica la pena de tortura en su mitad superior."
+        },
+        "solucion": "b",
+        "explicacion": "El Art. 177 establece el concurso de delitos (castigo por separado) para no dejar impunes las lesiones."
+    },
+    {
+        "pregunta": "7. Según el Art. 178, ¿cuándo se entiende que existe consentimiento en una agresión sexual?",
+        "respuestas": {
+            "a": "a) Cuando la víctima no opone resistencia física.",
+            "b": "b) Cuando se haya manifestado libremente mediante actos que, según las circunstancias, expresen de manera clara la voluntad de la persona.",
+            "c": "c) Cuando la víctima mantiene una relación de pareja con el agresor.",
+            "d": "d) Cuando no hay violencia ni intimidación."
+        },
+        "solucion": "b",
+        "explicacion": "Es la definición de la reforma del \"solo sí es sí\" (Art. 178)."
+    },
+    {
+        "pregunta": "8. El delito de agresión sexual consistente en acceso carnal por vía vaginal, anal o bucal, o introducción de miembros corporales u objetos por alguna de las dos primeras vías, se denomina:",
+        "respuestas": {
+            "a": "a) Abuso sexual agravado.",
+            "b": "b) Violación.",
+            "c": "c) Estupro.",
+            "d": "d) Exhibicionismo."
+        },
+        "solucion": "b",
+        "explicacion": "El Art. 179 define la violación mediante los tipos de acceso carnal mencionados."
+    },
+    {
+        "pregunta": "9. La pena para el tipo básico de violación (Art. 179) es de:",
+        "respuestas": {
+            "a": "a) Prisión de uno a cuatro años.",
+            "b": "b) Prisión de seis a doce años.",
+            "c": "c) Prisión de cuatro a doce años.",
+            "d": "d) Prisión de siete a quince años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 179. No confundir con la agresión básica (1-4 años)."
+    },
+    {
+        "pregunta": "10. Si en una agresión sexual (Art. 178.3) se emplea violencia o intimidación o la víctima tiene la voluntad anulada, la pena será de:",
+        "respuestas": {
+            "a": "a) Prisión de uno a cuatro años.",
+            "b": "b) Prisión de uno a cinco años.",
+            "c": "c) Prisión de dos a ocho años.",
+            "d": "d) Multa de doce a veinticuatro meses."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 178.3. Se eleva el mínimo y el máximo respecto al tipo básico por la concurrencia de la violencia, intimidación o anulación de la voluntad."
+    },
+    {
+        "pregunta": "11. (PREGUNTA DE REPASO) Se impondrán las penas de agresión sexual en su mitad superior cuando concurra alguna de las siguientes circunstancias del Art. 180:",
+        "respuestas": {
+            "a": "a) Los hechos se cometan por la actuación conjunta de dos o más personas.",
+            "b": "b) El responsable se hubiera prevalido de una relación de superioridad o parentesco.",
+            "c": "c) El autor haya anulado la voluntad de la víctima suministrándole fármacos o drogas.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Son agravantes específicas del Art. 180."
+    },
+    {
+        "pregunta": "12. En los delitos de agresiones sexuales, si el culpable se hubiera prevalido de su condición de autoridad, agente de esta o funcionario público, se impondrá:",
+        "respuestas": {
+            "a": "a) La pena inferior en grado.",
+            "b": "b) La inhabilitación absoluta de seis a doce años, además de la pena de prisión correspondiente.",
+            "c": "c) Solo una sanción disciplinaria.",
+            "d": "d) La pena de prisión en su mitad superior únicamente."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 180.3. La inhabilitación absoluta es obligatoria y específica para estos supuestos de prevalimiento público."
+    },
+    {
+        "pregunta": "13. El que realice actos de carácter sexual con un menor de dieciséis años será castigado con la pena de prisión de:",
+        "respuestas": {
+            "a": "a) Uno a tres años.",
+            "b": "b) Dos a seis años.",
+            "c": "c) Cuatro a ocho años.",
+            "d": "d) Seis meses a dos años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 181.1."
+    },
+    {
+        "pregunta": "14. Si el acto sexual con un menor de dieciséis años consiste en acceso carnal o introducción de objetos (Art. 181.4), la pena asciende a:",
+        "respuestas": {
+            "a": "a) Prisión de seis a doce años.",
+            "b": "b) Prisión de ocho a doce años.",
+            "c": "c) Prisión de doce a quince años.",
+            "d": "d) Prisión de dos a seis años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 181.4. Es el tipo agravado de violación sobre menor de 16 años."
+    },
+    {
+        "pregunta": "15. El delito de \"grooming\" (Art. 183.1), consistente en contactar con un menor de 16 años por internet para concertar un encuentro con fines sexuales, se castiga con:",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a dos años.",
+            "b": "b) Prisión de uno a tres años o multa de 12 a 24 meses.",
+            "c": "c) Prisión de dos a cinco años.",
+            "d": "d) Solo si se produce el encuentro físico."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 183.1. La opción (a) es para cuando el fin es de material pornográfico (183.2)."
+    },
+    {
+        "pregunta": "16. ¿Qué establece el Art. 183 bis respecto al consentimiento de un menor de 16 años?",
+        "respuestas": {
+            "a": "a) El consentimiento del menor es siempre válido.",
+            "b": "b) El consentimiento del menor de 16 años excluirá la responsabilidad penal solo cuando el autor sea una persona próxima al menor por edad y grado de madurez.",
+            "c": "c) Nunca se excluye la responsabilidad, independientemente de la edad del autor.",
+            "d": "d) Solo se excluye si hay matrimonio legal."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 183 bis. Es la excepción de proximidad de edad y madurez pensada para relaciones consentidas entre adolescentes."
+    },
+    {
+        "pregunta": "17. El acoso sexual (Art. 184.1) requiere que la solicitud de favores de naturaleza sexual provoque en la víctima:",
+        "respuestas": {
+            "a": "a) Una situación objetiva y gravemente intimidatoria, hostil o humillante.",
+            "b": "b) Una ganancia económica para el autor.",
+            "c": "c) Una lesión física detectable.",
+            "d": "d) Solo es delito si se produce en el ámbito familiar."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 184.1."
+    },
+    {
+        "pregunta": "18. Si el culpable de acoso sexual se prevale de una situación de superioridad laboral, docente o jerárquica, la pena de prisión será de:",
+        "respuestas": {
+            "a": "a) Tres a seis meses.",
+            "b": "b) Uno a dos años.",
+            "c": "c) Seis a doce meses.",
+            "d": "d) Uno a tres años."
+        },
+        "solucion": "c",
+        "explicacion": "Art. 184.2. El tipo básico es multa de 6 a 12 meses o prisión de 3 a 7 meses; el prevalimiento lo eleva a la pena de prisión de 6 a 12 meses."
+    },
+    {
+        "pregunta": "19. El que empleando violencia o intimidación determine a una persona mayor de edad a ejercer la prostitución o a mantenerse en ella, comete un delito castigado con:",
+        "respuestas": {
+            "a": "a) Prisión de uno a tres años.",
+            "b": "b) Prisión de dos a cinco años y multa de 12 a 24 meses.",
+            "c": "c) Prisión de cinco a diez años.",
+            "d": "d) Solo multa."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 187.1."
+    },
+    {
+        "pregunta": "20. (PREGUNTA DE REPASO) En los delitos de prostitución y explotación sexual (Art. 187.2), se impondrán las penas en su mitad superior cuando:",
+        "respuestas": {
+            "a": "a) El culpable sea autoridad o agente de la autoridad.",
+            "b": "b) El culpable pertenezca a una organización criminal.",
+            "c": "c) El culpable hubiera puesto en peligro la vida o salud de la víctima.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Art. 187.2. Circunstancias de agravación en explotación sexual."
+    },
+    {
+        "pregunta": "21. El que produzca o distribuya material de pornografía infantil (Art. 189.1.b) será castigado con la pena de prisión de:",
+        "respuestas": {
+            "a": "a) Seis meses a dos años.",
+            "b": "b) Uno a cinco años.",
+            "c": "c) Tres a seis años.",
+            "d": "d) Uno a tres años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 189.1.b."
+    },
+    {
+        "pregunta": "22. ¿Qué pena se impone por la mera posesión de pornografía infantil para uso propio (Art. 189.5)?",
+        "respuestas": {
+            "a": "a) Prisión de uno a tres años.",
+            "b": "b) Prisión de tres meses a un año o multa de seis a doce meses.",
+            "c": "c) No es delito la posesión para uso propio.",
+            "d": "d) Multa de tres a seis meses."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 189.5. Es delito la posesión para uso propio, con penas alternativas de prisión corta o multa."
+    },
+    {
+        "pregunta": "23. El Artículo 191 establece que para proceder por agresiones sexuales o acoso sexual es necesaria:",
+        "respuestas": {
+            "a": "a) Denuncia del Ministerio Fiscal en todo caso.",
+            "b": "b) Denuncia de la persona agraviada, su representante legal o querella del Ministerio Fiscal.",
+            "c": "c) Actuación de oficio de la Policía Local siempre.",
+            "d": "d) No se requiere denuncia si el autor es funcionario."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 191.1."
+    },
+    {
+        "pregunta": "24. En los delitos de agresiones sexuales y acoso sexual, el perdón del ofendido:",
+        "respuestas": {
+            "a": "a) Extingue la acción penal siempre.",
+            "b": "b) Extingue la acción penal si se hace ante el Juez de Instrucción.",
+            "c": "c) No extingue la acción penal ni la responsabilidad civil.",
+            "d": "d) Solo extingue la acción si la víctima es mayor de edad."
+        },
+        "solucion": "c",
+        "explicacion": "El Art. 191.2 es tajante: el perdón NO extingue la acción penal ni la responsabilidad civil en estos delitos. Diferencia clave con otros delitos privados o semipúblicos."
+    },
+    {
+        "pregunta": "25. El delito de descubrimiento de secretos (Art. 197.1) por apoderarse de papeles o mensajes de otro sin su consentimiento se castiga con prisión de:",
+        "respuestas": {
+            "a": "a) Seis meses a un año.",
+            "b": "b) Uno a cuatro años y multa de doce a veinticuatro meses.",
+            "c": "c) Dos a cinco años.",
+            "d": "d) Uno a tres años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 197.1."
+    },
+    {
+        "pregunta": "26. Si los secretos descubiertos se difunden, revelan o ceden a terceros (Art. 197.3), la pena de prisión asciende a:",
+        "respuestas": {
+            "a": "a) Uno a tres años.",
+            "b": "b) Dos a cinco años.",
+            "c": "c) Tres a seis años.",
+            "d": "d) Cuatro a siete años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 197.3."
+    },
+    {
+        "pregunta": "27. La autoridad o funcionario público que, fuera de los casos permitidos por la ley, revele secretos de los que tenga conocimiento por su cargo (Art. 198):",
+        "respuestas": {
+            "a": "a) Incurrirá en las penas previstas para el particular en su mitad superior e inhabilitación absoluta de seis a doce años.",
+            "b": "b) Solo tiene responsabilidad administrativa.",
+            "c": "c) Incurrirá en la pena inferior en grado.",
+            "d": "d) Se le aplica la pena de tortura."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 198. El funcionario público tiene un plus de antijuridicidad y quebranta un deber especial, de ahí las penas agravadas e inhabilitación."
+    },
+    {
+        "pregunta": "28. (PREGUNTA DE REPASO) Para proceder por descubrimiento y revelación de secretos es necesaria la denuncia de la persona agraviada, SALVO (Art. 201.2):",
+        "respuestas": {
+            "a": "a) Cuando el hecho afecte a los intereses generales o a una pluralidad de personas.",
+            "b": "b) Cuando la víctima sea menor de edad o persona con discapacidad necesitada de especial protección.",
+            "c": "c) Cuando el delito sea cometido por funcionario público (Art. 198).",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Art. 201.2. Excepciones que permiten la persecución de oficio de los delitos de secretos."
+    },
+    {
+        "pregunta": "29. El particular que entre en morada ajena o se mantenga en ella contra la voluntad de su morador comete un delito de allanamiento de morada. ¿Cuál es la pena de prisión?",
+        "respuestas": {
+            "a": "a) Tres meses a un año.",
+            "b": "b) Seis meses a dos años.",
+            "c": "c) Uno a cuatro años.",
+            "d": "d) Multa de seis a doce meses."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 202.1."
+    },
+    {
+        "pregunta": "30. Si el allanamiento de morada por un particular se ejecuta con violencia o intimidación (Art. 202.2), la pena es:",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a dos años.",
+            "b": "b) Prisión de uno a cuatro años y multa de seis a doce meses.",
+            "c": "c) Prisión de dos a cinco años.",
+            "d": "d) Prisión de tres a seis años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 202.2. Establece la pena de prisión de 1 a 4 años y multa de 6 a 12 meses."
+    },
+    {
+        "pregunta": "31. El que entre contra la voluntad de su titular en el domicilio de una persona jurídica pública o privada, despacho u oficina fuera de las horas de apertura:",
+        "respuestas": {
+            "a": "a) Comete un delito de allanamiento castigado con prisión de 6 meses a un año y multa de 6 a 10 meses.",
+            "b": "b) No es delito, es una infracción de la Ley de Seguridad Ciudadana.",
+            "c": "c) Se castiga solo con multa de tres meses.",
+            "d": "d) Se castiga con la misma pena que el domicilio particular."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 203.1. Ojo: si se realiza en horas de apertura, la conducta pasa a estar castigada con pena de multa de uno a tres meses (203.2)."
+    },
+    {
+        "pregunta": "32. La autoridad o funcionario público que, fuera de los casos permitidos por la ley y sin mediar causa legal por delito, entre en domicilio ajeno sin consentimiento del morador (Art. 204):",
+        "respuestas": {
+            "a": "a) Se le imponen las penas del particular en su mitad superior e inhabilitación absoluta de seis a doce años.",
+            "b": "b) Solo se le sanciona si hay violencia.",
+            "c": "c) Incurre en el delito de tortura.",
+            "d": "d) Queda exento si es por una urgencia no tipificada."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 204. Castiga el abuso de funciones de la autoridad que atenta contra la inviolabilidad del domicilio."
+    },
+    {
+        "pregunta": "33. (PREGUNTA DE REPASO) Según la jurisprudencia y doctrina recogida en tus apuntes, se ha reconocido como \"morada\" a efectos penales:",
+        "respuestas": {
+            "a": "a) Las tiendas de campaña y los camarotes de una embarcación.",
+            "b": "b) Las caravanas y autocaravanas.",
+            "c": "c) Las segundas residencias.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Conceptos amplios de morada protegidos por la inviolabilidad constitucional, siempre que constituyan el ámbito donde se desarrolla la intimidad familiar o personal de forma eventual u ordinaria."
+    },
+    {
+        "pregunta": "34. La calumnia se define en el Código Penal (Art. 205) como:",
+        "respuestas": {
+            "a": "a) La acción que lesiona la dignidad de otra persona menoscabando su fama.",
+            "b": "b) La imputation de un delito hecha con conocimiento de su falsedad o temerario desprecio hacia la verdad.",
+            "c": "c) Insultar a un funcionario público en el ejercicio de sus funciones.",
+            "d": "d) Publicar fotos privadas de alguien en redes sociales."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 205. La opción (a) es la definición legal de lo que constituye una injuria."
+    },
+    {
+        "pregunta": "35. Las calumnias propagadas con publicidad se castigan con la pena de:",
+        "respuestas": {
+            "a": "a) Multa de seis a doce meses.",
+            "b": "b) Prisión de seis meses a dos años o multa de doce a veinticuatro meses.",
+            "c": "c) Prisión de uno a tres años.",
+            "d": "d) Localización permanente."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 206."
+    },
+    {
+        "pregunta": "36. El acusado por delito de calumnia quedará exento de toda pena si:",
+        "respuestas": {
+            "a": "a) Pide perdón públicamente antes del juicio.",
+            "b": "b) Prueba el hecho criminal que hubiere imputado (exceptio veritatis).",
+            "c": "c) La víctima retira la querella después de la sentencia.",
+            "d": "d) El delito imputado ha prescrito."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 207. Es la regulación de la denominada \"exceptio veritatis\" (exención si se demuestra la veracidad de la imputación criminal)."
+    },
+    {
+        "pregunta": "37. La injuria se considera delito cuando, por su naturaleza, efectos y circunstancias, sean tenidas en el concepto público por:",
+        "respuestas": {
+            "a": "a) Leves.",
+            "b": "b) Graves.",
+            "c": "c) Divertidas.",
+            "d": "d) Realizadas ante más de tres personas."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 208. Las injurias leves quedaron despenalizadas tras las reformas, manteniéndose solo como delito leve aquellas en el ámbito de la violencia de género o doméstica."
+    },
+    {
+        "pregunta": "38. El acusado de injuria quedará exento de responsabilidad probando la verdad de las imputaciones cuando estas se dirijan contra:",
+        "respuestas": {
+            "a": "a) Cualquier ciudadano particular.",
+            "b": "b) Funcionarios públicos sobre hechos concernientes al ejercicio de sus cargos.",
+            "c": "c) Familiares directos del autor.",
+            "d": "d) Menores de edad."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 210. En el delito de injurias, a diferencia de la calumnia, la prueba de la verdad solo exime de responsabilidad si el injuriado es un empleado público y la imputación se circunscribe a las funciones de su cargo."
+    },
+    {
+        "pregunta": "39. (PREGUNTA DE REPASO) En los delitos de calumnia e injuria realizados mediante precio, recompensa o promesa, los Tribunales impondrán:",
+        "respuestas": {
+            "a": "a) La pena de inhabilitación especial de seis meses a dos años, además de las penas señaladas para el delito.",
+            "b": "b) La pena inferior en grado.",
+            "c": "c) Solo una multa del triple del beneficio obtenido.",
+            "d": "d) No se tiene en cuenta el precio para la pena."
+        },
+        "solucion": "a",
+        "explicacion": "Art. 213. La inhabilitación especial para empleo, cargo público, profesión u oficio es obligatoria y de carácter acumulativo."
+    },
+    {
+        "pregunta": "40. El perdón de la persona ofendida en los delitos de calumnia o injuria:",
+        "respuestas": {
+            "a": "a) No tiene ningún efecto penal.",
+            "b": "b) Extingue la acción penal, sin perjuicio de lo dispuesto en el Art. 130.1.5º.",
+            "c": "c) Solo reduce la pena en un grado.",
+            "d": "d) Requiere la aprobación del Ministerio Fiscal."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 215.3. Aquí el perdón de la víctima SÍ actúa como causa de extinción de la acción penal, marcando un claro contraste formal con el régimen de los delitos contra la libertad sexual."
+    }
+]

@@ -83,5 +83,6 @@ class ConvertJsonTestToHTML():
 
     
 if __name__ == '__main__':
-    jsonToHtmlConverter = ConvertJsonTestToHTML(path_folder="notebook", path_file="proteccion_civil.json", output_path="html/proteccion_civil.html")
+    file = 'simulacro_oviedo_02'
+    jsonToHtmlConverter = ConvertJsonTestToHTML(path_folder="notebook", path_file=f"{file}.json", output_path=f"html/{file}.html")
     jsonToHtmlConverter.run()

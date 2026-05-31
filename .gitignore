@@ -15,4 +15,6 @@ commands.py
 server.py
 activar_env.py
 modules/pdfs/**
+modules/html/**
+modules/json/**
 prompts

@@ -2,7 +2,7 @@
     {
         "pregunta": "Estaciones de transformadoras o circo + 6 años",
         "respuesta": "anual",
-        "fallos": 3,
+        "fallos": 4,
         "aciertos": 0
     },
     {
@@ -21,7 +21,19 @@
         "pregunta": "Transporte mercancias -3.5kg + 10 años",
         "respuesta": "semestral",
         "fallos": 2,
-        "aciertos": 2
+        "aciertos": 3
+    },
+    {
+        "pregunta": "O2 hasta 6 años",
+        "respuesta": "exento",
+        "fallos": 2,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "vehiculos escuela conductores M1 y L + 5 años",
+        "respuesta": "semestral",
+        "fallos": 2,
+        "aciertos": 0
     },
     {
         "pregunta": "Transporte mercancias -3.5kg de 2 a 6 años",
@@ -45,7 +57,7 @@
         "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros hasta 8 años",
         "respuesta": "exento",
         "fallos": 1,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "Caravanas + 6 años",
@@ -56,18 +68,6 @@
     {
         "pregunta": "vehiculo historico entre 40 y 45 años",
         "respuesta": "trienal",
-        "fallos": 1,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "vehiculos escuela conductores M1 y L + 5 años",
-        "respuesta": "semestral",
-        "fallos": 1,
-        "aciertos": 0
-    },
-    {
-        "pregunta": "O2 hasta 6 años",
-        "respuesta": "exento",
         "fallos": 1,
         "aciertos": 0
     },
@@ -84,6 +84,30 @@
         "aciertos": 1
     },
     {
+        "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros de 8 a 16 años",
+        "respuesta": "bienal",
+        "fallos": 1,
+        "aciertos": 0
+    },
+    {
+        "pregunta": "O3 hasta 10 años",
+        "respuesta": "anual",
+        "fallos": 1,
+        "aciertos": 1
+    },
+    {
+        "pregunta": "M1 hasta de 4 a 10 años",
+        "respuesta": "bienal",
+        "fallos": 1,
+        "aciertos": 2
+    },
+    {
+        "pregunta": "T y Otros agricolas hasta + 16 años",
+        "respuesta": "anual",
+        "fallos": 1,
+        "aciertos": 1
+    },
+    {
         "pregunta": "vehiculo historico >= 45años",
         "respuesta": "cuatrienal",
         "fallos": 0,
@@ -96,12 +120,6 @@
         "aciertos": 1
     },
     {
-        "pregunta": "M1 hasta de 4 a 10 años",
-        "respuesta": "bienal",
-        "fallos": 0,
-        "aciertos": 2
-    },
-    {
         "pregunta": "Transporte personas -8 plazas de 4 a 10 años",
         "respuesta": "bienal",
         "fallos": 0,
@@ -111,7 +129,7 @@
         "pregunta": "vehiculos por construccion +25km/h de 4 a 10 años",
         "respuesta": "bienal",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "vehiculos especiales obras y servicios, maquinaria automotriz  de 4 a 10 años",
@@ -126,12 +144,6 @@
         "aciertos": 1
     },
     {
-        "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros de 8 a 16 años",
-        "respuesta": "bienal",
-        "fallos": 0,
-        "aciertos": 0
-    },
-    {
         "pregunta": "Estaciones de transformadoras o circo de 4 a 6 años",
         "respuesta": "bienal",
         "fallos": 0,
@@ -141,7 +153,7 @@
         "pregunta": "N1 hasta de 2 a 6 años",
         "respuesta": "bienal",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "O2 hasta  + 6 años",
@@ -165,19 +177,13 @@
         "pregunta": "vehiculos por construccion +25km/h + 10 años",
         "respuesta": "anual",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "vehiculos especiales obras y servicios, maquinaria automotriz  + 10 años",
         "respuesta": "anual",
         "fallos": 0,
         "aciertos": 0
-    },
-    {
-        "pregunta": "T y Otros agricolas hasta + 16 años",
-        "respuesta": "anual",
-        "fallos": 0,
-        "aciertos": 1
     },
     {
         "pregunta": "Resto tractores de ruedas agriculas o forestales, maquinarias automotrices (excepto las de 1 eje), remolques  especiales, maquinas remolcadoras y tractocarros + 16 años",
@@ -195,13 +201,13 @@
         "pregunta": "Transporte mercancias -3.5kg de 6 a 10 años",
         "respuesta": "anual",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "N2 hasta 10 años",
         "respuesta": "anual",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "Transporte mercancias +3.5kg hasta 10 años",
@@ -210,16 +216,10 @@
         "aciertos": 1
     },
     {
-        "pregunta": "O3 hasta 10 años",
-        "respuesta": "anual",
-        "fallos": 0,
-        "aciertos": 1
-    },
-    {
         "pregunta": "O4 hasta 10 años",
         "respuesta": "anual",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "vehiculos M1 utilizados como ambulancias, taxi o transporte de menores hasta 5 años",
@@ -237,7 +237,7 @@
         "pregunta": "N3 + 10 años",
         "respuesta": "semestral",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "Transporte mercancias +3.5kg + 10 años",
@@ -255,7 +255,7 @@
         "pregunta": "O4 + 10 años",
         "respuesta": "semestral",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     },
     {
         "pregunta": "vehiculos M1 utilizados como ambulancias, taxi o transporte de menores + 5 años",
@@ -273,13 +273,13 @@
         "pregunta": "L hasta 4 años",
         "respuesta": "exento",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "M1 hasta 4 años",
         "respuesta": "exento",
         "fallos": 0,
-        "aciertos": 1
+        "aciertos": 2
     },
     {
         "pregunta": "Transporte personas -8 plazas hasta 4 años",
@@ -339,6 +339,6 @@
         "pregunta": "vehiculo historico con + 60 años",
         "respuesta": "exento",
         "fallos": 0,
-        "aciertos": 0
+        "aciertos": 1
     }
 ]

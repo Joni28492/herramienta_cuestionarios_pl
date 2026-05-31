@@ -1,0 +1,442 @@
+[
+    {
+        "pregunta": "1. Los delitos contra la seguridad vial se encuentran encuadrados en el Código Penal dentro de:",
+        "respuestas": {
+            "a": "a) Título XVII, Capítulo III.",
+            "b": "b) Título XVII, Capítulo IV.",
+            "c": "c) Título XVI, Capítulo IV.",
+            "d": "d) Título XVIII, Capítulo II."
+        },
+        "solucion": "b",
+        "explicacion": "El Título XVII regula los delitos contra la seguridad colectiva; el Capítulo IV es el espacio normativo específico destinado a los delitos contra la seguridad vial."
+    },
+    {
+        "pregunta": "2. El artículo 379.1 castiga al que condujere un vehículo de motor o ciclomotor a velocidad superior en:",
+        "respuestas": {
+            "a": "a) 60 km/h en vía urbana o en 80 km/h en vía interurbana a la permitida.",
+            "b": "b) 60 km/h en vía urbana o en 90 km/h en vía interurbana a la permitida.",
+            "c": "c) 50 km/h en vía urbana o en 80 km/h en vía interurbana a la permitida.",
+            "d": "d) 80 km/h en vía urbana o en 110 km/h en vía interurbana a la permitida."
+        },
+        "solucion": "a",
+        "explicacion": "Límites numéricos exactos y acumulativos definidos por el tipo penal para trazar la frontera entre la infracción administrativa y el ilícito penal."
+    },
+    {
+        "pregunta": "3. La pena de Privación del Derecho a Conducir (PDC) para el tipo básico de exceso de velocidad (379.1) es de:",
+        "respuestas": {
+            "a": "a) Un año y un día a cuatro años.",
+            "b": "b) Superior a un año y hasta cuatro años.",
+            "c": "c) De seis meses a dos años.",
+            "d": "d) De uno a seis años."
+        },
+        "solucion": "b",
+        "explicacion": "Literalidad del artículo 379.1, que utiliza la fórmula técnico-jurídica exacta de \"tiempo superior a uno y hasta cuatro años\"."
+    },
+    {
+        "pregunta": "4. ¿Cuál es la estructura de las penas principales en el artículo 379.1 (exceso de velocidad)?",
+        "respuestas": {
+            "a": "a) Prisión de 3 a 6 meses Y multa de 6 a 12 meses Y TBC de 31 a 90 días.",
+            "b": "b) Prisión de 3 a 6 meses O multa de 6 a 12 meses O TBC de 31 a 90 días.",
+            "c": "c) Prisión de 6 meses a 2 años O multa de 12 a 24 meses.",
+            "d": "d) Solo pena de multa de 12 a 24 meses."
+        },
+        "solucion": "b",
+        "explicacion": "El precepto establece penas de carácter alternativo (disyuntiva \"o\") para la sanción principal (prisión, multa o trabajos en beneficio de la comunidad), combinándose de forma conjunta con la privación del derecho a conducir."
+    },
+    {
+        "pregunta": "5. El artículo 379.2 establece que será condenado con las mismas penas del apartado anterior el que condujere con una tasa de alcohol en aire espirado superior a:",
+        "respuestas": {
+            "a": "a) 0,50 miligramos por litro.",
+            "b": "b) 0,60 miligramos por litro.",
+            "c": "c) 0,65 miligramos por litro.",
+            "d": "d) 1,2 miligramos por litro."
+        },
+        "solucion": "b",
+        "explicacion": "La tasa objetiva que constituye un delito abstracto 'per se' está fijada por ley de forma inequívoca por encima de los 0,60 miligramos por litro de aire espirado."
+    },
+    {
+        "pregunta": "6. Para que exista delito por conducción bajo la influencia de drogas tóxicas o bebidas alcohólicas (379.2), según el cuadro de penas:",
+        "respuestas": {
+            "a": "a) Es obligatorio alcanzar siempre una tasa objetiva de 0,60 mg/l.",
+            "b": "b) Basta con la influencia de las sustancias, sin necesidad de tasa objetiva.",
+            "c": "c) Se requiere tasa objetiva y síntomas de embriaguez simultáneamente.",
+            "d": "d) Solo es delito si se causa un accidente."
+        },
+        "solucion": "b",
+        "explicacion": "El artículo 379.2 contempla dos vías de incriminación: una subjetiva basada en la mera influencia acreditada de las sustancias en la conducción y otra puramente objetiva por superación del límite de tasa."
+    },
+    {
+        "pregunta": "7. Según la Circular 10/11 de la Fiscalía, en travesías se aplicará como norma general el límite de:",
+        "respuestas": {
+            "a": "a) Vía urbana.",
+            "b": "b) Vía interurbana.",
+            "c": "c) 50 km/h siempre.",
+            "d": "d) El límite que decida el agente en el momento."
+        },
+        "solucion": "b",
+        "explicacion": "Criterio de unificación de la Fiscalía del Estado, determinando que, por su naturaleza, las travesías participan con carácter general de las condiciones de vía interurbana a efectos penales."
+    },
+    {
+        "pregunta": "8. En cuanto a la detección de alcohol, el hecho de superar la tasa de 0,60 mg/l en aire espirado:",
+        "respuestas": {
+            "a": "a) Requiere síntomas para ser delito.",
+            "b": "b) SIEMPRE será delito, sin necesidad de que existan síntomas.",
+            "c": "c) Solo es delito si el conductor acepta el resultado.",
+            "d": "d) Es una infracción administrativa muy grave."
+        },
+        "solucion": "b",
+        "explicacion": "Se trata de una presunción legal 'iuris et de iure' de peligro que no admite prueba en contrario respecto a la afectación de las capacidades, configurando un tipo penal de peligro formalizado."
+    },
+    {
+        "pregunta": "9. Respecto a los márgenes de error de los etilómetros (Orden ICT/155/2020), un etilómetro con más de un año en servicio tiene un error de:",
+        "respuestas": {
+            "a": "a) 0,02 mg/l.",
+            "b": "b) 0,03 mg/l o 7,50% del valor de referencia, cualquiera que sea mayor.",
+            "c": "c) 5% del valor de referencia.",
+            "d": "d) No se aplican márgenes de error en vía penal."
+        },
+        "solucion": "b",
+        "explicacion": "Especificación metrológica legal de aplicación obligatoria en vía judicial para instrumentos que han superado el control de verificación periódica anual."
+    },
+    {
+        "pregunta": "10. El artículo 380 castiga la \"Conducción Temeraria\" cuando se conduce con temeridad manifiesta y:",
+        "respuestas": {
+            "a": "a) Se desprecia manifiestamente la vida de los demás.",
+            "b": "b) Se pusiere en concreto peligro la vida o la integridad de las personas.",
+            "c": "c) Se circulare a más de 200 km/h.",
+            "d": "d) Se careciere de permiso de conducción."
+        },
+        "solucion": "b",
+        "explicacion": "El delito de conducción temeraria ordinario exige como elemento sustantivo del tipo un peligro concreto, real y objetivable para la vida o salud de terceros."
+    },
+    {
+        "pregunta": "11. La pena de prisión para el delito de conducción temeraria del art. 380 es de:",
+        "respuestas": {
+            "a": "a) Tres a seis meses.",
+            "b": "b) Seis meses a dos años.",
+            "c": "c) Dos a cinco años.",
+            "d": "d) Un año a cuatro años."
+        },
+        "solucion": "b",
+        "explicacion": "El marco punitivo de prisión asignado expresamente al tipo ordinario de conducción con temeridad manifiesta es de 6 meses a 2 años."
+    },
+    {
+        "pregunta": "12. La Privación del Derecho a Conducir (PDC) en el artículo 380 es de:",
+        "respuestas": {
+            "a": "a) Superior a un año y hasta cuatro años.",
+            "b": "b) Superior a un año y hasta seis años.",
+            "c": "c) De seis a diez años.",
+            "d": "d) De dos a cinco años."
+        },
+        "solucion": "b",
+        "explicacion": "Matiz penológico relevante: el artículo 380 amplía el techo de la privación del derecho a conducir fijándolo en un intervalo superior a un año y hasta seis años."
+    },
+    {
+        "pregunta": "13. El artículo 381 define la \"Conducción Kamikaze\" como aquella realizada con temeridad manifiesta y:",
+        "respuestas": {
+            "a": "a) Concreto peligro para la vida.",
+            "b": "b) Manifiesto desprecio por la vida de los demás.",
+            "c": "c) Bajo la influencia de drogas heroicas.",
+            "d": "d) En sentido contrario por una autopista."
+        },
+        "solucion": "b",
+        "explicacion": "El rasgo diferencial y de mayor gravedad del artículo 381 frente al 380 estriba en el elemento de la actitud interna: el manifiesto desprecio hacia la vida de los demás."
+    },
+    {
+        "pregunta": "14. La pena de prisión para el \"Kamikaze\" cuando se pone en peligro la vida de los demás (381.1) es de:",
+        "respuestas": {
+            "a": "a) Dos a cinco años.",
+            "b": "b) Uno a dos años.",
+            "c": "c) Seis meses a dos años.",
+            "d": "d) Tres a seis meses."
+        },
+        "solucion": "a",
+        "explicacion": "Cuando confluyen el desprecio por la vida y la existencia de un riesgo concreto efectivo para terceras personas, la pena de prisión escala al rango de 2 a 5 años."
+    },
+    {
+        "pregunta": "15. ¿Qué penas conjuntas se aplican en el artículo 381.1 (Kamikaze con peligro)?",
+        "respuestas": {
+            "a": "a) Prisión O Multa Y PDC.",
+            "b": "b) Prisión Y Multa Y PDC.",
+            "c": "c) Prisión O Multa O PDC.",
+            "d": "d) Prisión Y PDC únicamente."
+        },
+        "solucion": "b",
+        "explicacion": "En el artículo 381.1 concurre una acumulación obligatoria de las tres penas de forma conjunta: prisión, multa y la privación del permiso de conducción."
+    },
+    {
+        "pregunta": "16. Si en el delito del art. 381 NO se hubiere puesto en concreto peligro la vida de las personas (381.2), la pena de prisión será de:",
+        "respuestas": {
+            "a": "a) Dos a cinco años.",
+            "b": "b) Uno a dos años.",
+            "c": "c) Seis meses a dos años.",
+            "d": "d) Multa de 12 a 24 meses únicamente."
+        },
+        "solucion": "b",
+        "explicacion": "Subtipo atenuado en atención a la ausencia de un peligro real inmediato sobre una persona física concreta, reduciendo la prisión al intervalo de 1 a 2 años."
+    },
+    {
+        "pregunta": "17. En el supuesto del art. 381.2 (Kamikaze sin peligro concreto), la pena de multa que acompaña a la prisión es de:",
+        "respuestas": {
+            "a": "a) 12 a 24 meses.",
+            "b": "b) 6 a 12 meses.",
+            "c": "c) 3 a 6 meses.",
+            "d": "d) No lleva pena de multa."
+        },
+        "solucion": "b",
+        "explicacion": "Además de la prisión, la pena pecuniaria asociada formalmente al tipo atenuado del artículo 381.2 se fija en multa de 6 a 12 meses."
+    },
+    {
+        "pregunta": "18. La Privación del Derecho a Conducir (PDC) para cualquiera de los supuestos del artículo 381 es de:",
+        "respuestas": {
+            "a": "a) 1 a 4 años.",
+            "b": "b) 1 a 6 años.",
+            "c": "c) 6 a 10 años.",
+            "d": "d) 2 a 5 años."
+        },
+        "solucion": "c",
+        "explicacion": "La privación del derecho a conducir aplicable a la totalidad de las conductas integradas en el artículo 381 comparte un mismo marco rígido: de 6 a 10 años."
+    },
+    {
+        "pregunta": "19. Según el artículo 382, cuando con los actos de los artículos 379, 380 y 381 se ocasionare un resultado lesivo constitutivo de delito:",
+        "respuestas": {
+            "a": "a) Se castigan ambos delitos por separado (concurso real).",
+            "b": "b) Los Jueces apreciarán tan sólo la infracción más gravemente penada, aplicándola en su mitad superior.",
+            "c": "c) El delito de resultado absorbe siempre al de seguridad vial.",
+            "d": "d) Solo se castiga la infracción administrativa."
+        },
+        "solucion": "b",
+        "explicacion": "Establece una regla especial de concurso ideal de delitos, ordenando la imposición exclusiva de la infracción penal que ostente una mayor gravedad penológica en su mitad superior."
+    },
+    {
+        "pregunta": "20. El delito de \"Abandono del lugar del accidente\" (Art. 382 bis) se comete cuando el conductor abandona el lugar tras causar un accidente con:",
+        "respuestas": {
+            "a": "a) Daños materiales superiores a 400 euros.",
+            "b": "b) Fallecimiento o lesiones de los artículos 147.1, 149 y 150.",
+            "c": "c) Lesiones leves de cualquier tipo.",
+            "d": "d) Solo en caso de fallecimiento de un tercero."
+        },
+        "solucion": "b",
+        "explicacion": "El tipo exige la concurrencia de resultado de muerte o de lesiones que requieran tratamiento médico-quirúrgico, o mutilaciones graves, excluyendo el delito leve de lesiones."
+    },
+    {
+        "pregunta": "21. Si el origen del accidente que da lugar al abandono (382 bis) fuera una acción IMPRUDENTE del conductor, la pena de prisión es de:",
+        "respuestas": {
+            "a": "a) Tres a seis meses.",
+            "b": "b) Seis meses a cuatro años.",
+            "c": "c) Uno a dos años.",
+            "d": "d) Dos a cinco años."
+        },
+        "solucion": "b",
+        "explicacion": "Cuando el evento lesivo inicial proviene de una imprudencia del sujeto activo, la pena establecida por el legislador abarca un espectro de 6 meses a 4 años."
+    },
+    {
+        "pregunta": "22. Si el origen del accidente que da lugar al abandono (382 bis) fuera FORTUITO, la pena de prisión es de:",
+        "respuestas": {
+            "a": "a) Seis meses a cuatro años.",
+            "b": "b) Tres a seis meses.",
+            "c": "c) Un año a dos años.",
+            "d": "d) Solo pena de multa."
+        },
+        "solucion": "b",
+        "explicacion": "Al disminuir la carga de culpabilidad sobre la provocación del accidente, el legislador mitiga el marco punitivo del posterior abandono fijándolo en prisión de 3 a 6 meses."
+    },
+    {
+        "pregunta": "23. La PDC en el delito de abandono (382 bis) por causa fortuita es de:",
+        "respuestas": {
+            "a": "a) 1 a 4 años.",
+            "b": "b) 6 meses a 2 años.",
+            "c": "c) 2 a 5 años.",
+            "d": "d) No conlleva PDC."
+        },
+        "solucion": "b",
+        "explicacion": "El abandono de origen fortuito lleva aparejado de manera unívoca un periodo menor de privación del permiso de conducción: de 6 meses a 2 años."
+    },
+    {
+        "pregunta": "24. El artículo 195 (Omisión del deber de socorro) castiga al que no socorriere a una persona desamparada con una pena de:",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a dos años.",
+            "b": "b) Multa de tres a doce meses.",
+            "c": "c) Multa de seis a dieciocho meses.",
+            "d": "d) Prisión de uno a cuatro años."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 195.1 CP. Tipo básico general de omisión de socorro cuya sanción principal es de carácter pecuniario (multa de 3 a 12 meses), a diferenciar del tipo del sector vial."
+    },
+    {
+        "pregunta": "25. El delito de negativa a someterse a las pruebas (Art. 383) se castiga con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a un año Y PDC de más de uno a cuatro años.",
+            "b": "b) Prisión de seis meses a un año O multa de 12 a 24 meses.",
+            "c": "c) Prisión de tres a seis meses Y PDC de 1 a 4 años.",
+            "d": "d) Multa de 6 a 12 meses únicamente."
+        },
+        "solucion": "a",
+        "explicacion": "La negativa expresa al requerimiento formal constituye un delito que se sanciona obligatoriamente de forma acumulativa con pena de prisión y privación del derecho a conducir."
+    },
+    {
+        "pregunta": "26. Para que exista el delito del art. 383, el requerimiento del agente debe ser:",
+        "respuestas": {
+            "a": "a) Verbal y genérico.",
+            "b": "b) Expreso, formal, personal, directo y con apercibimiento del posible delito.",
+            "c": "c) Solo es necesario el requerimiento si hay accidente.",
+            "d": "d) Por escrito en el boletín de denuncia."
+        },
+        "solucion": "b",
+        "explicacion": "Garantías formales exigidas por la doctrina penal y constitucional para la integración del tipo, siendo mandatorio informar al conductor sobre las consecuencias punitivas de su desobediencia."
+    },
+    {
+        "pregunta": "27. Se considera delito de negativa (Art. 383) respecto a las pruebas de drogas:",
+        "respuestas": {
+            "a": "a) Negarse al test indiciario.",
+            "b": "b) Negarse a facilitar saliva en cantidad suficiente.",
+            "c": "c) Negarse al reconocimiento médico.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "La obligación de colaborar abarca la integridad del protocolo legalmente establecido para la detección de sustancias psicotrópicas, resultando típica la obstrucción en cualquiera de sus fases."
+    },
+    {
+        "pregunta": "28. El artículo 384 castiga la conducción con pérdida de vigencia del permiso por pérdida total de puntos con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de 3 a 6 meses O multa de 12 a 24 meses O TBC de 31 a 90 días.",
+            "b": "b) Prisión de 3 a 6 meses Y multa de 12 a 24 meses.",
+            "c": "c) Prisión de 6 meses a 1 año.",
+            "d": "d) Multa de 12 a 24 meses únicamente."
+        },
+        "solucion": "a",
+        "explicacion": "Configuración exacta del catálogo de penas alternativas de este artículo, calcando la estructura punitiva de los delitos de riesgo del art. 379."
+    },
+    {
+        "pregunta": "29. ¿Cuál de estos supuestos NO está incluido en el artículo 384?",
+        "respuestas": {
+            "a": "a) Conducir tras haber sido privado cautelar o definitivamente del permiso por decisión judicial.",
+            "b": "b) Conducir sin haber obtenido nunca permiso o licencia.",
+            "c": "c) Conducir con el permiso caducado administrativamente.",
+            "d": "d) Conducir con pérdida total de puntos."
+        },
+        "solucion": "c",
+        "explicacion": "La mera caducidad temporal del documento no afecta a la existencia de la habilitación legal previa, quedando circunscrita su sanción en exclusividad a la esfera del derecho administrativo."
+    },
+    {
+        "pregunta": "30. Respecto a la conducción tras privación judicial (Art. 384), si la condena fue SUPERIOR a 2 años:",
+        "respuestas": {
+            "a": "a) Basta con esperar a que pase el tiempo para volver a conducir.",
+            "b": "b) Debe realizar un CURSO y PRUEBAS para recuperar el permiso.",
+            "c": "c) No puede volver a conducir nunca.",
+            "d": "d) Solo debe pagar una tasa administrativa."
+        },
+        "solucion": "b",
+        "explicacion": "La Ley de Seguridad Vial exige para las condenas que exceden los dos años la superación del curso de reeducación vial y la posterior prueba teórica en la Jefatura de Tráfico para restaurar el derecho extinguido."
+    },
+    {
+        "pregunta": "31. Según la STS 4387/2025, conducir tras la privación judicial habiendo cumplido el tiempo pero SIN haber hecho el curso y pruebas:",
+        "respuestas": {
+            "a": "a) Es delito del artículo 384.",
+            "b": "b) Es ATÍPICO penalmente (infracción administrativa muy grave).",
+            "c": "c) Se castiga como quebrantamiento de condena.",
+            "d": "d) Es un delito de desobediencia grave."
+        },
+        "solucion": "b",
+        "explicacion": "Fijación de criterio jurisprudencial: extinguido el plazo temporal estricto de la pena de privación impuesto por el juez, la falta de los requisitos administrativos de recuperación no colma la tipicidad del artículo 384."
+    },
+    {
+        "pregunta": "32. El delito de originar un grave riesgo para la circulación mediante obstáculos o sustancias (Art. 385) conlleva penas de:",
+        "respuestas": {
+            "a": "a) Prisión de 6 meses a 2 años O multa de 12 a 24 meses Y TBC de 10 a 40 días.",
+            "b": "b) Prisión de 6 meses a 2 años Y multa de 12 a 24 meses.",
+            "c": "c) Multa de 12 a 24 meses únicamente.",
+            "d": "d) Prisión de 3 a 6 meses."
+        },
+        "solucion": "a",
+        "explicacion": "Estructura penológica mixta que combina la alternatividad entre prisión o multa monetaria con la obligatoriedad acumulativa de los trabajos en beneficio de la comunidad."
+    },
+    {
+        "pregunta": "33. Una forma de cometer el delito del art. 385 es:",
+        "respuestas": {
+            "a": "a) Estacionar en doble fila.",
+            "b": "b) No restablecer la seguridad de la vía cuando haya obligación de hacerlo.",
+            "c": "c) Conducir sin luces de noche.",
+            "d": "d) Cruzar un semáforo en rojo."
+        },
+        "solucion": "b",
+        "explicacion": "Art. 385.2ª. Tipificación de la modalidad omisiva que sanciona la inactividad ante la existencia de un riesgo previo que se tiene el deber jurídico de subsanar."
+    },
+    {
+        "pregunta": "34. En los delitos de los artículos 379, 383, 384 y 385, el Juez o Tribunal podrá (Art. 385 ter):",
+        "respuestas": {
+            "a": "a) Aumentar la pena en un grado.",
+            "b": "b) Rebajar en un grado la pena de prisión en atención a la menor entidad del riesgo y circunstancias del hecho.",
+            "c": "c) Sustituir la prisión por una charla de seguridad vial.",
+            "d": "d) Absolver al acusado si pide perdón."
+        },
+        "solucion": "b",
+        "explicacion": "Cláusula de proporcionalidad que faculta discrecionalmente a los órganos judiciales para minorar el reproche punitivo de reclusión analizando la gravedad del riesgo concreto verificado."
+    },
+    {
+        "pregunta": "35. El vehículo a motor utilizado en los hechos de este Capítulo se considerará (Art. 385 bis):",
+        "respuestas": {
+            "a": "a) Propiedad del Estado automáticamente.",
+            "b": "b) Instrumento del delito a efectos de decomiso.",
+            "c": "c) Prueba irrelevante.",
+            "d": "d) Bien inembargable."
+        },
+        "solucion": "b",
+        "explicacion": "Habilitación legal expresa para aplicar las consecuencias accesorias del decomiso del vehículo al conceptuarse normativamente como la herramienta material del ilícito penal."
+    },
+    {
+        "pregunta": "36. Según la Consulta FGE 1/2026, si la condena judicial por privación de permiso es IGUAL O INFERIOR a 2 años, para volver a conducir:",
+        "respuestas": {
+            "a": "a) No hace falta curso.",
+            "b": "b) Debe realizar el CURSO pero no pruebas.",
+            "c": "c) Debe hacer curso y pruebas de nuevo.",
+            "d": "d) Basta con renovar el carné físicamente."
+        },
+        "solucion": "b",
+        "explicacion": "Criterio de la Fiscalía en consonancia con la normativa de tráfico: los periodos de privación de hasta dos años suspenden temporalmente el permiso requiriendo solo el curso de sensibilización, sin pérdida del derecho originario."
+    },
+    {
+        "pregunta": "37. Los Agentes de la Policía Judicial de tráfico que realicen pruebas de drogas deben tener (Art. 796.7 LECrim):",
+        "respuestas": {
+            "a": "a) Licencia de conducir camiones.",
+            "b": "b) Formación específica.",
+            "c": "c) Autorización del Alcalde únicamente.",
+            "d": "d) Título de medicina."
+        },
+        "solucion": "b",
+        "explicacion": "Exigencia impuesta por la Ley de Enjuiciamiento Criminal para garantizar la idoneidad técnica y la regularidad formal en la obtención de muestras biológicas y signos evidenciables."
+    },
+    {
+        "pregunta": "38. La pena de TBC (Trabajos en Beneficio de la Comunidad) en el artículo 379 es de:",
+        "respuestas": {
+            "a": "a) 10 a 40 días.",
+            "b": "b) 31 a 90 días.",
+            "c": "c) 6 meses a un año.",
+            "d": "d) 15 a 30 días."
+        },
+        "solucion": "b",
+        "explicacion": "Extensión temporal fija establecida por el legislador para la modalidad de trabajos comunitarios en las conductas básicas de alcohol y velocidad."
+    },
+    {
+        "pregunta": "39. Si un conductor circula a 125 km/h en una vía urbana limitada a 50 km/h:",
+        "respuestas": {
+            "a": "a) Es una infracción administrativa.",
+            "b": "b) Es un delito del artículo 379.1.",
+            "c": "c) Es un delito del artículo 380.",
+            "d": "d) No es sancionable si no hay tráfico."
+        },
+        "solucion": "b",
+        "explicacion": "Al superar en más de 60 km/h el límite de la vía urbana (50 + 60 = 110 km/h), la conducta desborda de forma automática el ámbito administrativo para encuadrarse en el delito objetivo de velocidad."
+    },
+    {
+        "pregunta": "40. El Capítulo IV del Título XVII del Código Penal se titula:",
+        "respuestas": {
+            "a": "a) De los delitos contra la seguridad colectiva.",
+            "b": "b) De los delitos contra la seguridad vial.",
+            "c": "c) De los delitos de riesgo.",
+            "d": "d) De las infracciones de tráfico."
+        },
+        "solucion": "b",
+        "explicacion": "Rótulo oficial y rúbrica jurídica que identifica formalmente al conjunto de artículos que integran este bloque penal."
+    }
+]
