@@ -14,7 +14,8 @@ test/backup/*
 commands.py
 server.py
 activar_env.py
-modules/pdfs/**
-modules/html/**
-modules/json/**
+modules/tests/pdfs/**
+modules/tests/html/**
+modules/tests/json/**
+modules/tests/notebook/**
 prompts
