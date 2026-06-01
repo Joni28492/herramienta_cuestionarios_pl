@@ -1,0 +1,380 @@
+[
+    {
+        "timestamp": 1780299419.6986165,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué tipo de norma se utiliza para aprobar el Estatuto de Autonomía?",
+        "opciones_respuesta": {
+            "a": "a) Ley de bases ",
+            "b": "b) Ley Ordinaria ",
+            "c": "c) Ley Orgánica ",
+            "d": "d) Real Decreto Legislativo "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299425.1448402,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuál de los siguientes títulos pertenece al Estatuto de Autonomía del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) 7/81, de 30 de diciembre ",
+            "b": "b) 7/80, de 30 de diciembre ",
+            "c": "c) 7/85, de 30 de octubre ",
+            "d": "d) 7/85, de 2 de abril "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299434.3048878,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "3. Según el artículo 147 de la CE, ¿Qué debe contener todo Estatuto de Autonomía?",
+        "opciones_respuesta": {
+            "a": "a) Denominación de la Comunidad y delimitación del territorio. ",
+            "b": "b) a) es correcta, y también la sede de las instituciones autónomas propias ",
+            "c": "c) b) es correcta, y también las competencias asumidas. ",
+            "d": "d) c) es correcta, y también la bandera y escudo de representación autonómica. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299438.4890256,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿Cuántos títulos tiene el Estatuto de Autonomía del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) Un título preliminar y 5 títulos adicionales. ",
+            "b": "b) Un título preliminar y 6 títulos adicionales. ",
+            "c": "c) Un título preliminar y 7 títulos adicionales. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299447.2811131,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "5. Señale la opción incorrecta",
+        "opciones_respuesta": {
+            "a": "a) La bandera del Principado de Asturias es la tradicional con la Cruz de Covadonga en amarillo sobre fondo azul. ",
+            "b": "b) El Principado de Asturias tiene escudo propio. ",
+            "c": "c) El aprendizaje del bable será voluntario. ",
+            "d": "d) Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299457.9368126,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cómo se organiza territorialmente el Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) En municipios, parroquias rurales y comarcas. ",
+            "b": "b) En parroquias y comarcas. ",
+            "c": "c) En municipios y concejos. ",
+            "d": "d) En concejos y comarcas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780299467.7690156,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "7. Forma tradicional de convivencia y asentamiento de la población asturiana.",
+        "opciones_respuesta": {
+            "a": "a) Concejo ",
+            "b": "b) Comarca ",
+            "c": "c) Parroquia rural ",
+            "d": "d) Pedanía "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299480.897113,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "8. ¿Quienes gozan de los derechos políticos asturianos?",
+        "opciones_respuesta": {
+            "a": "a) Los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Asturias y acrediten esta condición en el Consulado. ",
+            "b": "b) Los ciudadanos españoles residentes en el extranjero que hayan tenido la primera vecindad administrativa en Asturias y acrediten esta condición en el Consulado. ",
+            "c": "c) a) es correcta, y también sus descendientes inscritos como españoles. ",
+            "d": "d) b) es correcta, y también sus descendientes inscritos como españoles. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299491.5694134,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿Cuáles son los órganos institucionales del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) La Junta General, el Tribunal de cuentas y el Consejo de Gobierno. ",
+            "b": "b) La Junta de Gobierno, el Consejo General y el Presidente del Principado. ",
+            "c": "c) La Junta General, el Consejo de Gobierno y el Presidente del Principado. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299504.1212916,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "10. Respecto a los presupuestos del Principado de Asturias",
+        "opciones_respuesta": {
+            "a": "a) Son elaborados por la Junta General y aprobados por el Tribunal de Cuentas. ",
+            "b": "b) Son elaborados por la Junta General y aprobados por el Consejo de Gobierno. ",
+            "c": "c) Son elaborados por el Consejo de Gobierno y aprobados por la Junta General. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780299515.4893696,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Quien ejerce la potestad legislativa del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Tribunal Superior de Justicia del Principado ",
+            "d": "d) El Presidente del Principado. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299523.673332,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "12. La Junta General podrá delegar en el Consejo de Gobierno la potestad de dictar normas con rango de Ley. ¿Cómo podrá efectuarse esta delegación?",
+        "opciones_respuesta": {
+            "a": "a) Mediante una Ley de bases, para la formación de textos articulados. ",
+            "b": "b) Mediante una Ley ordinaria, para refundir varios textos legales en uno. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299532.7454271,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "13. ¿Cuantos miembros componen la Junta General?",
+        "opciones_respuesta": {
+            "a": "a) Según el Estatuto, entre 35 y 45. Actualmente, existen 45. ",
+            "b": "b) Según el Estatuto, 45. ",
+            "c": "c) Según el Estatuto, entre 30 y 40. Actualmente, existen 35. ",
+            "d": "d) Según el Estatuto, 35. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299545.441281,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "14. El Presidente del Principado, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Cámara, con anticipación al término natural de la legislatura. ¿En qué casos no podrá disolverla?",
+        "opciones_respuesta": {
+            "a": "a) En el primer periodo de sesiones ",
+            "b": "b) Cuando se encuentre una moción de censura en trámite ",
+            "c": "c) Cuando reste menos de un año para la finalización de la legislatura. ",
+            "d": "d) Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780299552.025595,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "15. Tras la celebración de elecciones, ¿En qué plazo convocará el Presidente del Principado a la Junta General electa?",
+        "opciones_respuesta": {
+            "a": "a) Dentro de los 15 días siguientes a las elecciones. ",
+            "b": "b) Dentro de los 20 días siguientes a las elecciones. ",
+            "c": "c) Dentro de los 25 días siguientes a las elecciones. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299566.3136463,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "16. Los miembros de la Junta General durante su mandato no podrán ser detenidos ni retenidos por los actos delictivos cometidos en el territorio de Asturias, sino en caso de flagrante delito, correspondiendo decidir en todo caso sobre su inculpación, prisión, procesamiento y juicio:",
+        "opciones_respuesta": {
+            "a": "a) Al Tribunal Superior de Justicia de la Comunidad Autónoma. ",
+            "b": "b) Sala de lo penal del Tribunal Supremo ",
+            "c": "c) A la Audiencia Provincial ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299574.5936418,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "17. En relación a la pregunta anterior, si los actos delictivos fueran cometidos fuera del territorio de Asturias, corresponderá dicha competencia a:",
+        "opciones_respuesta": {
+            "a": "a) Al Tribunal Superior de Justicia de la Comunidad Autónoma. ",
+            "b": "b) Sala de lo penal del Tribunal Supremo ",
+            "c": "c) A la Audiencia Provincial ",
+            "d": "d) Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780299589.7298493,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Entre que meses está comprendido el segundo periodo de sesiones ordinarias de la Junta General?",
+        "opciones_respuesta": {
+            "a": "a) Febrero y Junio ",
+            "b": "b) Septiembre y Diciembre ",
+            "c": "c) Enero y Mayo ",
+            "d": "d) Agosto y Noviembre "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299594.3217063,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿De cuántos miembros de la Junta General se requiere su petición para convocar una sesión extraordinaria?",
+        "opciones_respuesta": {
+            "a": "a) 1/3 ",
+            "b": "b) 2/3 ",
+            "c": "c) 1/4 ",
+            "d": "d) Mayoría absoluta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299600.689811,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "20. ¿Cómo son las comisiones de la Junta General?",
+        "opciones_respuesta": {
+            "a": "a) Permanentes, especiales o de investigación. ",
+            "b": "b) Permanentes o temporales. ",
+            "c": "c) Especiales o de trabajo. ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299655.9381404,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "21. Señale la opción correcta.",
+        "opciones_respuesta": {
+            "a": "a) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "b": "b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "c": "c) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "d": "d) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299669.6742594,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Quién nombra al Presidente del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Rey ",
+            "d": "d) El Presidente del Gobierno de la Nación. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299678.2023244,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "23. El Presidente del Principado de Asturias es también presidente de:",
+        "opciones_respuesta": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Tribunal de Cuentas ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299694.6104028,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "24. La elección como Presidente del Principado se hará por mayoría absoluta de los miembros de la Junta en primera convocatoria, y por mayoría simple en las posteriores, debiendo mediar entre cada convocatoria:",
+        "opciones_respuesta": {
+            "a": "a) Al menos 24 horas ",
+            "b": "b) Al menos 48 horas ",
+            "c": "c) Al menos 72 horas ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780299706.490549,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "25. La Junta General puede exigir la responsabilidad política del Consejo de Gobierno mediante la adopción por mayoría absoluta de la moción de censura. La moción de censura debe ser propuesta:",
+        "opciones_respuesta": {
+            "a": "a) Por 1/4 de la Junta General ",
+            "b": "b) Por un 15 % de la Junta General ",
+            "c": "c) Por mayoría simple de la Junta General ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780299715.5224526,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "26. La moción de censura no podrá ser votada:",
+        "opciones_respuesta": {
+            "a": "a) Hasta que transcurran 5 días desde su presentación. ",
+            "b": "b) Hasta que transcurran 7 días desde su presentación. ",
+            "c": "c) Hasta que transcurran 48 horas desde su presentación. ",
+            "d": "d) Hasta que transcurran 15 días desde su presentación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780299726.5707295,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Quién nombra al Presidente del Tribunal Superior de Justicia del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "a) El Presidente del Principado, a propuesta del Consejo de Gobierno. ",
+            "b": "b) El Rey, a propuesta del Consejo General del Poder Judicial. ",
+            "c": "c) El Rey, a propuesta del Presidente del Principado, oído el Consejo General del Poder Judicial. ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    }
+]

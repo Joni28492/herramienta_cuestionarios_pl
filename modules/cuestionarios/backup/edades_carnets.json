@@ -9,13 +9,13 @@
         "pregunta": "Vehiculos para movilidad reducida",
         "respuesta": "16",
         "fallos": 3,
-        "aciertos": 4
+        "aciertos": 6
     },
     {
         "pregunta": "D1+E Ordinaria",
         "respuesta": "18",
         "fallos": 3,
-        "aciertos": 2
+        "aciertos": 3
     },
     {
         "pregunta": "D",
@@ -27,7 +27,7 @@
         "pregunta": "D Modalidad ordinaria dentro del territorio hasta que cumpla los 21",
         "respuesta": "20",
         "fallos": 3,
-        "aciertos": 2
+        "aciertos": 4
     },
     {
         "pregunta": "D Acelerada",
@@ -39,19 +39,25 @@
         "pregunta": "D+E Ordinaria, transporte viajeros <=50km",
         "respuesta": "21",
         "fallos": 3,
-        "aciertos": 3
+        "aciertos": 4
+    },
+    {
+        "pregunta": "D+E Ordinaria",
+        "respuesta": "21",
+        "fallos": 3,
+        "aciertos": 4
     },
     {
         "pregunta": "D1 Ordinaria",
         "respuesta": "18",
-        "fallos": 2,
-        "aciertos": 2
+        "fallos": 3,
+        "aciertos": 3
     },
     {
         "pregunta": "C",
         "respuesta": "21",
         "fallos": 2,
-        "aciertos": 3
+        "aciertos": 5
     },
     {
         "pregunta": "vehiculos especiales agricolas autopropulsados",
@@ -60,8 +66,8 @@
         "aciertos": 3
     },
     {
-        "pregunta": "D+E Ordinaria",
-        "respuesta": "21",
+        "pregunta": "D+E Acelerada",
+        "respuesta": "23",
         "fallos": 2,
         "aciertos": 4
     },
@@ -69,7 +75,7 @@
         "pregunta": "A",
         "respuesta": "20",
         "fallos": 1,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "D+E Modalidad ordinaria dentro del territorio hasta que cumpla los 21",
@@ -78,46 +84,40 @@
         "aciertos": 1
     },
     {
-        "pregunta": "D+E Acelerada",
-        "respuesta": "23",
-        "fallos": 1,
-        "aciertos": 3
-    },
-    {
         "pregunta": "D Acelerada, transporte viajeros <=50km",
         "respuesta": "21",
         "fallos": 1,
-        "aciertos": 0
+        "aciertos": 1
+    },
+    {
+        "pregunta": "A1",
+        "respuesta": "16",
+        "fallos": 1,
+        "aciertos": 4
     },
     {
         "pregunta": "Vehiculos para movilidad reducida, sin pasajeros",
         "respuesta": "14",
         "fallos": 0,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "AM",
         "respuesta": "15",
         "fallos": 0,
-        "aciertos": 4
-    },
-    {
-        "pregunta": "A1",
-        "respuesta": "16",
-        "fallos": 0,
-        "aciertos": 3
+        "aciertos": 6
     },
     {
         "pregunta": "A2",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 5
+        "aciertos": 6
     },
     {
         "pregunta": "B",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 3
+        "aciertos": 4
     },
     {
         "pregunta": "B+E",
@@ -135,7 +135,7 @@
         "pregunta": "C1+E",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 5
     },
     {
         "pregunta": "C Ordinaria",
@@ -147,13 +147,13 @@
         "pregunta": "C+E Ordinaria",
         "respuesta": "18",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 6
     },
     {
         "pregunta": "C+E",
         "respuesta": "21",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 4
     },
     {
         "pregunta": "D1",
@@ -165,12 +165,12 @@
         "pregunta": "D1+E",
         "respuesta": "21",
         "fallos": 0,
-        "aciertos": 4
+        "aciertos": 5
     },
     {
         "pregunta": "D+E",
         "respuesta": "24",
         "fallos": 0,
-        "aciertos": 2
+        "aciertos": 4
     }
 ]

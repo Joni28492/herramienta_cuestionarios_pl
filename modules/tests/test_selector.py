@@ -208,6 +208,7 @@ class Test_Selector():
         # seleccion de carpetas por defecto testSelecotr
         opt = int(input("""
         ELIGE DE DONDE VAS A ESCOGER EL TEST(DB por default):
+        0. database
         1. test generados notebook
         2. test de  errores
                     
@@ -217,7 +218,8 @@ class Test_Selector():
             self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\notebook' #? usar para test de notebooklm
         elif opt == 2:
             self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\errors' #? usar para test de errores
-        else:
+        elif opt == 0:
+            self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db'
             print("ACCEDIENDO A LA DB:")
         
         # 
