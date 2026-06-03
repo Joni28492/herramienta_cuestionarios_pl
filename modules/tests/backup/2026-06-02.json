@@ -1,0 +1,1122 @@
+[
+    {
+        "timestamp": 1780419668.8678794,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "1. Indique cuál de las siguientes afirmaciones NO se establece en relación a los partidos políticos, según lo establecido en el artículo 6 de la Constitución Española:",
+        "opciones_respuesta": {
+            "a": "a. Concurren a la formación y manifestación de la voluntad popular. ",
+            "b": "b. Contribuyen a la defensa y promoción de los intereses económicos y sociales. ",
+            "c": "c. Son instrumento fundamental para la participación política. ",
+            "d": "d. Todas las afirmaciones anteriores se establecen en el artículo 6 de la Constitución Española. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419677.7476194,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿A quién asigna la Constitución Española la función de defender el ordenamiento constitucional?",
+        "opciones_respuesta": {
+            "a": "a. A los Poderes Públicos. ",
+            "b": "b. A las Cortes Generales. ",
+            "c": "c. A las Fuerzas Armadas. ",
+            "d": "d. A las Fuerzas y Cuerpos de Seguridad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419681.4275894,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿En qué artículo de la Constitución Española se establece el derecho al honor, a la intimidad personal y familiar y a la propia imagen?",
+        "opciones_respuesta": {
+            "a": "a. 16 ",
+            "b": "b. 18 ",
+            "c": "c. 19 ",
+            "d": "d. 20 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419689.5718534,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "4. En relación al Tribunal Constitucional…",
+        "opciones_respuesta": {
+            "a": "a. Se compone de 12 miembros, todos ellos nombrados por el Rey. ",
+            "b": "b. a) es correcta, y de ellos, cuatro son a propuesta del Congreso por mayoría de dos tercios de sus miembros. ",
+            "c": "c. Serán designados por un periodo de 4 años. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419700.1400063,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "5. En un municipio de régimen común, indique cuál de las siguientes atribuciones NO corresponde al Alcalde.",
+        "opciones_respuesta": {
+            "a": "a. Dirigir, inspeccionar e impulsar los servicios y obras municipales. ",
+            "b": "b. Aprobar la oferta de empleo público. ",
+            "c": "c. La fijación de la cuantía de las retribuciones complementarias de los funcionarios. ",
+            "d": "d. Aprobar las bases de las pruebas para la selección del personal. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419706.899822,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Dónde existirá la Comisión Especial de Cuentas?",
+        "opciones_respuesta": {
+            "a": "a. En todos los municipios. ",
+            "b": "b. En los municipios de más de 5.000 habitantes. ",
+            "c": "c. En los municipios que lo acuerde el Pleno, o que lo disponga su reglamento orgánico. ",
+            "d": "d. B) y C) son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419726.8438773,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Pueden las entidades locales ejercer competencias distintas de las propias y de las atribuidas por delegación?",
+        "opciones_respuesta": {
+            "a": "a. No, en ningún caso. ",
+            "b": "b. Sí, siempre que lo apruebe el Pleno. ",
+            "c": "c. Sí, siempre que no se ponga en riesgo la sostenibilidad financiera del conjunto de la Hacienda municipal. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419735.0281003,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "8. El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, podrán delegar en los Municipios el ejercicio de sus competencias. La delegación no podrá ser inferior a:",
+        "opciones_respuesta": {
+            "a": "a. 4 años ",
+            "b": "b. 5 años ",
+            "c": "c. 10 años ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419742.7479618,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "9. Los empleados públicos deberán desempeñar con diligencia las tareas que tengan asignadas y velar por los intereses generales con sujeción y observancia de la Constitución y del resto del ordenamiento jurídico, y deberán actuar con arreglo a los siguientes principios que inspiran el Código de Conducta:",
+        "opciones_respuesta": {
+            "a": "a. Imparcialidad ",
+            "b": "b. Legalidad ",
+            "c": "c. Proporcionalidad ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419760.7961898,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "10. Indique cuál de las siguientes acciones corresponde a los Principios de Conducta establecidos en el artículo 54 del TREBEP.",
+        "opciones_respuesta": {
+            "a": "a. Garantizar la atención al ciudadano en la lengua que lo solicite. ",
+            "b": "b. Se rechazará cualquier regalo, favor o servicio en condiciones ventajosas, aunque sea por simple cortesía. ",
+            "c": "c. En todo caso, obedecerán las instrucciones y órdenes profesionales de los superiores. ",
+            "d": "d. Pondrán en conocimiento de sus superiores o de los órganos competentes las propuestas que consideren adecuadas para mejorar el desarrollo de las funciones de la unidad en la que estén destinados. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419771.0200922,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "11. De acuerdo al Régimen Disciplinario aplicable a las Policías Locales, ¿Qué faltas se encuentran obligados a comunicar los agentes de Policía Local a sus superiores?.",
+        "opciones_respuesta": {
+            "a": "a. Todas las faltas de las que tengan conocimiento. ",
+            "b": "b. Las faltas muy graves. ",
+            "c": "c. Las faltas graves y muy graves. ",
+            "d": "d. No existe obligación de comunicar faltas disciplinarias. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419775.588066,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "12. La Ley Orgánica 4/2010, de 20 de mayo, del Régimen Disciplinario del CNP establece que las sanciones muy graves prescribirán:",
+        "opciones_respuesta": {
+            "a": "a. A los 6 meses ",
+            "b": "b. Al año ",
+            "c": "c. A los 2 años ",
+            "d": "d. A los 3 años "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780419786.8601885,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "13. Indique cuál de las siguientes faltas disciplinarias tiene la consideración de LEVE.",
+        "opciones_respuesta": {
+            "a": "a. La omisión intencionada de saludo a un superior. ",
+            "b": "b. Cualquier clase de juego que se lleve a cabo en las dependencias policiales, aunque no perjudique la prestación del servicio o menoscabe la imagen policial. ",
+            "c": "c. Dar lugar al extravío, pérdida o sustracción por negligencia inexcusable de los distintivos de identificación o del arma reglamentaria. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419790.9723973,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "14. Los puestos de servicio en las respectivas categorías se proveerán conforme a los principios de:",
+        "opciones_respuesta": {
+            "a": "a. Mérito, Capacidad y Antigüedad. ",
+            "b": "b. Objetividad, Igualdad de oportunidades, Mérito y Capacidad. ",
+            "c": "c. Mérito, Capacidad, Igualdad y Antigüedad. ",
+            "d": "d. Legalidad, Igualdad, No discriminación y Transparencia. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419800.0843132,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿En qué caso las Fuerzas y Cuerpos de Seguridad deberán utilizar sus armas?",
+        "opciones_respuesta": {
+            "a": "a. Solamente en las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o las de terceras personas. ",
+            "b": "b. En las situaciones en que exista un riesgo racionalmente grave para su vida, su integridad física o las de terceras personas, o en aquellas circunstancias que puedan suponer un grave riesgo para la seguridad ciudadana. ",
+            "c": "c. Cuando de ello dependa evitar un daño grave, inmediato e irreparable. ",
+            "d": "d. Siempre que lo estimen necesario, en el ejercicio de sus funciones, y conforme a los criterios de congruencia, oportunidad y proporcionalidad. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419807.932342,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "16. De acuerdo al artículo 53 de la LOFCS, es función de los Cuerpos de Policía Local, la instrucción de atestados por accidente de circulación..",
+        "opciones_respuesta": {
+            "a": "a. Cuando sean requeridos para ello. ",
+            "b": "b. Cuando se produzcan en el término municipal. ",
+            "c": "c. Cuando se produzcan dentro del casco urbano. ",
+            "d": "d. De todo accidente del que tengan conocimiento. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419813.5805473,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "17. Es función de la Comisión de Coordinación de Policías Locales emitir informe preceptivo para la creación de las categorías de comisario principal y comisario…",
+        "opciones_respuesta": {
+            "a": "a. En los concejos de población inferior a 5.000 habitantes. ",
+            "b": "b. En los concejos de población inferior a 50.000 habitantes. ",
+            "c": "c. En los concejos de población inferior a 100.000 habitantes. ",
+            "d": "d. En todo caso. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419823.0844972,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "18. Indique la afirmación INCORRECTA en relación a los Auxiliares de Policía Local.",
+        "opciones_respuesta": {
+            "a": "a. Tienen consideración de agentes de la autoridad. ",
+            "b": "b. La convocatoria de dichas plazas se encuentra sujeta a que dichas plazas se encuentren previstas y consignadas en los presupuestos generales de la corporación. ",
+            "c": "c. Tienen, de forma exclusiva, las mismas funciones que los vigilantes municipales. ",
+            "d": "d. Su figura no se encuentra únicamente limitada a los concejos en los que se produzca una gran afluencia de población en época estacional. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780419834.2445805,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "19. Conforme a la Ley 2/2007, de 23 de marzo, de Coordinación de Policías Locales del Principado de Asturias, ¿cuántos representantes de las organizaciones sindicales se integran en la Comisión de Coordinación de Policías Locales?",
+        "opciones_respuesta": {
+            "a": "a. 3 a consenso y propuesta de las 3 organizaciones sindicales más representativas dentro del ámbito de los funcionarios públicos de la Administración Local del Principado. ",
+            "b": "b. 3 a consenso y propuesta de las 4 organizaciones sindicales más representativas dentro del ámbito de los funcionarios públicos de la Administración Local del Principado. ",
+            "c": "c. 4 a propuesta de las 3 organizaciones sindicales más representativas dentro del ámbito de los funcionarios públicos de la Administración Local del Principado. ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419843.2524173,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "20. El uso público e indebido de uniformes, insignias o condecoraciones oficiales, o réplicas de los mismos, así como otros elementos del equipamiento de los cuerpos policiales o de los servicios de emergencia que puedan generar engaño acerca de la condición de quien los use, cuando no sea constitutivo de infracción penal, constituye una infracción a la LOPSC:",
+        "opciones_respuesta": {
+            "a": "a. Leve ",
+            "b": "b. Grave ",
+            "c": "c. Muy grave ",
+            "d": "d. No constituye infracción, ya que se trata de un hecho delictivo "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419864.06861,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "21. De acuerdo al procedimiento sancionador aplicable a la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, una vez notificado el acuerdo de incoación del procedimiento para la sanción, el interesado dispondrá para realizar el pago voluntario con reducción de la sanción de multa del 50%...",
+        "opciones_respuesta": {
+            "a": "a. De un plazo de 15 días ",
+            "b": "b. De un plazo de 20 días ",
+            "c": "c. A) es correcta, pero únicamente para las infracciones leves y graves. ",
+            "d": "d. B) es correcta, pero únicamente para las infracciones leves y graves. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419872.3245196,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "22. Las acciones u omisiones imprudentes…",
+        "opciones_respuesta": {
+            "a": "a. Sólo se castigarán cuando el omitente haya creado una ocasión de riesgo para el bien jurídicamente protegido mediante una acción u omisión precedente. ",
+            "b": "b. Sólo se castigarán cuando expresamente lo disponga la Ley. ",
+            "c": "c. Se castigarán con la pena inferior en grado. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419876.4846666,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "23. Cuando dos o más personas se conciertan para la ejecución de un delito y resuelven ejecutarlo, nos encontramos ante la siguiente figura:",
+        "opciones_respuesta": {
+            "a": "a. Conspiración ",
+            "b": "b. Proposición ",
+            "c": "c. Provocación ",
+            "d": "d. Apología "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419881.4207919,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "24. Cuando el culpable comete cualquiera de los delitos contra las personas empleando en la ejecución medios, modos o formas que tiendan directa o especialmente a asegurarla, sin el riesgo que para su persona pudiera proceder de la defensa por parte del ofendido, se considera que hay:",
+        "opciones_respuesta": {
+            "a": "a. Ensañamiento ",
+            "b": "b. Alevosía ",
+            "c": "c. Abuso de confianza ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419887.0527837,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "25. Se considera circunstancia atenuante, la de haber procedido el culpable a reparar el daño ocasionado a la víctima, o disminuir sus efectos…",
+        "opciones_respuesta": {
+            "a": "a. En cualquier momento del procedimiento. ",
+            "b": "b. En cualquier momento del procedimiento y con anterioridad a la celebración del acto del juicio oral. ",
+            "c": "c. Antes de conocer que el procedimiento judicial se dirige contra él. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419893.821029,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "26. Respecto a las obligaciones del personal sanitario establecidas en el artículo 26 del RD 1428/2003, de 21 de noviembre, entre los datos que comunique el personal sanitario figurarán, en su caso:",
+        "opciones_respuesta": {
+            "a": "a. el sistema empleado en la investigación de la alcoholemia, la hora exacta en que se tomó la muestra, el método utilizado para su conservación y el porcentaje de alcohol en sangre que presente el individuo examinado. ",
+            "b": "b. el sistema empleado en la investigación de la alcoholemia, la hora y lugar exacto en que se tomó la muestra, el método utilizado para su conservación y el porcentaje de alcohol en sangre que presente el individuo examinado. ",
+            "c": "c. el sistema empleado en la conservación de la muestra, la hora exacta en que se tomó la muestra, y el porcentaje de alcohol en sangre que presente el individuo examinado. ",
+            "d": "d. el sistema empleado en la investigación de la alcoholemia, la hora y lugar exacto en que se tomó la muestra, el método utilizado para su conservación y el porcentaje de alcohol en aire que presente el individuo examinado. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780419904.844975,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "27. En un tramo de vía en el que, por su escasa anchura, es imposible o muy difícil el paso simultáneo de un vehículo de tracción animal y un vehículo destinado al transporte colectivo de viajeros, que circulan en sentido contrario, donde no haya señalización expresa al efecto, tiene preferencia de paso:",
+        "opciones_respuesta": {
+            "a": "a. El vehículo de tracción animal ",
+            "b": "b. El vehículo destinado al transporte colectivo de viajeros ",
+            "c": "c. El que haya entrado primero ",
+            "d": "d. El que tenga que recorrer marcha atrás mayor distancia "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780419925.7328248,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "28. Señale la opción correcta:",
+        "opciones_respuesta": {
+            "a": "a. En todo caso se prohíbe el adelantamiento en los túneles o pasos inferiores con circulación en ambos sentidos. ",
+            "b": "b. Si por motivos de emergencia un conductor queda inmovilizado con su vehículo dentro de un túnel o paso inferior, deberá, si es posible, dirigir el vehículo hacia la zona reservada para emergencia más próxima en el sentido de su marcha. De no existir, inmovilizará el vehículo lo más cerca posible al borde derecho de la calzada. ",
+            "c": "c. Se entiende por vía suficientemente iluminada aquella en la que, con vista normal, en algún punto de su calzada, no pueda leerse la placa de matrícula a 10 metros o no se distinga un vehículo pintado de oscuro a 50 metros. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780419936.181122,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "29. Conducir un vehículo teniendo suspendida la autorización administrativa para conducir…",
+        "opciones_respuesta": {
+            "a": "a. Conlleva la pérdida de 3 puntos ",
+            "b": "b. Conlleva la pérdida de 4 puntos ",
+            "c": "c. Conlleva la pérdida de 6 puntos ",
+            "d": "d. No conlleva pérdida de puntos "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419958.525071,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "30. La superación de cursos de conducción segura y eficiente a los que se hace referencia en el anexo VIII de la LSV, siempre que se cumplan los requisitos establecidos y se tenga saldo positivo, compensará con:",
+        "opciones_respuesta": {
+            "a": "a. 2 puntos adicionales hasta un máximo de 15 puntos y con una frecuencia máxima de un curso de cada tipo cada 2 años. ",
+            "b": "b. un máximo de 6 puntos, siempre que se cumplan los requisitos establecidos en esta ley, y cada 2 años. ",
+            "c": "c. 3 puntos adicionales hasta un máximo de 15 puntos y con una frecuencia máxima de un curso de cada tipo cada 2 años. ",
+            "d": "d. un máximo de 6 puntos, siempre que se cumplan los requisitos establecidos en esta ley, y cada año. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780419998.5336518,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "31. La persona sometida a control de alcoholemia tiene derecho a controlar:",
+        "opciones_respuesta": {
+            "a": "a. Por sí o por cualquiera de sus acompañantes o testigos presentes, que entre la realización de la primera y de la segunda prueba medie un tiempo mínimo de 10 minutos. ",
+            "b": "b. Por sí o por cualquiera de sus acompañantes o defensores, que entre la realización de la primera y de la segunda prueba medie un tiempo mínimo de 10 minutos. ",
+            "c": "c. Por sí o por cualquiera de sus acompañantes o testigos presentes, que entre la realización de la primera y de la segunda prueba medie un tiempo mínimo de 15 minutos. ",
+            "d": "d. Por sí o por cualquiera de sus acompañantes o defensores, que entre la realización de la primera y de la segunda prueba medie un tiempo mínimo de 15 minutos. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420023.8936,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "32. De acuerdo al Reglamento General de Circulación, en los vehículos de anchura inferior a un metro, ¿Cuánto podrá sobresalir la carga por la extremidad anterior y posterior?:",
+        "opciones_respuesta": {
+            "a": "a. Podrá sobresalir 0,25 metros por la extremidad anterior, y no más de 0,50 metros por la posterior. ",
+            "b": "b. Podrá sobresalir 0,10 metros por la extremidad anterior, y no más de 0,20 metros por la posterior. ",
+            "c": "c. No podrá sobresalir por la extremidad anterior, ni más de 0,25 metros por la posterior. ",
+            "d": "d. En ningún caso podrá sobresalir la carga. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420052.1336002,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "33. Arrojar a la vía o sus inmediaciones objetos que puedan producir incendios o accidentes.",
+        "opciones_respuesta": {
+            "a": "a. Es una infracción leve ",
+            "b": "b. Es una infracción grave ",
+            "c": "c. Es una infracción muy grave ",
+            "d": "d. No viene tipificado como infracción específica "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420076.349921,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "34. Jacinto va a llevar a su hijo en su vehículo turismo. El hijo de Jacinto tiene 14 años y mide 1,35 m. ¿En   qué casos podrá utilizar el asiento delantero?",
+        "opciones_respuesta": {
+            "a": "a. En todo caso, al ser mayor de 12 años. ",
+            "b": "b. Exclusivamente en caso de que todos los asientos traseros ya se encuentren ocupados por menores de edad de estatura inferior a la reglamentaria. ",
+            "c": "c. En todo caso, porque ya mide 1,35 y la reglamentación establece las condiciones para los menores de 1,35 metros. ",
+            "d": "d. Cuando el vehículo no disponga de asientos traseros, cuando todos los asientos traseros estén ya ocupados por los menores de edad de estatura igual o inferior a 135 cm, o cuando no sea posible instalar en dichos asientos todos los sistemas de retención infantil. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420089.9259603,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "35. Conforme al artículo 1 del RDL 8/2004, de 29 de octubre, por el que se aprueba el texto refundido de la ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, cuando la víctima capaz de culpa civil sólo contribuya a la producción del daño se reducirán todas las indemnizaciones, incluidas las relativas a los gastos en que se haya incurrido en los supuestos de muerte, secuelas y lesiones temporales, en atención a la culpa concurrente hasta un máximo del….",
+        "opciones_respuesta": {
+            "a": "a. 25% ",
+            "b": "b. 50% ",
+            "c": "c. 75% ",
+            "d": "d. 90% "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420097.9498448,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "36. ¿A qué edad se puede obtener licencia de vehículos para personas con movilidad reducida?",
+        "opciones_respuesta": {
+            "a": "a. 14 años ",
+            "b": "b. 15 años ",
+            "c": "c. 16 años ",
+            "d": "d. 18 años "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420107.9338064,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "37. Si una persona se encuentra en España con un permiso de conducir expedido en otro país de la Unión Europea que no se encuentra sujeto a plazos de vigencia...",
+        "opciones_respuesta": {
+            "a": "a. Su titular deberá proceder a su renovación tras 2 años de adquirir residencia normal en España. ",
+            "b": "b. Su titular no se verá obligado a su renovación. ",
+            "c": "c. Su titular deberá proceder a su canje por uno español en el momento en que adquiera la residencia normal en España. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420122.8461578,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "38. La Jefatura Provincial de Tráfico que tenga conocimiento de la presunta desaparición de alguno de los requisitos iniciará el procedimiento de declaración de pérdida de vigencia de ésta. El acuerdo se notificará por la Jefatura Provincial de Tráfico al titular de la autorización, se le dará vista del expediente, y se le indicarán los plazos y formas de que dispone para acreditar la existencia del requisito o requisitos exigidos. Contra dicho acuerdo, el titular de la autorización podrá alegar lo que estime pertinente a su defensa o, en su caso, demostrar en tiempo y forma que no carece de tales requisitos. Los plazos para acreditar la existencia de los requisitos exigidos serán los siguientes:",
+        "opciones_respuesta": {
+            "a": "a. Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 2 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 2 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "b": "b. Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 3 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 3 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "c": "c. Si no se acuerda la suspensión cautelar y la intervención, el plazo será de 6 meses. Si se acuerda la suspensión cautelar y la intervención inmediata, el plazo será 6 meses o el que reste de vigencia a la autorización administrativa, cuando éste sea mayor. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420137.2380297,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "39. Los carriles para vehículos con alta ocupación (VAO) podrán utilizarse, con independencia del número de ocupantes de los vehículos:",
+        "opciones_respuesta": {
+            "a": "a. Autobuses con masa máxima autorizada superior a 3.500 kilos. ",
+            "b": "b. Turismos con remolque que ostenten la señal V-15 ",
+            "c": "c. a) y b) son correctas ",
+            "d": "d. Los carriles para vehículos con alta ocupación (VAO) deberán utilizarse, en todo caso, cuando estén ocupados por el número de personas que para cada tramo de la red viaria se fije. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420165.6065662,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "40. El permiso de la clase B autoriza a conducir:",
+        "opciones_respuesta": {
+            "a": "a. Con una antigüedad superior a 2 años, las motocicletas del A1. ",
+            "b": "b. a) es correcta, pero queda limitado a territorio nacional. ",
+            "c": "c. Con una antigüedad superior a 2 años, automóviles sin remolque impulsados por combustibles alternativos destinados al transporte de mercancías con MMA > 3500 kg pero que no exceda los 4250 kg. Siempre que la masa que supere los 3500 provenga exclusivamente del exceso de masa del sistema de propulsión respecto al sistema de propulsión de un vehículo de las mismas dimensiones que esté equipado con un motor convencional de combustión interna con encendido por chispa o por compresión, y siempre que no se incremente la capacidad de carga respecto al mismo vehículo. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420177.742339,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "41. Indique cuál de los siguientes NO se encuentra obligado a someterse a una prueba de detección alcohólica en un control preventivo.",
+        "opciones_respuesta": {
+            "a": "a. Un jinete ",
+            "b": "b. El conductor de un VMP ",
+            "c": "c. El conductor de una bicicleta ",
+            "d": "d. Ninguno de los anteriores se encuentra obligado "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420192.4385164,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "42. El intercambio transfronterizo de información se llevará a cabo sobre las siguientes infracciones de tráfico:",
+        "opciones_respuesta": {
+            "a": "a. No utilización del casco de protección. ",
+            "b": "b. Utilización del teléfono móvil o de cualquier otro dispositivo de comunicación durante la conducción cuando no esté permitido. ",
+            "c": "c. El impago de peaje, tasa o precio público, cuando estos fueran exigibles. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780420201.6306043,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "43. De acuerdo a lo establecido en el artículo 153 del Reglamento General de Circulación, la señal R-203 (limitación de longitud), es una señal de:",
+        "opciones_respuesta": {
+            "a": "a. Restricción de paso ",
+            "b": "b. Fin de prohibición o restricción ",
+            "c": "c. Prioridad ",
+            "d": "d. Obligación "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420207.8865519,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "44. Señale, en condiciones generales, cuál es el periodo de vigencia de un permiso C1+E, para un conductor de 67 años que lo acaba de renovar:",
+        "opciones_respuesta": {
+            "a": "a. 1 año ",
+            "b": "b. 10 años ",
+            "c": "c. 3 años ",
+            "d": "d. 5 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420214.1266015,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "45. Conforme al Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, ¿Cómo se denomina a la masa del vehículo, con su equipo fijo autorizado, sin personal de servicio, pasajeros ni carga, y con su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios reglamentarios?",
+        "opciones_respuesta": {
+            "a": "a. Tara ",
+            "b": "b. Masa en carga ",
+            "c": "c. Masa máxima autorizada ",
+            "d": "d. Masa en vacío "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420227.0547953,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "46. Según establece el Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, ¿Cuál es de la duración máxima de los cursos de sensibilización y reeducación vial para los titulares de un permiso o licencia de conducción que haya perdido una parte del crédito inicial de puntos y quiera optar a una recuperación parcial?",
+        "opciones_respuesta": {
+            "a": "a. 6 horas ",
+            "b": "b. 10 horas ",
+            "c": "c. 15 horas ",
+            "d": "d. 30 horas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420250.526741,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "47. De acuerdo al artículo 105 de la LSV, la autoridad encargada de la gestión del tráfico podrá proceder, si el obligado a ello no lo hiciera, a la retirada del vehículo de la vía y su depósito en el lugar que se designe en los siguientes casos:",
+        "opciones_respuesta": {
+            "a": "a. Cuando un vehículo permanezca estacionado en zonas reservadas a la carga y descarga. ",
+            "b": "b. El vehículo supere los niveles de gases, humos y ruido permitidos reglamentariamente según el tipo de vehículo. ",
+            "c": "c. El vehículo carezca de autorización administrativa para circular, bien por no haberla obtenido, porque haya sido objeto de anulación o declarada su pérdida de vigencia, o se incumplan las condiciones de la autorización que habilita su circulación. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780420267.7829056,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "48. Las Fuerzas y Cuerpos de Seguridad deberán actuar, en el cumplimiento de sus funciones, con absoluta neutralidad política e imparcialidad y, en consecuencia, sin discriminación alguna por razón de raza, religión u opinión, dando cumplimiento al siguiente principio básico de actuación:",
+        "opciones_respuesta": {
+            "a": "a. Adecuación al ordenamiento jurídico ",
+            "b": "b. Relaciones con la comunidad ",
+            "c": "c. Dedicación profesional ",
+            "d": "d. Responsabilidad "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420292.814962,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "49. ¿A quién corresponde la actividad coordinadora de las Policías Locales?",
+        "opciones_respuesta": {
+            "a": "a. A los respectivos Ayuntamientos. ",
+            "b": "b. A las Comunidades Autónomas. ",
+            "c": "c. Al Estado. ",
+            "d": "d. Al Consejo de Política de Seguridad. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420331.8313138,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "50. Señale la afirmación INCORRECTA respecto a la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana:",
+        "opciones_respuesta": {
+            "a": "a. Los registros corporales externos podrán llevarse a cabo contra la voluntad del afectado, adoptando las medidas de compulsión indispensables, conforme a los principios de idoneidad, necesidad y proporcionalidad. ",
+            "b": "b. Se entiende por emergencia aquella situación de riesgo sobrevenida por un evento que pone en peligro inminente a personas o bienes y exige una actuación rápida por parte de la autoridad o de sus agentes para evitarla o mitigar sus efectos. ",
+            "c": "c. Ante toda alteración de la seguridad ciudadana, las Fuerzas y Cuerpos de Seguridad podrán disolver la reunión o manifestación o retirar los vehículos y obstáculos sin necesidad de previo aviso. ",
+            "d": "d. La fabricación, comercio y distribución de armas, artículos pirotécnicos, cartuchería y explosivos, constituye un sector con regulación específica en materia de derecho de establecimiento, en los términos previstos por la legislación sobre inversiones extranjeras en España, correspondiendo a los Ministerios de Defensa, del Interior y de Industria, Energía y Turismo el ejercicio de las competencias de supervisión y control. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420348.6714544,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "51. De acuerdo al artículo 159 de la Constitución Española, el Tribunal Constitucional se compone de 12 miembros nombrados por el Rey:",
+        "opciones_respuesta": {
+            "a": "a. Cuatro a propuesta del Congreso, por mayoría de dos tercios. ",
+            "b": "b. Cinco a propuesta del Senado, por mayoría de tres quintos. ",
+            "c": "c. Dos a propuesta del Consejo General del Poder Judicial. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420374.5195956,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "52. Indique la afirmación INCORRECTA:",
+        "opciones_respuesta": {
+            "a": "a. Las sesiones del pleno de las corporaciones locales son públicas. ",
+            "b": "b. Las sesiones de la junta de gobierno local no son públicas. ",
+            "c": "c. Las sesiones plenarias han de convocarse, al menos, con 2 días hábiles de antelación, salvo las extraordinarias que lo hayan sido con carácter urgente, cuya convocatoria con este carácter deberá ser ratificada por el Pleno. ",
+            "d": "d. Ningún concejal puede solicitar más de dos sesiones extraordinarias del pleno al año "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780420386.0797758,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "53. Conforme al artículo 53.2 de la LOFCS, las actuaciones que practiquen los Cuerpos de Policía Local en el ejercicio de ciertas funciones previstas en el artículo 53.1 deberán ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado competentes. ¿Qué funciones deben ser comunicadas?",
+        "opciones_respuesta": {
+            "a": "a. Instruir atestados por accidentes de circulación dentro del casco urbano. ",
+            "b": "b. Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad. ",
+            "c": "c. A) y B) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420402.0155263,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "54. De acuerdo al artículo 16 de la Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana, a las personas desplazadas a dependencias policiales a efectos de identificación, se les deberá expedir a su salida un volante acreditativo de:",
+        "opciones_respuesta": {
+            "a": "a. Fecha, lugar, hora y causa del traslado. ",
+            "b": "b. El lugar desde el que se realizó el traslado, el tiempo de permanencia y la causa. ",
+            "c": "c. El tiempo de permanencia en ellas, la causa y la identidad de los agentes actuantes. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420410.0397754,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "55. En relación a la parada y estacionamiento en estacionamientos reservados para autocaravanas, cabe decir que el tiempo máximo de estacionamiento en estas zonas será de:",
+        "opciones_respuesta": {
+            "a": "a. 72 horas seguidas durante una misma semana. ",
+            "b": "b. 36 horas seguidas durante una misma semana. ",
+            "c": "c. 48 horas seguidas durante una misma semana. ",
+            "d": "d. 24 horas seguidas durante una misma semana. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420418.9520395,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "56. El tiempo máximo de estacionamiento en la zona destinada a área de servicio y reciclaje por parte de las autocaravanas será de:",
+        "opciones_respuesta": {
+            "a": "a. 1/2 hora para la evacuación de aguas grises y negras y toma de agua potable. ",
+            "b": "b. 1 hora para la evacuación de aguas grises y negras y toma de agua potable. ",
+            "c": "c. 1 hora y media para la evacuación de aguas grises y negras y toma de agua potable. ",
+            "d": "d. 2 horas para la evacuación de aguas grises y negras y toma de agua potable. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420425.4397733,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "57. El vertido intencionado de líquidos o residuos sólidos urbanos fuera de los lugares indicados para ello constituirá infracción a la Ordenanza reguladora del estacionamiento y pernocta de autocaravanas:",
+        "opciones_respuesta": {
+            "a": "a. Leve ",
+            "b": "b. Grave ",
+            "c": "c. Muy grave ",
+            "d": "d. No constituye infracción "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420435.6878538,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "58. La autorización de terrazas podrá concederse conforme a las siguientes modalidades de ocupación temporal:",
+        "opciones_respuesta": {
+            "a": "a. Modalidad anual: 365 días, comprende todo el año de 1 de enero a 31 de diciembre. ",
+            "b": "b. Modalidad de temporada: 130 días, comprende Navidades, festas del Socorro, Carnavales, Semana Santa, fines de semana y la temporada estival. ",
+            "c": "c. Modalidad estival: 90 días, comprende del 15 de junio al 15 de septiembre, ambos inclusive. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420474.9278812,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "59. Constituye infracción leve a la ordenanza reguladora de la ocupación de la vía pública con mesas, sillas y otros elementos móviles:",
+        "opciones_respuesta": {
+            "a": "a. El uso de la vía pública como almacén o depósito del mobiliario, fuera de los lugares habilitados al efecto. ",
+            "b": "b. La puesta en funcionamiento de máquinas o aparatos no autorizados de forma expresa ",
+            "c": "c. La instalación de mesas, sillas, sombrillas y toldos en las zonas de dominio público sin la autorización requerida o modificando las condiciones autorizadas. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420482.0960836,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "60. El “Mercadillo” de Luanco, se celebra:",
+        "opciones_respuesta": {
+            "a": "a. Los Jueves, en C/ La Riba. ",
+            "b": "b. Los Viernes, en C/ La Riba. ",
+            "c": "c. Los Jueves, en C/ Marcelino Rodríguez ",
+            "d": "d. Los Viernes, en C/ Marcelino Rodríguez "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420505.7280855,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "61. Los mercados tendrán el siguiente horario de funcionamiento:",
+        "opciones_respuesta": {
+            "a": "a. Entrada e instalación: desde las siete hasta las nueve treinta horas, Desmontaje y salida: desde las catorce treinta hasta las dieciséis horas, quedando prohibida la entrada de vehículos al mercado antes de las catorce horas. ",
+            "b": "b. Entrada e instalación: desde las siete treinta hasta las nueve treinta horas, Desmontaje y salida: desde las catorce treinta hasta las dieciséis horas, quedando prohibida la entrada de vehículos al mercado antes de las catorce horas. ",
+            "c": "c. Entrada e instalación: desde las siete treinta hasta las nueve treinta horas, Desmontaje y salida: desde las catorce treinta hasta las dieciséis horas, quedando prohibida la entrada de vehículos al mercado antes de las catorce treinta horas. ",
+            "d": "d. Entrada e instalación: desde las siete treinta hasta las nueve treinta horas, Desmontaje y salida: desde las catorce hasta las dieciséis horas, quedando prohibida la entrada de vehículos al mercado antes de las catorce horas "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420520.8162432,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "62. No exhibir durante el ejercicio de la actividad y en lugar perfectamente visible, la autorización municipal correspondiente para ejercer la venta ambulante supone una infracción a la Ordenanza:",
+        "opciones_respuesta": {
+            "a": "a. Leve ",
+            "b": "b. Grave ",
+            "c": "c. Muy grave ",
+            "d": "d. No constituye infracción "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420531.8243296,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "63. De acuerdo a la normativa municipal de Gozón, tendrán también la consideración de residuos urbanos municipales los siguientes:",
+        "opciones_respuesta": {
+            "a": "a. Residuos y escombros procedentes de obras menores de construcción y reparación domiciliaria, siempre que no superen los 30 Kg. ",
+            "b": "b. Residuos y escombros procedentes de obras menores de construcción y reparación domiciliaria, siempre que no superen los 40 Kg. ",
+            "c": "c. Residuos y escombros procedentes de obras menores de construcción y reparación domiciliaria, siempre que no superen los 50 Kg. ",
+            "d": "d. Residuos y escombros procedentes de obras menores de construcción y reparación domiciliaria, siempre que no superen los 60 Kg. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420537.8163655,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "64. Satisfacer las necesidades fisiológicas en la vía pública constituirá infracción a la Ordenanza de gestión de residuos sólidos urbanos y limpieza viaria de Gozón…",
+        "opciones_respuesta": {
+            "a": "a. Leve ",
+            "b": "b. Grave ",
+            "c": "c. Muy grave ",
+            "d": "d. No constituye infracción "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420549.2643747,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "65. Según la Ordenanza de gestión de residuos sólidos urbanos y limpieza viaria de Gozón, las sanciones tendrán las siguientes cuantías:",
+        "opciones_respuesta": {
+            "a": "a. Infracciones leves: De 6 a 50 euros, Infracciones graves: De 51 a 300 euros, Infracciones muy graves: de 301 a 30.000 euros. ",
+            "b": "b. Infracciones leves: De 6 a 30 euros, Infracciones graves: De 31 a 300 euros, Infracciones muy graves: de 301 a 30.000 euros. ",
+            "c": "c. Infracciones leves: De 6 a 50 euros, Infracciones graves: De 51 a 300 euros, Infracciones muy graves: de 301 a 20.000 euros. ",
+            "d": "d. Infracciones leves: De 6 a 30 euros, Infracciones graves: De 31 a 300 euros, Infracciones muy graves: de 301 a 20.000 euros. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420563.8081968,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "66. Según la Ordenanza Reguladora de los animales de compañía de Gozón, Los propietarios o poseedores de animales de compañía, que lo sean por cualquier título, los censarán en el Registro Municipal de Animales de Compañía en el plazo máximo de _________ a contar desde la fecha de nacimiento o adquisición del animal.",
+        "opciones_respuesta": {
+            "a": "a. 2 meses ",
+            "b": "b. 3 meses ",
+            "c": "c. 4 meses ",
+            "d": "d. 6 meses "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420577.128653,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "67. Según la Ordenanza Reguladora de los animales de compañía de Gozón, tratándose de especies mamíferas, solamente podrán ponerse a la venta aquellos ejemplares que hayan superado el periodo de lactancia natural de ______, quedando prohibida la comercialización de aquellas crías cuyo destete hubiese sido adelantado…",
+        "opciones_respuesta": {
+            "a": "a. 30 días ",
+            "b": "b. 40 días ",
+            "c": "c. 45 días ",
+            "d": "d. 50 días "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420585.7765946,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "68. La no recogida inmediata de los excrementos evacuados por un animal de compañía en vías pública, salvo en lugares establecidos al efecto, constituye según la Ordenanza Reguladora de los animales de compañía de Gozón:",
+        "opciones_respuesta": {
+            "a": "a. Infracción leve ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave ",
+            "d": "d. No constituye infracción "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420609.8646772,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "69. Las sanciones a las infracciones de la ordenanza de playas de Gozón serán de la siguiente manera:",
+        "opciones_respuesta": {
+            "a": "a. Las infracciones leves serán sancionadas con multa de hasta 500 euros y las infracciones graves serán sancionadas con multa de hasta 1.600 euros. ",
+            "b": "b. Las infracciones leves serán sancionadas con multa de hasta 100 euros, las infracciones graves serán sancionadas con multa de hasta 900 euros y las infracciones graves serán sancionadas con multa de hasta 1.500 euros. ",
+            "c": "c. Las infracciones leves serán sancionadas con multa de hasta 100 euros, las infracciones menos graves serán sancionadas con multa de hasta 600 euros y las infracciones graves serán sancionadas con multa de hasta 1.500 euros. ",
+            "d": "d. Las infracciones leves serán sancionadas con multa de hasta 600 euros y las infracciones graves serán sancionadas con multa de hasta 1.500 euros. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420619.1208384,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "70. Conforme a la OM de playas de Gozón, bañarse en zonas de bandera roja constituirá:",
+        "opciones_respuesta": {
+            "a": "a. Infracción leve ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave ",
+            "d": "d. No constituye infracción "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780420625.0408392,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "71. ¿Cuántos grupos parlamentarios componen el Pleno del Ayuntamiento de Gozón?",
+        "opciones_respuesta": {
+            "a": "a. 3 ",
+            "b": "b. 4 ",
+            "c": "c. 6 ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420637.672837,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "72. El concejo de Gozón limita al sur con…",
+        "opciones_respuesta": {
+            "a": "a. Illas ",
+            "b": "b. Corvera ",
+            "c": "c. Avilés ",
+            "d": "d. Llanera "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780420645.3449352,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "73. ¿En qué parroquia se encuentra el Cabo de Peñas?",
+        "opciones_respuesta": {
+            "a": "a. Verdicio ",
+            "b": "b. Viodo ",
+            "c": "c. Bañugues ",
+            "d": "d. Luanco "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420651.9369123,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "74. ¿Cuándo se celebra la fiesta del Cristo del Socorro en Luanco?",
+        "opciones_respuesta": {
+            "a": "a. 6 de Febrero ",
+            "b": "b. Semana Santa ",
+            "c": "c. 16 de Julio ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420659.8489132,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "75. ¿En qué playa se celebra el afamado torneo internacional de tenis-playa de Luanco?",
+        "opciones_respuesta": {
+            "a": "a. La Ribera ",
+            "b": "b. Luanco ",
+            "c": "c. Xagó ",
+            "d": "d. Aramar "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420666.289132,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "76. ¿Qué carretera debemos utilizar para acudir desde Luanco a la playa de Bañugues?",
+        "opciones_respuesta": {
+            "a": "a. GO-1 ",
+            "b": "b. GO-4 ",
+            "c": "c. AS-238 ",
+            "d": "d. GO-2 "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420674.7531133,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "77. ¿Qué procesión, también conocida como la de El Encuentro, cierra la Semana de Pasión luanquina con una escenificación en la Playa de La Ribera?",
+        "opciones_respuesta": {
+            "a": "a. El Corpus ",
+            "b": "b. La Venia ",
+            "c": "c. San Juan ",
+            "d": "d. La Virgen del Carmen "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780420684.7770963,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "78. ¿Qué calle no debemos utilizar, en ningún caso, para acudir desde la Jefatura de la Policía Local hasta el campo de fútbol de Miramar?",
+        "opciones_respuesta": {
+            "a": "a. C/Cruz ",
+            "b": "b. C/Mariano Suárez Pola ",
+            "c": "c. C/Madrid ",
+            "d": "d. C/Gijón "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780420694.2732203,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "79. ¿Qué actual construcción de Gozón fue utilizada en sus inicios como cárcel, polvorín y almacén?",
+        "opciones_respuesta": {
+            "a": "a. La casa Mori ",
+            "b": "b. El instituto del Santísimo Cristo del Socorro ",
+            "c": "c. La torre del reloj ",
+            "d": "d. La oficina de turismo "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780420701.9132342,
+        "path": "/_gozon_aux-01.json",
+        "id": "id2340234",
+        "pregunta": "80. ¿Dónde se encuentra el Centro de Salud de Luanco?",
+        "opciones_respuesta": {
+            "a": "a. Calle La Teya ",
+            "b": "b. Calle El Rincón ",
+            "c": "c. Calle Marcelino Rodríguez ",
+            "d": "d. Calle Joaquín García Morán "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    }
+]

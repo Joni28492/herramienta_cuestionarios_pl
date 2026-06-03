@@ -1,15 +1,6 @@
 from playwright.sync_api import sync_playwright # importante requiere tener playwright instalado = playwright install
 
 
-# todo hacer para todos los tests o pasarlo al convertidor de archivos y errores
-# class HtmlToPdfConverter():
-    
-#     def __init__(self):
-#         self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db'
-
-
-# if __name__ == "__main__": 
-#     pass
 
 
 def html_to_pdf(html_file, output_pdf):
@@ -42,7 +33,7 @@ def html_to_pdf(html_file, output_pdf):
         browser.close()
 
 
-file = "procedimiento_administrativo"
+file = "_gozon_aux-02_solved"
 
 html_to_pdf(
     f"html/{file}.html",

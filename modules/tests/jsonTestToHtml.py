@@ -1,13 +1,16 @@
 """ para convertir json en un hmtl legible rapdidamente """
+
 import json
 import os
+from testFromHTMLToPDF import html_to_pdf
 
 class ConvertJsonTestToHTML():
-    def __init__(self, path_folder, path_file, output_path='html', ):
+    def __init__(self, path_folder, path_file, output_path='html', solved = True ):
         self.path_folder = path_folder
         self.path_file = path_file
         self.output_path = output_path
         self.data = None
+        self.solved = solved
     
     def cargar_json(self):
         with open(  os.path.join(self.path_folder, self.path_file) , 'r', encoding='utf-8' ) as f:
@@ -46,8 +49,8 @@ class ConvertJsonTestToHTML():
             for opt, resp  in p["respuestas"].items():
                 respuesta_html =f"""
                 <div class="p-4 rounded-xl border-2 
-                {"border-green-500 bg-green-100 text-green-800" if opt == p["solucion"] else ""} font-semibold">
-                {resp} {"✓"  if opt == p["solucion"] else "" }
+                {"border-green-500 bg-green-100 text-green-800" if opt == p["solucion"] and self.solved else ""} font-semibold">
+                {resp} {"✓"  if opt == p["solucion"] and self.solved else "" }
                 </div>
                 """
                 respuestas_html += respuesta_html
@@ -72,6 +75,7 @@ class ConvertJsonTestToHTML():
         html+=html_footer
         return html
 
+ 
     def volcar_html(self):
         with open(self.output_path, 'w', encoding='utf-8') as f:
             f.writelines(self.dibujar_html())
@@ -83,6 +87,13 @@ class ConvertJsonTestToHTML():
 
     
 if __name__ == '__main__':
-    file = 'simulacro_oviedo_02'
-    jsonToHtmlConverter = ConvertJsonTestToHTML(path_folder="notebook", path_file=f"{file}.json", output_path=f"html/{file}.html")
-    jsonToHtmlConverter.run()
+    file = 'permisos_conduccion'
+    jsonToHtmlConverter_solved = ConvertJsonTestToHTML(path_folder="notebook", path_file=f"{file}.json", output_path=f"html/{file}_solved.html")
+    jsonToHtmlConverter_unsolved = ConvertJsonTestToHTML(path_folder="notebook", path_file=f"{file}.json", output_path=f"html/{file}.html", solved=False)
+    jsonToHtmlConverter_solved.run()
+    jsonToHtmlConverter_unsolved.run()
+    
+    # solucion temporal 
+    html_to_pdf(f"html/{file}.html", f"pdfs/{file}.pdf")
+    html_to_pdf(f"html/{file}_solved.html", f"pdfs/{file}_solved.pdf")
+    

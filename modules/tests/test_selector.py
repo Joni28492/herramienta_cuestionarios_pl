@@ -4,7 +4,7 @@ import random
 from colorama import Style, init, Fore
 import datetime
 import time
-
+import sys
 
 
 # todo calcular nota
@@ -22,6 +22,7 @@ class Test_Selector():
         self.cantidad_preguntas = cantidad_preguntas
 
         self.resp_options = ("a","b","c","d", "")
+        self.save_options = ("volcar", "v", "g", "guardar", "s","save")
 
         self.listado_aciertos_errores = []
 
@@ -49,7 +50,7 @@ class Test_Selector():
             # todo optimizar timestamp
             "timestamp": time.time(),
             # todo optimizar ruta
-            "path": path.replace(self.root_path, '').replace("\\", "/"), # todo comprobar que funciona, porque ahora hay mas tipos de rutas y puede cambiar
+            "path": path.replace(self.root_path, '').replace("\\", "/"),
             # "path": path.replace('E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db', '').replace("\\", "/"),
             "id": "id2340234",
             "pregunta": pregunta["pregunta"],
@@ -66,6 +67,9 @@ class Test_Selector():
         print("log, guardando pregunta")
         # print(question_log)
         self.listado_preguntas_respondidas.append(question_log)
+        if opcion_elegida in self.save_options:
+            self.volcar_logs_preguntas()
+            sys.exit()
 
 
     def importar_cuestionario(self):
@@ -185,8 +189,9 @@ class Test_Selector():
         
         while True:
             temp_user_selection = input("Escoge opcion: ")
+            mix_options = self.resp_options + self.save_options
 
-            if temp_user_selection not in self.resp_options:            
+            if temp_user_selection not in mix_options :            
                 print(Fore.RED, f"opcion incorrecta, utiliza las siguientes o deja en blanco, {self.resp_options}")
             else:
                 # comprobar resultado

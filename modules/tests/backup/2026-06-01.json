@@ -376,5 +376,705 @@
         },
         "opcion_correcta": "b",
         "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780337957.0903075,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "1) ¿Cuántos artículos tiene la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 56 ",
+            "b": "b. 36 ",
+            "c": "c. 65 ",
+            "d": "d. 54 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780337961.1178932,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "2) La seguridad pública es competencia…",
+        "opciones_respuesta": {
+            "a": "a. Del Estado y de las Comunidades Autónomas. ",
+            "b": "b. Exclusiva del Estado. ",
+            "c": "c. Del Estado, de las Comunidades Autónomas y de las Corporaciones Locales. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780337968.117176,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "3) Las fuerzas y cuerpos de seguridad se regirán en la utilización de armas y medios a su alcance por los siguientes principios:",
+        "opciones_respuesta": {
+            "a": "a. Congruencia, Oportunidad y Proporcionalidad. ",
+            "b": "b. Intervención mínima y Seguridad. ",
+            "c": "c. Proporcionalidad y menor lesividad. ",
+            "d": "d. Decisión necesaria y sin demora. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780337975.3008344,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "4) ¿Cuándo dependerá la Guardia Civil, exclusivamente, del Ministro de Defensa?",
+        "opciones_respuesta": {
+            "a": "a. En todo momento. ",
+            "b": "b. En ningún caso. ",
+            "c": "c. En tiempo de guerra y durante el estado de sitio. ",
+            "d": "d. En tiempo de guerra, exclusivamente. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780337982.9728484,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "5) ¿Qué Comunidades Autónomas podrán crear cuerpos de Policía propios?",
+        "opciones_respuesta": {
+            "a": "a. Todas las que lo soliciten al Ministerio del Interior. ",
+            "b": "b. Las que lo prevean en sus Estatutos de Autonomía. ",
+            "c": "c. Las que firmen acuerdos de cooperación específica con el Estado. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338006.1008518,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "6) ¿Quién de los siguientes se encuentra obligado a utilizar el cinturón de seguridad?",
+        "opciones_respuesta": {
+            "a": "a. El pasajero de un vehículo en servicio de urgencia en poblado. ",
+            "b": "b. El conductor de un vehículo en servicio de urgencia en autopista. ",
+            "c": "c. Los conductores, al efectuar la maniobra de marcha atrás o estacionamiento. ",
+            "d": "d. Los profesores de autoescuela en servicio de aprendizaje, cuando estén a cargo de los mandos adicionales, en poblado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338012.8847854,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "7) Las normas-marco serán aprobadas:",
+        "opciones_respuesta": {
+            "a": "a. Por la Comisión de Coordinación de las Policías Locales del Principado. ",
+            "b": "b. Por el Principado de Asturias. ",
+            "c": "c. Por decreto del Consejo de Gobierno, previo informe preceptivo de la Comisión de Coordinación de las Policías Locales del Principado. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338020.4688742,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "8) ¿A quién corresponde la coordinación de los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. A las respectivas Corporaciones Locales. ",
+            "b": "b. A la Comunidad Autónoma. ",
+            "c": "c. Al Ministerio del Interior. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338028.2770138,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "9) ¿A quién se aplica la Ley 2/2007, de 23 de marzo?",
+        "opciones_respuesta": {
+            "a": "a. A los cuerpos de Policía Local constituidos en el Principado de Asturias. ",
+            "b": "b. A los vigilantes municipales. ",
+            "c": "c. a) es correcta, y también a los auxiliares de Policía. ",
+            "d": "d. A todos los anteriores "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338034.0369341,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "10) Los artículos referidos en la LO 2/86 a los Cuerpos de Policía Local, comprenden:",
+        "opciones_respuesta": {
+            "a": "a. Del 49 al 54 ",
+            "b": "b. Del 51 al 54 ",
+            "c": "c. Del 50 al 56. ",
+            "d": "d. Del 53 al 56. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338041.3731334,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "11) ¿Cuál de las siguientes no es una función de la Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. Instruir Atestados por accidentes de circulación en casco urbano y carreteras de titularidad municipal. ",
+            "b": "b. Participar en funciones de Policía Judicial. ",
+            "c": "c. Cooperar en la resolución de conflictos privados cuando sean requeridos para ello. ",
+            "d": "d. Todas son funciones. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338048.5091345,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "12) ¿Qué artículos constitucionales inspiran el marco normativo de la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 104, 148.1.22 y 149.1.29. ",
+            "b": "b. 105, 148.1.29 y 149.1.22. ",
+            "c": "c. 104, 148.1.29 y 149.1.22. ",
+            "d": "d. 105, 148.1.22 y 149.1.29. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338060.6130216,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "13) ¿Quién preside la Comisión de Coordinación de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. El Presidente del Principado de Asturias. ",
+            "b": "b. El titular de la Consejería competente por razón de la materia. ",
+            "c": "c. El presidente de la Federación Asturiana de Concejos. ",
+            "d": "d. El titular de la Dirección General competente por razón de la materia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338080.5813131,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "14) Corresponde al principio básico de actuación de Adecuación al Ordenamiento Jurídico…",
+        "opciones_respuesta": {
+            "a": "a. Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral. ",
+            "b": "b. Actuar con integridad y dignidad. En particular, deberán abstenerse de todo ac-to de corrupción y oponerse a él resueltamente. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338090.2932827,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "15)  ¿Cómo se denominarán genéricamente a las Policías Locales en Asturias?",
+        "opciones_respuesta": {
+            "a": "a. Policías municipales ",
+            "b": "b. Cuerpos de Policía Local ",
+            "c": "c. Policía Local de Asturias ",
+            "d": "d. Policías del Principado "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338100.1494439,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "16) ¿Qué funciones que practiquen los Cuerpos de Policía Local deben ser comunicadas a las FCSEG del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Instruir atestados por accidentes de circulación dentro del casco urbano (53/c). ",
+            "b": "b. Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad (53/g). ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. La prestación de auxilio, en los casos de accidente, catástrofe o calamidad pú-blica, participando, en la forma prevista en las Leyes, en la ejecución de los planes de Protección Civil (53/f). "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338128.957584,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "17) En los municipios de gran población y en las Ciudades con Estatuto de Autonomía po-drá asignarse, por el Pleno de la Corporación o por sus respectivas Asambleas, al ejer-cicio exclusivo de las funciones previstas en el párrafo b) del apartado 1 a parte de los funcionarios pertenecientes a las mismas:",
+        "opciones_respuesta": {
+            "a": "a. Que tendrán la consideración de agentes de la autoridad, subordinados a los miembros de los respectivos Cuerpos de Policía Local, sin integrarse en las Fuerzas y Cuerpos de Seguridad. ",
+            "b": "b. Que no tendrán la consideración de agentes de la autoridad, serán subordina-dos a los miembros de los respectivos Cuerpos de Policía Local, sin integrarse en las Fuerzas y Cuerpos de Seguridad. ",
+            "c": "c. Que tendrán la consideración de agentes de la autoridad, subordinados a los miembros de los respectivos Cuerpos de Policía Local, integrándose en las Fuerzas y Cuerpos de Seguridad. ",
+            "d": "d. Las Ciudades con Estatuto de Autonomía no podrán crear dicha figura, sino exclusivamente los municipios de gran población. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338134.4215899,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "18) ¿Qué duración tendrá el mandato de los miembros de la Comisión de Coordinación de Policías Locales?",
+        "opciones_respuesta": {
+            "a": "a. 2 años ",
+            "b": "b. 3 años ",
+            "c": "c. 4 años ",
+            "d": "d. 5 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338149.5016837,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "19) Queda prohibido circular con menores de ______ como pasajeros de ciclomotores o motocicletas, con o sin sidecar, por cualquier clase de vía. Excepcionalmente, se permite esta circulación a partir de los ______, siempre que los conductores sean el padre, la madre, el tutor o una persona mayor de edad autorizada por ellos, utilicen casco homologado y se cumplan las condiciones específicas de seguridad establecidas reglamentariamente.",
+        "opciones_respuesta": {
+            "a": "a. 14 años / 12 años. ",
+            "b": "b. 14 años / 7 años ",
+            "c": "c. 12 años / 7 años ",
+            "d": "d. 16 años / 12 años "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338153.6779103,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "20) La carga que sobresalga por detrás de los vehículos deberá estar señalizada por medio de la señal:",
+        "opciones_respuesta": {
+            "a": "a. V-16 ",
+            "b": "b. V-18 ",
+            "c": "c. V-20 ",
+            "d": "d. V-22 "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338165.3337677,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "21)  Las escalas en la Policía Local son:",
+        "opciones_respuesta": {
+            "a": "a. Básica, Operativa y Técnica. ",
+            "b": "b. Básica, Técnica y de Mando. ",
+            "c": "c. Operativa, Técnica y de Mando. ",
+            "d": "d. Básica, de Subinspección y Técnica. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338169.005774,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "22) ¿En qué artículo de la Ley de Coordinación se establecen las funciones del Agente?",
+        "opciones_respuesta": {
+            "a": "a. 16.4 ",
+            "b": "b. 18.6 ",
+            "c": "c. 18.4 ",
+            "d": "d. 53 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338172.9976964,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "23)  Los auxiliares de Policía prestarán sus servicios por un periodo máximo de:",
+        "opciones_respuesta": {
+            "a": "a. 2 meses al año. ",
+            "b": "b. 3 meses al año. ",
+            "c": "c. 4 meses al año. ",
+            "d": "d. 6 meses al año. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338178.9578378,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "24) En relación a la Comisión de servicio extraordinaria, ¿En cuántas ocasiones puede un concejo recurrir a este sistema?",
+        "opciones_respuesta": {
+            "a": "a. 2 veces durante un mismo año natural. ",
+            "b": "b. 2 veces durante un mismo año natural, además del día de Asturias. ",
+            "c": "c. 3 veces durante un mismo año natural. ",
+            "d": "d. 3 veces durante un mismo año natural, además del día de Asturias. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338185.8217864,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "25) El texto refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (en adelante: LSV) , es aprobado por:",
+        "opciones_respuesta": {
+            "a": "a. El Real Decreto Legislativo 6/2015, de 30 de octubre. ",
+            "b": "b. El Real Decreto Legislativo 6/2014, de 30 de octubre. ",
+            "c": "c. El Real Decreto Legislativo 6/2015, de 30 de marzo. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338191.2138593,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "26) ¿Dónde se encuentra el glosario de conceptos relativos a la LSV?",
+        "opciones_respuesta": {
+            "a": "a. En el Anexo I ",
+            "b": "b. En el Anexo II ",
+            "c": "c. En el Anexo III ",
+            "d": "d. En el Anexo IV "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338205.1743007,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "27) Un ciclomotor no puede superar por construcción una velocidad de:",
+        "opciones_respuesta": {
+            "a": "a. 25 km/h ",
+            "b": "b. 45 km/h ",
+            "c": "c. 60 km/h ",
+            "d": "d. No existe limitación al respecto. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338214.7018473,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "28) ¿Hasta cuándo deben utilizar los menores de edad los sistemas de retención infantil?",
+        "opciones_respuesta": {
+            "a": "a. Hasta que tengan 12 años. ",
+            "b": "b. Hasta que tengan 14 años. ",
+            "c": "c. Hasta que superen los 1,35 m de altura. ",
+            "d": "d. Hasta que superen los 1,50 m de altura. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338218.7101102,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "29) La Masa Máxima Autorizada de un remolque ligero, no puede exceder de:",
+        "opciones_respuesta": {
+            "a": "a. 500 kg ",
+            "b": "b. 750 kg ",
+            "c": "c. 1.000 kg ",
+            "d": "d. 1.250 kg "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338226.0220654,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "30) Señale la opción correcta:",
+        "opciones_respuesta": {
+            "a": "a. Una parada es una inmovilización de un vehículo durante un tiempo no superior a dos minutos, sin que el conductor pueda abandonarlo. ",
+            "b": "b. Una parada es una inmovilización de un vehículo durante un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo. ",
+            "c": "c. Una detención es una inmovilización de un vehículo durante un tiempo no superior a dos minutos, sin que el conductor pueda abandonarlo. ",
+            "d": "d. Una detención es una inmovilización de un vehículo durante un tiempo inferior a dos minutos, sin que el conductor pueda abandonarlo. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338238.3900573,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "31) ¿En qué artículo de la LSV se establecen las Competencias de los Municipios?",
+        "opciones_respuesta": {
+            "a": "a. Artículo 4 ",
+            "b": "b. Artículo 5 ",
+            "c": "c. Artículo 6 ",
+            "d": "d. Artículo 7 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338247.4463446,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "32) La autorización de pruebas deportivas , ¿De quién es competencia?",
+        "opciones_respuesta": {
+            "a": "a. Administración General del Estado. ",
+            "b": "b. Ministerio del Interior. ",
+            "c": "c. Municipios. ",
+            "d": "d. b) o c) pueden ser correctas según la situación. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338257.1021733,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "33) ¿Cuál de las siguientes es una competencia de los municipios?",
+        "opciones_respuesta": {
+            "a": "a. Las normas especiales que posibiliten la circulación de vehículos históricos. ",
+            "b": "b. La baja temporal o definitiva de la circulación de vehículos. ",
+            "c": "c. Las autorizaciones de apertura de centro de formación de conductores. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338267.7502446,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "34) ¿Cuándo podrán ser retiradas por los municipios las bicicletas?",
+        "opciones_respuesta": {
+            "a": "a. Si están abandonadas. ",
+            "b": "b. Si están amarradas y dificultan la circulación de vehículos o personas. ",
+            "c": "c. Si están amarradas y dañan el mobiliario urbano. ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338275.6707811,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "35) ¿Qué Real Decreto establece el reglamento general de circulación?",
+        "opciones_respuesta": {
+            "a": "a. RD 1428/2003, de 21 de noviembre. ",
+            "b": "b. RD 6/2015, de 30 de octubre. ",
+            "c": "c. RD 339/90, de 2 de marzo. ",
+            "d": "d. Ninguno de los anteriores. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338295.1104379,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "36) De forma excepcional, ¿Cuánto podrá sobresalir la carga de un vehículo de 5 metros destinado exclusivamente al transporte de mercancías?",
+        "opciones_respuesta": {
+            "a": "a. 2 metros por la parte anterior y 3 metros por la posterior. ",
+            "b": "b. 3 metros por la parte anterior y 2 metros por la posterior. ",
+            "c": "c. 1/3 de la longitud del vehículo por cada extremo. ",
+            "d": "d. 1/3 de la longitud del vehículo por la parte anterior. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338306.0067127,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "37) Como norma general, los conductores de vehículos y bicicletas no podrán superar la siguiente tasa de alcohol en sangre:",
+        "opciones_respuesta": {
+            "a": "a. 0,25 mg/l ",
+            "b": "b. 0,15 mg/l ",
+            "c": "c. 0,50 gr/l ",
+            "d": "d. a) y c) son correctas "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338325.3987257,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "38) Conforme al Real Decreto 1087/2010, de 3 de septiembre, por el que se aprueba el Reglamento que regula las Juntas Locales de Seguridad: las convocatorias de las reuniones serán efectuadas por acuerdo de la Presidencia, acompañadas del orden del día, fecha y lugar de la reunión, debiendo notificarse las de carácter ordinario....",
+        "opciones_respuesta": {
+            "a": "a. Con 10 días de antelación, como mínimo. ",
+            "b": "b. Con 15 días de antelación, como mínimo. ",
+            "c": "c. Con 48 horas de antelación, como mínimo. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338338.3667898,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "39) ¿Incurre en delito contra la seguridad vial un conductor que arroja 0,50 mg/l de alcohol por aire espirado en la primera prueba, y luego se niega a someterse a la segunda prueba?",
+        "opciones_respuesta": {
+            "a": "a. No, al quedar evidenciado que no supera la tasa de 0,60 mg/l. ",
+            "b": "b. Si, incurre en negativa a someterse a las pruebas (art.383), debido a que debe someterse a ambas pruebas. ",
+            "c": "c. No, si acepta denuncia voluntaria en base a la tasa que ya ha arrojado. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338349.431161,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "40) ¿Quién de los siguientes puede utilizar un carril VAO?",
+        "opciones_respuesta": {
+            "a": "a. Vehículo mixto adaptable. ",
+            "b": "b. Autobús con MMA superior a 3.500 kilos. ",
+            "c": "c. Turismo sin cumplir las condiciones de número de personas fijado para el tramo, pero con señal V-15. ",
+            "d": "d. Todos los anteriores. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338357.2388268,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "41) ¿A qué velocidad circulará un vehículo en un carril reversible?",
+        "opciones_respuesta": {
+            "a": "a. A una velocidad máxima de 80 y mínima de 60, o inferiores si así estuviera establecido. ",
+            "b": "b. A una velocidad máxima de 100 y mínima de 80, o inferiores si así estuviera establecido. ",
+            "c": "c. A una velocidad máxima de 40 y mínima de 60, o inferiores si así estuviera establecido. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338370.0389059,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "42) ¿Cuál es la velocidad máxima de una furgoneta en autopista?",
+        "opciones_respuesta": {
+            "a": "a. 120 ",
+            "b": "b. 100 ",
+            "c": "c. 90 ",
+            "d": "d. 80 "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338381.8630614,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "43) ¿Qué vehículos deben guardar una separación mínima de 50 metros?",
+        "opciones_respuesta": {
+            "a": "a. Los vehículos con MMA superior a 3500 kilos. ",
+            "b": "b. a) es correcta, y también los vehículos o conjuntos de más de 7 metros. ",
+            "c": "c. a) es correcta, y también los vehículos o conjuntos de más de 10 metros. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338384.9671197,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "44) ¿Qué se entiende por tramo de gran pendiente?",
+        "opciones_respuesta": {
+            "a": "a. Inclinación mínima del 5% ",
+            "b": "b. Inclinación mínima del 7% ",
+            "c": "c. Inclinación mínima del 10% ",
+            "d": "d. Inclinación mínima del 15% "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338395.4310167,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "45) El recorrido hacia atrás, como maniobra complementaria de la parada o estacionamiento, no podrá:",
+        "opciones_respuesta": {
+            "a": "a. Ser superior a 10 metros. ",
+            "b": "b. Invadir un cruce de vías. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780338419.3273506,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "46) Señale opción correcta respecto a la velocidad máxima en vías urbanas:",
+        "opciones_respuesta": {
+            "a": "a. Las vías que dispongan de plataforma única de calzada y acera, 25 km/h. ",
+            "b": "b. Las vías de dos carriles por sentido de circulación, siendo uno reservado a transporte público, 50 km/h. ",
+            "c": "c. Las vías de un carril por sentido de circulación, 30 km/h, en todo caso y circunstancia. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780338424.1596086,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "47) ¿Qué artículos comprenden los delitos contra la seguridad vial?",
+        "opciones_respuesta": {
+            "a": "a. 379 a 385 ter ",
+            "b": "b. 380 a 385 bis ",
+            "c": "c. 369 a 385 ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338432.6951966,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "48) La conducción bajo la influencia de alcohol requiere para ser considerada delito, una tasa de alcohol superior a:",
+        "opciones_respuesta": {
+            "a": "a. 0,60 mg/l  en aire espirado. ",
+            "b": "b. 1,20 gr/l  en sangre. ",
+            "c": "c. a) y b) son correctas ",
+            "d": "d. Ninguna es correcta "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780338459.2153926,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "49) Conforme al artículo 1 de la Ley de Seguridad Vial, el objeto de esta ley es:",
+        "opciones_respuesta": {
+            "a": "a) Regular el tráfico, la circulación de todos los vehículos y la seguridad vial. ",
+            "b": "b) Regular el tráfico, la circulación de vehículos a motor y la seguridad vial. ",
+            "c": "c) Regular el tráfico y la seguridad vial. ",
+            "d": "d) Establecer las competencias en materia de tráfico, así como principios generales y un régimen sancionador en la materia. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780338485.7275453,
+        "path": "/_rerpaso-unidades_1-4.json",
+        "id": "id2340234",
+        "pregunta": "50) Señale la opción incorrecta",
+        "opciones_respuesta": {
+            "a": "a) El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclo o ciclomotor, o conjunto de ellos, debe realizarlo ocupando parte o la totalidad del carril contiguo o contrario, en su caso, de la calzada y guardando una anchura de seguridad de, al menos, 1,5 metros, en todo caso. ",
+            "b": "b) Los vehículos de movilidad personal y las bicicletas y ciclos no podrán circular por las aceras; salvo que se establezcan excepciones reglamentariamente. ",
+            "c": "c) El usuario de la vía está obligado a comportarse de forma que no entorpezca indebidamente la circulación, ni cause peligro, perjuicios o molestias innecesarias a las personas o daños a los bienes. ",
+            "d": "d) c) es correcta, y también se aplica al medioambiente. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
     }
 ]
