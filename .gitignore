@@ -2,20 +2,22 @@ enviroment
 .env 
 oviedo_interino copy.txt
 oviedo_interino.txt
-tests/backup
-tests/html
-tests/erros
+
 pruebas.py
 mongo
 ratios_porcentaje.txt
-test/backup/*
+
 
 
 commands.py
 server.py
 activar_env.py
-modules/tests/pdfs
-modules/tests/html
-modules/tests/json
-modules/tests/notebook
+
 prompts
+
+modules\tests\notebook
+modules\tests\pdfs
+modules\tests\html
+modules\tests\errors
+modules\tests\errors
+modules\tests\backup
