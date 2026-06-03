@@ -15,9 +15,8 @@ activar_env.py
 
 prompts
 
-modules\tests\notebook
-modules\tests\pdfs
-modules\tests\html
-modules\tests\errors
-modules\tests\errors
-modules\tests\backup
+modules\tests\notebook\*
+modules\tests\pdfs\*
+modules\tests\html\*
+modules\tests\errors\*
+modules\tests\backup\*
