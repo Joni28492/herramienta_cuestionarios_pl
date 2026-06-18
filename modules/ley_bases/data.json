@@ -5,7 +5,26 @@
         "descripcion": "Planeamiento general:  Aprobacion inicial o que ponga fin a la tramitacion",
         "compete_a": "Pleno",
         "es_delegable": false,
+        "aciertos": 3,
+        "fallos": 3
+    },
+    {
+        "_id": "6d95f381285b48dd697f7ff22ed8242c",
+        "regimen": "Regimen Comun",
+        "descripcion": "Servicios y obras: Aprobacion de los proyectos previstos en presupuesto",
+        "compete_a": "Alcalde",
+        "es_delegable": true,
         "aciertos": 2,
+        "fallos": 2
+    },
+    {
+        "_id": "5a0e77bef69a677d5f52456280bdc842",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Personal:  Aprobacion plantilla",
+        "hint": "No confundir con aprobar RPT",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 1,
         "fallos": 2
     },
     {
@@ -18,12 +37,12 @@
         "fallos": 2
     },
     {
-        "_id": "5a0e77bef69a677d5f52456280bdc842",
+        "_id": "daf8615bc11956ed617a6497d24f6445",
         "regimen": "Gran Poblacion",
-        "descripcion": "Personal:  Aprobacion plantilla",
-        "compete_a": "Pleno",
+        "descripcion": "ORDENANZAS: Proyectos",
+        "compete_a": "Junta Gobierno Local",
         "es_delegable": false,
-        "aciertos": 0,
+        "aciertos": 2,
         "fallos": 2
     },
     {
@@ -36,12 +55,21 @@
         "fallos": 2
     },
     {
-        "_id": "daf8615bc11956ed617a6497d24f6445",
-        "regimen": "Gran Poblacion",
-        "descripcion": "ORDENANZAS: Proyectos",
-        "compete_a": "Junta Gobierno Local",
-        "es_delegable": false,
+        "_id": "8a582f2103c5727210bfa5da21210bde",
+        "regimen": "Regimen Comun",
+        "descripcion": "Aprobar Oferta de EMPLEO/BASES",
+        "compete_a": "Alcalde",
+        "es_delegable": true,
         "aciertos": 2,
+        "fallos": 2
+    },
+    {
+        "_id": "fde3266c5bbabe9e2e22aec3751faad1",
+        "regimen": "Regimen Comun",
+        "descripcion": "Acciones Judiciales y Administrativas: ejercicio de la competencia plenaria",
+        "compete_a": "Pleno",
+        "es_delegable": true,
+        "aciertos": 1,
         "fallos": 2
     },
     {
@@ -52,6 +80,42 @@
         "es_delegable": true,
         "aciertos": 0,
         "fallos": 2
+    },
+    {
+        "_id": "5ffb147546bbc682b3ca428609152fcb",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Competencias: Aceptacion de delegacion",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 4,
+        "fallos": 1
+    },
+    {
+        "_id": "e29f91a56bd1c27f8fc5991db2a866f2",
+        "regimen": "Regimen Comun",
+        "descripcion": "Control & Fiscalizacion ",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 5,
+        "fallos": 1
+    },
+    {
+        "_id": "e4db562a62358b9e482e32022d80f690",
+        "regimen": "Regimen Comun",
+        "descripcion": "aprobar ordenanzas municipales",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 3,
+        "fallos": 1
+    },
+    {
+        "_id": "434047258d13819173c5d36121dafcee",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Concesion de licencias",
+        "compete_a": "Junta Gobierno Local",
+        "es_delegable": true,
+        "aciertos": 3,
+        "fallos": 1
     },
     {
         "_id": "9511f8a7a3b82ae4426da2266ed2ac69",
@@ -72,38 +136,11 @@
         "fallos": 1
     },
     {
-        "_id": "fde3266c5bbabe9e2e22aec3751faad1",
+        "_id": "cc057e963334c4f7b0844067519e9732",
         "regimen": "Regimen Comun",
-        "descripcion": "Acciones Judiciales y Administrativas: ejercicio de la competencia plenaria",
-        "compete_a": "Pleno",
-        "es_delegable": true,
-        "aciertos": 0,
-        "fallos": 1
-    },
-    {
-        "_id": "e29f91a56bd1c27f8fc5991db2a866f2",
-        "regimen": "Regimen Comun",
-        "descripcion": "Control & Fiscalizacion ",
+        "descripcion": "reglamento organico",
         "compete_a": "Pleno",
         "es_delegable": false,
-        "aciertos": 3,
-        "fallos": 1
-    },
-    {
-        "_id": "fb2dbc68b120c017ba4bc6a26ac3ab64",
-        "regimen": "Regimen Comun",
-        "descripcion": "SERVICIOS Y OBRAS: aprobacion de los proyectos NO PREVISTOS en el presupuesto",
-        "compete_a": "Pleno",
-        "es_delegable": true,
-        "aciertos": 1,
-        "fallos": 1
-    },
-    {
-        "_id": "8a582f2103c5727210bfa5da21210bde",
-        "regimen": "Regimen Comun",
-        "descripcion": "Aprobar Oferta de EMPLEO/BASES",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
         "aciertos": 1,
         "fallos": 1
     },
@@ -117,24 +154,6 @@
         "fallos": 1
     },
     {
-        "_id": "cc057e963334c4f7b0844067519e9732",
-        "regimen": "Regimen Comun",
-        "descripcion": "reglamento organico",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 1,
-        "fallos": 1
-    },
-    {
-        "_id": "cde2aa079c7f77e3559de2c8e15c2151",
-        "regimen": "Regimen Comun",
-        "descripcion": "SERVICIOS Y OBRAS: aprobacion de las formas de gestion",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 1
-    },
-    {
         "_id": "e87bff2f84ce29bac7b7a7d9f7613a86",
         "regimen": "Gran Poblacion",
         "descripcion": "Personal: superior direccion",
@@ -144,38 +163,11 @@
         "fallos": 1
     },
     {
-        "_id": "c594fc2802b622bebdbacc858b032fbf",
-        "regimen": "Regimen Comun",
-        "descripcion": "Representar al ayuntamiento",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
-        "aciertos": 1,
-        "fallos": 1
-    },
-    {
-        "_id": "1effef847dd5f8eb0f921e3eeea4f574",
-        "regimen": "Regimen Comun",
-        "descripcion": "Declaracion de lesividad de los actos del ayuntamiento",
-        "compete_a": "Pleno",
-        "es_delegable": true,
-        "aciertos": 1,
-        "fallos": 1
-    },
-    {
-        "_id": "e4db562a62358b9e482e32022d80f690",
-        "regimen": "Regimen Comun",
-        "descripcion": "aprobar ordenanzas municipales",
-        "compete_a": "Pleno",
+        "_id": "54105f7348e25be0e3504b5992fd6193",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Acciones Judiciales y Administrativas: ejercicio en su competencia ",
+        "compete_a": "Junta Gobierno Local",
         "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 1
-    },
-    {
-        "_id": "6d95f381285b48dd697f7ff22ed8242c",
-        "regimen": "Regimen Comun",
-        "descripcion": "Servicios y obras: Aprobacion de los proyectos previstos en presupuesto",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
         "aciertos": 1,
         "fallos": 1
     },
@@ -189,30 +181,75 @@
         "fallos": 1
     },
     {
-        "_id": "434047258d13819173c5d36121dafcee",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Concesion de licencias",
-        "compete_a": "Junta Gobierno Local",
+        "_id": "1effef847dd5f8eb0f921e3eeea4f574",
+        "regimen": "Regimen Comun",
+        "descripcion": "Declaracion de lesividad de los actos del ayuntamiento",
+        "compete_a": "Pleno",
         "es_delegable": true,
         "aciertos": 1,
         "fallos": 1
     },
     {
-        "_id": "54105f7348e25be0e3504b5992fd6193",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Acciones Judiciales y Administrativas: ejercicio en su competencia ",
-        "compete_a": "Junta Gobierno Local",
+        "_id": "cde2aa079c7f77e3559de2c8e15c2151",
+        "regimen": "Regimen Comun",
+        "descripcion": "SERVICIOS Y OBRAS: aprobacion de las formas de gestion",
+        "compete_a": "Pleno",
         "es_delegable": false,
+        "aciertos": 0,
+        "fallos": 1
+    },
+    {
+        "_id": "fb2dbc68b120c017ba4bc6a26ac3ab64",
+        "regimen": "Regimen Comun",
+        "descripcion": "SERVICIOS Y OBRAS: aprobacion de los proyectos NO PREVISTOS en el presupuesto",
+        "compete_a": "Pleno",
+        "es_delegable": true,
         "aciertos": 1,
         "fallos": 1
     },
     {
-        "_id": "9d3ecff228f7120f351ed0cfdbdf80f7",
+        "_id": "c594fc2802b622bebdbacc858b032fbf",
         "regimen": "Regimen Comun",
-        "descripcion": "Personal:  Jefatura, Separacion y despido",
+        "descripcion": "Representar al ayuntamiento",
+        "compete_a": "Alcalde",
+        "es_delegable": true,
+        "aciertos": 1,
+        "fallos": 1
+    },
+    {
+        "_id": "d7a7b38057aae58a8664a536080b9f63",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Mocion de censura y cuestion de confianza",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 3,
+        "fallos": 0
+    },
+    {
+        "_id": "2de12bb52b05de057884f5524c588cb3",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Acuerdos: Creaccion o supresion de municipios",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 4,
+        "fallos": 0
+    },
+    {
+        "_id": "325e07daba4ef0bb332c2c35182afae8",
+        "regimen": "Regimen Comun",
+        "descripcion": "Iniciativa actos lesividad del ayuntamiento",
         "compete_a": "Alcalde",
         "es_delegable": false,
         "aciertos": 4,
+        "fallos": 0
+    },
+    {
+        "_id": "6b1c84ed16d8a597541d442b179e8e8d",
+        "regimen": "Regimen Comun",
+        "descripcion": "Competencias: Aceptacion de delegacion y planteamiento de conflictos",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 2,
         "fallos": 0
     },
     {
@@ -221,52 +258,25 @@
         "descripcion": "Adoptar medidas en catastrofes ",
         "compete_a": "Alcalde",
         "es_delegable": false,
-        "aciertos": 6,
+        "aciertos": 8,
         "fallos": 0
     },
     {
-        "_id": "51454039e350d7b0fa15966aea237245",
+        "_id": "753c312fc1633eb64e828fda6cbced54",
         "regimen": "Gran Poblacion",
-        "descripcion": "Proyecto presupuesto",
-        "compete_a": "Junta Gobierno Local",
-        "es_delegable": false,
-        "aciertos": 4,
-        "fallos": 0
-    },
-    {
-        "_id": "ce320197ee226c6fcadb1356469593d5",
-        "regimen": "Regimen Comun",
-        "descripcion": "Planeamiento general:  Aprobacion de instrumentos no atribuidos al pleno",
-        "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 4,
-        "fallos": 0
-    },
-    {
-        "_id": "e3e5886ec05f7dd2c9745fe6c0d027bf",
-        "regimen": "Regimen Comun",
-        "descripcion": "Servicios y obras:  Dirigir, inspeccionar eimpulsar",
+        "descripcion": "Hacer cumplir los acuerdos del ayuntamiento ",
         "compete_a": "Alcalde",
         "es_delegable": true,
-        "aciertos": 1,
+        "aciertos": 2,
         "fallos": 0
     },
     {
-        "_id": "beee76e97f96e854fffc7256142aebf3",
-        "regimen": "Gran Poblacion",
+        "_id": "234ed59ebb1ba51ad13c276a4979920b",
+        "regimen": "Regimen Comun",
         "descripcion": "Gobierno y administrcion",
         "compete_a": "Alcalde",
         "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "77ad6392c5f78a1c82358c8d9665f95c",
-        "regimen": "Regimen Comun",
-        "descripcion": "LICENCIAS: Otorgamiento si lo dispone la ley sectorial",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 1,
+        "aciertos": 6,
         "fallos": 0
     },
     {
@@ -279,56 +289,83 @@
         "fallos": 0
     },
     {
-        "_id": "2de12bb52b05de057884f5524c588cb3",
+        "_id": "004baef2faf560dcaa0e85af9c84f968",
         "regimen": "Gran Poblacion",
-        "descripcion": "Acuerdos: Creaccion o supresion de municipios",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "6c33ef617165e19209ec44bd045664a0",
-        "regimen": "Gran Poblacion",
-        "descripcion": "REGLAMENTO ORGANICO",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "0cf3308badc9217920b1c36ef4379644",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Control & Fiscalizacion ",
-        "compete_a": "Pleno",
+        "descripcion": "Planeamiento general: proyecto instrumentos ordenacion, aprobacion instrumentos no atribuidos al pelno",
+        "compete_a": "Junta Gobierno Local",
         "es_delegable": false,
         "aciertos": 0,
         "fallos": 0
     },
     {
-        "_id": "325e07daba4ef0bb332c2c35182afae8",
+        "_id": "dad3a07eaa5f20092152cbf52698cf75",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Aprobar Oferta de EMPLEO",
+        "compete_a": "Junta Gobierno Local",
+        "es_delegable": false,
+        "aciertos": 2,
+        "fallos": 0
+    },
+    {
+        "_id": "aaaa9d030ad693bc54cb7a894bf5c222",
+        "regimen": "Gran Poblacion",
+        "descripcion": "SERVICIOS Y OBRAS: aprobacion de las formas de gestion",
+        "compete_a": "Pleno",
+        "es_delegable": true,
+        "aciertos": 1,
+        "fallos": 0
+    },
+    {
+        "_id": "c598314ed4ab5f69fb4bb74e0eac4c50",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Personal:  Aprobar RPT, retribuciones, separacion y despido",
+        "compete_a": "Junta Gobierno Local",
+        "es_delegable": false,
+        "aciertos": 0,
+        "fallos": 0
+    },
+    {
+        "_id": "ff15a7f99ddcea06937c18868319d435",
         "regimen": "Regimen Comun",
-        "descripcion": "Iniciativa actos lesividad del ayuntamiento",
+        "descripcion": "Mayorias Especiales",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 2,
+        "fallos": 0
+    },
+    {
+        "_id": "e3e5886ec05f7dd2c9745fe6c0d027bf",
+        "regimen": "Regimen Comun",
+        "descripcion": "Servicios y obras:  Dirigir, inspeccionar eimpulsar",
+        "compete_a": "Alcalde",
+        "es_delegable": true,
+        "aciertos": 3,
+        "fallos": 0
+    },
+    {
+        "_id": "adca3277341ababfce7fe35a934cd143",
+        "regimen": "Regimen Comun",
+        "descripcion": "Convocar y presidir las sesiones",
         "compete_a": "Alcalde",
         "es_delegable": false,
         "aciertos": 2,
         "fallos": 0
     },
     {
-        "_id": "9cf58fd513c2981a2a43e75291371287",
+        "_id": "77ad6392c5f78a1c82358c8d9665f95c",
         "regimen": "Regimen Comun",
-        "descripcion": "sANCIONAR ONRDENANZAS MUNICIPALES",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
-        "aciertos": 2,
+        "descripcion": "LICENCIAS: Otorgamiento si lo dispone la ley sectorial",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 1,
         "fallos": 0
     },
     {
-        "_id": "753c312fc1633eb64e828fda6cbced54",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Hacer cumplir los acuerdos del ayuntamiento ",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
+        "_id": "d8dfbed10529c4eb683c667f8d5999e0",
+        "regimen": "Regimen Comun",
+        "descripcion": "aprobar plantilla RPT y fijacion de retribuciones",
+        "compete_a": "Pleno",
+        "es_delegable": false,
         "aciertos": 0,
         "fallos": 0
     },
@@ -342,6 +379,15 @@
         "fallos": 0
     },
     {
+        "_id": "17d0b8d8ead08fafc57fb7b22174c99b",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Jefatura policia municipal",
+        "compete_a": "Alcalde",
+        "es_delegable": false,
+        "aciertos": 2,
+        "fallos": 0
+    },
+    {
         "_id": "e09a92fceb18fdcd6c86ebb58db5df52",
         "regimen": "Gran Poblacion",
         "descripcion": "RECURSOS TRIBUTARIOS, PRESUPUESTOS Y CUENTAS",
@@ -351,21 +397,12 @@
         "fallos": 0
     },
     {
-        "_id": "17d0b8d8ead08fafc57fb7b22174c99b",
+        "_id": "6c33ef617165e19209ec44bd045664a0",
         "regimen": "Gran Poblacion",
-        "descripcion": "Jefatura policia municipal",
-        "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "d8dfbed10529c4eb683c667f8d5999e0",
-        "regimen": "Regimen Comun",
-        "descripcion": "aprobar plantilla RPT y fijacion de retribuciones",
+        "descripcion": "REGLAMENTO ORGANICO",
         "compete_a": "Pleno",
         "es_delegable": false,
-        "aciertos": 0,
+        "aciertos": 2,
         "fallos": 0
     },
     {
@@ -378,36 +415,90 @@
         "fallos": 0
     },
     {
-        "_id": "d7a7b38057aae58a8664a536080b9f63",
+        "_id": "0cf3308badc9217920b1c36ef4379644",
         "regimen": "Gran Poblacion",
-        "descripcion": "Mocion de censura y cuestion de confianza",
+        "descripcion": "Control & Fiscalizacion ",
         "compete_a": "Pleno",
         "es_delegable": false,
-        "aciertos": 1,
+        "aciertos": 0,
         "fallos": 0
     },
     {
-        "_id": "da04b45924299b570afb69907765ffcc",
-        "regimen": "Regimen Comun",
-        "descripcion": "Bandos",
-        "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 4,
-        "fallos": 0
-    },
-    {
-        "_id": "dad3a07eaa5f20092152cbf52698cf75",
+        "_id": "27288f27201a5d4e308cfca6f69780cc",
         "regimen": "Gran Poblacion",
-        "descripcion": "Aprobar Oferta de EMPLEO",
-        "compete_a": "Junta Gobierno Local",
+        "descripcion": "aprobar ordenanzas municipales",
+        "compete_a": "Pleno",
+        "es_delegable": true,
+        "aciertos": 0,
+        "fallos": 0
+    },
+    {
+        "_id": "0929ad1e10a78d39ec5a6b71acb28f93",
+        "regimen": "Regimen Comun",
+        "descripcion": "PLANEAMIENTO GENERAL: aprobacion inicial o que ponga fin a la tramitacion",
+        "compete_a": "Pleno",
         "es_delegable": false,
         "aciertos": 2,
         "fallos": 0
     },
     {
-        "_id": "45a343d5244abe796d8bcb0c48d1b60c",
+        "_id": "36c44ede75fb589bb0dd587d99d24c22",
         "regimen": "Regimen Comun",
-        "descripcion": "Operaciones de credito: +10% recursos ordinarios / +15% tesoreria",
+        "descripcion": "Operaciones de credito: <=10% recursos ordinarios / <=15% tesoreria",
+        "compete_a": "Alcalde",
+        "es_delegable": false,
+        "aciertos": 2,
+        "fallos": 0
+    },
+    {
+        "_id": "8560c93e12f12ef935be4f39733cc928",
+        "regimen": "Regimen Comun",
+        "descripcion": "Jefatura policia municipal",
+        "compete_a": "Alcalde",
+        "es_delegable": true,
+        "aciertos": 0,
+        "fallos": 0
+    },
+    {
+        "_id": "981657798891eb61000fdc2551a380ca",
+        "regimen": "Regimen Comun",
+        "descripcion": "Acciones Judiciales y Administrativas: ejercicio incluso delegadas ",
+        "compete_a": "Alcalde",
+        "es_delegable": false,
+        "aciertos": 0,
+        "fallos": 0
+    },
+    {
+        "_id": "677f34bcb7474e8bc3525c1c621528d1",
+        "regimen": "Regimen Comun",
+        "descripcion": "Acuerdos: Creaccion o supresion de municipios",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 6,
+        "fallos": 0
+    },
+    {
+        "_id": "9784bb493e24e5244fc1e9e2eab05e00",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Acuerdos: Alteracion de limites/capital/nombre/bandera ",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 3,
+        "fallos": 0
+    },
+    {
+        "_id": "c802b5947fdeafeb4ac1207eaf4fd4b1",
+        "regimen": "Regimen Comun",
+        "descripcion": "alteracion calificacion juridica bienes",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 4,
+        "fallos": 0
+    },
+    {
+        "_id": "cbabf1e7fd9d945c68bf7c3eff3f9ef1",
+        "regimen": "Regimen Comun",
+        "descripcion": "recursos tributarios, presupuestos y cuentas",
         "compete_a": "Pleno",
         "es_delegable": false,
         "aciertos": 2,
@@ -423,100 +514,19 @@
         "fallos": 0
     },
     {
-        "_id": "c802b5947fdeafeb4ac1207eaf4fd4b1",
-        "regimen": "Regimen Comun",
-        "descripcion": "alteracion calificacion juridica bienes",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 4,
-        "fallos": 0
-    },
-    {
-        "_id": "004baef2faf560dcaa0e85af9c84f968",
+        "_id": "da33423849a00ccec83f160b639bc17c",
         "regimen": "Gran Poblacion",
-        "descripcion": "Planeamiento general: proyecto instrumentos ordenacion, aprobacion instrumentos no atribuidos al pelno",
-        "compete_a": "Junta Gobierno Local",
-        "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "cbabf1e7fd9d945c68bf7c3eff3f9ef1",
-        "regimen": "Regimen Comun",
-        "descripcion": "recursos tributarios, presupuestos y cuentas",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "d7b902b4573417ca7f08082bfec1acc5",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Competencias: Planteamiento de conflictos",
-        "compete_a": "Pleno",
+        "descripcion": "Representar al ayuntamiento",
+        "compete_a": "Alcalde",
         "es_delegable": true,
-        "aciertos": 0,
+        "aciertos": 6,
         "fallos": 0
     },
     {
-        "_id": "d4cca073669dce8a62e085a74cdabc09",
+        "_id": "ce320197ee226c6fcadb1356469593d5",
         "regimen": "Regimen Comun",
-        "descripcion": "Hacer cumplir los acuerdos del ayuntamiento ",
+        "descripcion": "Planeamiento general:  Aprobacion de instrumentos no atribuidos al pleno",
         "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "27288f27201a5d4e308cfca6f69780cc",
-        "regimen": "Gran Poblacion",
-        "descripcion": "aprobar ordenanzas municipales",
-        "compete_a": "Pleno",
-        "es_delegable": true,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "234ed59ebb1ba51ad13c276a4979920b",
-        "regimen": "Regimen Comun",
-        "descripcion": "Gobierno y administrcion",
-        "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 4,
-        "fallos": 0
-    },
-    {
-        "_id": "981657798891eb61000fdc2551a380ca",
-        "regimen": "Regimen Comun",
-        "descripcion": "Acciones Judiciales y Administrativas: ejercicio incluso delegadas ",
-        "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "4a32fdc266c23dc7f89c09ce56468717",
-        "regimen": "Regimen Comun",
-        "descripcion": "Mocion de censura y cuestion de confianza",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "0929ad1e10a78d39ec5a6b71acb28f93",
-        "regimen": "Regimen Comun",
-        "descripcion": "PLANEAMIENTO GENERAL: aprobacion inicial o que ponga fin a la tramitacion",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "677f34bcb7474e8bc3525c1c621528d1",
-        "regimen": "Regimen Comun",
-        "descripcion": "Acuerdos: Creaccion o supresion de municipios",
-        "compete_a": "Pleno",
         "es_delegable": false,
         "aciertos": 4,
         "fallos": 0
@@ -531,12 +541,75 @@
         "fallos": 0
     },
     {
-        "_id": "c598314ed4ab5f69fb4bb74e0eac4c50",
+        "_id": "da04b45924299b570afb69907765ffcc",
+        "regimen": "Regimen Comun",
+        "descripcion": "Bandos",
+        "compete_a": "Alcalde",
+        "es_delegable": false,
+        "aciertos": 4,
+        "fallos": 0
+    },
+    {
+        "_id": "4a32fdc266c23dc7f89c09ce56468717",
+        "regimen": "Regimen Comun",
+        "descripcion": "Mocion de censura y cuestion de confianza",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 2,
+        "fallos": 0
+    },
+    {
+        "_id": "d7b902b4573417ca7f08082bfec1acc5",
         "regimen": "Gran Poblacion",
-        "descripcion": "Personal:  Aprobar RPT, retribuciones, separacion y despido",
-        "compete_a": "Junta Gobierno Local",
+        "descripcion": "Competencias: Planteamiento de conflictos",
+        "compete_a": "Pleno",
+        "es_delegable": true,
+        "aciertos": 0,
+        "fallos": 0
+    },
+    {
+        "_id": "9d3ecff228f7120f351ed0cfdbdf80f7",
+        "regimen": "Regimen Comun",
+        "descripcion": "Personal:  Jefatura, Separacion y despido",
+        "compete_a": "Alcalde",
+        "es_delegable": false,
+        "aciertos": 4,
+        "fallos": 0
+    },
+    {
+        "_id": "45a343d5244abe796d8bcb0c48d1b60c",
+        "regimen": "Regimen Comun",
+        "descripcion": "Operaciones de credito: +10% recursos ordinarios / +15% tesoreria",
+        "compete_a": "Pleno",
+        "es_delegable": false,
+        "aciertos": 2,
+        "fallos": 0
+    },
+    {
+        "_id": "beee76e97f96e854fffc7256142aebf3",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Gobierno y administrcion",
+        "compete_a": "Alcalde",
         "es_delegable": false,
         "aciertos": 0,
+        "fallos": 0
+    },
+    {
+        "_id": "51454039e350d7b0fa15966aea237245",
+        "regimen": "Gran Poblacion",
+        "descripcion": "Proyecto presupuesto",
+        "compete_a": "Junta Gobierno Local",
+        "es_delegable": false,
+        "aciertos": 4,
+        "fallos": 0
+    },
+    {
+        "_id": "9cf58fd513c2981a2a43e75291371287",
+        "regimen": "Regimen Comun",
+        "descripcion": "sANCIONAR ONRDENANZAS MUNICIPALES",
+        "compete_a": "Alcalde",
+        "es_delegable": true,
+        "aciertos": 2,
         "fallos": 0
     },
     {
@@ -549,84 +622,12 @@
         "fallos": 0
     },
     {
-        "_id": "ff15a7f99ddcea06937c18868319d435",
+        "_id": "d4cca073669dce8a62e085a74cdabc09",
         "regimen": "Regimen Comun",
-        "descripcion": "Mayorias Especiales",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "5ffb147546bbc682b3ca428609152fcb",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Competencias: Aceptacion de delegacion",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 1,
-        "fallos": 0
-    },
-    {
-        "_id": "aaaa9d030ad693bc54cb7a894bf5c222",
-        "regimen": "Gran Poblacion",
-        "descripcion": "SERVICIOS Y OBRAS: aprobacion de las formas de gestion",
-        "compete_a": "Pleno",
-        "es_delegable": true,
-        "aciertos": 1,
-        "fallos": 0
-    },
-    {
-        "_id": "da33423849a00ccec83f160b639bc17c",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Representar al ayuntamiento",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
-        "aciertos": 4,
-        "fallos": 0
-    },
-    {
-        "_id": "8560c93e12f12ef935be4f39733cc928",
-        "regimen": "Regimen Comun",
-        "descripcion": "Jefatura policia municipal",
-        "compete_a": "Alcalde",
-        "es_delegable": true,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "adca3277341ababfce7fe35a934cd143",
-        "regimen": "Regimen Comun",
-        "descripcion": "Convocar y presidir las sesiones",
+        "descripcion": "Hacer cumplir los acuerdos del ayuntamiento ",
         "compete_a": "Alcalde",
         "es_delegable": false,
         "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "6b1c84ed16d8a597541d442b179e8e8d",
-        "regimen": "Regimen Comun",
-        "descripcion": "Competencias: Aceptacion de delegacion y planteamiento de conflictos",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 0,
-        "fallos": 0
-    },
-    {
-        "_id": "36c44ede75fb589bb0dd587d99d24c22",
-        "regimen": "Regimen Comun",
-        "descripcion": "Operaciones de credito: <=10% recursos ordinarios / <=15% tesoreria",
-        "compete_a": "Alcalde",
-        "es_delegable": false,
-        "aciertos": 2,
-        "fallos": 0
-    },
-    {
-        "_id": "9784bb493e24e5244fc1e9e2eab05e00",
-        "regimen": "Gran Poblacion",
-        "descripcion": "Acuerdos: Alteracion de limites/capital/nombre/bandera ",
-        "compete_a": "Pleno",
-        "es_delegable": false,
-        "aciertos": 3,
         "fallos": 0
     }
 ]

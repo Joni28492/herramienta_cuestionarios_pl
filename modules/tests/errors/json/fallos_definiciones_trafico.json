@@ -1,0 +1,128 @@
+[
+    {
+        "timestamp": 1780511063.962661,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "7. En el caso de ciclomotores de dos ruedas con motor de combustión interna, su cilindrada debe ser:",
+        "opciones_respuesta": {
+            "a": "a) Inferior a 50 cm³.",
+            "b": "b) Inferior o igual a 50 cm³.",
+            "c": "c) Superior a 50 cm³.",
+            "d": "d) Exactamente 49 cm³."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511127.6753151,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "13. Las motocicletas de dos ruedas se distinguen de los ciclomotores porque su cilindrada es:",
+        "opciones_respuesta": {
+            "a": "a) Superior a 45 cm³.",
+            "b": "b) Superior a 50 cm³.",
+            "c": "c) Superior o igual a 50 cm³.",
+            "d": "d) Superior a 125 cm³."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511161.1072311,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "16. El \"Autobús o autocar\" se define como el automóvil que tenga:",
+        "opciones_respuesta": {
+            "a": "a) Más de 9 plazas incluida la del conductor.",
+            "b": "b) Más de 8 plazas además de la del conductor.",
+            "c": "c) Exactamente 17 plazas.",
+            "d": "d) Las opciones A y B son equivalentes y correctas."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511185.8357348,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "17. Un camión es un automóvil con cuatro ruedas o más concebido para el transporte de mercancías cuya cabina:",
+        "opciones_respuesta": {
+            "a": "a) Puede estar integrada o no en la carrocería.",
+            "b": "b) No está integrada en el resto de la carrocería.",
+            "c": "c) Tiene un máximo de 5 plazas.",
+            "d": "d) Debe ser independiente del compartimento de carga."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511238.244107,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "22. Un \"Conjunto de vehículos\" constituido por un vehículo de motor enganchado a un remolque se denomina:",
+        "opciones_respuesta": {
+            "a": "a) Vehículo articulado.",
+            "b": "b) Tren de carretera.",
+            "c": "c) Tándem.",
+            "d": "d) Convoy."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511277.1640878,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "24. El \"Tractor de servicios\" es un vehículo especial autopropulsado, de dos o más ejes, concebido para:",
+        "opciones_respuesta": {
+            "a": "a) Arrastrar o empujar vehículos de servicio, vagones u otros aparatos.",
+            "b": "b) Realizar labores agrícolas de siembra.",
+            "c": "c) El transporte de productos agrícolas.",
+            "d": "d) Arrastrar únicamente semirremolques."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511336.6524658,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "27. En cuanto a las masas, la \"Tara\" se define como la masa del vehículo con su equipo fijo, sin personal de servicio, pasajeros ni carga, pero con:",
+        "opciones_respuesta": {
+            "a": "a) El 50% del combustible.",
+            "b": "b) Su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios.",
+            "c": "c) Solo el lubricante y el agua.",
+            "d": "d) El conductor (estimado en 75 kg)."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511357.6127799,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "29. Un grupo de dos ejes se denomina \"tándem\" y un grupo de tres ejes se denomina:",
+        "opciones_respuesta": {
+            "a": "a) Trídem.",
+            "b": "b) Triaxial.",
+            "c": "c) Las opciones A y B son correctas.",
+            "d": "d) Trío de ejes."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511379.4043958,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "30. La luz de carretera o de largo alcance debe ser capaz de alumbrar una distancia larga por delante del vehículo:",
+        "opciones_respuesta": {
+            "a": "a) Sin deslumbrar en ningún caso.",
+            "b": "b) De noche y de día.",
+            "c": "c) Sin que la norma especifique una distancia métrica en la definición del Anexo I.",
+            "d": "d) Superior a 100 metros obligatoriamente."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    }
+]

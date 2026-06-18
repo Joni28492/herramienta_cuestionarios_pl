@@ -102,6 +102,23 @@ def ejecutar_cuestionario_ley_bases_competencias():
         print(f"Error al ejecutar Cuestionario: {e}")
 
 
+def convertidor_archivos():
+    os.chdir(os.path.join(init_path, "modules", "tests"))
+
+    try:
+        subprocess.run(["python", "jsonTestToHtml.py"], shell=True )
+    except subprocess.CalledProcessError as e:
+        print(f"Error al convertir archivos: {e}")
+
+def errors_selector():
+    os.chdir(os.path.join(init_path, "modules", "tests"))
+
+    try:
+        subprocess.run(["python", "errors_selector.py"], shell=True )
+    except subprocess.CalledProcessError as e:
+        print(f"Error al generar json de errores: {e}")
+
+
 if __name__ == '__main__':
 
     commands = [ 
@@ -112,7 +129,9 @@ if __name__ == '__main__':
         generar_informe_completo,
         mostrar_ratio_fallos_Aciertos,
         html_server,
-        ejecutar_cuestionario_ley_bases_competencias
+        ejecutar_cuestionario_ley_bases_competencias,
+        convertidor_archivos,
+        errors_selector
         # activar_enviroment
     ]
 

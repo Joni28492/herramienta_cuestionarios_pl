@@ -1,0 +1,662 @@
+[
+    {
+        "pregunta": "1. Según la reciente actualización de la Ley 8/2002 (LEPAR), ¿cuál es el nuevo título de la Sección 2ª del Capítulo II?",
+        "respuestas": {
+            "a": "A) Licencias municipales de apertura.",
+            "b": "B) Régimen de establecimientos y locales.",
+            "c": "C) Régimen de licencias y declaraciones responsables.",
+            "d": "D) Condiciones de seguridad in los establecimientos."
+        },
+        "solucion": "c",
+        "explicacion": "La Ley 2/2026 modificó la Sección 2ª para incluir expresamente las \"declaraciones responsables\" dentro de la rúbrica del texto normativo."
+    },
+    {
+        "pregunta": "2. Quedan excluidas del ámbito de aplicación de la LEPAR:",
+        "respuestas": {
+            "a": "A) Las actividades recreativas de carácter extraordinario.",
+            "b": "B) Las actividades privadas de carácter familiar o social no abiertas a la pública concurrencia.",
+            "c": "C) Los espectáculos taurinos, que se rigen íntegramente por esta Ley.",
+            "d": "D) Los establecimientos que reúnan condiciones de seguridad ciudadana exigidas por la Ley."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 2.1 de la LEPAR excluye de forma taxativa aquellas actividades de índole estrictamente privada, familiar o social que no se abran al público en general."
+    },
+    {
+        "pregunta": "3. ¿Qué Decreto regula específicamente el Catálogo de los Espectáculos Públicos, las Actividades Recreativas y los Establecimientos en el Principado de Asturias?",
+        "respuestas": {
+            "a": "A) Decreto 90/2004.",
+            "b": "B) Decreto 91/2004.",
+            "c": "C) Decreto 100/2006.",
+            "d": "D) Decreto 38/2007."
+        },
+        "solucion": "b",
+        "explicacion": "Mientras que el Decreto 90/2004 se centra en el régimen de horarios, es el Decreto 91/2004 el encargado de establecer y desglosar el Catálogo oficial en su Anexo."
+    },
+    {
+        "pregunta": "4. ¿A qué materia se refiere el Decreto 38/2007, de 12 de abril?",
+        "respuestas": {
+            "a": "A) Al ejercicio del derecho de admisión.",
+            "b": "B) A las hojas de reclamaciones.",
+            "c": "C) A los seguros obligatorios de responsabilidad civil.",
+            "d": "D) Al régimen de horarios de apertura y cierre."
+        },
+        "solucion": "c",
+        "explicacion": "El Decreto 38/2007 de 12 de abril es la norma sectorial específica que regula los seguros obligatorios de responsabilidad civil en materia de espectáculos públicos en Asturias."
+    },
+    {
+        "pregunta": "5. El Decreto 63/2007 regula:",
+        "respuestas": {
+            "a": "A) Los servicios de vigilancia y seguridad.",
+            "b": "B) Las hojas de reclamaciones.",
+            "c": "C) Los espectáculos de carácter extraordinario.",
+            "d": "D) El Consejo Asesor de Espectáculos Públicos."
+        },
+        "solucion": "b",
+        "explicacion": "El Decreto 63/2007 es la disposición reglamentaria que establece y detalla el funcionamiento, formato y obligaciones de las hojas de reclamaciones en este ámbito."
+    },
+    {
+        "pregunta": "6. El seguro de responsabilidad civil para un local con un aforo de hasta 300 personas debe cubrir una cuantía mínima de:",
+        "respuestas": {
+            "a": "A) 150.253,03 euros.",
+            "b": "B) 300.507,00 euros.",
+            "c": "C) 450.000,00 euros.",
+            "d": "D) 60.000,00 euros."
+        },
+        "solucion": "a",
+        "explicacion": "De acuerdo con el Artículo I.I del Decreto 38/2007, el escalón inicial de capital mínimo asegurado para locales de hasta 300 personas se fija en 150.253,03 euros."
+    },
+    {
+        "pregunta": "7. Según el Decreto 38/2007, para establecimientos con aforo entre 301 y 1.500 personas, el capital mínimo asegurado es de:",
+        "respuestas": {
+            "a": "A) 150.253,03 euros.",
+            "b": "B) 300.507,00 euros.",
+            "c": "C) 450.000,00 euros.",
+            "d": "D) 602,00 euros."
+        },
+        "solucion": "b",
+        "explicacion": "Para el tramo medio de aforo que comprende desde 301 hasta 1.500 usuarios, el capital mínimo obligatorio de la póliza asciende a 300.507,00 euros."
+    },
+    {
+        "pregunta": "8. En el caso de instalaciones eventuales o desmontables que no posean un aforo determinado, el capital mínimo asegurado será:",
+        "respuestas": {
+            "a": "A) 300.507,00 euros.",
+            "b": "B) El que determine el ayuntamiento en la licencia.",
+            "c": "C) 150.253,03 euros.",
+            "d": "D) No es obligatorio el seguro para instalaciones eventuales."
+        },
+        "solucion": "c",
+        "explicacion": "El Artículo I.II del Decreto 38/2007 estipula que si la estructura es eventual o desmontable y carece de un aforo métricamente determinado, la cobertura base obligatoria es de 150.253,03 euros."
+    },
+    {
+        "pregunta": "9. Las franquicias en los seguros obligatorios de responsabilidad civil no podrán superar:",
+        "respuestas": {
+            "a": "A) Los 300,05 euros.",
+            "b": "B) Los 602,00 euros.",
+            "c": "C) El 10% del capital asegurado.",
+            "d": "D) No se permiten franquicias en este tipo de seguros."
+        },
+        "solucion": "b",
+        "explicacion": "El Decreto 38/2007 limita el margen de autoaseguro o franquicia para proteger a las víctimas, impidiendo que estas cláusulas excedan los 602,00 euros."
+    },
+    {
+        "pregunta": "10. Según el artículo 8 bis, ¿con qué antelación mínima debe presentarse la declaración responsable ante el Ayuntamiento?",
+        "respuestas": {
+            "a": "A) 24 horas.",
+            "b": "B) 48 horas.",
+            "c": "C) 5 días hábiles.",
+            "d": "D) 10 días naturales."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 8 bis.2 de la LEPAR exige un plazo de antelación mínimo de 48 horas para dar margen de control e inspección preventiva a los servicios municipales."
+    },
+    {
+        "pregunta": "11. Los spectacles en directo de escasa incidencia en terrazas al aire libre deben situarse a una distancia de, al menos:",
+        "respuestas": {
+            "a": "A) 20 metros de las viviendas.",
+            "b": "B) 30 metros de edificios residenciales.",
+            "c": "C) 40 metros respecto de las viviendas o edificios residenciales.",
+            "d": "D) 50 metros de centros hospitalarios."
+        },
+        "solucion": "c",
+        "explicacion": "La disposición transitoria única, apartado 1, impone un perímetro de protección acústica de al menos 40 metros de distancia respecto a cualquier uso residencial."
+    },
+    {
+        "pregunta": "12. ¿Cuál es el horario permitido para los espectáculos de \"escasa incidencia\" según la disposición transitoria única?",
+        "respuestas": {
+            "a": "A) Entre las 09:00 y las 22:00 horas.",
+            "b": "B) Entre las 10:00 y las 23:00 horas.",
+            "c": "C) De 11:00 a 00:00 horas.",
+            "d": "D) El que marque la licencia de apertura del local."
+        },
+        "solucion": "b",
+        "explicacion": "Conforme al apartado 2 de la citada disposición, la franja operativa autorizada para este formato menor queda restringida entre las 10:00 y las 23:00 horas."
+    },
+    {
+        "pregunta": "13. No se considerará espectáculo de \"escasa incidencia\" aquel que:",
+        "respuestas": {
+            "a": "A) Se desarrolle in el interior de espacios cerrados.",
+            "b": "B) Requiera escenario ni camerinos.",
+            "c": "C) Suponga una modificación de las condiciones técnicas y de aislamiento acústico generales.",
+            "d": "D) Tenga un aforo inferior a 50 personas."
+        },
+        "solucion": "c",
+        "explicacion": "Si el espectáculo exige alterar o modificar los aislamientos acústicos o las condiciones técnicas de la licencia general, pierde automáticamente la condición simplificada de \"escasa incidencia\"."
+    },
+    {
+        "pregunta": "14. El plazo máximo de tramitación del procedimiento para la obtención de licencias de apertura será de:",
+        "respuestas": {
+            "a": "A) Un mes.",
+            "b": "B) Dos meses.",
+            "c": "C) Tres meses.",
+            "d": "D) Seis meses."
+        },
+        "solucion": "c",
+        "explicacion": "El Artículo 9.2 fija de manera clara e improrrogable que el periodo de instrucción y resolución de estas licencias de actividad es de tres meses."
+    },
+    {
+        "pregunta": "15. La licencia de apertura se entenderá desestimada por silencio administrativo si:",
+        "respuestas": {
+            "a": "A) Transcurren tres meses sin notificación de resolución oportuna.",
+            "b": "B) No se recibe respuesta en 15 días desde la inspección.",
+            "c": "C) El solicitante no subsana deficiencias en 10 días.",
+            "d": "D) Transcurren seis meses desde la solicitud."
+        },
+        "solucion": "a",
+        "explicacion": "En virtud del Artículo 9.2, el silencio administrativo opera con efectos desestimatorios (negativos) una vez agotado el plazo de tres meses sin resolución expresa."
+    },
+    {
+        "pregunta": "16. ¿Cuál de los siguientes datos NO es obligatorio que figure en la licencia de apertura según el artículo 11?",
+        "respuestas": {
+            "a": "A) Aforo máximo.",
+            "b": "B) Denominación del establecimiento.",
+            "c": "C) Número de póliza del seguro.",
+            "d": "D) Medidas correctoras de obligado cumplimiento."
+        },
+        "solucion": "c",
+        "explicacion": "Aunque la suscripción del seguro es obligatoria (Art. 6), el Artículo 11 no exige el número concreto de póliza como dato impreso en la licencia física, priorizando el aforo, nombre y medidas correctoras."
+    },
+    {
+        "pregunta": "17. La licencia de apertura caducará si la actividad no comienza a ejercerse en el plazo de:",
+        "respuestas": {
+            "a": "A) Seis meses desde su concesión.",
+            "b": "B) Un año a contar desde su concesión.",
+            "c": "C) Dos años desde la solicitud.",
+            "d": "D) Tres meses desde la notificación."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 13.1.a de la norma determina la caducidad por inactividad inicial si se cumple un año desde el otorgamiento formal de la licencia."
+    },
+    {
+        "pregunta": "18. Si el ejercicio de la actividad autorizada se paraliza, la licencia caducará si dicha paralización es superior a:",
+        "respuestas": {
+            "a": "A) Seis meses.",
+            "b": "B) Un año, salvo supuestos de fuerza mayor o caso fortuito.",
+            "c": "C) Dieciocho meses.",
+            "d": "D) Dos años ininterrumpidos."
+        },
+        "solucion": "b",
+        "explicacion": "Al igual que para el inicio, el Artículo 13.1.b penaliza el cese voluntario prolongado, fijando la caducidad al superarse un año ininterrumpido de cierre o inactividad."
+    },
+    {
+        "pregunta": "19. El plazo máximo para la concesión de licencias para instalaciones eventuales, portátiles o desmontables es de:",
+        "respuestas": {
+            "a": "A) 15 días.",
+            "b": "B) 30 días.",
+            "c": "C) 45 días.",
+            "d": "D) Dos meses."
+        },
+        "solucion": "b",
+        "explicacion": "La tramitación para estructuras temporales o portátiles cuenta con un plazo ágil y abreviado reducido a un máximo de 30 días (Art. 14.2)."
+    },
+    {
+        "pregunta": "20. ¿A quién corresponde la inspección de los establecimientos y el control del desarrollo de los espectáculos?",
+        "respuestas": {
+            "a": "A) Exclusivamente al Principado de Asturias.",
+            "b": "B) Únicamente a los Ayuntamientos.",
+            "c": "C) Tanto al Principado de Asturias como a los Ayuntamientos, en sus respectivos ámbitos de competencia.",
+            "d": "D) Solo a las Fuerzas y Cuerpos de Seguridad del Estado."
+        },
+        "solucion": "c",
+        "explicacion": "El Artículo 23.1 consagra un régimen de competencias concurrentes y compartidas entre la administración autonómica y las corporaciones locales."
+    },
+    {
+        "pregunta": "21. Según el artículo 24, ¿pueden las autoridades suspender un espectáculo sin audiencia previa del interesado?",
+        "respuestas": {
+            "a": "A) No, en ningún caso por el principio de defensa.",
+            "b": "B) Sí, en caso de apreciarse peligro inminente.",
+            "c": "C) Solo si lo autoriza un juez.",
+            "d": "D) Sí, pero solo si es un espectáculo taurino."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 24.2 quiebra la exigencia de audiencia previa cuando concurren motivos graves de peligro inminente para la seguridad de las personas o bienes."
+    },
+    {
+        "pregunta": "22. La cuantía de las multas coercitivas no excederá en ningún caso de:",
+        "respuestas": {
+            "a": "A) 601,02 euros.",
+            "b": "B) La mitad del importe mínimo que se disponga para la sanción aplicable al caso.",
+            "c": "C) El 10% de la sanción principal.",
+            "d": "D) 3.000 euros por cada día de retraso."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 25.2 tasa el límite económico de los apremios o multas coercitivas en la mitad de la cuantía mínima de la infracción matriz que las motiva."
+    },
+    {
+        "pregunta": "23. ¿A qué edad se prohíbe el acceso a los menores a los establecimientos públicos en los que lo tengan prohibido?",
+        "respuestas": {
+            "a": "A) Menores de 14 años.",
+            "b": "B) Menores de 16 años.",
+            "c": "C) Menores de 18 años.",
+            "d": "D) La ley no establece una edad fija, depende del ayuntamiento."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 27.2 sitúa la barrera de protección general en la edad de dieciséis años para locales con restricciones de acceso por tipología de actividad."
+    },
+    {
+        "pregunta": "24. En los locales destinados a menores de 16 años, el horario de finalización no podrá superar las:",
+        "respuestas": {
+            "a": "A) 21:30 horas.",
+            "b": "B) 22:00 horas.",
+            "c": "C) 22:30 horas.",
+            "d": "D) 23:00 horas."
+        },
+        "solucion": "c",
+        "explicacion": "El Artículo 27.2.c fija como medida protectora que las sesiones especiales destinadas exclusivamente a menores de 16 años concluyan a las 22:30 horas como máximo."
+    },
+    {
+        "pregunta": "25. El ejercicio del derecho de admisión NO puede ser utilizado para:",
+        "respuestas": {
+            "a": "A) Impedir el acceso a personas con actitudes violentas.",
+            "b": "B) Restringir el acceso de manera discriminatoria o arbitraria.",
+            "c": "C) Expulsar a quien consuma drogas tóxicas en el interior.",
+            "d": "D) Impedir la entrada una vez completado el aforo."
+        },
+        "solucion": "b",
+        "explicacion": "El derecho de admisión está estrictamente acotado por principios constitucionales, prohibiéndose cualquier filtro fundamentado en criterios arbitrarios o discriminatorios (Art. 29.2)."
+    },
+    {
+        "pregunta": "26. Los titulares de discotecas deben presentar las condiciones de admisión ante la Consejería competente en materia de seguridad pública para su:",
+        "respuestas": {
+            "a": "A) Información simple.",
+            "b": "B) Visado y colocación en los accesos.",
+            "c": "C) Aprobación por el Consejo de Ministros.",
+            "d": "D) No es necesario presentarlas si son las generales de la ley."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 10 del Decreto 100/2006 obliga a que las normas de admisión particulares sean validadas (visadas) por la Consejería y exhibidas en lugar visible."
+    },
+    {
+        "pregunta": "27. ¿Qué color tiene la copia de la hoja de reclamaciones que se queda el reclamante?",
+        "respuestas": {
+            "a": "A) Blanco.",
+            "b": "B) Rosa.",
+            "c": "C) Verde.",
+            "d": "D) Amarillo."
+        },
+        "solucion": "c",
+        "explicacion": "El desglose oficial del juego impreso de las hojas asigna de forma inequívoca el color verde para el ejemplar oficial del usuario o reclamante."
+    },
+    {
+        "pregunta": "28. La copia rosa de la hoja de reclamaciones es para:",
+        "respuestas": {
+            "a": "A) La Administración.",
+            "b": "B) El reclamante.",
+            "c": "C) El establecimiento o instalación.",
+            "d": "D) El Consejo Asesor."
+        },
+        "solucion": "c",
+        "explicacion": "Dentro del juego triple de hojas de reclamaciones, el ejemplar de color rosa queda archivado en posesión del propio local o empresa inspeccionada."
+    },
+    {
+        "pregunta": "29. El establecimiento debe conservar la copia rosa a disposición de la inspección durante un plazo de:",
+        "respuestas": {
+            "a": "A) Tres meses.",
+            "b": "B) Seis meses desde que se formuló la reclamación.",
+            "c": "C) Un año.",
+            "d": "D) Hasta que prescriba la posible infracción."
+        },
+        "solucion": "b",
+        "explicacion": "El reglamento obliga al local a salvaguardar y mantener archivada la hoja rosa por un periodo mínimo de control de seis meses a contar desde su cumplimentación."
+    },
+    {
+        "pregunta": "30. Las infracciones muy graves prescribirán a los:",
+        "respuestas": {
+            "a": "A) Seis meses.",
+            "b": "B) Un año.",
+            "c": "C) Dos años.",
+            "d": "D) Tres años."
+        },
+        "solucion": "d",
+        "explicacion": "El Artículo 35 de la LEPAR fija el plazo prescriptivo más amplio para las conductas ilícitas de naturaleza muy grave en el umbral de los tres años."
+    },
+    {
+        "pregunta": "31. Las infracciones leves prescriben a los:",
+        "respuestas": {
+            "a": "A) Seis meses.",
+            "b": "B) Un año.",
+            "c": "C) Dos años.",
+            "d": "D) Tres años."
+        },
+        "solucion": "a",
+        "explicacion": "Las faltas de menor entidad (leves) cuentan con un periodo de prescripción corto de seis meses debido al principio de seguridad jurídica (Art. 35)."
+    },
+    {
+        "pregunta": "32. La sanción de multa por una infracción grave oscila entre:",
+        "respuestas": {
+            "a": "A) Hasta 601,01 euros.",
+            "b": "B) 601,02 euros a 6.010,12 euros.",
+            "c": "C) 6.010,20 euros a 60.101,21 euros.",
+            "d": "D) 1.000 a 30.000 euros."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 37.2.a establece con precisión decimal que la sanción para el grado de faltas graves va desde los 601,02 hasta los 6.010,12 euros."
+    },
+    {
+        "pregunta": "33. ¿Qué órgano es competente para sancionar infracciones graves en concejos de más de 10.000 habitantes?",
+        "respuestas": {
+            "a": "A) El Alcalde.",
+            "b": "B) El Pleno del Ayuntamiento.",
+            "c": "C) El Consejero de Presidencia.",
+            "d": "D) La Junta de Gobierno Local."
+        },
+        "solucion": "a",
+        "explicacion": "El Artículo 41.1 de la LEPAR atribuye de forma directa la competencia resolutoria y sancionadora para este tramo de municipios a la figura del Alcalde."
+    },
+    {
+        "pregunta": "34. Contra las resoluciones dictadas por el titular de la Consejería competente en materia de seguridad pública podrá interponerse:",
+        "respuestas": {
+            "a": "A) Recurso de alzada.",
+            "b": "B) Recurso de súplica ante el Consejo de Gobierno.",
+            "c": "C) Recurso de reposición ante el Alcalde.",
+            "d": "D) No cabe recurso administrativo."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 42.2 de la norma mantiene la especialidad del recurso de súplica ante el Consejo de Gobierno contra los actos que pongan fin a la vía de las Consejerías."
+    },
+    {
+        "pregunta": "35. ¿Cuál de estas es una medida cautelar que puede recaer tras iniciar un expediente sancionador?",
+        "respuestas": {
+            "a": "A) La multa coercitiva inmediata.",
+            "b": "B) El decomiso de los bienes o animales relacionados con el espectáculo.",
+            "c": "C) La inhabilitación permanente del titular.",
+            "d": "D) La retirada definitiva de la licencia."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 44.1.c detalla el decomiso provisional de los elementos, efectos o animales utilizados como una medida cautelar clásica de aseguramiento."
+    },
+    {
+        "pregunta": "36. ¿Quién preside el Consejo Asesor de Espectáculos Públicos del Principado de Asturias?",
+        "respuestas": {
+            "a": "A) El Presidente del Principado.",
+            "b": "B) El titular de la Consejería competente en materia de seguridad pública.",
+            "c": "C) El titular de la presidencia de la Federación Asturiana de Concejos (FACC).",
+            "d": "D) El Director General de la Policía."
+        },
+        "solucion": "b",
+        "explicacion": "La presidencia del órgano colegiado consultivo recae ex officio sobre la persona titular de la Consejería competente en el área de seguridad pública (Art. 48.1.a)."
+    },
+    {
+        "pregunta": "37. En la composición del Consejo Asesor, ¿cuántos vocales representan a los concejos?",
+        "respuestas": {
+            "a": "A) 5 vocales.",
+            "b": "B) 3 vocales designados por la FACC.",
+            "c": "C) 2 vocales.",
+            "d": "D) 10 vocales."
+        },
+        "solucion": "b",
+        "explicacion": "Para asegurar la representación municipal, el Artículo 48.1.c asigna un cupo específico de 3 vocales que son propuestos directamente por la Federación Asturiana de Concejos."
+    },
+    {
+        "pregunta": "38. ¿Cuántas veces al año, como mínimo, se reunirá el Pleno del Consejo Asesor en sesión ordinaria?",
+        "respuestas": {
+            "a": "A) Una vez al mes.",
+            "b": "B) Una vez al trimestre.",
+            "c": "C) Dos veces al año.",
+            "d": "D) Una vez al año."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 49.b mandata una periodicidad obligatoria para las reuniones ordinarias de su Pleno fijada en al menos una sesión por trimestre."
+    },
+    {
+        "pregunta": "39. Es obligatorio disponer de servicio de vigilancia y seguridad (vigilantes de seguridad) en locales con música amplificada a partir de un aforo de:",
+        "respuestas": {
+            "a": "A) 100 personas.",
+            "b": "B) 250 personas.",
+            "c": "C) 350 personas.",
+            "d": "D) 500 personas."
+        },
+        "solucion": "c",
+        "explicacion": "El Artículo 5.1.b del Decreto 100/2006 activa la obligación de contar con vigilantes titulados a partir del umbral crítico de 350 personas de aforo."
+    },
+    {
+        "pregunta": "40. Para un establecimiento con un aforo de entre 501 y 750 personas, ¿cuántos vigilantes de seguridad son obligatorios?",
+        "respuestas": {
+            "a": "A) 2 vigilantes.",
+            "b": "B) 3 vigilantes.",
+            "c": "C) 4 vigilantes.",
+            "d": "D) 5 vigilantes."
+        },
+        "solucion": "b",
+        "explicacion": "La tabla escalar de dotación del Artículo 5 determina que para el rango de aforo comprendido entre 501 y 750 se debe contar con un mínimo de 3 vigilantes."
+    },
+    {
+        "pregunta": "41. En locales con un aforo superior a 1.000 personas, se añadirá un vigilante adicional por cada fracción de:",
+        "respuestas": {
+            "a": "A) 500 personas.",
+            "b": "B) 1.000 personas.",
+            "c": "C) 1.500 personas.",
+            "d": "D) 2.000 personas."
+        },
+        "solucion": "b",
+        "explicacion": "Superada la barrera de las 1.000 personas, el criterio de incremento se estabiliza sumando un efectivo adicional por cada bloque o fracción completa de 1.000 asistentes."
+    },
+    {
+        "pregunta": "42. Los vigilantes de seguridad en espectáculos públicos tienen, entre otras funciones:",
+        "respuestas": {
+            "a": "A) Sancionar a los asistentes que incumplan la ley.",
+            "b": "B) Proceder a la expulsión de personas que dificulten el normal desarrollo del espectáculo.",
+            "c": "C) Dirigir el tráfico en los exteriores del local.",
+            "d": "D) Autorizar el consumo de estupefacientes en zonas privadas."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 4.a.I encomienda a estos profesionales la labor de control de orden interno, facultándoles para la expulsión de personas con conductas disruptivas."
+    },
+    {
+        "pregunta": "43. ¿Qué decreto regula el catálogo de establecimientos según el tipo de actividad?",
+        "respuestas": {
+            "a": "A) Decreto 91/2004.",
+            "b": "B) Decreto 100/2006.",
+            "c": "C) Decreto 63/2007.",
+            "d": "D) Decreto 38/2007."
+        },
+        "solucion": "a",
+        "explicacion": "El Decreto 91/2004 es la norma de cabecera encargada de estructurar el Catálogo y definir legalmente cada tipo de establecimiento según su actividad."
+    },
+    {
+        "pregunta": "44. Se entiende por \"espectáculo taurino\" aquel en el que intervienen:",
+        "respuestas": {
+            "a": "A) Caballos y bueyes.",
+            "b": "B) Reses de lidia en plazas y recintos autorizados.",
+            "c": "C) Animales domésticos en general.",
+            "d": "D) Solo los encierros por vías públicas."
+        },
+        "solucion": "b",
+        "explicacion": "La definición oficial del Catálogo acota el concepto a eventos donde participan de modo activo reses de lidia dentro de espacios e infraestructuras expresamente validadas."
+    },
+    {
+        "pregunta": "45. Una discoteca se define como un local que cuenta con pista de baile y un diámetro mínimo de:",
+        "respuestas": {
+            "a": "A) Cinco metros.",
+            "b": "B) Siete metros.",
+            "c": "C) Diez metros.",
+            "d": "D) No existe diámetro mínimo reglamentario."
+        },
+        "solucion": "b",
+        "explicacion": "El Catálogo impone un requisito técnico y físico estricto de diseño para las discotecas: la pista destinada al baile debe contener un círculo de al menos siete metros de diámetro."
+    },
+    {
+        "pregunta": "46. Los \"tablaos flamencos\" son locales destinados principalmente a ofrecer espectáculos de:",
+        "respuestas": {
+            "a": "A) Teatro clásico.",
+            "b": "B) Naturaleza flamenca.",
+            "c": "C) Música amplificada de discoteca.",
+            "d": "D) Competiciones deportivas."
+        },
+        "solucion": "b",
+        "explicacion": "El Catálogo utiliza una definición literal y teleológica vinculando este tipo de establecimientos a la difusión y ejecución de espectáculos de arte y naturaleza flamenca."
+    },
+    {
+        "pregunta": "47. El plan de emergencia en los establecimientos es responsabilidad de:",
+        "respuestas": {
+            "a": "A) Los bomberos del ayuntamiento.",
+            "b": "B) Los titulares de los establecimientos, locales e instalaciones.",
+            "c": "C) La Policía Local.",
+            "d": "D) La Delegación del Gobierno."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 5.2 de la LEPAR traslada la responsabilidad de la elaboración, implantación y mantenimiento preventivo de los planes de emergencia directamente a la propiedad o explotación del local."
+    },
+    {
+        "pregunta": "48. El incumplimiento de tener suscrito el contrato de seguro exigido es una infracción de carácter:",
+        "respuestas": {
+            "a": "A) Leve.",
+            "b": "B) Grave.",
+            "c": "C) Muy grave.",
+            "d": "D) No es infracción si se suscribe antes de la sanción."
+        },
+        "solucion": "c",
+        "explicacion": "Carecer de la cobertura de la póliza de responsabilidad civil obligatoria se tipifica en el Artículo 32.b como una vulneración de máxima gravedad (muy grave) por la desprotección social que genera."
+    },
+    {
+        "pregunta": "49. La admisión de menores de 16 años en locales donde lo tengan prohibido es una infracción:",
+        "respuestas": {
+            "a": "A) Grave.",
+            "b": "B) Muy grave.",
+            "c": "C) Leve.",
+            "d": "D) Administrativa pero no sancionable por la LEPAR."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 32.d cataloga la quiebra de las prohibiciones de acceso de menores como infracción muy grave con el fin de blindar de forma contundente la protección de la infancia."
+    },
+    {
+        "pregunta": "50. La negativa de acceso a los agentes de la autoridad en el ejercicio de sus funciones es una infracción:",
+        "respuestas": {
+            "a": "A) Grave.",
+            "b": "B) Muy grave.",
+            "c": "C) Leve.",
+            "d": "D) De desobediencia, pero no figura en la LEPAR."
+        },
+        "solucion": "b",
+        "explicacion": "Impedir, obstaculizar o vetar de cualquier forma la entrada de la inspección policial o administrativa al local constituye una infracción muy grave tipificada en el Artículo 32.f."
+    },
+    {
+        "pregunta": "51. El retraso en el comienzo o finalización de los espectáculos es una infracción:",
+        "respuestas": {
+            "a": "A) Muy grave.",
+            "b": "B) Grave.",
+            "c": "C) Leve.",
+            "d": "D) Solo es sancionable si supera la hora de retraso."
+        },
+        "solucion": "c",
+        "explicacion": "Las alteraciones puntuales de los horarios de inicio o cierre programados se encuadran en el catálogo de faltas menores o de carácter leve del Artículo 34.a."
+    },
+    {
+        "pregunta": "52. La publicidad fraudulenta que distorsione la capacidad electiva del público es una infracción:",
+        "respuestas": {
+            "a": "A) Leve.",
+            "b": "B) Grave.",
+            "c": "C) Muy grave.",
+            "d": "D) Solo es infracción de consumo, no de la LEPAR."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 33.i tipifica como infracción grave la difusión de anuncios o informaciones publicitarias engañosas que distorsionen de forma grave las características del espectáculo."
+    },
+    {
+        "pregunta": "53. Las sanciones impuestas por faltas graves prescribirán a los:",
+        "respuestas": {
+            "a": "A) Un año.",
+            "b": "B) Dos años.",
+            "c": "C) Tres años.",
+            "d": "D) No prescriben si hay reincidencia."
+        },
+        "solucion": "b",
+        "explicacion": "De acuerdo con el régimen común de prescripción del Artículo 39, las sanciones firmes impuestas por la comisión de faltas graves caducan y prescriben al transcurrir dos años."
+    },
+    {
+        "pregunta": "54. ¿Cuándo asumirá el Principado de Asturias la competencia sancionadora en lugar de un concejo de más de 10.000 habitantes?",
+        "respuestas": {
+            "a": "A) Nunca, es competencia delegada.",
+            "b": "B) Cuando se produzca dejación de funciones por parte del ayuntamiento.",
+            "c": "C) Siempre que el infractor sea una persona jurídica.",
+            "d": "D) Si el ayuntamiento no tiene Policía Local."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 41.4.b faculta a la administración autonómica a subrogarse en la potestad sancionadora si se constata una inactividad o dejación de funciones previa por parte de la corporación local."
+    },
+    {
+        "pregunta": "55. Las sanciones muy graves firmes se publicarán en:",
+        "respuestas": {
+            "a": "A) El tablón de anuncios del Ayuntamiento.",
+            "b": "B) El Boletín Oficial del Principado de Asturias (BOPA).",
+            "c": "C) El BOE.",
+            "d": "D) No se publican por protección de datos."
+        },
+        "solucion": "b",
+        "explicacion": "Como medida ejemplarizante y de transparencia sectorial, el Artículo 43 exige dar publicidad oficial a las sanciones de carácter muy grave que ganen firmeza a través de su inserción en el BOPA."
+    },
+    {
+        "pregunta": "56. ¿Qué recurso cabe contra las resoluciones dictadas por el titular de la Viceconsejería o Dirección General competente?",
+        "respuestas": {
+            "a": "A) Recurso de alzada ante el órgano superior jerárquico.",
+            "b": "B) Recurso de súplica.",
+            "c": "C) Recurso extraordinario de revisión únicamente.",
+            "d": "D) No cabe recurso en vía administrativa."
+        },
+        "solucion": "a",
+        "explicacion": "Al tratarse de resoluciones emanadas de órganos administrativos inferiores que no agotan la vía jerárquica, procede la interposición del recurso ordinario de alzada ante el Consejero (Art. 42.3)."
+    },
+    {
+        "pregunta": "57. Las medidas cautelares se extinguirán:",
+        "respuestas": {
+            "a": "A) Al mes de su adopción.",
+            "b": "B) En todo caso con la resolución administrativa que ponga fin al procedimiento.",
+            "c": "C) Cuando lo pida el abogado del titular.",
+            "d": "D) A los seis meses si no hay propuesta de sanción."
+        },
+        "solucion": "b",
+        "explicacion": "El carácter provisional de toda medida cautelar queda vinculado al expediente de fondo, extinguiéndose o absorbiéndose obligatoriamente al dictarse la resolución sancionadora definitiva (Art. 44.2)."
+    },
+    {
+        "pregunta": "58. ¿Quién actúa como Secretario del Consejo Asesor?",
+        "respuestas": {
+            "a": "A) El titular de la Consejería.",
+            "b": "B) Un funcionario de la Consejería competente designado por su titular.",
+            "c": "C) El representante de la FACC.",
+            "d": "D) Un representante de los sindicatos."
+        },
+        "solucion": "b",
+        "explicacion": "Las funciones de fe pública e intendencia de la secretaría del Consejo Asesor recaen en un empleado público adscrito a la Consejería del ramo que cuente con designación expresa (Art. 48.2)."
+    },
+    {
+        "pregunta": "59. Los espectáculos de variedades en circos se caracterizan por emplear:",
+        "respuestas": {
+            "a": "A) Solo payasos y malabaristas.",
+            "b": "B) Elementos mecánicos como trapecios, cables, etc.",
+            "c": "C) Únicamente animales salvajes.",
+            "d": "D) No están permitidos los espectáculos de variedades en Asturias."
+        },
+        "solucion": "b",
+        "explicacion": "La descripción técnica recogida en el Catálogo asocia la catalogación del circo a la utilización de recursos instrumentales y mecánicos suspendidos o singulares (cables, trapecios, etc.)."
+    },
+    {
+        "pregunta": "60. ¿Cuál es el plazo de adaptación normativa para los Decretos 90/2004 y 91/2004 tras la reforma de 2026?",
+        "respuestas": {
+            "a": "A) Seis meses.",
+            "b": "B) Nueve meses desde su entrada en vigor.",
+            "c": "C) Un año.",
+            "d": "D) Inmediato."
+        },
+        "solucion": "b",
+        "explicacion": "La Disposición final primera de la reciente Ley 2/2026 concede de manera expresa un margen de transición de nueve meses a la administración para acomodar los Decretos de horarios y catálogo."
+    }
+]

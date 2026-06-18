@@ -1,0 +1,882 @@
+[
+    {
+        "pregunta": "1. Según el Art. 37 de la Ley de Seguridad Vial, ¿dónde está prohibido el adelantamiento?",
+        "respuestas": {
+            "a": "a) En las glorietas.",
+            "b": "b) En los pasos para peatones señalizados como tales.",
+            "c": "c) Cuando se tenga preferencia en la intersección y haya señal expresa que lo indique.",
+            "d": "d) Cuando el adelantamiento se realice a vehículos de dos ruedas."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 37 del Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial establece una prohibición de carácter genérico en los pasos para peatones que se encuentren debidamente señalizados."
+    },
+    {
+        "pregunta": "2. Según el Reglamento General de Circulación, ¿en qué supuesto se permite adelantar en un paso para peatones o sus proximidades?",
+        "respuestas": {
+            "a": "a) En ningún caso, la prohibición es absoluta según la LSV.",
+            "b": "b) Solo si el vehículo adelantado es un camión de menos de 3.500 kg.",
+            "c": "c) A vehículos de dos ruedas que no impidan la visibilidad o a cualquier vehículo si la velocidad es tan reducida que permite detenerse a tiempo.",
+            "d": "d) Solo si el paso para peatones está en una vía urbana de un solo carril."
+        },
+        "solucion": "c",
+        "explicacion": "El Reglamento General de Circulación modula la prohibición de la Ley introduciendo excepciones específicas: se puede efectuar la maniobra si el adelantamiento se realiza a vehículos de dos ruedas que por sus dimensiones no resten visibilidad lateral, o bien a cualquier vehículo si la baja velocidad del flujo permite frenar a tiempo ante un peatón."
+    },
+    {
+        "pregunta": "3. Fuera de poblado, en calzadas con tres o más carriles para el mismo sentido, ¿qué vehículos están obligados a circular siempre por el carril derecho?",
+        "respuestas": {
+            "a": "a) Todos los camiones sin excepción.",
+            "b": "b) Camiones con MMA superior a 3.500 kg y conjuntos de vehículos de más de 7 metros de longitud.",
+            "c": "c) Vehículos de transporte escolar y camiones de más de 3.500 kg.",
+            "d": "d) Camiones de más de 3.500 kg y conjuntos de vehículos de más de 10 metros de longitud."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 16.c del Reglamento restringe la libertad de ocupación de carriles en vías interurbanas con tres o más carriles por sentido a los camiones y furgones con Masa Máxima Autorizada mayor a 3.500 kg y a todo conjunto de vehículos cuya longitud rebase los 7 metros."
+    },
+    {
+        "pregunta": "4. En la situación anterior (pregunta 3), ¿qué carriles tienen permitido utilizar los vehículos mencionados?",
+        "respuestas": {
+            "a": "a) Solo el derecho.",
+            "b": "b) El derecho y el inmediato (central), pero nunca el resto.",
+            "c": "c) Todos los carriles si el tráfico es fluido.",
+            "d": "d) El derecho y el izquierdo, dejando libre el central para adelantamientos."
+        },
+        "solucion": "b",
+        "explicacion": "A estos vehículos de grandes dimensiones se les veta el acceso a los carriles situados más a la izquierda (tercero o sucesivos), limitando su margen de maniobra exclusivamente al carril situado más a la derecha y al contiguo inmediato."
+    },
+    {
+        "pregunta": "5. ¿Qué conductores de automóviles están obligados a dejar una separación mínima de 50 metros con el vehículo precedente cuando no tengan intención de adelantar?",
+        "respuestas": {
+            "a": "a) Aquellos cuya MMA sea superior a 3.500 kg o la longitud total del conjunto sea superior a 10 metros.",
+            "b": "b) Aquellos cuya MMA sea superior a 3.500 kg o la longitud total del conjunto sea superior a 7 metros.",
+            "c": "c) Solo los camiones de transporte de mercancías peligrosas.",
+            "d": "d) Todos los vehículos que circulen fuera de poblado por una vía de un solo carril."
+        },
+        "solucion": "a",
+        "explicacion": "Ojo con el cambio de métrica: la norma exige fijar una distancia de seguridad mínima de 50 metros a los vehículos con MMA superior a 3.500 kg o cuya longitud total supere los 10 metros (a diferencia del umbral de 7 metros fijado para la selección de carriles)."
+    },
+    {
+        "pregunta": "6. ¿En qué lugar NO es aplicable la norma de mantener los 50 metros de separación mínima mencionada en la pregunta anterior?",
+        "respuestas": {
+            "a": "a) En poblado.",
+            "b": "b) Donde esté prohibido el adelantamiento.",
+            "c": "c) Donde la calzada tenga más de un carril destinado al mismo sentido.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "El Artículo 22.4 del Reglamento General de Circulación desactiva de forma expresa la obligatoriedad de los 50 metros en cascos urbanos, en tramos donde no se permita adelantar, en vías con múltiples carriles por sentido o en escenarios de tráfico saturado."
+    },
+    {
+        "pregunta": "7. Según el Reglamento, ¿quién determina el número de ocupantes necesarios para que un vehículo sea considerado \"de alta ocupación\" (VAO)?",
+        "respuestas": {
+            "a": "a) El Ministerio del Interior directamente en la Ley.",
+            "b": "b) La Jefatura Central de Tráfico o la autoridad autonómica o local responsable.",
+            "c": "c) La ordenanza municipal de cada ayuntamiento exclusivamente.",
+            "d": "d) El fabricante del vehículo en su ficha técnica."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 35 del Reglamento otorga la potestad de regular y definir las condiciones operativas y el número mínimo de ocupantes de los carriles VAO a la Jefatura Central de Tráfico o a las autoridades competentes delegadas a nivel autonómico o local."
+    },
+    {
+        "pregunta": "8. ¿Qué vehículos pueden utilizar un carril VAO aun cuando solo vaya el conductor en él?",
+        "respuestas": {
+            "a": "a) Turismos con señal V-15 de minusválido.",
+            "b": "b) Motocicletas y ciclomotores.",
+            "c": "c) Vehículos mixtos adaptables.",
+            "d": "d) Autobuses con MMA superior a 3.500 kg y autobuses articulados."
+        },
+        "solucion": "d",
+        "explicacion": "Por su condición destinada al transporte colectivo de pasajeros, los autobuses (incluidos los articulados y con peso superior a 3.500 kg) se encuentran exentos de cumplir la exigencia de ocupación mínima."
+    },
+    {
+        "pregunta": "9. En un carril habilitado para ser utilizado en sentido contrario al habitual por razones de fluidez, ¿qué vehículos tienen prohibido el acceso?",
+        "respuestas": {
+            "a": "a) Motocicletas y turismos con remolque.",
+            "b": "b) Solo camiones de más de 3.500 kg.",
+            "c": "c) Turismos con remolque y el resto de vehículos que no sean motocicletas o turismos sin remolque.",
+            "d": "d) Vehículos de transporte colectivo de viajeros."
+        },
+        "solucion": "c",
+        "explicacion": "Cuando la habilitación del carril responde en exclusiva a necesidades de descongestión y fluidez, el Reglamento restringe el uso del mismo de forma estricta a motocicletas y turismos que no arrastren remolque."
+    },
+    {
+        "pregunta": "10. ¿Cuál es el límite de velocidad máxima y mínima en un carril habilitado en sentido contrario al habitual por razones de fluidez?",
+        "respuestas": {
+            "a": "a) Máxima 100 km/h y mínima 60 km/h.",
+            "b": "b) Máxima 80 km/h y mínima 60 km/h (o inferiores si está señalizado).",
+            "c": "c) La genérica de la vía.",
+            "d": "d) Máxima 90 km/h y mínima 50 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "Todos los vehículos autorizados a desplazarse por un carril en sentido opuesto al ordinario deben amoldar su marcha a un margen de velocidad seguro, tasado entre los 60 km/h y los 80 km/h, salvo prescripción restrictiva de la señalización."
+    },
+    {
+        "pregunta": "11. ¿Qué alumbrado deben llevar los conductores que circulen por un carril habilitado en sentido contrario al habitual?",
+        "respuestas": {
+            "a": "a) Luz de carretera de noche y cruce de día.",
+            "b": "b) Luz de posición obligatoriamente.",
+            "c": "c) Luz de corto alcance o cruce, tanto de día como de noche.",
+            "d": "d) No es necesario el alumbrado de día."
+        },
+        "solucion": "c",
+        "explicacion": "El Artículo 41 del Reglamento fija como medida de seguridad activa e identificación visual el uso permanente del alumbrado de corto alcance o cruce durante las 24 horas del día."
+    },
+    {
+        "pregunta": "12. En un carril reversible, delimitado por marcas dobles discontinuas, ¿qué es obligatorio para el conductor?",
+        "respuestas": {
+            "a": "a) Circular a una velocidad máxima de 80 km/h.",
+            "b": "b) Llevar encendida la luz de corto alcance o cruce tanto de día como de noche.",
+            "c": "c) No realizar desplazamientos laterales en ningún caso.",
+            "d": "d) Utilizar obligatoriamente el carril derecho si la vía está despejada."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 40 impone a quienes circulan por carriles reversibles (identificables por la señalización horizontal de líneas dobles intermitentes) la obligación de encender la luz de cruce con independencia de las condiciones lumínicas externas."
+    },
+    {
+        "pregunta": "13. Un carril adicional circunstancial de circulación se habilita mediante el uso de arcenes cuando:",
+        "respuestas": {
+            "a": "a) La anchura de la plataforma lo permita.",
+            "b": "b) Haya obras en la calzada únicamente.",
+            "c": "c) Lo decida un agente de la autoridad en ese momento sin necesidad de señalización.",
+            "d": "d) La visibilidad sea reducida por niebla."
+        },
+        "solucion": "a",
+        "explicacion": "La creación de un tercer carril a partir del espacio de la calzada y los arcenes adyacentes está supeditada de manera indispensable a que las condiciones físicas y el ancho de la plataforma vial lo hagan viable de forma segura."
+    },
+    {
+        "pregunta": "14. Los vehículos que circulen por un carril adicional circunstancial lo harán a una velocidad de:",
+        "respuestas": {
+            "a": "a) Máxima 80 km/h y mínima 40 km/h.",
+            "b": "b) Máxima 100 km/h y mínima 60 km/h.",
+            "c": "c) Máxima 80 km/h y mínima 60 km/h.",
+            "d": "d) La genérica de la vía aumentada en 20 km/h."
+        },
+        "solucion": "c",
+        "explicacion": "La limitación especial de velocidad que ordena el Reglamento para esta ordenación provisional de la vía coincide con la del carril en sentido contrario: velocidad máxima de 80 km/h y mínima de 60 km/h."
+    },
+    {
+        "pregunta": "15. ¿Qué vehículos están obligados a circular por el arcén si es transitable y suficiente?",
+        "respuestas": {
+            "a": "a) Tracción animal, vehículos especiales hasta 3.500 kg, ciclos, ciclomotores y vehículos para personas de movilidad reducida.",
+            "b": "b) Solo ciclos y ciclomotores de dos ruedas.",
+            "c": "c) Camiones de más de 3.500 kg en caso de emergencia.",
+            "d": "d) Vehículos de acompañamiento de ciclistas únicamente."
+        },
+        "solucion": "a",
+        "explicacion": "El Artículo 17 recoge la lista de usuarios obligados al uso del arcén por razones de fluidez y diferencia de prestaciones de velocidad: tracción animal, vehículos especiales con MMA igual o inferior a 3.500 kg, ciclos, ciclomotores y coches de minusválido."
+    },
+    {
+        "pregunta": "16. ¿Puede un conductor de bicicleta superar la velocidad máxima de 45 km/h?",
+        "respuestas": {
+            "a": "a) No, bajo ningún concepto.",
+            "b": "b) Sí, en aquellos tramos en los que las circunstancias de la vía permitan desarrollar una velocidad superior (ej. descenses).",
+            "c": "c) Sí, pero solo si circula por el carril derecho de una autovía.",
+            "d": "d) Solo si es un ciclista profesional federado."
+        },
+        "solucion": "b",
+        "explicacion": "El Reglamento General de Circulación prevé una salvedad expresa en el régimen de velocidad de las bicicletas, permitiendo que sobrepasen el techo de 45 km/h en situaciones o tramos orográficos favorables (como bajadas prolongadas) si la seguridad lo consiente."
+    },
+    {
+        "pregunta": "17. ¿Está permitido que los ciclomotores circulen en paralelo?",
+        "respuestas": {
+            "a": "a) No, deben ir siempre en columna de a uno.",
+            "b": "b) Sí, excepcionalmente, cuando el arcén sea transitable y suficiente, sin invadir la calzada en ningún caso.",
+            "c": "c) Sí, siempre que no superen los 20 km/h.",
+            "d": "d) Solo en vías urbanas."
+        },
+        "solucion": "b",
+        "explicacion": "Los ciclomotores pueden rodar en paralelo de forma excepcional siempre que utilicen el arcén reglamentario sin irrumpir en la zona destinada a la calzada ordinaria."
+    },
+    {
+        "pregunta": "18. En autovías, ¿por dónde deben circular los conductores de bicicletas mayores de 14 años?",
+        "respuestas": {
+            "a": "a) Por la calzada, pegados al borde derecho.",
+            "b": "b) Por el arcén, salvo que por razones de seguridad se prohíba mediante señalización.",
+            "c": "c) Tienen prohibida la entrada en autovías en cualquier caso.",
+            "d": "d) Por el carril izquierdo para ser vistos mejor."
+        },
+        "solucion": "b",
+        "explicacion": "La legislación autoriza a los ciclistas mayores de 14 años a transitar por los arcenes de las autovías, habilitando la posibilidad de que la autoridad lo prohíba en tramos específicos por causas justificadas de peligrosidad."
+    },
+    {
+        "pregunta": "19. Un vehículo especial en régimen de transporte especial que excede las dimensiones establecidas, ¿por dónde circulará en una autopista?",
+        "respuestas": {
+            "a": "a) Por el arcén derecho obligatoriamente.",
+            "b": "b) Por la calzada, y excepcionalmente por el arcén si así se indica en su autorización.",
+            "c": "c) Por el carril izquierdo para facilitar las incorporaciones.",
+            "d": "d) Tienen prohibida la circulación por autopistas."
+        },
+        "solucion": "b",
+        "explicacion": "Por imperativo técnico (Artículo 38), las unidades de transporte especial circulan con carácter general utilizando la propia calzada, limitando el rodaje por el arcén a condiciones que vengan reflejadas expresamente en el texto de su autorización especial."
+    },
+    {
+        "pregunta": "20. Si un vehículo de motor no puede alcanzar la velocidad mínima exigida en una autopista por emergencia, ¿qué debe hacer?",
+        "respuestas": {
+            "a": "a) Circular por el arcén y abandonarla por la primera salida.",
+            "b": "b) Detenerse en la calzada y poner los triángulos.",
+            "c": "c) Aumentar la velocidad por encima de sus posibilidades.",
+            "d": "d) Seguir por la calzada hasta llegar a su destino a baja velocidad."
+        },
+        "solucion": "a",
+        "explicacion": "Ante un fallo mecánico o avería que impida mantener la velocidad mínima de la autopista (60 km/h), el conductor debe derivar el vehículo hacia el arcén de inmediato para proceder a desalojar la infraestructura por la vía de salida más próxima."
+    },
+    {
+        "pregunta": "21. ¿Cuál es el límite de velocidad en una vía urbana de un único carril por sentido de circulación?",
+        "respuestas": {
+            "a": "a) 50 km/h.",
+            "b": "b) 20 km/h.",
+            "c": "c) 30 km/h.",
+            "d": "d) 40 km/h."
+        },
+        "solucion": "c",
+        "explicacion": "De acuerdo con la última actualización reglamentaria del Artículo 50, el límite general en vías del entorno urbano que dispongan de un solo carril para cada sentido queda fijado en 30 km/h."
+    },
+    {
+        "pregunta": "22. En vías urbanas de dos o más carriles por sentido, los vehículos que transporten mercancías peligrosas circularán como máximo a:",
+        "respuestas": {
+            "a": "a) 50 km/h.",
+            "b": "b) 30 km/h.",
+            "c": "c) 40 km/h.",
+            "d": "d) 20 km/h."
+        },
+        "solucion": "c",
+        "explicacion": "El Reglamento General de Circulación determina una reducción de 10 km/h sobre el límite genérico fijado para la vía (50 km/h) a aquellos vehículos que desplacen cargamentos catalogados como mercancías peligrosas."
+    },
+    {
+        "pregunta": "23. ¿Cuál es la velocidad máxima para un autobús en una carretera convencional?",
+        "respuestas": {
+            "a": "a) 100 km/h.",
+            "b": "b) 90 km/h.",
+            "c": "c) 80 km/h.",
+            "d": "d) 70 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "La tabla del Artículo 48 asigna un límite máximo de velocidad de 90 km/h a los autobuses, vehículos derivados de turismo y vehículos mixtos adaptables en carreteras convencionales."
+    },
+    {
+        "pregunta": "24. ¿Y para un camión en esa misma carretera convencional?",
+        "respuestas": {
+            "a": "a) 90 km/h.",
+            "b": "b) 80 km/h.",
+            "c": "c) 70 km/h.",
+            "d": "d) 100 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "En el catálogo de velocidades, los camiones, furgones, autocaravanas de gran tonelaje y vehículos articulados ven limitada su velocidad a un máximo de 80 km/h en la red de carreteras convencionales."
+    },
+    {
+        "pregunta": "25. Si un turismo circula por una carretera convencional y quiere adelantar, ¿en cuánto puede superar la velocidad máxima de 90 km/h?",
+        "respuestas": {
+            "a": "a) En 20 km/h.",
+            "b": "b) En nada, ya no está permitido superar la velocidad para adelantar.",
+            "c": "c) En 10 km/h.",
+            "d": "d) Depende de si hay separación física de sentidos."
+        },
+        "solucion": "b",
+        "explicacion": "La reforma legislativa eliminó por completo la antigua excepción que facultaba a turismos y motocicletas a rebasar en 20 km/h los límites genéricos al realizar maniobras de adelantamiento en carreteras convencionales."
+    },
+    {
+        "pregunta": "26. Un vehículo especial que carece de señalización de frenado tiene una velocidad máxima de:",
+        "respuestas": {
+            "a": "a) 40 km/h.",
+            "b": "b) 25 km/h.",
+            "c": "c) 70 km/h.",
+            "d": "d) 10 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "Por criterios técnicos de seguridad y capacidad de detención, todo vehículo especial o maquinaria agrícola que carezca de luces de frenado automáticas tiene prohibido rebasar los 25 km/h."
+    },
+    {
+        "pregunta": "27. La velocidad máxima para ciclos, ciclomotores y cuadriciclos ligeros es de:",
+        "respuestas": {
+            "a": "a) 50 km/h.",
+            "b": "b) 45 km/h.",
+            "c": "c) 40 km/h.",
+            "d": "d) 60 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "Este bloque homogéneo de vehículos ligeros de bajas prestaciones comparte un mismo techo de velocidad inalterable por construcción fijado en los 45 km/h."
+    },
+    {
+        "pregunta": "28. En las autopistas y autovías que transcurren dentro de poblado, el límite de velocidad es de:",
+        "respuestas": {
+            "a": "a) 50 km/h.",
+            "b": "b) 80 km/h (ampliable por la autoridad municipal).",
+            "c": "c) 120 km/h.",
+            "d": "d) 100 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 50 establece que las vías de alta capacidad que crucen suelo urbano mantienen un tope genérico de 80 km/h, posibilitando que la administración local o el titular de la infraestructura eleven este límite sin desbordar nunca el techo de los 120 km/h."
+    },
+    {
+        "pregunta": "29. ¿Cuándo se debe reducir la velocidad, llegando a detenerse si fuera preciso?",
+        "respuestas": {
+            "a": "a) Al aproximarse a ciclos circulando.",
+            "b": "b) En los tramos con edificios de inmediato acceso a la vía.",
+            "c": "c) Al cruzarse con otro vehículo cuando las circunstancias sean adversas.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "El Artículo 46 enumera los escenarios de obligada moderación preventiva del ritmo de marcha para asegurar el control absoluto del vehículo, incluyendo la cercanía a ciclistas, accesos a fincas y cruces en condiciones climatológicas desfavorables."
+    },
+    {
+        "pregunta": "30. En un tramo estrecho donde no hay señalización de prioridad y es imposible el paso de dos vehículos, ¿quién tiene la preferencia?",
+        "respuestas": {
+            "a": "a) El vehículo más pesado.",
+            "b": "b) El que hubiera entrado primero.",
+            "c": "c) El que tenga que dar marcha atrás más distancia.",
+            "d": "d) Siempre el turismo sobre el camión."
+        },
+        "solucion": "b",
+        "explicacion": "Ante la ausencia de señalización vertical reguladora en pasos angostos, la prioridad absoluta de paso se concede por estricto orden cronológico de ocupación de la zona estrecha (el que acceda primero)."
+    },
+    {
+        "pregunta": "31. Según el Art. 62 del Reglamento, ante la duda en un tramo estrecho, ¿qué vehículo tiene prioridad: un autobús o un camión?",
+        "respuestas": {
+            "a": "a) El camión.",
+            "b": "b) El autobús (vehículo de transporte colectivo de viajeros).",
+            "c": "c) El que sea más largo.",
+            "d": "d) El que circule en sentido ascendente."
+        },
+        "solucion": "b",
+        "explicacion": "Si no se puede constatar la prioridad por entrada previa, se aplica el baremo de tipología del Artículo 62. Los vehículos destinados al transporte colectivo de viajeros (autobuses) figuran en el quinto puesto del orden, superando a los camiones rígidos de mercancías que se ubican en la sexta posición."
+    },
+    {
+        "pregunta": "32. ¿Qué lugar ocupa en el orden de preferencia un conjunto de vehículos con remolque de hasta 750 kg?",
+        "respuestas": {
+            "a": "a) El segundo lugar, tras los transportes especiales.",
+            "b": "b) El cuarto lugar.",
+            "c": "c) El último lugar.",
+            "d": "d) El mismo que un turismo sin remolque."
+        },
+        "solucion": "b",
+        "explicacion": "El listado del Artículo 62 sitúa en su cuarto apartado a los 'turismos que arrastran un remolque de hasta 750 kg y autocaravanas', situándolos por delante de turismos simples o camiones rígidos debido a la complejidad que supone realizar maniobras de marcha atrás."
+    },
+    {
+        "pregunta": "33. En un tramo de gran pendiente (mínimo 7%), ¿quién tiene preferencia de paso?",
+        "respuestas": {
+            "a": "a) El que circula en sentido descendente.",
+            "b": "b) El que circula en sentido ascendente, salvo que pueda llegar antes a un apartadero.",
+            "c": "c) Siempre el vehículo más ligero.",
+            "d": "d) El que entró primero independientemente de la pendiente."
+        },
+        "solucion": "b",
+        "explicacion": "En cuestas o pendientes acusadas, la prioridad corresponde por norma general a quien realiza la trayectoria de subida (sentido ascendente), debido a la dificultad de reanudación de la marcha, salvo que disponga de una zona de apartadero acondicionada."
+    },
+    {
+        "pregunta": "34. Los vehículos que necesiten autorización especial para circular, ¿pueden cruzarse en puentes si el ancho de calzada es inferior a 6 metros?",
+        "respuestas": {
+            "a": "a) Sí, extremando la precaución.",
+            "b": "b) No, se requiere un ancho mínimo de vía de 3 metros para cada vehículo.",
+            "c": "c) Solo si son de la misma empresa.",
+            "d": "d) Solo si un agente de policía regula el paso."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 61 prohíbe el cruce simultáneo de transportes especiales sobre estructuras de paso (puentes) si no está garantizado un margen libre mínimo de paso de 3 metros de anchura útil de carril para cada unidad."
+    },
+    {
+        "pregunta": "35. ¿Tiene preferencia un conductor sobre un animal en una cañada señalizada?",
+        "respuestas": {
+            "a": "a) Sí, el vehículo siempre tiene preferencia.",
+            "b": "b) No, los animales tienen preferencia en las cañadas señalizadas.",
+            "c": "c) Solo si el conductor toca el claxon.",
+            "d": "d) Depende de si es de día o de noche."
+        },
+        "solucion": "b",
+        "explicacion": "La señalización de cañada otorga preeminencia legal y derecho preferente de cruce e itinerario a los animales frente al tráfico de vehículos automotores."
+    },
+    {
+        "pregunta": "36. ¿Cuándo tienen preferencia los ciclistas sobre los vehículos de motor?",
+        "respuestas": {
+            "a": "a) Cuando circulen por un carril-bici o paso para ciclistas.",
+            "b": "b) Cuando el vehículo de motor gire para entrar en otra vía y haya un ciclista en las proximidades.",
+            "c": "c) Cuando circulando en grupo, el primero haya iniciado ya el cruce.",
+            "d": "d) Todas son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "El Artículo 25 del Reglamento establece blindajes de seguridad para el colectivo ciclista en los tres supuestos señalados, destacando la indivisibilidad del pelotón cuando el líder abre la marcha en una intersección."
+    },
+    {
+        "pregunta": "37. Un vehículo no prioritario que realiza un servicio de urgencia debe:",
+        "respuestas": {
+            "a": "a) Utilizar el avisador acústico de forma intermitente y conectar la luz de emergencia.",
+            "b": "b) Saltarse todos los semáforos en rojo sin frenar.",
+            "c": "c) Circular por la izquierda en todo momento.",
+            "d": "d) No tiene ninguna obligación especial."
+        },
+        "solucion": "a",
+        "explicacion": "En situaciones excepcionales de auxilio, un turismo particular debe exteriorizar la urgencia mediante la activación del sistema de luces de emergencia junto al empleo de toques de claxon discontinuos o agitando un pañuelo."
+    },
+    {
+        "pregunta": "38. La maniobra de marcha atrás, como maniobra complementaria de otra, ¿qué recorrido máximo puede tener?",
+        "respuestas": {
+            "a": "a) 10 metros.",
+            "b": "b) 15 metros.",
+            "c": "c) 20 metros.",
+            "d": "d) No tiene límite mientras sea seguro."
+        },
+        "solucion": "b",
+        "explicacion": "Cuando actúa como recurso complementario para estacionar, parar o incorporarse, el retroceso del vehículo está acotado por la ley a un espacio máximo de 15 metros de recorrido."
+    },
+    {
+        "pregunta": "39. ¿Está permitido invadir un cruce de vías realizando la marcha atrás?",
+        "respuestas": {
+            "a": "a) Sí, si no vienen vehículos.",
+            "b": "b) No, está expresamente prohibido.",
+            "c": "c) Solo en vías urbanas.",
+            "d": "d) Solo los vehículos prioritarios."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 32 prohíbe de forma taxativa que el movimiento hacia atrás suponga la invasión o el retroceso dentro de una intersección de calles o carreteras por la alta peligrosidad que conlleva."
+    },
+    {
+        "pregunta": "40. En una autopista, ¿está permitido dar media vuelta o circular en sentido contrario por el arcén en servicio urgente?",
+        "respuestas": {
+            "a": "a) Sí, para todos los conductores.",
+            "b": "b) Solo para los conductores de vehículos prioritarios, tras cerciorarse de no poner en peligro a nadie.",
+            "c": "c) No, está prohibido incluso para la policía.",
+            "d": "d) Solo si lo autoriza el centro de control de la autopista."
+        },
+        "solucion": "b",
+        "explicacion": "Los vehículos prioritarios en régimen de emergencia (policía, bomberos, ambulancias) están facultados para excepcionar esta norma bajo estricta responsabilidad operativa del agente, asegurando la indemnidad del resto de usuarios."
+    },
+    {
+        "pregunta": "41. Al incorporarse a una calzada desde un camino exclusivamente privado, el conductor debe:",
+        "respuestas": {
+            "a": "a) Entrar rápidamente para no estorbar.",
+            "b": "b) Asegurarse de que puede hacerlo sin peligro y ceder el paso a todos los vehículos de la vía principal.",
+            "c": "c) Tocar el claxon para avisar de su entrada.",
+            "d": "d) Tener preferencia si viene por la derecha."
+        },
+        "solucion": "b",
+        "explicacion": "La incorporación a la corriente circulatoria general desde un predio, garaje o vía de servicio privada anula la regla de prioridad de la derecha, estando obligado el conductor a detenerse y ceder el paso de manera incondicional."
+    },
+    {
+        "pregunta": "42. En un carril de aceleración, ¿dónde debe cerciorarse el conductor de que puede incorporarse sin peligro?",
+        "respuestas": {
+            "a": "a) Al final del carril.",
+            "b": "b) Al principio del carril.",
+            "c": "c) En la mitad del carril.",
+            "d": "d) No necesita cerciorarse, los demás deben dejarle pasar."
+        },
+        "solucion": "b",
+        "explicacion": "El conductor debe realizar la observación y comprobación al inicio del carril de aceleración para disponer de espacio suficiente para detenerse si no encuentra hueco seguro o acelerar para igualar la marcha de la vía."
+    },
+    {
+        "pregunta": "43. En poblado, ante un autobús que sale de una parada señalizada, los demás conductores deben:",
+        "respuestas": {
+            "a": "a) Acelerar para pasar antes que él.",
+            "b": "b) Facilitar la maniobra, desplazándose lateralmente o reduciendo velocidad si es necesario.",
+            "c": "c) Tienen preferencia absoluta sobre el autobús.",
+            "d": "d) Detenerse siempre, aunque el autobús no haya puesto el intermitente."
+        },
+        "solucion": "b",
+        "explicacion": "El Reglamento obliga a cooperar de forma activa facilitando la maniobra de reincorporación de los autobuses de línea regular en entorno urbano como fomento del transporte masivo."
+    },
+    {
+        "pregunta": "44. Para realizar un cambio de dirección a la izquierda en una vía de doble sentido y tres carriles, ¿dónde debe situarse el vehículo?",
+        "respuestas": {
+            "a": "a) En el carril de la derecha.",
+            "b": "b) En el carril central.",
+            "c": "c) En el carril de la izquierda (sentido contrario).",
+            "d": "d) En el arcén derecho."
+        },
+        "solucion": "b",
+        "explicacion": "En las configuraciones de tres carriles compartidos con doble sentido de marcha, el carril del medio (central) está reservado en exclusiva para la realización de giros a la izquierda y adelantamientos."
+    },
+    {
+        "pregunta": "45. ¿Está permitido el cambio de sentido en un túnel?",
+        "respuestas": {
+            "a": "a) Sí, si hay buena iluminación.",
+            "b": "b) No, está prohibido, al igual que en los tramos afectados por la señal \"Túnel\" (S-5).",
+            "c": "c) Solo si no vienen coches de frente.",
+            "d": "d) Solo si el túnel mide menos de 100 metros."
+        },
+        "solucion": "b",
+        "explicacion": "La maniobra de cambio de sentido está totalmente prohibida en los pasos inferiores, túneles y tramos de vía acotados por la señal de túnel por razones evidentes de confinamiento del espacio de calzada."
+    },
+    {
+        "pregunta": "46. Un vehículo que circula detrás de otro sin intención de adelantar en una vía fuera de poblado con un carril por sentido, y mide 11 metros de largo, debe dejar:",
+        "respuestas": {
+            "a": "a) 50 metros de distancia.",
+            "b": "b) 20 metros de distancia.",
+            "c": "c) La distancia que le permita detenerse.",
+            "d": "d) 100 metros de distancia."
+        },
+        "solucion": "a",
+        "explicacion": "Al tratarse de una longitud que rebasa la frontera de los 10 metros, el vehículo queda integrado en la obligación de conservar una separación mínima de 50 metros con el coche precedente."
+    },
+    {
+        "pregunta": "47. ¿A qué distancia se deben colocar los dispositivos de preseñalización de peligro (triángulos) en caso de inmovilización?",
+        "respuestas": {
+            "a": "a) A 50 metros como mínimo.",
+            "b": "b) A 100 metros.",
+            "c": "c) A 15 metros.",
+            "d": "d) Los triángulos ya no son obligatorios en ningún tipo de vía."
+        },
+        "solucion": "a",
+        "explicacion": "El Reglamento General de Circulación determina que la colocación de los triángulos (en las vías donde sigan siendo obligatorios) se realizará a una distancia mínima de 50 metros para asegurar que sean plenamente visibles por los conductores que se aproximan desde una distancia de 100 metros."
+    },
+    {
+        "pregunta": "48. En las calzadas de poblado con al menos dos carriles para el mismo sentido delimitados, el conductor de un automóvil:",
+        "respuestas": {
+            "a": "a) Debe circular siempre por el carril derecho.",
+            "b": "b) Puede utilizar el que mejor convenga a su destino, siempre que no sea un obstáculo.",
+            "c": "c) Debe utilizar el carril izquierdo solo para adelantar.",
+            "d": "d) Solo puede cambiar de carril para girar a la izquierda."
+        },
+        "solucion": "b",
+        "explicacion": "En las calles y avenidas urbanas con carriles delimitados por pintura, se autoriza a circular por el carril que más favorezca la continuidad del itinerario del conductor."
+    },
+    {
+        "pregunta": "49. Los conductores de vehículos de policía pueden dejar de cumplir las normas de circulación (salvo órdenes de agentes):",
+        "respuestas": {
+            "a": "a) Siempre que quieran.",
+            "b": "b) Solo en servicio urgente y bajo su exclusiva responsabilidad, tras cerciorarse de no poner en peligro a nadie.",
+            "c": "c) Solo si llevan las señales acústicas y luminosas a la vez.",
+            "d": "d) Nunca, deben cumplir todas las normas siempre."
+        },
+        "solucion": "b",
+        "explicacion": "La dispensa del cumplimiento de las normas queda condicionada de forma exclusiva a situaciones reales de urgencia policial o de servicio, bajo supervisión directa del conductor para neutralizar riesgos sobre terceros."
+    },
+    {
+        "pregunta": "50. ¿Cuándo deben los vehículos prioritarios utilizar la señal luminosa aisladamente?",
+        "respuestas": {
+            "a": "a) Cuando la omisión de las señales acústicas no entrañe peligro para los demás.",
+            "b": "b) Cuando circulen a más de 120 km/h.",
+            "c": "c) Cuando entren en una glorieta.",
+            "d": "d) Cuando circulen de noche por zona urbana."
+        },
+        "solucion": "a",
+        "explicacion": "El Artículo 68 faculta al conductor del prioritario a silenciar las sirenas y mantener únicamente las luces de emergencia rotativas en tramos despejados donde no se comprometa la seguridad vial."
+    },
+    {
+        "pregunta": "51. El conductor de un vehículo no prioritario que advierta la proximidad de uno prioritario en servicio de urgencia debe:",
+        "respuestas": {
+            "a": "a) Frenar bruscamente.",
+            "b": "b) Adoptar medidas adecuadas para facilitar el paso, apartándose normalmente a la derecha.",
+            "c": "c) Acelerar para no estorbar.",
+            "d": "d) Seguir igual, el prioritario ya se buscará el hueco."
+        },
+        "solucion": "b",
+        "explicacion": "La norma exige colaborar de manera coordinada facilitando el pasillo de paso de las unidades de emergencia, efectuando un desplazamiento preventivo hacia la derecha de la calzada."
+    },
+    {
+        "pregunta": "52. Si un vehículo de policía se sitúa detrás de usted y activa una luz roja intermitente hacia adelante, usted debe:",
+        "respuestas": {
+            "a": "a) Acelerar porque le están dando paso.",
+            "b": "b) Detener el vehículo en el lado derecho, delante del policial, y permanecer en el interior.",
+            "c": "c) Bajar del coche inmediatamente con las manos en alto.",
+            "d": "d) Cambiar de dirección en la próxima calle."
+        },
+        "solucion": "b",
+        "explicacion": "Esta señal luminosa de detención policial impone al usuario el deber de orillar su vehículo en el flanco derecho de la vía por delante del coche patrulla, aguardando la llegada de los agentes sin abandonar el habitáculo."
+    },
+    {
+        "pregunta": "53. Los refugios, isletas o dispositivos de guía en calzadas de doble sentido se pasarán:",
+        "respuestas": {
+            "a": "a) Por la derecha de los mismos.",
+            "b": "b) Por la izquierda.",
+            "c": "c) Por cualquier lado.",
+            "d": "d) Por el centro si hay espacio."
+        },
+        "solucion": "a",
+        "explicacion": "Al tratarse de una vía de doble sentido de circulación, las estructuras físicas de canalización deben dejarse a la izquierda del conductor, rebasándolas por su lado derecho."
+    },
+    {
+        "pregunta": "54. ¿Se permite circular por autopistas con vehículos de tracción animal o ciclomotores?",
+        "respuestas": {
+            "a": "a) Sí, por el arcén.",
+            "b": "b) No, queda expresamente prohibido.",
+            "c": "c) Solo si superan los 60 km/h.",
+            "d": "d) Solo en festivos."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 20 veta la entrada y el tránsito en autopistas de cualquier vehículo lento que no alcance las prestaciones mínimas de velocidad, como ciclomotores o tracción animal."
+    },
+    {
+        "pregunta": "55. Un conductor que circula por una carretera convencional a 90 km/h y se encuentra con un paso a nivel sin barreras:",
+        "respuestas": {
+            "a": "a) Debe mantener la velocidad.",
+            "b": "b) Debe reducir la velocidad por debajo de 50 km/h si no tiene prioridad.",
+            "c": "c) Debe detenerse siempre aunque no venga el tren.",
+            "d": "d) Debe acelerar para cruzar rápido."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 46.h obliga a acomodar el ritmo de circulación rebajando la velocidad por debajo de la barrera de los 50 km/h al aproximarse a los pasos a nivel."
+    },
+    {
+        "pregunta": "56. ¿Qué se considera un \"tramo de gran pendiente\"?",
+        "respuestas": {
+            "a": "a) Aquel que tiene una inclinación mínima del 5%.",
+            "b": "b) Aquel que tiene una inclinación mínima del 7%.",
+            "c": "c) Aquel que mide más de 1 kilómetro de subida.",
+            "d": "d) Aquel donde los camiones no pueden subir a más de 30 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "La delimitación técnica que asigna un régimen singular de prioridad en tramos estrechos por desnivel requiere una inclinación o rampa mínima fijada en el 7%."
+    },
+    {
+        "pregunta": "57. En un cruce de dos vías pavimentadas sin señalizar, ¿quién tiene preferencia?",
+        "respuestas": {
+            "a": "a) El que circula por la vía más ancha.",
+            "b": "b) El que se aproxima por la derecha del otro.",
+            "c": "c) El que circula a más velocidad.",
+            "d": "d) El que se aproxima por la izquierda."
+        },
+        "solucion": "b",
+        "explicacion": "Es la norma general de prioridad de paso de nuestro ordenamiento vial: ante la ausencia de señales reguladoras, se debe ceder el paso a todo vehículo que haga su aproximación por el flanco derecho."
+    },
+    {
+        "pregunta": "58. ¿Tiene preferencia un vehículo que circula por una glorieta sobre los que pretenden acceder a ella?",
+        "respuestas": {
+            "a": "a) No, la preferencia es del que entra por la derecha.",
+            "b": "b) Sí, el que ya está dentro de la vía circular tiene preferencia.",
+            "c": "c) Solo si la glorieta es urbana.",
+            "d": "d) Solo si el vehículo es un autobús."
+        },
+        "solucion": "b",
+        "explicacion": "Constituye una de las excepciones a la norma de la derecha: los flujos de tráfico que ocupan de forma efectiva el anillo interior de la rotonda gozan de prioridad sobre las incorporaciones."
+    },
+    {
+        "pregunta": "59. En un tramo en obras, ¿pueden pasar los vehículos de asistencia sanitaria en servicio urgente?",
+        "respuestas": {
+            "a": "a) No, las obras prohíben el paso a todos.",
+            "b": "b) Sí, siempre que sea posible sin peligro ni daño a la obra realizada.",
+            "c": "c) Solo si van acompañados por la policía.",
+            "d": "d) Solo si es de día."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 60 del Reglamento facilita la continuidad de los servicios médicos o asistenciales críticos de urgencia por tramos con restricciones físicas por obras, siempre que las condiciones mínimas lo validen."
+    },
+    {
+        "pregunta": "60. Un vehículo de 8 metros de longitud que circula por una carretera fuera de poblado con tres carriles para su sentido, ¿por qué carriles puede circular?",
+        "respuestas": {
+            "a": "a) Solo por el derecho.",
+            "b": "b) Por el derecho y el inmediato (central).",
+            "c": "c) Por los tres carriles.",
+            "d": "d) Por el derecho y el izquierdo."
+        },
+        "solucion": "b",
+        "explicacion": "Al superar la barrera de longitud límite de los 7 metros, el vehículo tiene prohibido el acceso al tercer carril, quedando circunscrito al carril derecho y al central contiguo."
+    },
+    {
+        "pregunta": "61. ¿Qué distancia de seguridad debe dejar un conductor de turismo en un túnel respecto al vehículo precedente si no pretende adelantar?",
+        "respuestas": {
+            "a": "a) 50 metros.",
+            "b": "b) Al menos 100 metros o un intervalo de 4 segundos.",
+            "c": "c) 150 metros obligatoriamente.",
+            "d": "d) La que le permita detenerse."
+        },
+        "solucion": "b",
+        "explicacion": "Para blindar la seguridad en recintos confinados como túneles o pasos inferiores, los turismos ordinarios deben incrementar su colchón de seguridad a un mínimo de 100 metros o un decalaje de 4 segundos."
+    },
+    {
+        "pregunta": "62. ¿Y si el vehículo en el túnel tiene una MMA superior a 3.500 kg?",
+        "respuestas": {
+            "a": "a) 100 metros.",
+            "b": "b) Al menos 150 metros o un intervalo de 6 segundos.",
+            "c": "c) 50 metros.",
+            "d": "d) 200 metros."
+        },
+        "solucion": "b",
+        "explicacion": "Para vehículos pesados de grandes dimensiones (MMA > 3.500 kg), el Reglamento eleva la exigencia de seguridad en el interior de los túneles hasta los 150 metros de separación mínima o un lapso temporal de 6 segundos."
+    },
+    {
+        "pregunta": "63. ¿Está permitido adelantar en los túneles?",
+        "respuestas": {
+            "a": "a) Sí, si hay más de un carril para el mismo sentido y no se invade el sentido contrario.",
+            "b": "b) No, está prohibido en todos los túneles.",
+            "c": "c) Solo si el túnel está muy iluminado.",
+            "d": "d) Solo a vehículos de dos ruedas."
+        },
+        "solucion": "a",
+        "explicacion": "El adelantamiento en los túneles está autorizado siempre que la infraestructura cuente con dos o más carriles asignados a nuestro mismo sentido, garantizando que en ningún momento se comprometa la zona de sentido opuesto."
+    },
+    {
+        "pregunta": "64. La velocidad máxima en una vía sin pavimentar es de:",
+        "respuestas": {
+            "a": "a) 20 km/h.",
+            "b": "b) 30 km/h.",
+            "c": "c) 45 km/h.",
+            "d": "d) 50 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "El Reglamento General de Circulación determina una velocidad máxima genérica e unificada de 30 km/h para todo vehículo que ruede por pistas de tierra o caminos sin pavimentar."
+    },
+    {
+        "pregunta": "65. En un paso a nivel, ¿está permitido adelantar?",
+        "respuestas": {
+            "a": "a) No, salvo a vehículos de dos ruedas que no impidan la visibilidad lateral.",
+            "b": "b) Sí, si las barreras están levantadas.",
+            "c": "c) Solo si el tren ya ha pasado.",
+            "d": "d) Solo a camiones lentos."
+        },
+        "solucion": "a",
+        "explicacion": "Al igual que ocurre en los pasos de peatones, la norma suaviza la prohibición del paso a nivel permitiendo el adelantamiento exclusivo a vehículos de dos ruedas si su perfil no resta visibilidad sobre el entorno de la vía férrea."
+    },
+    {
+        "pregunta": "66. ¿Cuál es la velocidad máxima de un tractor agrícola con remolque?",
+        "respuestas": {
+            "a": "a) 40 km/h.",
+            "b": "b) 25 km/h.",
+            "c": "c) 20 km/h.",
+            "d": "d) 30 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "Los vehículos especiales de naturaleza agrícola que arrastren una unidad de remolque ven limitada de manera estricta su velocidad máxima permitida a los 25 km/h."
+    },
+    {
+        "pregunta": "67. Un conductor que circula por una autovía y se equivoca de salida, ¿puede dar marcha atrás para cogerla?",
+        "respuestas": {
+            "a": "a) Sí, con cuidado.",
+            "b": "b) No, está prohibido circular hacia atrás en autopistas y autovías.",
+            "c": "c) Solo si no vienen coches.",
+            "d": "d) Solo si recorre menos de 15 metros."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 32 castiga de forma contundente la realización de la marcha atrás en vías de alta capacidad (autopistas/autovías) por el riesgo de colisión por diferencia de velocidad."
+    },
+    {
+        "pregunta": "68. ¿Pueden circular en paralelo las bicicletas en autovía?",
+        "respuestas": {
+            "a": "a) Sí, en columna de a dos.",
+            "b": "b) No, solo podrán circular por el arcén en columna de a uno (en hilera).",
+            "c": "c) Solo si hay poco tráfico.",
+            "d": "d) Solo los domingos."
+        },
+        "solucion": "b",
+        "explicacion": "En las autovías (donde se permita el acceso), los ciclistas pierden la facultad de agruparse en paralelo, viniendo obligados a circular estrictamente en hilera (uno tras otro) por la banda del arcén."
+    },
+    {
+        "pregunta": "69. ¿Qué conductores deben ceder el paso a los que circulen por una vía pavimentada?",
+        "respuestas": {
+            "a": "a) Los que procedan de una vía sin pavimentar.",
+            "b": "b) Los que procedan de la izquierda.",
+            "c": "c) Los que conduzcan un vehículo más pequeño.",
+            "d": "d) Nadie, rige la norma de la derecha."
+        },
+        "solucion": "a",
+        "explicacion": "Los vehículos que se incorporan a la red vial desde pistas de tierra o firmes no pavimentados tienen la obligación legal de ceder la preferencia a cualquier flujo circulatorio que transite por la calzada pavimentada."
+    },
+    {
+        "pregunta": "70. ¿Cuál es el orden de prioridad entre un turismo y un vehículo de tracción animal en un tramo estrecho sin señalizar?",
+        "respuestas": {
+            "a": "a) El turismo tiene prioridad.",
+            "b": "b) El vehículo de tracción animal tiene prioridad.",
+            "c": "c) El que sea más rápido.",
+            "d": "d) El que tenga que dar marcha atrás menos distancia."
+        },
+        "solucion": "b",
+        "explicacion": "De acuerdo con el listado de prelación técnica del Artículo 62, los vehículos de tracción animal (ubicados en el tercer puesto) gozan de preferencia sobre los turismos particulares (séptimo puesto en el orden de prioridad)."
+    },
+    {
+        "pregunta": "71. ¿A qué velocidad máxima circulará un ciclomotor por una travesía?",
+        "respuestas": {
+            "a": "a) 50 km/h.",
+            "b": "b) 45 km/h.",
+            "c": "c) 30 km/h.",
+            "d": "d) 25 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "Aunque la velocidad genérica del tramo de travesía sea de 50 km/h, el ciclomotor no puede rebasar en ningún tipo de vía su propio límite técnico infranqueable por construcción de 45 km/h."
+    },
+    {
+        "pregunta": "72. Al realizar una maniobra de marcha atrás, el conductor debe:",
+        "respuestas": {
+            "a": "a) Poner la música alta.",
+            "b": "b) Asegurarse incluso apeándose o siguiendo indicaciones de otra persona si fuera necesario.",
+            "c": "c) Hacerlo lo más rápido posible.",
+            "d": "d) No mirar hacia atrás, usar solo los espejos."
+        },
+        "solucion": "b",
+        "explicacion": "La reglamentación de la maniobra exige la máxima prudencia activa, determinando que el conductor debe descender del coche o valerse de guías externos si el ángulo de visibilidad trasera es deficiente."
+    },
+    {
+        "pregunta": "73. En las intersecciones que no gocen de prioridad, la velocidad de los vehículos no excederá de:",
+        "respuestas": {
+            "a": "a) 30 km/h.",
+            "b": "b) 50 km/h.",
+            "c": "c) 40 km/h.",
+            "d": "d) 20 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 46 indica que al aproximarse a intersecciones desprovistas de señalización de prioridad, la velocidad debe moderarse de forma que no se superen los 50 km/h para poder reaccionar ante imprevistos."
+    },
+    {
+        "pregunta": "74. ¿Un vehículo especial que excede las masas y dimensiones tiene prioridad sobre un conjunto de vehículos en un estrechamiento?",
+        "respuestas": {
+            "a": "a) No, el conjunto va primero.",
+            "b": "b) Sí, es el primero en el orden de prioridad del Art. 62.",
+            "c": "c) Depende de quién llegó antes.",
+            "d": "d) Solo si es un camión."
+        },
+        "solucion": "b",
+        "explicacion": "Los transportes especiales y vehículos que exceden los pesos o dimensiones autorizados encabezan el listado de prioridad del Artículo 62 (puesto 1º), obligando al conjunto de vehículos (puesto 2º) a ceder el paso."
+    },
+    {
+        "pregunta": "75. ¿Qué distancia debe dejar un vehículo de más de 3.500 kg en una vía donde está prohibido el adelantamiento?",
+        "respuestas": {
+            "a": "a) 50 metros.",
+            "b": "b) Solo la distancia que le permita detenerse en caso de frenado brusco (no se aplican los 50m).",
+            "c": "c) 100 metros.",
+            "d": "d) 7 metros."
+        },
+        "solucion": "b",
+        "explicacion": "Al desactivarse la norma de los 50 metros en zonas con prohibición de adelantar (Artículo 22.4), el conductor solo viene obligado a conservar el espacio dinámico básico que impida colisionar ante una frenada de emergencia."
+    },
+    {
+        "pregunta": "76. ¿Está permitido que un turismo circule por el arcén para adelantar por la derecha a un vehículo que gira a la izquierda?",
+        "respuestas": {
+            "a": "a) Sí, siempre.",
+            "b": "b) No, no se puede utilizar el arcén para adelantar salvo que se sea un vehículo obligado a circular por él.",
+            "c": "c) Solo si el arcén mide más de 1,5 metros.",
+            "d": "d) Solo en poblado."
+        },
+        "solucion": "b",
+        "explicacion": "Aunque esté autorizado adelantar por la derecha a los vehículos que indican su intención de girar a la izquierda, la maniobra debe realizarse usando los carriles de la calzada, sin invadir el arcén si no se es un vehículo obligado a circular por él."
+    },
+    {
+        "pregunta": "77. El límite de velocidad para un triciclo asimilado a motocicleta en cualquier tipo de vía es de:",
+        "respuestas": {
+            "a": "a) 70 km/h.",
+            "b": "b) 90 km/h.",
+            "c": "c) 120 km/h.",
+            "d": "d) 45 km/h."
+        },
+        "solucion": "a",
+        "explicacion": "El Reglamento General de Circulación fija un límite de velocidad específico y transversal para los triciclos de motor asimilados a motocicletas, tasado en un máximo de 70 km/h con independencia de la vía."
+    },
+    {
+        "pregunta": "78. ¿Cuál es la velocidad máxima de un vehículo derivado de turismo en autopista?",
+        "respuestas": {
+            "a": "a) 120 km/h.",
+            "b": "b) 100 km/h.",
+            "c": "c) 90 km/h.",
+            "d": "d) 80 km/h."
+        },
+        "solucion": "b",
+        "explicacion": "En autopistas y autovías, las furgonetas, vehículos derivados de turismo y vehículos mixtos adaptables comparten un escalón intermedio de velocidad fijado en un máximo de 100 km/h."
+    },
+    {
+        "pregunta": "79. En un carril VAO, ¿pueden circular peatones?",
+        "respuestas": {
+            "a": "a) Sí, por el arcén.",
+            "b": "b) No, está prohibida la circulación de peatones, animales, ciclos y ciclomotores.",
+            "c": "c) Solo si van en grupo.",
+            "d": "d) Solo si son agentes de tráfico."
+        },
+        "solucion": "b",
+        "explicacion": "El Artículo 35 prohíbe de forma explícita el acceso a los carriles de alta ocupación a peatones, tracción animal, ciclos, ciclomotores y vehículos de tracción mecánica lenta por obvias razones de seguridad de flujos rápidos."
+    },
+    {
+        "pregunta": "80. Un camión que circula por un carril habilitado en sentido contrario al habitual por OBRAS, ¿a qué velocidad máxima puede circular?",
+        "respuestas": {
+            "a": "a) 80 km/h.",
+            "b": "b) La genérica de la vía.",
+            "c": "c) 60 km/h.",
+            "d": "d) No puede circular por ese carril."
+        },
+        "solucion": "b",
+        "explicacion": "¡Cuidado con la trampa! Cuando el carril en sentido contrario se abre por motivos de obras en el firme (y no por fluidez), se permite el acceso a toda la tipología de vehículos (incluidos camiones), los cuales circularán adaptándose a la velocidad genérica asignada a la vía o la marcada por la señalización provisional."
+    }
+]

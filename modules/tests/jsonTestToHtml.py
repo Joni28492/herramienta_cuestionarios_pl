@@ -87,7 +87,13 @@ class ConvertJsonTestToHTML():
 
     
 if __name__ == '__main__':
-    file = 'permisos_conduccion'
+    
+    # todo crear selector de folders
+    file = input("¿Quieres algun archivo en concreto?, escribelo: ")
+    if file == "":
+        file = 'proteccion_civil'
+    
+    
     jsonToHtmlConverter_solved = ConvertJsonTestToHTML(path_folder="notebook", path_file=f"{file}.json", output_path=f"html/{file}_solved.html")
     jsonToHtmlConverter_unsolved = ConvertJsonTestToHTML(path_folder="notebook", path_file=f"{file}.json", output_path=f"html/{file}.html", solved=False)
     jsonToHtmlConverter_solved.run()

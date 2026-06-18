@@ -1,0 +1,562 @@
+[
+    {
+        "timestamp": 1780511015.0267909,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "1. Según la definición de \"Conductor\", ¿quién tiene tal consideración en el caso de vehículos que circulen en función de aprendizaje de la conducción?",
+        "opciones_respuesta": {
+            "a": "a) El alumno que maneja el mecanismo de dirección.",
+            "b": "b) El titular del vehículo.",
+            "c": "c) La persona o personas que están a cargo de los mandos adicionales.",
+            "d": "d) Tanto el alumno como el profesor de forma solidaria."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511024.8746123,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Qué requisito es indispensable para que una persona sea considerada \"Conductor habitual\"?",
+        "opciones_respuesta": {
+            "a": "a) Que maneje el vehículo con una frecuencia mínima de 3 días por semana.",
+            "b": "b) Que esté inscrito en el Registro de Conductores e Infractores y cuente con el consentimiento del titular.",
+            "c": "c) Que sea el tomador del seguro del vehículo.",
+            "d": "d) Que sea el arrendatario del vehículo por un plazo superior a un año."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511035.1948032,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "3. Un peatón es la persona que, sin ser conductor, transita a pie por las vías. ¿Tienen también esta consideración quienes conducen a pie un ciclo?",
+        "opciones_respuesta": {
+            "a": "a) No, pasan a ser conductores de ciclos.",
+            "b": "b) Sí, expresamente se incluye a quienes conducen a pie un ciclo o ciclomotor de dos ruedas.",
+            "c": "c) Solo si el ciclo no tiene motor.",
+            "d": "d) Solo si transitan por una zona peatonal."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511043.7950134,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿Cuál es la característica definitoria de un \"Ciclo\"?",
+        "opciones_respuesta": {
+            "a": "a) Vehículo de dos ruedas movido por energía humana.",
+            "b": "b) Vehículo de al menos dos ruedas propulsado exclusiva o principalmente por energía muscular, en particular mediante pedales.",
+            "c": "c) Vehículo de dos ruedas con motor eléctrico de ayuda.",
+            "d": "d) Cualquier vehículo de dos ruedas que no supere los 45 km/h."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511049.1630194,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "5. En la definición de \"Bicicleta\", se especifica que es:",
+        "opciones_respuesta": {
+            "a": "a) Un ciclo de dos ruedas.",
+            "b": "b) Un vehículo con motor de hasta 250W.",
+            "c": "c) Un ciclo de dos o tres ruedas con pedaleo asistido.",
+            "d": "d) Un vehículo de movilidad personal."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511056.1787624,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "6. Un ciclomotor de dos ruedas se define por tener una velocidad máxima por construcción no superior a:",
+        "opciones_respuesta": {
+            "a": "a) 50 km/h.",
+            "b": "b) 45 km/h.",
+            "c": "c) 25 km/h.",
+            "d": "d) 60 km/h."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511063.962661,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "7. En el caso de ciclomotores de dos ruedas con motor de combustión interna, su cilindrada debe ser:",
+        "opciones_respuesta": {
+            "a": "a) Inferior a 50 cm³.",
+            "b": "b) Inferior o igual a 50 cm³.",
+            "c": "c) Superior a 50 cm³.",
+            "d": "d) Exactamente 49 cm³."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511074.858731,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "8. Para que un vehículo de tres ruedas sea considerado ciclomotor, su potencia nominal máxima debe ser inferior o igual a:",
+        "opciones_respuesta": {
+            "a": "a) 11 kW.",
+            "b": "b) 15 kW.",
+            "c": "c) 4 kW.",
+            "d": "d) 35 kW."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511079.234839,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "9. El \"Vehículo para personas de movilidad reducida\" tiene una tara que no puede ser superior a:",
+        "opciones_respuesta": {
+            "a": "a) 300 kg.",
+            "b": "b) 350 kg.",
+            "c": "c) 400 kg.",
+            "d": "d) 250 kg."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511092.8349419,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Cuál es la velocidad máxima que puede alcanzar en llano, por construcción, un vehículo para personas de movilidad reducida?",
+        "opciones_respuesta": {
+            "a": "a) 45 km/h.",
+            "b": "b) 25 km/h.",
+            "c": "c) 50 km/h.",
+            "d": "d) No tiene límite mientras sea para un discapacitado."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511105.5873723,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "11. Dentro de la definición de \"Vehículo de motor\", se excluyen expresamente:",
+        "opciones_respuesta": {
+            "a": "a) Los tranvías y los vehículos para personas de movilidad reducida.",
+            "b": "b) Los ciclomotores y los tranvías.",
+            "c": "c) Los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida.",
+            "d": "d) Solo los ciclomotores de dos ruedas."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511120.3473768,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "12. Un \"Automóvil\" es un vehículo de motor que sirve normalmente para:",
+        "opciones_respuesta": {
+            "a": "a) El transporte de personas o cosas, o ambas a la vez, o para la tracción de otros vehículos con aquel fin.",
+            "b": "b) Realizar obras o servicios determinados.",
+            "c": "c) El transporte de más de 9 personas.",
+            "d": "d) Cualquier fin agrícola."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511127.6753151,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "13. Las motocicletas de dos ruedas se distinguen de los ciclomotores porque su cilindrada es:",
+        "opciones_respuesta": {
+            "a": "a) Superior a 45 cm³.",
+            "b": "b) Superior a 50 cm³.",
+            "c": "c) Superior o igual a 50 cm³.",
+            "d": "d) Superior a 125 cm³."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511139.76309,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "14. Una motocicleta con sidecar es un vehículo de:",
+        "opciones_respuesta": {
+            "a": "a) Dos ruedas asimétricas.",
+            "b": "b) Tres ruedas asimétricas respecto a su eje medio longitudinal.",
+            "c": "c) Tres ruedas simétricas.",
+            "d": "d) Cuatro ruedas ligeras."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511147.3073928,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "15. El \"Turismo\" es un automóvil destinado al transporte de personas que tenga, además del asiento del conductor:",
+        "opciones_respuesta": {
+            "a": "a) Ocho plazas como máximo.",
+            "b": "b) Nueve plazas como máximo.",
+            "c": "c) Cuatro plazas como máximo.",
+            "d": "d) Siete plazas como máximo."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511161.1072311,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "16. El \"Autobús o autocar\" se define como el automóvil que tenga:",
+        "opciones_respuesta": {
+            "a": "a) Más de 9 plazas incluida la del conductor.",
+            "b": "b) Más de 8 plazas además de la del conductor.",
+            "c": "c) Exactamente 17 plazas.",
+            "d": "d) Las opciones A y B son equivalentes y correctas."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511185.8357348,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "17. Un camión es un automóvil con cuatro ruedas o más concebido para el transporte de mercancías cuya cabina:",
+        "opciones_respuesta": {
+            "a": "a) Puede estar integrada o no en la carrocería.",
+            "b": "b) No está integrada en el resto de la carrocería.",
+            "c": "c) Tiene un máximo de 5 plazas.",
+            "d": "d) Debe ser independiente del compartimento de carga."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511195.1396887,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "18. El número máximo de plazas (incluido el conductor) permitido en un camión es de:",
+        "opciones_respuesta": {
+            "a": "a) 2.",
+            "b": "b) 3.",
+            "c": "c) 9.",
+            "d": "d) No hay límite mientras sea para transporte de mercancías."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511208.027853,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "19. El \"Vehículo mixto adaptable\" permite el transporte simultáneo o no de mercancías y personas hasta un máximo de:",
+        "opciones_respuesta": {
+            "a": "a) 9 plazas incluido el conductor.",
+            "b": "b) 8 plazas incluido el conductor.",
+            "c": "c) 5 plazas.",
+            "d": "d) 9 plazas además del conductor."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511212.3076403,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "20. Un remolque se considera \"ligero\" cuando su MMA:",
+        "opciones_respuesta": {
+            "a": "a) No exceda de 350 kg.",
+            "b": "b) No exceda de 750 kg.",
+            "c": "c) Sea igual a 750 kg.",
+            "d": "d) Sea inferior a 1.000 kg."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511224.7237527,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "21. ¿Cómo se denomina al automóvil concebido y construido para realizar, principalmente, el arrastre de un semirremolque?",
+        "opciones_respuesta": {
+            "a": "a) Camión articulado.",
+            "b": "b) Tractocamión.",
+            "c": "c) Tractor de servicios.",
+            "d": "d) Tren de carretera."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511238.244107,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "22. Un \"Conjunto de vehículos\" constituido por un vehículo de motor enganchado a un remolque se denomina:",
+        "opciones_respuesta": {
+            "a": "a) Vehículo articulado.",
+            "b": "b) Tren de carretera.",
+            "c": "c) Tándem.",
+            "d": "d) Convoy."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511257.2120566,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "23. El \"Vehículo especial\" (V.E.) es aquel que está exceptuado de cumplir alguna condición técnica o sobrepasa límites de masas o dimensiones por:",
+        "opciones_respuesta": {
+            "a": "a) Sus características o por el servicio que presta.",
+            "b": "b) Ser de propiedad estatal.",
+            "c": "c) Ser un vehículo de emergencia.",
+            "d": "d) Ser de construcción artesanal."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511277.1640878,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "24. El \"Tractor de servicios\" es un vehículo especial autopropulsado, de dos o más ejes, concebido para:",
+        "opciones_respuesta": {
+            "a": "a) Arrastrar o empujar vehículos de servicio, vagones u otros aparatos.",
+            "b": "b) Realizar labores agrícolas de siembra.",
+            "c": "c) El transporte de productos agrícolas.",
+            "d": "d) Arrastrar únicamente semirremolques."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511306.7083476,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "25. El \"Motocultor\" es un vehículo especial autopropulsado de un solo eje, dirigible por:",
+        "opciones_respuesta": {
+            "a": "a) Volante.",
+            "b": "b) Control remoto.",
+            "c": "c) Manceras por un conductor que marche a pie.",
+            "d": "d) Un joystick desde un asiento incorporado."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511315.324306,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "26. El \"Tractocarro\" es un vehículo especial concebido específicamente para:",
+        "opciones_respuesta": {
+            "a": "a) El arrastre de maquinaria de obras.",
+            "b": "b) El transporte en campo de productos agrícolas.",
+            "c": "c) Arrastrar un remolque de más de 750 kg.",
+            "d": "d) La limpieza de vías públicas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511336.6524658,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "27. En cuanto a las masas, la \"Tara\" se define como la masa del vehículo con su equipo fijo, sin personal de servicio, pasajeros ni carga, pero con:",
+        "opciones_respuesta": {
+            "a": "a) El 50% del combustible.",
+            "b": "b) Su dotación completa de agua, combustible, lubricante, repuestos, herramientas y accesorios.",
+            "c": "c) Solo el lubricante y el agua.",
+            "d": "d) El conductor (estimado en 75 kg)."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780511350.3885784,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "28. La \"Masa Máxima Autorizada\" (M.M.A.) es:",
+        "opciones_respuesta": {
+            "a": "a) La masa del vehículo cargado que circula por la vía.",
+            "b": "b) La masa máxima para la utilización de un vehículo con carga en circulación por las vías públicas.",
+            "c": "c) La suma de la tara y la carga útil real.",
+            "d": "d) La masa que garantiza el fabricante en condiciones de seguridad."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511357.6127799,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "29. Un grupo de dos ejes se denomina \"tándem\" y un grupo de tres ejes se denomina:",
+        "opciones_respuesta": {
+            "a": "a) Trídem.",
+            "b": "b) Triaxial.",
+            "c": "c) Las opciones A y B son correctas.",
+            "d": "d) Trío de ejes."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511379.4043958,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "30. La luz de carretera o de largo alcance debe ser capaz de alumbrar una distancia larga por delante del vehículo:",
+        "opciones_respuesta": {
+            "a": "a) Sin deslumbrar en ningún caso.",
+            "b": "b) De noche y de día.",
+            "c": "c) Sin que la norma especifique una distancia métrica en la definición del Anexo I.",
+            "d": "d) Superior a 100 metros obligatoriamente."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511402.4127383,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "31. Dispositivo utilizado para indicar la presencia del vehículo mediante la reflexión de una fuente luminosa ajena se llama:",
+        "opciones_respuesta": {
+            "a": "a) Luz de posición.",
+            "b": "b) Catadióptrico.",
+            "c": "c) Placa de matrícula retrorreflectante.",
+            "d": "d) Luz de gálibo."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511414.5889847,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "32. La luz de gálibo se instala en determinados vehículos y remolques para indicar:",
+        "opciones_respuesta": {
+            "a": "a) El largo total del vehículo.",
+            "b": "b) La anchura total del vehículo.",
+            "c": "c) La altura máxima de la carga.",
+            "d": "d) Presencia de un vehículo especial."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511430.4769607,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "33. La \"Calzada\" es la parte de la carretera dedicada a la circulación de vehículos y se compone de:",
+        "opciones_respuesta": {
+            "a": "a) Un cierto número de carriles.",
+            "b": "b) El arcén y los carriles.",
+            "c": "c) La plataforma y la mediana.",
+            "d": "d) Los carriles y las zonas peatonales adyacentes."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780511438.669034,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "34. Un \"Carril para vehículos con alta ocupación\" (VAO) es aquel:",
+        "opciones_respuesta": {
+            "a": "a) Reservado para autobuses de más de 50 plazas.",
+            "b": "b) Reservado o habilitado para la circulación de los vehículos con alta ocupación.",
+            "c": "c) Donde está prohibido circular a menos de 60 km/h.",
+            "d": "d) Exclusivo para vehículos de emergencies."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511454.804893,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "35. La \"Vía para automóviles\" es una vía:",
+        "opciones_respuesta": {
+            "a": "a) Con dos calzadas separadas.",
+            "b": "b) Reservada exclusivamente a la circulación de automóviles, con una sola calzada y limitación total de accesos a propiedades colindantes.",
+            "c": "c) Que permite el acceso a ciclos y ciclomotores.",
+            "d": "d) Que no tiene señales S-3 y S-4."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511482.0213876,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "36. ¿Qué diferencia a una \"Autovía\" de una \"Autopista\" según sus definiciones?",
+        "opciones_respuesta": {
+            "a": "a) La autovía no tiene acceso limitado a las propiedades colindantes.",
+            "b": "b) La autopista puede tener pasos a nivel.",
+            "c": "c) La autovía puede no tener calzadas separadas.",
+            "d": "d) La autovía tiene acceso limitado a las propiedades colindantes (no \"total\" o \"exclusivo\" como la autopista)."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780511489.9972928,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "37. Una \"Travesía\" es:",
+        "opciones_respuesta": {
+            "a": "a) Una vía urbana que no tiene alternativa.",
+            "b": "b) Un tramo de carretera que discurre por poblado, salvo que disponga de variante o alternativa.",
+            "c": "c) Una calle de una urbanización privada.",
+            "d": "d) Una vía ciclista que cruza la calzada."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511501.5733833,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "38. La \"Detención\" se diferencia de la \"Parada\" en que la primera es por:",
+        "opciones_respuesta": {
+            "a": "a) Voluntad del conductor durante menos de dos minutos.",
+            "b": "b) Emergencia, necesidades de la circulación o cumplimiento de un precepto reglamentario.",
+            "c": "c) Carga y descarga de mercancías.",
+            "d": "d) Un tiempo superior a dos minutos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511510.2456005,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "39. Para que una inmovilización sea considerada \"Parada\", el tiempo debe ser inferior a:",
+        "opciones_respuesta": {
+            "a": "a) Un minuto.",
+            "b": "b) Dos minutos.",
+            "c": "c) Cinco minutos.",
+            "d": "d) Tres minutos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780511523.0853696,
+        "path": "/definiciones_anexo_I_trafico.json",
+        "id": "id2340234",
+        "pregunta": "40. En una \"Parada\", además del límite de tiempo, se exige que:",
+        "opciones_respuesta": {
+            "a": "a) El conductor no abandone el vehículo.",
+            "b": "b) Las luces de emergencia estén encendidas.",
+            "c": "c) El motor esté apagado.",
+            "d": "d) El vehículo esté pegado al borde derecho."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "pregunta": "¿Cuántos miembros tiene el pleno de Valdés?",
+        "respuestas": {
+            "a": "a. El alcalde y 17 concejales. ",
+            "b": "b. El alcalde y 16 concejales. ",
+            "c": "c. 17 miembros. ",
+            "d": "d. b) y c) son correctas. "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: b) y c) son correctas."
+    },
+    {
+        "pregunta": "2. ¿Con quién limita por el Este Valdés?",
+        "respuestas": {
+            "a": "a. Salas ",
+            "b": "b. Villayón ",
+            "c": "c. Cudillero ",
+            "d": "d. a) y c) son correctas "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: a) y c) son correctas"
+    },
+    {
+        "pregunta": "3. ¿Qué carretera nos lleva a la Playa de Cadavedo?",
+        "respuestas": {
+            "a": "a. VA-2 ",
+            "b": "b. VA-3 ",
+            "c": "c. VA-4 ",
+            "d": "d. VA-6 "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: VA-3"
+    },
+    {
+        "pregunta": "4. ¿Cuántas parroquias tiene Valdés?",
+        "respuestas": {
+            "a": "a. 14 ",
+            "b": "b. 16 ",
+            "c": "c. 17 ",
+            "d": "d. 15 "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: 15"
+    },
+    {
+        "pregunta": "5. ¿Cuál de las siguientes NO es una parroquia de Valdés?",
+        "respuestas": {
+            "a": "a. Paredes ",
+            "b": "b. Castañedo ",
+            "c": "c. Muñas ",
+            "d": "d. Todas son parroquias "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: Todas son parroquias"
+    },
+    {
+        "pregunta": "6. ¿Dónde se encuentra la Torre de Villademoros?",
+        "respuestas": {
+            "a": "a. Cadavedo ",
+            "b": "b. Barcia ",
+            "c": "c. Otur ",
+            "d": "d. Luarca "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Cadavedo"
+    },
+    {
+        "pregunta": "7. ¿Cuándo se celebran las fiestas de Nuestra Señora del Rosario?",
+        "respuestas": {
+            "a": "a. 15 de agosto ",
+            "b": "b. 22 de agosto ",
+            "c": "c. Último domingo de julio ",
+            "d": "d. Último domingo de agosto "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: 15 de agosto"
+    },
+    {
+        "pregunta": "8. ¿Dónde se encuentra la casa de los marqueses de Gamoneda?",
+        "respuestas": {
+            "a": "a. Taborcías ",
+            "b": "b. Cadavedo ",
+            "c": "c. Luarca ",
+            "d": "d. Otur "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Luarca"
+    },
+    {
+        "pregunta": "9. ¿En qué terrazas deben indicarse el aforo máximo?",
+        "respuestas": {
+            "a": "a. En las terrazas tipo A ",
+            "b": "b. En las terrazas tipo B ",
+            "c": "c. En todas las terrazas ",
+            "d": "d. En ninguna "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: En las terrazas tipo B"
+    },
+    {
+        "pregunta": "10. ¿A qué hora máxima se debe desmontar una terraza de hostelería el 5 de mayo?",
+        "respuestas": {
+            "a": "a. A las 00:00 si la apertura fue en Viernes, Sábado o Víspera. ",
+            "b": "b. A las 01:00 del día siguiente si la apertura fue en Viernes, Sábado o Víspera. ",
+            "c": "c. A las 02:30 del día siguiente si la apertura fue en Viernes, Sábado o Víspera. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: A las 02:30 del día siguiente si la apertura fue en Viernes, Sábado o Víspera."
+    },
+    {
+        "pregunta": "11. La INSTALACIÓN DE ALGÚN TIPO DE MÚSICA, AMPLIFICADORES U OTROS ELEMENTOS que produzcan emisiones acústicas de cualquier tipo o de televisiones con sonido sin la correspondiente autorización, supone a la O.M. de Terrazas:",
+        "respuestas": {
+            "a": "a. Infracción leve ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave ",
+            "d": "d. No es infracción a esa ordenanza. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Infracción grave"
+    },
+    {
+        "pregunta": "12. La PERMANENCIA DE ANIMALES EN ZONAS DE JUEGOS INFANTILES, parques, arenales de las playas, piscinas y otros, supone a la OM de animales:",
+        "respuestas": {
+            "a": "a. Infracción leve ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave ",
+            "d": "d. No es infracción a esa ordenanza. "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Infracción leve"
+    },
+    {
+        "pregunta": "13. ¿A partir de cuánto tiempo supone infracción grave a la OM de Animales la permanencia de perros en el interior de vehículos?:",
+        "respuestas": {
+            "a": "a. 3 días ",
+            "b": "b. 3 horas ",
+            "c": "c. 4 horas ",
+            "d": "d. 2 horas "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: 4 horas"
+    },
+    {
+        "pregunta": "14. ¿Puede una motocicleta estacionar sobre la acera en Luarca?",
+        "respuestas": {
+            "a": "a. Si, cuando se cumplan ciertas condiciones y siempre que la acera mida más de 2 metros de ancho. ",
+            "b": "b. Si, cuando se cumplan ciertas condiciones y siempre que la acera mida más de 3 metros de ancho. ",
+            "c": "c. No, pero los ciclomotores si se cumplen ciertas condiciones y la acera mide más de 2 metros de ancho si podrán. ",
+            "d": "d. No, pero los ciclomotores si se cumplen ciertas condiciones y la acera mide más de 3 metros de ancho si podrán. "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Si, cuando se cumplan ciertas condiciones y siempre que la acera mida más de 3 metros de ancho."
+    },
+    {
+        "pregunta": "15. ¿Con cuáles de estos concejos NO linda al Sur Valdés?",
+        "respuestas": {
+            "a": "a. Tineo ",
+            "b": "b. Salas ",
+            "c": "c. Villayón ",
+            "d": "d. Linda con todos ellos al sur. "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Villayón"
+    },
+    {
+        "pregunta": "16. ¿En qué año fue galardonado el Valle de Paredes y su parroquia con el premio Pueblo Ejemplar?",
+        "respuestas": {
+            "a": "a. 1998 ",
+            "b": "b. 2000 ",
+            "c": "c. 2003 ",
+            "d": "d. 2001 "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: 2001"
+    },
+    {
+        "pregunta": "17. El río que separa los Concejos de Valdés y Cudillero se llama",
+        "respuestas": {
+            "a": "a. Río Cabo ",
+            "b": "b. Río Barayo ",
+            "c": "c. Río Cubia ",
+            "d": "d. Río Pigüeña "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Río Cabo"
+    },
+    {
+        "pregunta": "18. La carretera local de Muñas de Abajo a Carcedo se denomina:",
+        "respuestas": {
+            "a": "a. VA-4 ",
+            "b": "b. VA-2 ",
+            "c": "c. VA-1 ",
+            "d": "d. VA-3 "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: VA-4"
+    },
+    {
+        "pregunta": "19. La parroquia más extensa de Valdés se denomina:",
+        "respuestas": {
+            "a": "a. Otur ",
+            "b": "b. La Montaña ",
+            "c": "c. Luarca ",
+            "d": "d. Canero "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: La Montaña"
+    },
+    {
+        "pregunta": "20. ¿Cuál de las siguientes parroquias de Valdés se encuentra en el interior?",
+        "respuestas": {
+            "a": "a. Santiago ",
+            "b": "b. Luarca ",
+            "c": "c. Trevías ",
+            "d": "d. Barcia "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Trevías"
+    },
+    {
+        "pregunta": "21. Las dependencias de la Policía Local de Valdés se encuentran en:",
+        "respuestas": {
+            "a": "a. C/ Olavarrieta ",
+            "b": "b. C/ Villar ",
+            "c": "c. Plz. Catedrático Ramón Losa ",
+            "d": "d. C/ Pilarín "
+        },
+        "solucion": "d",
+        "explicacion": "La respuesta correcta es: C/ Pilarín"
+    },
+    {
+        "pregunta": "22. La playa de Campiecho pertenece a la parroquia de:",
+        "respuestas": {
+            "a": "a. Barcia ",
+            "b": "b. Luarca ",
+            "c": "c. Cadavedo ",
+            "d": "d. Cueva "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Cadavedo"
+    },
+    {
+        "pregunta": "23. La fiesta de San Timoteo se celebra:",
+        "respuestas": {
+            "a": "a. El 22 de Agosto en Cadavedo ",
+            "b": "b. El 15 de agosto en Aristébano ",
+            "c": "c. El 22 de agosto en Luarca ",
+            "d": "d. El 15 de agosto en Luarca "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: El 22 de agosto en Luarca"
+    },
+    {
+        "pregunta": "24. Con respecto a la señalización del estacionamiento regulado de Valdés, el color verde significa:",
+        "respuestas": {
+            "a": "a. Zona de residentes ",
+            "b": "b. Zona de larga duración ",
+            "c": "c. Zona de corta duración ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Zona de larga duración"
+    },
+    {
+        "pregunta": "25. Con respecto a la señalización del estacionamiento regulado de Valdés, el color naranja significa:",
+        "respuestas": {
+            "a": "a. Zona de residentes ",
+            "b": "b. Zona de larga duración ",
+            "c": "c. Zona de corta duración ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "a",
+        "explicacion": "La respuesta correcta es: Zona de residentes"
+    },
+    {
+        "pregunta": "26. Con respecto a la señalización del estacionamiento regulado de Valdés, el color azul significa:",
+        "respuestas": {
+            "a": "a. Zona de residentes ",
+            "b": "b. Zona de larga duración ",
+            "c": "c. Zona de corta duración ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Zona de corta duración"
+    },
+    {
+        "pregunta": "27. El horario de la zona de corta duración es de:",
+        "respuestas": {
+            "a": "a. Lunes a viernes laborables de 8:00 a 15 horas ",
+            "b": "b. Lunes a viernes de 8:00 a 20 horas ",
+            "c": "c. Lunes a viernes de 8:00 a 15 horas ",
+            "d": "d. Lunes a viernes laborables de 8:00 a 20 horas "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: Lunes a viernes laborables de 8:00 a 15 horas"
+    },
+    {
+        "pregunta": "28. El horario de la zona de larga duración es de:",
+        "respuestas": {
+            "a": "a. Lunes a viernes laborables de 8:00 a 15 horas ",
+            "b": "b. Lunes a viernes de 8:00 a 20 horas ",
+            "c": "c. Lunes a viernes de 8:00 a 15 horas ",
+            "d": "d. Lunes a viernes laborables de 8:00 a 20 horas "
+        },
+        "solucion": "b",
+        "explicacion": "La respuesta correcta es: Lunes a viernes de 8:00 a 20 horas"
+    },
+    {
+        "pregunta": "29. El tiempo máximo de estacionamiento en zona verde será de:",
+        "respuestas": {
+            "a": "a. 3 Horas ",
+            "b": "b. 6 Horas ",
+            "c": "c. 8 Horas ",
+            "d": "d. 2 Horas "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: 8 Horas"
+    },
+    {
+        "pregunta": "30. Las sanciones leves a la Ordenanza de tenencia y protección de animales de Valdés, serán de:",
+        "respuestas": {
+            "a": "a. 100 a 750 euros ",
+            "b": "b. 250 a 750 euros ",
+            "c": "c. 300 a 750 euros ",
+            "d": "d. De 300 a 600 euros "
+        },
+        "solucion": "c",
+        "explicacion": "La respuesta correcta es: De 300 a 750 euros"
+    }
+]

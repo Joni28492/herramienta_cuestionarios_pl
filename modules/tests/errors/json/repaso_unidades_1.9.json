@@ -1,0 +1,707 @@
+[
+    {
+        "timestamp": 1781008143.8678913,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Cuantos capítulos tiene el título I de la Ley Orgánica 2/86, del 13 de marzo?",
+        "respuestas": {
+            "a": "a) Dos ",
+            "b": "b) Tres ",
+            "c": "c) Cuatro ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Tres"
+    },
+    {
+        "timestamp": 1781008198.3712173,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "6. Es función de la Policía Local:",
+        "respuestas": {
+            "a": "a) Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad. ",
+            "b": "b) Vigilar los espacios públicos y colaborar con las Fuerzas y Cuerpos de Seguridad del Estado y con la Policía de las CCAA en la protección de las manifestaciones y el mantenimiento del orden en grandes concentraciones humanas, cuando sean requeridos para ello. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) a) y b) son correctas"
+    },
+    {
+        "timestamp": 1781008225.4503846,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "9. Conforme el artículo 4 de la Constitución Española:",
+        "respuestas": {
+            "a": "a) La capital del Estado es la villa de Madrid ",
+            "b": "b) La capital del Reino es la ciudad de Madrid ",
+            "c": "c) La capital del Estado es la ciudad de Madrid ",
+            "d": "d) Ninguna de las anteriores"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Ninguna de las anteriores"
+    },
+    {
+        "timestamp": 1781008244.7800217,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "10. Señale la afirmación correcta:",
+        "respuestas": {
+            "a": "a) Los extranjeros gozarán en España de los mismos derechos que los españoles. ",
+            "b": "b) Solamente los españoles serán titulares de los derechos reconocidos en el artículo 23, en todo caso. ",
+            "c": "c) Ninguna confesión tendrá carácter estatal. ",
+            "d": "d) b) y c) son correctas."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) Ninguna confesión tendrá carácter estatal."
+    },
+    {
+        "timestamp": 1781008302.11494,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "14. Los recursos de las Comunidades Autónomas están formados por:",
+        "respuestas": {
+            "a": "a) Productos de operaciones de crédito ",
+            "b": "b) Ingresos de derecho privado ",
+            "c": "c) Transferencias de un Fondo de compensación interterritorial ",
+            "d": "d) Todas son correctas"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas"
+    },
+    {
+        "timestamp": 1781008397.9577801,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "20. ¿Está permitida la utilización de dispositivos inalámbricos para la utilización en el casco de protección de los conductores de motocicletas y ciclomotores, con fines de comunicación o navegación?",
+        "respuestas": {
+            "a": "a) No, conforme el artículo 13.2 de la LSV. ",
+            "b": "b) Si, en todo caso. ",
+            "c": "c) Si, siempre que no afecten a la seguridad en la conducción y se encuentren certificados u homologados. ",
+            "d": "d) Si, pero solamente los agentes de la autoridad en el ejercicio de las funciones que tengan encomendadas, así como los vehículos de las Fuerzas Armadas cuando circulen en convoy."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) Si, siempre que no afecten a la seguridad en la conducción y se encuentren certificados u homologados."
+    },
+    {
+        "timestamp": 1781008474.6052544,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "23. ¿En qué artículos del Reglamento General de Circulación se regulan las normas sobre las bebidas alcohólicas?",
+        "respuestas": {
+            "a": "a) 14 ",
+            "b": "b) 20 a 28 ",
+            "c": "c) 20 a 26 ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) 20 a 26"
+    },
+    {
+        "timestamp": 1781008551.0923095,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "27. El distinto ambiental es…",
+        "respuestas": {
+            "a": "a) V-24 ",
+            "b": "b) V-25 ",
+            "c": "c) V-26 ",
+            "d": "d) Ninguno de los anteriores"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) V-25"
+    },
+    {
+        "timestamp": 1781008579.7255003,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "28. Los agentes de la autoridad responsable del tráfico utilizarán las siguientes señales:",
+        "respuestas": {
+            "a": "a) Brazo/s extendidos horizontalmente: obliga a detenerse a todos los usuarios de la vía que se acerquen al agente desde direcciones que corten la indicada por el brazo/s extendidos y cualquiera que sea el sentido de su marcha. Esta señal permanece en vigor hasta que el agente baje el brazo o los brazos. ",
+            "b": "b) Brazo levantado verticalmente: obliga a detenerse a todo usuario que se acerque al agente, salvo a los conductores que no puedan hacerlo en condiciones de seguridad suficiente. Si esta señal se efectúa en una intersección, no obligará a detenerse a los conductores que haya entrado. La detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente. En una intersección, debe efectuarse antes de entrar en ella. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) Brazo levantado verticalmente: obliga a detenerse a todo usuario que se acerque al agente, salvo a los conductores que no puedan hacerlo en condiciones de seguridad suficiente. Si esta señal se efectúa en una intersección, no obligará a detenerse a los conductores que haya entrado. La detención debe efectuarse ante la línea de detención más cercana o, en su defecto, inmediatamente antes del agente. En una intersección, debe efectuarse antes de entrar en ella."
+    },
+    {
+        "timestamp": 1781008597.286188,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "29. ¿Qué permiso de conducir necesito para conducir un Triciclo de motor de potencia superior a 15Kw?",
+        "respuestas": {
+            "a": "a) Permiso de la clase A ",
+            "b": "b) Permiso de la clase B ",
+            "c": "c) a) y b) son correctas, pero el conductor debe tener 21 años cumplidos. ",
+            "d": "d) a) es correcta, pero el conductor debe tener 21 años cumplidos."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) a) y b) son correctas, pero el conductor debe tener 21 años cumplidos."
+    },
+    {
+        "timestamp": 1781008631.0124137,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "31. Cuando un conductor posea un permiso de conducir de otro país de la Unión Europea no sujeto a un período de vigencia determinado, su titular deberá proceder a su renovación:",
+        "respuestas": {
+            "a": "a) En el momento de obtener residencia normal en España. ",
+            "b": "b) Una vez transcurridos 6 meses desde que establezca su residencia normal en España. ",
+            "c": "c) Una vez transcurridos 2 años desde que establezca su residencia normal en España. ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Una vez transcurridos 2 años desde que establezca su residencia normal en España."
+    },
+    {
+        "timestamp": 1781008662.1040862,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "34. Una sanción por exceso de velocidad, conforme el anexo IV, puede conllevar la siguiente pérdida de puntos:",
+        "respuestas": {
+            "a": "a) 0, 2, 4 o 6. ",
+            "b": "b) 0, 3, 4 o 6. ",
+            "c": "c) 3, 4 o 6. ",
+            "d": "d) 0, 3, 6."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) 0, 2, 4 o 6."
+    },
+    {
+        "timestamp": 1781009022.1786373,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "36. La competencia para sancionar las infracciones a que se refiere el artículo 52 de la LSV corresponderá, en todo caso:",
+        "respuestas": {
+            "a": "a) Al Alcalde. ",
+            "b": "b) Al Jefe Provincial de Tráfico o al órgano competente autonómico en aquellas Comunidades Autónomas con competencias en la materia. ",
+            "c": "c) Al Director General de Tráfico o al órgano competente autonómico en aquellas Comunidades Autónomas con competencias en la materia. ",
+            "d": "d) Al Ministerio de Fomento."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Al Director General de Tráfico o al órgano competente autonómico en aquellas Comunidades Autónomas con competencias en la materia."
+    },
+    {
+        "timestamp": 1781009050.85486,
+        "path": "/_repaso-unidades_1-9_III.json",
+        "id": "id2340234",
+        "pregunta": "37. El agente denunciante fijará provisionalmente la cuantía de la multa y, de no depositarse su importe, el conductor deberá trasladar el vehículo e inmovilizarlo en el lugar indicado por el agente denunciante. El depósito podrá efectuarse mediante tarjeta de crédito, o en metálico en euros.",
+        "respuestas": {
+            "a": "a) Cuando el infractor no acredite su residencia legal en territorio español. ",
+            "b": "b) Cuando el infractor sea extranjero. ",
+            "c": "c) Cuando el infractor no posea permiso de conducir. ",
+            "d": "d) Cuando el infractor posea en su historial de conductor 3 sanciones impagadas."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) Cuando el infractor no acredite su residencia legal en territorio español."
+    },
+    {
+        "timestamp": 1781014078.1684475,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "5. Los funcionarios encargados exclusivamente de ordenar, señalizar y dirigir el tráfico en el casco urbano, contemplados en el artículo 53.3 de la Ley Orgánica 2/86:",
+        "respuestas": {
+            "a": "a. Son subordinados de la Policía Local y no se integrarán en las Fuerzas y Cuerpos de Seguridad. ",
+            "b": "b. No tendrán la consideración de Agentes de la Autoridad. ",
+            "c": "c. Solo podrán existir en las ciudades con Estatuto de Autonomía. ",
+            "d": "d. Ninguna es correcta."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a. Son subordinados de la Policía Local y no se integrarán en las Fuerzas y Cuerpos de Seguridad."
+    },
+    {
+        "timestamp": 1781014105.3204365,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "8. ¿Cuántos títulos tiene la Ley sobre Tráfico, Circulación de Vehículos a motor y Seguridad Vial?",
+        "respuestas": {
+            "a": "a. Uno preliminar y 5 adicionales ",
+            "b": "b. Uno preliminar y 6 adicionales ",
+            "c": "c. 5 títulos ",
+            "d": "d. 6 títulos"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b. Uno preliminar y 6 adicionales"
+    },
+    {
+        "timestamp": 1781014137.0808039,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "9. Para el ejercicio de las competencias atribuidas al Ministerio del Interior en materia de regulación, ordenación, gestión y vigilancia del tráfico, así como para la denuncia de las infracciones a las normas contenidas en la LSV, y para las labores de protección y auxilio en las vías públicas o de uso público, actuará, en los términos que reglamentariamente se determine:",
+        "respuestas": {
+            "a": "a. La Guardia Civil y los cuerpos de Policía Local. ",
+            "b": "b. La Guardia Civil, especialmente su agrupación de Tráfico, y los cuerpos de Policía Local. ",
+            "c": "c. Los cuerpos de Policía Local. ",
+            "d": "d. Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d. Ninguna es correcta"
+    },
+    {
+        "timestamp": 1781014166.5289333,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Se puede instalar un vertedero de basura y residuos dentro de la zona de afección de una carretera?",
+        "respuestas": {
+            "a": "a. No, en ningún caso. ",
+            "b": "b. No, salvo cuando exista certeza de que el humo producido por la incineración de las basuras o incendios ocasionales no puede alcanzar la carretera. ",
+            "c": "c. Si, salvo cuando exista peligro de que el humo producido por la incineración de las basuras o incendios ocasionales pueda alcanzar la carretera. ",
+            "d": "d. Dicha decisión es competencia de las Comunidades Autónomas, conforme el artículo 148 de la Constitución  Española."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a. No, en ningún caso."
+    },
+    {
+        "timestamp": 1781014205.6811438,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿Quién puede formular alegaciones u observaciones durante la práctica de una prueba de detección de alcohol?",
+        "respuestas": {
+            "a": "a. El sometido a la prueba. ",
+            "b": "b. El sometido a la prueba, acompañante o testigo. ",
+            "c": "c. El sometido a la prueba, acompañante o defensor. ",
+            "d": "d. El sometido a la prueba, acompañante, testigo o defensor."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c. El sometido a la prueba, acompañante o defensor."
+    },
+    {
+        "timestamp": 1781014238.665182,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿A qué distancia debe ser visible un chaleco reflectante homologado?",
+        "respuestas": {
+            "a": "a. 50 metros ",
+            "b": "b. 100 metros ",
+            "c": "c. 150 metros ",
+            "d": "d. 200 metros"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c. 150 metros"
+    },
+    {
+        "timestamp": 1781014249.6733403,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "18. Indique que señal pertenece a un vehículo lento, y qué velocidad no puede sobrepasar el mismo.",
+        "respuestas": {
+            "a": "a. V-5 y 30 km/h. ",
+            "b": "b. V-4 y 30 km/h ",
+            "c": "c. V-8 y 40 km/h ",
+            "d": "d. Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d. Ninguna es correcta"
+    },
+    {
+        "timestamp": 1781014320.3056152,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "24. ¿Qué condiciones se deben cumplir para ser condenado el conductor de un vehículo a motor o de un ciclomotor como autor de un delito de abandono del lugar del accidente? (Señale la opción incorrecta)",
+        "respuestas": {
+            "a": "a. No encontrarse en los casos estipulados como omisión del deber de socorro en el Código Penal. ",
+            "b": "b. Voluntariedad en el abandono del lugar, aun concurriendo riesgo propio. ",
+            "c": "c. Haber causado un accidente con fallecidos, o con lesiones constitutivas de un delito del artículo 147.1, 149, 150. ",
+            "d": "d. Todas son correctas."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b. Voluntariedad en el abandono del lugar, aun concurriendo riesgo propio."
+    },
+    {
+        "timestamp": 1781014405.3860939,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "31. Conforme al artículo 7 del Estatuto de Autonomía del Principado de Asturias, ¿Quienes gozan de la condición política de asturianos?",
+        "respuestas": {
+            "a": "a. Los ciudadanos españoles que tengan vecindad administrativa en cualquier concejo de Asturias. ",
+            "b": "b. Los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Asturias y acrediten esta condición en el correspondiente Consulado de España. ",
+            "c": "c. Los descendientes inscritos como españoles de los ciudadanos a los que hace referencia el apartado b. ",
+            "d": "d. Todas son correctas"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a. Los ciudadanos españoles que tengan vecindad administrativa en cualquier concejo de Asturias."
+    },
+    {
+        "timestamp": 1781014450.642503,
+        "path": "/_repaso-unidades_1-9_II.json",
+        "id": "id2340234",
+        "pregunta": "34. Para conducir un vehículo especial agrícola cuya masa máxima autorizada es de 9.000 kilos, se requerirá:",
+        "respuestas": {
+            "a": "a. Licencia de vehículo agrícola autopropulsado ",
+            "b": "b. Permiso B ",
+            "c": "c. Permiso C1 ",
+            "d": "d. Permiso C"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b. Permiso B"
+    },
+    {
+        "timestamp": 1781029384.6277218,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "7. En los concejos con población ______________ podrá existir Cuerpo de Policía Local si acuerda su creación _____________ y lo informa ______________, previo informe ______________________.",
+        "respuestas": {
+            "a": "a) Inferior a 5.000 habitantes / la corporación local / el titular de la Consejería competente por razón de la materia / preceptivo de la Comisión de Coordinación de las Policías Locales del Principado de Asturias ",
+            "b": "b) Igual o inferior a 5.000 habitantes / la corporación local / el titular de la Consejería competente por razón de la materia / preceptivo de la Comisión de Coordinación de las Policías Locales del Principado de Asturias ",
+            "c": "c) Inferior a 5.000 habitantes / la corporación local / la Comisión de Coordinación de las Policías Locales del Principado de Asturias / preceptivo del titular de la Consejería competente por razón de la materia. ",
+            "d": "d) Igual o inferior a 5.000 habitantes / la corporación local / la Comisión de Coordinación de las Policías Locales del Principado de Asturias / preceptivo del titular de la Consejería competente por razón de la materia."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) Igual o inferior a 5.000 habitantes / la corporación local / el titular de la Consejería competente por razón de la materia / preceptivo de la Comisión de Coordinación de las Policías Locales del Principado de Asturias"
+    },
+    {
+        "timestamp": 1781029420.5317035,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "8. Respecto a los vocales de la Comisión de Coordinación de Policías Locales del Principado de Asturias:",
+        "respuestas": {
+            "a": "a) Cinco en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 50.000 habitantes. ",
+            "b": "b) Cinco en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 75.000 habitantes. ",
+            "c": "c) Cuatro en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 50.000 habitantes. ",
+            "d": "d) Cuatro en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 75.000 habitantes."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Cinco en representación de los concejos del Principado de Asturias, a propuesta de la Federación Asturiana de Concejos, al menos uno, entre los concejos de población superior a 75.000 habitantes."
+    },
+    {
+        "timestamp": 1781029485.7636354,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "12. Las motocicletas, los vehículos de tres ruedas, los ciclomotores y los ciclos y bicicletas podrán arrastrar un remolque o semirremolque, siempre que se cumplan las siguientes condiciones:",
+        "respuestas": {
+            "a": "a) Que no superen el 50 % de la masa en vacío del vehículo tractor. ",
+            "b": "b) Que la circulación sea de día o en condiciones que la visibilidad sea suficiente. ",
+            "c": "c) Que la velocidad a que se circule en estas condiciones quede reducida en un 10 km/h respecto a las velocidades genéricas establecidas para estos vehículos. ",
+            "d": "d) Todas son correctas"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) Que no superen el 50 % de la masa en vacío del vehículo tractor."
+    },
+    {
+        "timestamp": 1781029587.9398997,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "19. Están exentos de la obligación de utilizar cinturón de seguridad:",
+        "respuestas": {
+            "a": "a) Los conductores de los vehículos en servicios de urgencia, en todo tipo de vía. ",
+            "b": "b) Los conductores y pasajeros de los vehículos en servicios de urgencia, en todo tipo de vía. ",
+            "c": "c) Los conductores de los vehículos en servicios de urgencia, exclusivamente en poblado. ",
+            "d": "d) Los conductores y pasajeros de los vehículos en servicios de urgencia, exclusivamente en poblado."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Los conductores y pasajeros de los vehículos en servicios de urgencia, exclusivamente en poblado."
+    },
+    {
+        "timestamp": 1781029654.8284907,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "24. ¿Cuál de las siguientes infracciones es grave?",
+        "respuestas": {
+            "a": "a) El deterioro de señalización ocasional. ",
+            "b": "b) Conducir un vehículo con peligro de caída. ",
+            "c": "c) Causar alteraciones a la circulación por las dimensiones del vehículo, cuando se carezca de autorización. ",
+            "d": "d) Todas las anteriores son infracciones graves."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Conducir un vehículo con peligro de caída."
+    },
+    {
+        "timestamp": 1781029669.812583,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "25. En un vehículo viaja un niño de 5 años sin hacer uso del sistema de retención infantil. ¿Quién será el responsable?",
+        "respuestas": {
+            "a": "a) El conductor del vehículo, en todo caso. ",
+            "b": "b) El padre, madre o tutor legal. ",
+            "c": "c) El propio niño de 5 años, como autor directo. ",
+            "d": "d) Ninguna es correcta."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta."
+    },
+    {
+        "timestamp": 1781029742.3167155,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "30. El control de la actividad de los órganos de las Comunidades Autónomas relativo a la administración autónoma y sus normas reglamentarias, se ejercerá por:",
+        "respuestas": {
+            "a": "a) La Jurisdicción contencioso-administrativa ",
+            "b": "b) El Tribunal de Cuentas ",
+            "c": "c) El Gobierno ",
+            "d": "d) El Tribunal Constitucional"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) La Jurisdicción contencioso-administrativa"
+    },
+    {
+        "timestamp": 1781029791.1812313,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "33. En lo que respecta al derecho de reunión…",
+        "respuestas": {
+            "a": "a) Se necesita autorización previa ",
+            "b": "b) Se necesita siempre comunicación previa ",
+            "c": "c) Deberá ser sin armas, aunque no necesariamente pacífica ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1781029836.405234,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "35. El referéndum consultivo…",
+        "respuestas": {
+            "a": "a) Será convocado por el Congreso de los Diputados ",
+            "b": "b) Su propuesta será previamente autorizado por el Congreso de los Diputados ",
+            "c": "c) Será propuesto por del Rey ",
+            "d": "d) Su propuesta será posteriormente autorizado por el Senado"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Su propuesta será previamente autorizado por el Congreso de los Diputados"
+    },
+    {
+        "timestamp": 1781029916.0136921,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "39. La reforma de los Estatutos de Autonomía…",
+        "respuestas": {
+            "a": "a) Se ajustará al procedimiento establecido en la CE y requerirá, en determinados casos, la aprobación de las Cortes Generales, mediante ley orgánica ",
+            "b": "b) Se ajustará al procedimiento establecido en el Texto Refundido de Régimen Local y requerirá, en todo caso, la aprobación de las Cortes Generales, mediante ley ordinaria ",
+            "c": "c) Se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación del Congreso de los Diputados, mediante ley orgánica ",
+            "d": "d) Se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación de las Cortes Generales, mediante ley orgánica"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación de las Cortes Generales, mediante ley orgánica"
+    },
+    {
+        "timestamp": 1781029970.8060343,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "41. La actuación de las Policías Locales se circunscribe solamente al ámbito territorial del municipio respectivo…",
+        "respuestas": {
+            "a": "a) Salvo situaciones de emergencia, sin más requisitos ",
+            "b": "b) Salvo que ejerzan funciones de protección de autoridades de las corporaciones locales siempre y cuando cuenten con autorización del Ministerio del Interior, en todo caso ",
+            "c": "c) Salvo que ejerzan funciones de protección de autoridades de las corporaciones locales siempre y cuando cuenten con autorización de la correspondiente autoridad de la Comunidad autónoma, en todo caso ",
+            "d": "d) Todas son incorrectas"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Todas son incorrectas"
+    },
+    {
+        "timestamp": 1781030032.7501273,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "47. Corresponde al Cuerpo Nacional de Policía ejercitar sus funciones…",
+        "respuestas": {
+            "a": "a) en las capitales de provincia ",
+            "b": "b) en los términos municipales y núcleos rurales que el Gobierno determine ",
+            "c": "c) en el mar territorial ",
+            "d": "d) a) y b) son correctas"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) en las capitales de provincia"
+    },
+    {
+        "timestamp": 1781030043.1908069,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "48. Las competencias del Cuerpo Nacional de Policía y de la Guardia Civil se regulan en el ",
+        "respuestas": {
+            "a": "a) Artículo 10 de la LOFFCCS ",
+            "b": "b) Artículo 11 de la LOFFCCS ",
+            "c": "c) Artículo 12 de la LOFFCCS ",
+            "d": "d) Artículo 13 de la LOFFCCS"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) Artículo 12 de la LOFFCCS"
+    },
+    {
+        "timestamp": 1781030063.0463455,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "50. Los vigilantes municipales…",
+        "respuestas": {
+            "a": "a) Son contratados laborales ",
+            "b": "b) Son funcionarios públicos ",
+            "c": "c) Pertenecen al grupo C1 de clasificación ",
+            "d": "d) Su selección se llevará a cabo solamente a través del sistema de oposición libre"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) Son funcionarios públicos"
+    },
+    {
+        "timestamp": 1781030175.9590244,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "59. La tasa límite de 0.15 mg/l de alcohol en aire espirado se aplica a:",
+        "respuestas": {
+            "a": "a) Conductores durante los tres años siguientes a la obtención del permiso o licencia que les habilita para conducir ",
+            "b": "b) Conductores durante los dos años siguientes a la obtención del permiso o licencia que les habilita para conducir ",
+            "c": "c) Conductores durante el año siguiente a la obtención del permiso o licencia que les habilita para conducir ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Conductores durante los dos años siguientes a la obtención del permiso o licencia que les habilita para conducir"
+    },
+    {
+        "timestamp": 1781030197.7910843,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "61. La utilización de los carriles para vehículos con alta ocupación (VAO) queda limitada a:",
+        "respuestas": {
+            "a": "a) ciclomotores ",
+            "b": "b) turismos con remolque ",
+            "c": "c) vehículos mixtos adaptables ",
+            "d": "d) Todas son correctas"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) vehículos mixtos adaptables"
+    },
+    {
+        "timestamp": 1781030245.639228,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "63. Los conductores que circulen por un carril reversible deberán tener en cuenta que...",
+        "respuestas": {
+            "a": "a) Deberán circular con la luz de corto alcance o de cruce encendida, tanto de día como de noche ",
+            "b": "b) A una velocidad máxima de 80 km/h y a una mínima de 60, o inferiores si así estuviera establecido o específicamente señalizado ",
+            "c": "c) No podrán desplazarse lateralmente invadiendo el carril o carriles destinados al sentido normal de la circulación, ni siquiera para adelantar. ",
+            "d": "d) Todas son correctas"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) Deberán circular con la luz de corto alcance o de cruce encendida, tanto de día como de noche"
+    },
+    {
+        "timestamp": 1781030253.487239,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "64. La velocidad máxima permitida en vías que dispongan de plataforma única de calzada y acera será de:",
+        "respuestas": {
+            "a": "a) 30 Km/h ",
+            "b": "b) 25 Km/h ",
+            "c": "c) 20 Km/h ",
+            "d": "d) 40 Km/h"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) 20 Km/h"
+    },
+    {
+        "timestamp": 1781030329.5517678,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "68. El conductor de una bicicleta, cuando sea obligatorio el uso de alumbrado…",
+        "respuestas": {
+            "a": "a) Deberá llevar colocada alguna prenda o elemento reflectante, en vías urbanas e interurbanas ",
+            "b": "b) Deberá llevar colocada alguna prenda o elemento reflectante visible desde 100 metros ",
+            "c": "c) Deberá llevar colocada alguna prenda o elemento reflectante en vías interurbanas ",
+            "d": "d) Deberá llevar colocada alguna prenda o elemento reflectante, en vías urbanas e interurbanas, visible desde 150 metros"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) Deberá llevar colocada alguna prenda o elemento reflectante en vías interurbanas"
+    },
+    {
+        "timestamp": 1781030388.0241678,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "71. Una señal de ceda el paso pintada sobre la vía es…",
+        "respuestas": {
+            "a": "a) Marca vial ",
+            "b": "b) Señalización horizontal ",
+            "c": "c) Todas son correctas ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Todas son correctas"
+    },
+    {
+        "timestamp": 1781030507.9126794,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "78. Si se detecta conduciendo a una persona que ha sido privada de su autorización para conducir por resolución judicial por 3 años,  durante el tiempo de privación, cometerá",
+        "respuestas": {
+            "a": "a) Una infracción administrativa por conducir sin la autorización ",
+            "b": "b) Un delito de quebrantamiento de condena ",
+            "c": "c) Un delito de conducción por no haber obtenido nunca permiso ",
+            "d": "d) Un delito de conducción por haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Un delito de conducción por haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial"
+    },
+    {
+        "timestamp": 1781030544.872986,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "(DEPRECATED)79. En el caso anterior, si se le detectara conduciendo una vez cumplido el tiempo de privación, cometerá",
+        "respuestas": {
+            "a": "a) Una infracción administrativa por conducir sin la autorización administrativa ",
+            "b": "b) Un delito de quebrantamiento de condena, debiendo de realizar solamente el curso de sensibilización y reeducación vial para obtener nuevamente el permiso de conducir ",
+            "c": "c) Un delito de conducción por haber sido privado cautelar o definitivamente del permiso o licencia por decisión judicial ",
+            "d": "d) Ninguna de las anteriores"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Ninguna de las anteriores"
+    },
+    {
+        "timestamp": 1781030577.1610034,
+        "path": "/_repaso-unidades_1-9_I.json",
+        "id": "id2340234",
+        "pregunta": "81. En las denuncias por hechos de circulación deberá constar, en todo caso: ",
+        "respuestas": {
+            "a": "a) La identificación del vehículo con el que se haya cometido la presunta infracción ",
+            "b": "b) La identidad del denunciado, siempre ",
+            "c": "c) El nombre, apellidos, domicilio y profesión del denunciante o, si es un agente de la autoridad, su número de identificación profesional ",
+            "d": "d) Todas son correctas"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) La identificación del vehículo con el que se haya cometido la presunta infracción"
+    }
+]

@@ -5,7 +5,7 @@ from colorama import Style, init, Fore
 import datetime
 import time
 import sys
-
+from bs4 import BeautifulSoup
 
 # todo calcular nota
 
@@ -32,6 +32,9 @@ class Test_Selector():
         init() 
         # self.main()
     
+    def _limpiar_html(self, html):
+        soup = BeautifulSoup(html, 'html.parser')
+        return soup.get_text()
 
     def volcar_logs_preguntas(self):
         # print(self.listado_preguntas_respondidas)
@@ -46,6 +49,27 @@ class Test_Selector():
 
    
     def construir_log_pregunta(self, pregunta, path, opcion_elegida):
+        # question_log = {
+        #     # todo optimizar timestamp
+        #     "timestamp": time.time(),
+        #     # todo optimizar ruta
+        #     "path": path.replace(self.root_path, '').replace("\\", "/"),
+        #     # "path": path.replace('E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db', '').replace("\\", "/"),
+        #     "id": "id2340234",
+        #     "pregunta": pregunta["pregunta"],
+        #     "opciones_respuesta": {
+        #         "a": pregunta["respuestas"]["a"],
+        #         "b": pregunta["respuestas"]["b"],
+        #         "c": pregunta["respuestas"]["c"],
+        #         "d": pregunta["respuestas"]["d"],
+        #     },
+        #     "opcion_correcta": pregunta["solucion"],
+        #     "opcion_selecionada": opcion_elegida,
+          
+        #     "explicacion": self._limpiar_html(pregunta["explicacion"]) if pregunta["explicacion"] else "" 
+            
+
+        # }
         question_log = {
             # todo optimizar timestamp
             "timestamp": time.time(),
@@ -54,14 +78,18 @@ class Test_Selector():
             # "path": path.replace('E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db', '').replace("\\", "/"),
             "id": "id2340234",
             "pregunta": pregunta["pregunta"],
-            "opciones_respuesta": {
+            "respuestas": {
                 "a": pregunta["respuestas"]["a"],
                 "b": pregunta["respuestas"]["b"],
                 "c": pregunta["respuestas"]["c"],
                 "d": pregunta["respuestas"]["d"],
             },
-            "opcion_correcta": pregunta["solucion"],
+            "solucion": pregunta["solucion"],
+            # "opcion_correcta": pregunta["solucion"],
             "opcion_selecionada": opcion_elegida,
+          
+            "explicacion": self._limpiar_html(pregunta["explicacion"]) if pregunta["explicacion"] else "" 
+            
 
         }
         print("log, guardando pregunta")
@@ -112,6 +140,9 @@ class Test_Selector():
                         else:
                             print(Style.RESET_ALL, f"\t{p})", pregunta["respuestas"][p])
 
+                print()              
+                # imprimir solucion explicacion
+                print(Style.BRIGHT, Fore.YELLOW, self._limpiar_html(pregunta["explicacion"]) ,Style.RESET_ALL)
                 print()
                     
             else:
@@ -188,7 +219,7 @@ class Test_Selector():
         temp_user_selection = None
         
         while True:
-            temp_user_selection = input("Escoge opcion: ")
+            temp_user_selection = input("Escoge opcion: ").lower()
             mix_options = self.resp_options + self.save_options
 
             if temp_user_selection not in mix_options :            
@@ -216,6 +247,7 @@ class Test_Selector():
         0. database
         1. test generados notebook
         2. test de  errores
+        3. test opositatest
                     
         """))
         
@@ -223,6 +255,8 @@ class Test_Selector():
             self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\notebook' #? usar para test de notebooklm
         elif opt == 2:
             self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\errors' #? usar para test de errores
+        elif opt == 3:
+            self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\python scripts\\modules\\tests\\opositatest' #? usar para test de errores
         elif opt == 0:
             self.root_path = 'E:\\ESCRITORIO 2023\\OPOSICIONES\\desarrollo applicaciones\\asturpol-game\\src\\pages\\api\\tests\\db'
             print("ACCEDIENDO A LA DB:")

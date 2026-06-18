@@ -4,10 +4,12 @@ import pandas as pd
 
 # todo hacer para poder seleccionar el dia 
 
+
+## todo solucionar el formato json de exportacion
 # solo vuelca los errores
 class ErrosSelector():
     def __init__(self, mode="today", path_folder='backup', erros_folder_path ='errors'):
-        self.today = datetime.date.today()
+        self.today = datetime.date.today() if mode == 'today' else mode
         self.mode = mode  
         self.data_brute = None
         self.data_errors = [] 
@@ -21,8 +23,18 @@ class ErrosSelector():
         with open(os.path.join(self.path_folder, str(self.today)+'.json'), 'r', encoding='utf-8') as f:
             self.data_brute = json.load(f)
         self.filtrar_errores()
-        self.volcar_errores_json()
+        
+        print(f"Total preguntas: {len(self.data_brute)}")
         print(f"Errores volcados, total fallos: {len(self.data_errors)}")
+        
+        # todo revisar calculos
+        valor_calculo = 100
+        valor_pregunta = valor_calculo/len(self.data_brute)
+        puntuacion_actual = ( len(self.data_brute) - (len(self.data_errors)/3) ) * valor_pregunta
+        print(f"Porcentaje Fallos Aciertos: {puntuacion_actual}/{valor_calculo}")
+        
+        
+        self.volcar_errores_json()
         self.volcar_errores_csv()
         print("CSV Creado")
         
@@ -31,7 +43,7 @@ class ErrosSelector():
         
     def filtrar_errores(self):
         for pregunta in self.data_brute:
-            if pregunta["opcion_correcta"] != pregunta["opcion_selecionada"]:
+            if pregunta["solucion"] != pregunta["opcion_selecionada"]:
                 self.data_errors.append(pregunta)
     
     def volcar_errores_json(self):
@@ -44,7 +56,7 @@ class ErrosSelector():
         
         for item in self.data_errors:
             
-            opciones = item.pop("opciones_respuesta")
+            opciones = item.pop("respuestas")
             
             
             
@@ -65,5 +77,44 @@ class ErrosSelector():
         
         
 if __name__ == '__main__':
-    error_capture = ErrosSelector(mode="today")
+    
+    # todo crear sistema de seleccion de archivos
+    folders = [ "backup", "opositatest"]
+    
+    for i, folder in enumerate(folders):
+        print(i, folder)
+        
+    
+    selected_folder = input("Elige carpeta, [backup:default]:") 
+    
+    if selected_folder == "0":
+        selected_folder = "backup"
+    if selected_folder == "1":
+        selected_folder = "opositatest"
+        
+    else:
+        selected_folder ="backup"
+        # si selecionamos opositatest escoger sobre los que hay
+    
+    print(os.listdir(selected_folder))
+    
+    
+    
+    # sino vamos por otro camino
+    files = [ f for f in os.listdir(selected_folder) if f.endswith(".json")]
+    for i, f in enumerate(files):
+        print(i, f)
+    
+    
+    
+    mode_selection = input("Escribe el nombre del archivo o deja en blanco para que escoja por defecto el de hoy: ")
+    if mode_selection == "":
+        mode_selection = "today"
+    else:
+        mode_selection = files[int(mode_selection)][:-5]
+        
+    print(mode_selection)
+        
+    
+    error_capture = ErrosSelector(mode=mode_selection, path_folder=selected_folder)
     error_capture.run()

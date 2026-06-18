@@ -1,0 +1,227 @@
+[
+    {
+        "timestamp": 1781181296.6644113,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "30. El art. 153.1 se aplica cuando la víctima sea (entre otros):",
+        "respuestas": {
+            "a": "a) Esposa o mujer ligada por análoga relación de afectividad aun sin convivencia.",
+            "b": "b) Persona especialmente vulnerable que conviva con el autor.",
+            "c": "c) Ambas son correctas.",
+            "d": "d) Solo si hay convivencia en todos los casos."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "(Art. 153.1). Protege tanto el género como la vulnerabilidad en convivencia."
+    },
+    {
+        "timestamp": 1781181306.0883403,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "28. ¿Qué plazo de privación del derecho a conducir se impone en las lesiones por imprudencia menos grave (art. 152.2)?",
+        "respuestas": {
+            "a": "a) De tres meses a un año.",
+            "b": "b) De tres meses a dieciocho meses.",
+            "c": "c) De uno a cuatro años.",
+            "d": "d) No se impone privación del permiso, solo multa."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 152.2). La a es para imprudencia grave. Cuidado con este cruce de datos."
+    },
+    {
+        "timestamp": 1781181314.0322845,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "34. La pena para la riña tumultuaria es de:",
+        "respuestas": {
+            "a": "a) Prisión de tres meses a un año o multa de seis a 24 meses.",
+            "b": "b) Prisión de seis meses a dos años.",
+            "c": "c) Multa de uno a tres meses.",
+            "d": "d) Prisión de uno a tres años."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "(Art. 154). La b es para maltrato agravado."
+    },
+    {
+        "timestamp": 1781181320.9204593,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "13. El que induzca al suicidio de otro será castigado con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de dos a cinco años.",
+            "b": "b) Prisión de cuatro a ocho años.",
+            "c": "c) Prisión de seis a diez años.",
+            "d": "d) Prisión permanente revisable."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 143.1). La a es para cooperación no ejecutiva."
+    },
+    {
+        "timestamp": 1781181333.5050707,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "3. En un asesinato, si concurren dos o más de las circunstancias del art. 139.1, se impondrá la pena de:",
+        "respuestas": {
+            "a": "a) Prisión permanente revisable.",
+            "b": "b) Prisión en su mitad superior (de 20 años y 1 día a 25 años).",
+            "c": "c) Prisión de quince a veinticinco años en su mitad superior.",
+            "d": "d) La pena superior en grado."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 139.2). La a es para casos del art. 140; la d es una regla general pero el 139.2 especifica \"mitad superior\"."
+    },
+    {
+        "timestamp": 1781181353.2012358,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "21. El art. 148 permite agravar las lesiones del 147.1 con pena de prisión de 2 a 5 años si:",
+        "respuestas": {
+            "a": "a) Hay alevosía o ensañamiento.",
+            "b": "b) Se usan armas o instrumentos peligrosos.",
+            "c": "c) La víctima es menor de 14 años o persona con discapacidad necesitada de especial protección.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "(Art. 148). Recoge todos estos supuestos de mayor peligrosidad."
+    },
+    {
+        "timestamp": 1781181363.272757,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "24. En el caso de mutilación genital a una menor, el juez podrá imponer adicionalmente la inhabilitación especial para el ejercicio de la patria potestad por tiempo de:",
+        "respuestas": {
+            "a": "a) 4 a 10 años.",
+            "b": "b) 5 a 15 años.",
+            "c": "c) 2 a 6 años.",
+            "d": "d) 1 a 5 años."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "(Art. 149.2). Es obligatoria si el juez lo estima adecuado al interés del menor."
+    },
+    {
+        "timestamp": 1781181377.2487683,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "25. Si en un delito de lesiones media el consentimiento válido, libre, espontáneo y expreso del ofendido:",
+        "respuestas": {
+            "a": "a) El hecho es atípico (no hay delito).",
+            "b": "b) Se impondrá la pena inferior en uno o dos grados.",
+            "c": "c) Se impondrá la pena inferior en un grado únicamente.",
+            "d": "d) El consentimiento no tiene valor en delitos de lesiones."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 155). Nunca exime, solo reduce."
+    },
+    {
+        "timestamp": 1781181388.2969208,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "33. La riña tumultuaria (art. 154) requiere que los que riñen entre sí lo hagan utilizando medios o instrumentos que pongan en peligro:",
+        "respuestas": {
+            "a": "a) La propiedad privada.",
+            "b": "b) La vida o integridad de las personas.",
+            "c": "c) El orden público únicamente.",
+            "d": "d) La libertad de deambulación."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 154). \"Acometiéndose tumultuariamente\"."
+    },
+    {
+        "timestamp": 1781181400.3209991,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "14. Si la cooperación al suicidio llega hasta el punto de ejecutar la muerte (auxilio ejecutivo), la pena es:",
+        "respuestas": {
+            "a": "a) Prisión de cuatro a ocho años.",
+            "b": "b) Prisión de seis a diez años.",
+            "c": "c) Prisión de diez a quince años.",
+            "d": "d) La misma que el homicidio."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 143.3). Es el auxilio ejecutivo."
+    },
+    {
+        "timestamp": 1781181409.7529638,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "40. Se considera \"miembro principal\" a efectos de lesiones (art. 149) según los ejemplos de tus apuntes:",
+        "respuestas": {
+            "a": "a) Un dedo.",
+            "b": "b) El bazo.",
+            "c": "c) Una pierna.",
+            "d": "d) Las piezas dentales."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "Ojos, brazos, manos, pies son principales. Los dedos y el bazo no lo son (art. 150)."
+    },
+    {
+        "timestamp": 1781181426.0009692,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "35. Para que el consentimiento exima de responsabilidad penal en trasplantes de órganos o esterilizaciones (art. 156), este debe ser:",
+        "respuestas": {
+            "a": "a) Viciado.",
+            "b": "b) Obtenido mediante precio o recompensa.",
+            "c": "c) Válido, libre, consciente y expresamente emitido.",
+            "d": "d) Verbal ante dos testigos."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "(Art. 156). Si hay precio (b) no exime."
+    },
+    {
+        "timestamp": 1781181437.0971472,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "12. Para la persecución del homicidio por imprudencia menos grave realizado con vehículo a motor, se requiere:",
+        "respuestas": {
+            "a": "a) Denuncia del Ministerio Fiscal.",
+            "b": "b) Actuación de oficio siempre.",
+            "c": "c) Denuncia de la persona agraviada o su representante legal.",
+            "d": "d) Solo es perseguible si hay más de dos víctimas."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "(Art. 142.2 in fine). Sin denuncia no hay procedimiento por imprudencia menos grave."
+    },
+    {
+        "timestamp": 1781181448.561366,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "31. La pena del art. 153 se impondrá en su mitad superior cuando el delito se perpetre:",
+        "respuestas": {
+            "a": "a) En presencia de menores.",
+            "b": "b) Utilizando armas.",
+            "c": "c) En el domicilio común o de la víctima.",
+            "d": "d) Todas son correctas."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "(Art. 153.3). Son las agravantes específicas del maltrato."
+    },
+    {
+        "timestamp": 1781181460.1294503,
+        "path": "/homicidio_y_lesiones.json",
+        "id": "id2340234",
+        "pregunta": "17. El tipo básico de lesiones (art. 147.1) requiere que la lesión necesite objetivamente para su sanidad:",
+        "respuestas": {
+            "a": "a) Solo una primera asistencia facultativa.",
+            "b": "b) Tratamiento médico o quirúrgico.",
+            "c": "c) Vigilancia o seguimiento facultativo del curso de la lesión.",
+            "d": "d) Más de 30 días de baja."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "(Art. 147.1). Define la diferencia entre delito menos grave y leve."
+    }
+]

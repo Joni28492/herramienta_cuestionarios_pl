@@ -69,6 +69,7 @@ class CuestionarioCompetenciasLeyBases():
         
         color_temps = {
             "Gran Poblacion":"\033[38;5;208m",
+            "Junta Gobierno Local":"\033[38;5;13m",
             "Alcalde": "\033[38;5;51m",
             "Pleno": "\033[38;5;93m",
             "Reset": "\033[0m",
@@ -107,6 +108,9 @@ class CuestionarioCompetenciasLeyBases():
                 fallos += 1
         else: 
             pass
+        
+        if pregunta["hint"]:
+            print(Style.BRIGHT,  Fore.RED,  f"OJO CUIDADO: {pregunta["hint"]}", Style.RESET_ALL)
                 
         self.preguntas_cuestionario.append({"_id": pregunta["_id"],"aciertos": aciertos, "fallos": fallos})
                      

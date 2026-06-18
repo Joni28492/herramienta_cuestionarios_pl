@@ -1,0 +1,998 @@
+[
+    {
+        "id": "",
+        "pregunta": "Según el art. 12.1 de la Ley 10/1986, de 7 de noviembre, reguladora de la demarcación territorial de los Concejos del Principado de Asturias, acordada por la Consejería de Interior y Administración Territorial la incoación del procedimiento, se abrirá un período de información pública por plazo de:",
+        "respuestas": {
+            "a": "Dos meses.",
+            "b": "Tres meses.",
+            "c": "Seis meses.",
+            "d": "Cuatro meses."
+        },
+        "tema": "Tema 5. La Administración local / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Cuando excepcionalmente se declaren Parques y Reservas Naturales sin la previa aprobación del Plan de Ordenación, por existir razones que lo justifiquen, ¿en qué plazo deberá tramitarse el correspondiente Plan, a partir de la declaración de Parque o Reserva?",
+        "respuestas": {
+            "a": "En el plazo de seis meses.",
+            "b": "En el plazo de un año.",
+            "c": "En el plazo de cinco años.",
+            "d": "En el plazo de nueve meses."
+        },
+        "tema": "Tema 12. Geografía de Asturias / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "¿Qué requisitos deben cumplirse para poder otorgar eficacia retroactiva a los actos administrativos que se dicten en sustitución de actos anulados, y,  que produzcan efectos favorables al interesado?",
+        "respuestas": {
+            "a": "Es necesario que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.",
+            "b": "Es necesario que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto y ésta no perjudique el interés general o el orden público.",
+            "c": "Es necesario que la retroactividad no perjudique el interés general o el orden público.",
+            "d": "Es necesario que los supuestos de hecho necesarios existieran ya en la fecha a que se retrotraiga la eficacia del acto."
+        },
+        "tema": "Tema 7. El acto administrativo / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "De acuerdo con la Ley 1/2000, de 20 de junio, por la que se crea la Comisión Asturiana de Administración Local, formarán parte del pleno:",
+        "respuestas": {
+            "a": "Dos alcaldes en representación de los concejos con población inferior a 2.000 habitantes",
+            "b": "Los Alcaldes de los concejos con población superior a 30.000 habitantes",
+            "c": "Un alcalde por cada una de las tres circunscripciones electorales.",
+            "d": "Un representante de la Administración del Principado de Asturias."
+        },
+        "tema": "Tema 5. La Administración local / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538461",
+        "pregunta": "Las Cortes Generales, en materias de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas:",
+        "respuestas": {
+            "a": "No podrán dictar, por sí mismas, normativa alguna.",
+            "b": "La facultad de dictar, para sí mismas, normas legislativas  sin limitación alguna, pero la atribución de la facultad de emitirlas corresponde al Gobierno de la Nación, no a las Cortes Generales.",
+            "c": "La facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.",
+            "d": "La facultad de dictar, para sí mismas, normas legislativas  sin limitación alguna."
+        },
+        "tema": "Tema 3. La Constitución española (III) / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Las leyes entrarán en vigor:",
+        "respuestas": {
+            "a": "A los quince días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+            "b": "Al día siguiente de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+            "c": "A los veinte días de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa.",
+            "d": "Al mes de su completa publicación en el Boletín Oficial del Estado, si en ellas no se dispone otra cosa."
+        },
+        "tema": "Tema 6. El Derecho administrativo y sus fuentes / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539250",
+        "pregunta": "¿Qué podrán exigir las entidades locales en régimen de autoliquidación, según el RDL 2/2004?",
+        "respuestas": {
+            "a": "El coste de los servicios prestados.",
+            "b": "Los precios públicos.",
+            "c": "Las tasas.",
+            "d": "Las respuestas B y C son correctas."
+        },
+        "tema": "Tema 10. Las Haciendas Locales / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-756507",
+        "pregunta": "Según el artículo 1º del Código Civil se consideran fuentes del ordenamiento jurídico español:",
+        "respuestas": {
+            "a": "La ley.",
+            "b": "La costumbre.",
+            "c": "Los principios generales del derecho.",
+            "d": "Todas las respuestas anteriores son correctas."
+        },
+        "tema": "Tema 6. El Derecho administrativo y sus fuentes / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-542043",
+        "pregunta": "De acuerdo con lo dispuesto en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, ¿a quién le corresponde la declaración y la determinación de la fórmula de gestión de los Espacios Naturales Protegidos en su ámbito territorial?",
+        "respuestas": {
+            "a": "A la Administración General del Estado.",
+            "b": "Al Ministerio de Agricultura, Pesca y Alimentación.",
+            "c": "A la Red Europea de Información y Observación del Medio Ambiente.",
+            "d": "A las Comunidades Autónomas."
+        },
+        "tema": "Tema 12. Geografía de Asturias / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538750",
+        "pregunta": "De acuerdo con la Ley Reguladora de las Bases del Régimen Local, ¿a quién le corresponde fijar la cuantía de las retribuciones complementarias fijas y periódicas de los funcionarios?",
+        "respuestas": {
+            "a": "Al Pleno.",
+            "b": "Al Alcalde.",
+            "c": "A la Junta de Gobierno, previa autorización del Alcalde.",
+            "d": "Al Secretario/Interventor."
+        },
+        "tema": "Tema 5. La Administración local / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538227",
+        "pregunta": "Los miembros del Tribunal Constitucional serán designados:",
+        "respuestas": {
+            "a": "Por un periodo de seis años y se renovarán por mitades cada tres",
+            "b": "Por un periodo de nueve años y se renovarán por terceras partes cada tres",
+            "c": "Por un periodo de seis años y se renovarán por terceras partes cada tres",
+            "d": "Por un periodo de nueve años y se renovarán por mitades cada tres"
+        },
+        "tema": "Tema 1. La Constitución española (I) / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538323",
+        "pregunta": "En el procedimiento legislativo, el Senado:",
+        "respuestas": {
+            "a": "Puede introducir, tanto enmiendas como vetos, pero siempre que lo haga por mayoría absoluta en ambos casos",
+            "b": "Puede introducir enmiendas por mayoría simple, y vetos por mayoría absoluta",
+            "c": "No puede introducir ni enmiendas ni vetos cuando se trate de Leyes Orgánicas",
+            "d": "Sólo puede introducir enmiendas a los textos legislativos aprobados por el Congreso de los Diputados, pero no vetos"
+        },
+        "tema": "Tema 2. La Constitución española (II) / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538358",
+        "pregunta": "Son leyes orgánicas:",
+        "respuestas": {
+            "a": "Las relativas al desarrollo de los derechos fundamentales y de las libertades públicas, las que aprueben los Estatutos de Autonomía y el régimen electoral general y las demás previstas en la Constitución.",
+            "b": "Exclusivamente las relativas al desarrollo de los derechos fundamentales y libertades públicas y a las funciones atribuidas a la Corona.",
+            "c": "Las anteriores y las que adquieran tal carácter por disponerlo así las Cortes Generales por mayoría el Congreso, en una votación final sobre el conjunto del proyecto.",
+            "d": "Solo las que autorizan la celebración de Tratados internacionales para atribuir competencias derivadas de la Constitución."
+        },
+        "tema": "Tema 2. La Constitución española (II) / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538619",
+        "pregunta": "¿Cómo es la bandera del Principado de Asturias según indica el Estatuto de Autonomía del Principado de Asturias?",
+        "respuestas": {
+            "a": "La tradicional con la Cruz Dentada en amarillo sobre fondo azul.",
+            "b": "La tradicional con la Cruz de la Victoria en amarillo sobre fondo azul.",
+            "c": "La tradicional con la Cruz de la Victoria en azul sobre fondo amarillo.",
+            "d": "La tradicional con la Cruz Dentada en azul sobre fondo amarillo."
+        },
+        "tema": "Tema 4. El Estatuto de Autonomía del Principado de Asturias / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Los hechos relevantes para la decisión de un procedimiento podrán acreditarse por cualquier medio de prueba admisible en Derecho, cuya valoración se realizará de acuerdo con los criterios establecidos en:",
+        "respuestas": {
+            "a": "Ley orgánica 13/2015 de 5 de octubre, de Enjuiciamiento Criminal.",
+            "b": "La Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.",
+            "c": "El Código Civil.",
+            "d": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
+        },
+        "tema": "Tema 8. El procedimiento administrativo común / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Señale la respuesta incorrecta según la regulación que de la costumbre, como fuente del ordenamiento jurídico español, hace el Código Civil:",
+        "respuestas": {
+            "a": "La costumbre solo regirá en defecto de ley aplicable.",
+            "b": "Los usos jurídicos que sean meramente interpretativos de una declaración de voluntad tendrán la consideración de costumbre.",
+            "c": "La costumbre regirá siempre que no sea contraria a la moral o al orden público.",
+            "d": "La costumbre habrá de ser probada."
+        },
+        "tema": "Tema 6. El Derecho administrativo y sus fuentes / I. Grupo de materias comunes - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "La seguridad de un Ministro le corresponde:",
+        "respuestas": {
+            "a": "A las Fuerzas y Cuerpos de Seguridad del Estado.",
+            "b": "Al Cuerpo Nacional de Policía.",
+            "c": "A la Guardia Civil.",
+            "d": "A miembros de la Seguridad privada."
+        },
+        "tema": "Tema 2. Las Fuerzas y Cuerpos de Seguridad del Estado / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-614613",
+        "pregunta": "Según el artículo 2 del Decreto 90/2004, de 11 de noviembre, por el que se regula el régimen de horarios de los establecimientos, locales e instalaciones para espectáculos públicos y actividades recreativas en el Principado de Asturias, los locales con música amplificada tienen de horario general:",
+        "respuestas": {
+            "a": "Apertura a las 11.00 horas y cierre a las 7.30 horas del día siguiente al de apertura.",
+            "b": "Apertura a las 11.00 horas y cierre a las 5.30 horas del día siguiente al de apertura.",
+            "c": "Apertura a las 11.00 horas y cierre a las 3.30 horas del día siguiente al de apertura.",
+            "d": "Apertura a las 11.00 horas y cierre a las 5.00 horas del día siguiente al de apertura."
+        },
+        "tema": "Tema 8. Legislación autonómica en materia de espectáculos públicos y actividades recreativas / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539407",
+        "pregunta": "De acuerdo con la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad no es una función de las Fuerzas y Cuerpos de Seguridad del Estado:",
+        "respuestas": {
+            "a": "Colaborar con los servicios de protección civil en los casos de grave riesgo, catástrofe, o calamidad pública.",
+            "b": "Prevenir la comisión de infracciones.",
+            "c": "Velar por la protección y seguridad de altas personalidades.",
+            "d": "Asegurar la conservación y custodia de los bienes que se encuentren en situación de peligro por cualquier causa."
+        },
+        "tema": "Tema 2. Las Fuerzas y Cuerpos de Seguridad del Estado / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-572775",
+        "pregunta": "Según la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, respecto a los Cuerpos de policía local:",
+        "respuestas": {
+            "a": "Los Cuerpos de policía local siempre deben vestir el uniforme reglamentario sin excepción.",
+            "b": "Dichos cuerpos sólo podrán actuar en el ámbito territorial del municipio respectivo, salvo en situaciones de emergencia y previo requerimiento de las autoridades competentes y cuando realicen funciones de protección de autoridades de las corporaciones locales y cuenten con la autorización del Ministerio del Interior.",
+            "c": "En los municipios donde exista policía municipal, los cometidos de ésta podrán ser ejercidos por el personal que desempeñe funciones de custodia y vigilancia de bienes, servicios e instalaciones, con la denominación de guardas, vigilantes, agentes, alguaciles o análogos.",
+            "d": "En todos los municipios podrá constituirse una Junta Local de Seguridad."
+        },
+        "tema": "Tema 3. La Policía Local / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540152",
+        "pregunta": "La licencia de armas B autoriza para la tenencia de:",
+        "respuestas": {
+            "a": "Armas cortas.",
+            "b": "Armas de caza mayor.",
+            "c": "Armas largas.",
+            "d": "Armas de concurso de tiro deportivo"
+        },
+        "tema": "Tema 11. El Reglamento de armas / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Según la Instrucción 7/2025, el consumo o la tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, ¿cuándo no se considera subsumible en ninguna de las infracciones administrativas descritas en la Ley Orgánica de protección de la seguridad ciudadana?",
+        "respuestas": {
+            "a": "Cuando no estuviera destinado al tráfico y fuese en el interior o exterior de un vehículo particular utilizado exclusivamente como medio de transporte estacionado.",
+            "b": "Cuando no estuviera destinado al tráfico y fuese en el interior o exterior de un vehículo particular utilizado, esa ocasión, como medio de transporte estacionado.",
+            "c": "Cuando no estuviera destinado al tráfico y fuese en el interior de un vehículo particular utilizado exclusivamente como medio de transporte estacionado.",
+            "d": "Cuando no estuviera destinado al tráfico y fuese en el interior de un vehículo particular utilizado, esa ocasión, como medio de transporte estacionado."
+        },
+        "tema": "Tema 5. La protección de la seguridad ciudadana. / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540106",
+        "pregunta": "¿Qué validez tiene la licencia de armas tipo E?",
+        "respuestas": {
+            "a": "4 años.",
+            "b": "5 años.",
+            "c": "3 años.",
+            "d": "2 años."
+        },
+        "tema": "Tema 11. El Reglamento de armas / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539363",
+        "pregunta": "El mantenimiento de la seguridad pública corresponde:",
+        "respuestas": {
+            "a": "Al Ministerio del Interior.",
+            "b": "Al Rey.",
+            "c": "Al Presidente del Gobierno.",
+            "d": "Al gobierno de la nación."
+        },
+        "tema": "Tema 1. Los Cuerpos y Fuerzas de Seguridad: la seguridad pública / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "En los municipios de gran población y en las Ciudades con Estatuto de Autonomía podrá asignarse, por el Pleno de la Corporación o por sus respectivas Asambleas, al ejercicio exclusivo de la función de ordenar, señalizar y dirigir el tráfico en el casco urbano a parte de los funcionarios pertenecientes a las mismas. Señale la respuesta FALSA:",
+        "respuestas": {
+            "a": "Ello no podrá comportar un incremento en los costes de personal.",
+            "b": "Tales funcionarios tendrán la consideración de agentes de la autoridad.",
+            "c": "Se integrarán en las Fuerzas y Cuerpos de Seguridad.",
+            "d": "Estarán subordinados a los miembros de los respectivos Cuerpos de Policía Local."
+        },
+        "tema": "Tema 3. La Policía Local / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-756625",
+        "pregunta": "Según establece la Ley Orgánica 4/2010, de 20 de mayo, del Régimen Disciplinario del Cuerpo Nacional de Policía, el régimen disciplinario se entiende:",
+        "respuestas": {
+            "a": "Sin perjuicio de la responsabilidad civil o penal en que puedan incurrir los funcionarios.",
+            "b": "Como sustitutivo de la responsabilidad penal.",
+            "c": "Supeditado siempre a la previa resolución de un proceso penal.",
+            "d": "Como la única vía de sanción para los funcionarios públicos."
+        },
+        "tema": "Tema 4. Régimen disciplinario de la Policía Local en Asturias / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539389",
+        "pregunta": "De acuerdo con la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, una de las siguientes funciones NO puede ser ejercida por los Cuerpos de Policía de las Comunidades Autónomas con el carácter de propias:",
+        "respuestas": {
+            "a": "Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas.",
+            "b": "Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma.",
+            "c": "El uso de la coacción en orden a la ejecución forzosa de los actos o disposiciones de la propia Comunidad Autónoma.",
+            "d": "La vigilancia y protección de personas, órganos, edificios, establecimientos y dependencias de la Comunidad Autónoma."
+        },
+        "tema": "Tema 2. Las Fuerzas y Cuerpos de Seguridad del Estado / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539998",
+        "pregunta": "Señale la respuesta incorrecta. Los Planes de Protección Civil son:",
+        "respuestas": {
+            "a": "Los Planes de Autoprotección.",
+            "b": "Los Planes Internacionales.",
+            "c": "El Plan Estatal General.",
+            "d": "Los Planes Territoriales."
+        },
+        "tema": "Tema 6. La protección civil / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540833",
+        "pregunta": "Según lo dispuesto en la Ley 8/2002, de 21 de octubre, de Espectáculos Públicos y Actividades Recreativas, no es una infracción leve:",
+        "respuestas": {
+            "a": "El retraso en el comienzo o finalización de los espectáculos y actividades recreativas.",
+            "b": "La utilización del derecho de admisión de forma discriminatoria o arbitraria.",
+            "c": "El suministro de agua potable, electricidad o combustibles líquidos o gaseosos a los establecimientos, locales o instalaciones eventuales que no cuenten con la oportuna licencia o autorización.",
+            "d": "El incumplimiento de los horarios de apertura y cierre de los locales en los que se desarrollen los mismos."
+        },
+        "tema": "Tema 8. Legislación autonómica en materia de espectáculos públicos y actividades recreativas / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "En el ejercicio de sus funciones, los miembros de las Fuerzas y Cuerpos de Seguridad deberán actuar con la decisión necesaria, y sin demora, cuando de ello dependa evitar un daño grave, inmediato e irreparable; rigiéndose al hacerlo por los principios de:",
+        "respuestas": {
+            "a": "Congruencia, necesidad y proporcionalidad en la utilización de los medios a su alcance.",
+            "b": "Efectividad, eficiencia y congruencia en la utilización de los medios a su alcance.",
+            "c": "Congruencia, oportunidad y proporcionalidad en la utilización de los medios a su alcance.",
+            "d": "Celeridad, necesidad y proporcionalidad en la utilización de los medios a su alcance."
+        },
+        "tema": "Tema 1. Los Cuerpos y Fuerzas de Seguridad: la seguridad pública / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540155",
+        "pregunta": "Armas de fuego antiguas o históricas, sus reproducciones y asimiladas, ¿en qué categoría se incluyen?",
+        "respuestas": {
+            "a": "7ª categoría.",
+            "b": "5ª categoría.",
+            "c": "6ª categoría.",
+            "d": "3º categoría."
+        },
+        "tema": "Tema 11. El Reglamento de armas / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540137",
+        "pregunta": "De acuerdo con lo dispuesto en el Reglamento de Armas, un arma basculante:",
+        "respuestas": {
+            "a": "Tiene un depósito de municiones.",
+            "b": "Solamente tiene un cañón.",
+            "c": "Se recarga automáticamente después de cada disparo.",
+            "d": "Se carga mediante la introducción manual de un cartucho en la recámara."
+        },
+        "tema": "Tema 11. El Reglamento de armas / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-572851",
+        "pregunta": "Según la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, el número de representantes de las Comunidades Autónomas en el Comité de Expertos que funciona dentro del Consejo de Política de Seguridad, es de:",
+        "respuestas": {
+            "a": "Ocho.",
+            "b": "Diez.",
+            "c": "Cuatro.",
+            "d": "Seis."
+        },
+        "tema": "Tema 2. Las Fuerzas y Cuerpos de Seguridad del Estado / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "La Administración del Principado de Asturias velará por el pleno respeto de los derechos del menor reconocidos por la legislación vigente, garantizando:",
+        "respuestas": {
+            "a": "El acceso a la jurisdicción ordinaria.",
+            "b": "El acceso al Ministerio Fiscal.",
+            "c": "El acceso al Letrado Defensor del Menor.",
+            "d": "Las respuestas A) y B) son correctas."
+        },
+        "tema": "Tema 10. Colectivos de riesgo o especial vulnerabilidad / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-542258",
+        "pregunta": "De acuerdo con la LO 4/2010, se entenderá por encubrimiento:",
+        "respuestas": {
+            "a": "No dar cuenta al superior jerárquico competente, de forma inmediata, de los hechos constitutivos de falta muy grave o grave de los que se tenga conocimiento.",
+            "b": "No dar cuenta al superior jerárquico competente, de forma inmediata, únicamente de los hechos constitutivos de falta muy grave.",
+            "c": "No dar cuenta al superior jerárquico competente, de forma inmediata, de los hechos constitutivos de cualquier tipo de falta de los que se tenga conocimiento.",
+            "d": "Ninguna de las opciones anteriores es correcta."
+        },
+        "tema": "Tema 4. Régimen disciplinario de la Policía Local en Asturias / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Según la L.O. 4/2010, de 20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía, la desobediencia a los superiores jerárquicos o los responsables del servicio con motivo de las órdenes o instrucciones legítimas dadas por aquellos, salvo que constituyan infracción manifiesta del ordenamiento jurídico, es una falta:",
+        "respuestas": {
+            "a": "Menos grave.",
+            "b": "Muy grave.",
+            "c": "Grave.",
+            "d": "Leve."
+        },
+        "tema": "Tema 4. Régimen disciplinario de la Policía Local en Asturias / II. Grupo seguridad ciudadana y policía administrativa - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538897",
+        "pregunta": "¿Qué tipo de maniobra de circulación deberá efectuarse lentamente, después de haberlo advertido con las señales preceptivas y de haberse cerciorado, incluso apeándose o siguiendo las indicaciones de otra persona, si fuera necesario, de que, por las circunstancias de visibilidad, espacio y tiempo necesarios para efectuarla, no va a constituir peligro para los demás usuarios de la vía?",
+        "respuestas": {
+            "a": "La de marcha hacia atrás.",
+            "b": "El cambio de sentido.",
+            "c": "La incorporación a la vía.",
+            "d": "El cambio de vía."
+        },
+        "tema": "Tema 3. La circulación de vehículos (I) / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "¿Cuál de las siguientes señales no nos permitirá estacionar nuestro vehículo el día 16 a las 8 de la mañana?:",
+        "respuestas": {
+            "a": "",
+            "b": "",
+            "c": "",
+            "d": ""
+        },
+        "tema": "Tema 5. La señalización / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539777",
+        "pregunta": "¿Qué deberá hacer el conductor de un vehículo cuando una señal de circulación imponga una obligación de detención según indica la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial?",
+        "respuestas": {
+            "a": "No puede reanudar su marcha hasta haber cumplido lo prescrito por la señal.",
+            "b": "Puede reanudar su marcha sin haber cumplido lo prescrito por la señal.",
+            "c": "Puede reanudar su marcha si las circunstancias lo aconsejan, sin necesidad de completar la detención total.",
+            "d": "Prestar atención a las señales, salvo cuando parezcan estar en contradicción con las normas de comportamiento en la circulación."
+        },
+        "tema": "Tema 5. La señalización / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Las causas de un accidente de circulación que provienen de las fuerzas de la naturaleza o de catástrofes naturales, contra las que el hombre no puede luchar, se denominan:",
+        "respuestas": {
+            "a": "Causas objetivas.",
+            "b": "Casos fortuitos.",
+            "c": "Causas de fuerza mayor.",
+            "d": "Causas impredecibles."
+        },
+        "tema": "Tema 10. El accidente de tráfico / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540872",
+        "pregunta": "Según el art. 3 del Real Decreto 237/2000, de 18 de febrero, por el que se establecen las especificaciones técnicas que deben cumplir los vehículos especiales para el transporte terrestre de productos alimentarios a temperatura regulada y los procedimientos para el control de conformidad con las especificaciones, las contraseñas tipo:",
+        "respuestas": {
+            "a": "Estarán formadas por la letra V, seguida de un número de cinco cifras correlativas y del número del constructor asignado por el Registro.",
+            "b": "Estarán formadas por la letra V, seguida de un número de tres cifras correlativas y del número del constructor asignado por el Registro.",
+            "c": "Estarán formadas por la letra F, seguida de un número de tres cifras correlativas y del número del constructor asignado por el Registro.",
+            "d": "Estarán formadas por la letra F, seguida de un número de cinco cifras correlativas y del número del constructor asignado por el Registro."
+        },
+        "tema": "Tema 11. El transporte: clases. / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539967",
+        "pregunta": {
+            "pregunta": "Esta señal nos indica:",
+            "img": "https://admin.opositatest.com/media/cache/resolve/question_thumb_big/6149f4c875c35053691981.png"
+        },
+        "respuestas": {
+            "a": "El ramal de una intersección que conduce a una autovía.",
+            "b": "El ramal de un nudo que conduce a una autopista.",
+            "c": "Proximidad de un puente que puede ser levantado o girado, interrumpiéndose así temporalmente la circulación.",
+            "d": "La proximidad de una autovía o de una autopista."
+        },
+        "tema": "Tema 5. La señalización / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539933",
+        "pregunta": {
+            "pregunta": "¿Qué indica la siguiente señal?:",
+            "img": "https://admin.opositatest.com/media/cache/resolve/question_thumb_big/6149f4b3092ff670438492.png"
+        },
+        "respuestas": {
+            "a": "Intersección con prioridad sobre vía a la derecha.",
+            "b": "Intersección con prioridad sobre incorporación por la derecha.",
+            "c": "Bifurcación hacia la derecha en calzada de dos carriles.",
+            "d": "Intersección con paso obligatorio a la derecha."
+        },
+        "tema": "Tema 5. La señalización / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "A falta de señalización, la velocidad máxima fijada para los vehículos en autopistas y autovías urbanas será de...",
+        "respuestas": {
+            "a": "100 kilómetros por hora.",
+            "b": "120 kilómetros por hora.",
+            "c": "50 kilómetros por hora.",
+            "d": "80 kilómetros por hora."
+        },
+        "tema": "Tema 3. La circulación de vehículos (I) / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-612840",
+        "pregunta": "Según la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, no corresponde al Ministerio del Interior:",
+        "respuestas": {
+            "a": "La inspección de los centros y otros operadores cuya actividad esté vinculada con el ejercicio de funciones en el ámbito de las competencias establecidas en este artículo",
+            "b": "La retirada de los vehículos de la vía fuera de poblado y la baja temporal o definitiva de la circulación de dichos vehículos.",
+            "c": "Las autorizaciones o permisos temporales y provisionales para la circulación de vehículos.",
+            "d": "La coordinación de la prestación de la asistencia sanitaria en las vías públicas o de uso público."
+        },
+        "tema": "Tema 1. Las Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539755",
+        "pregunta": "Indique la falsa. ¿Qué tipo de vehículos deberán llevar encendida durante el día la luz de corto alcance o cruce según lo dispuesto en el Reglamento General de Circulación?",
+        "respuestas": {
+            "a": "Todos los vehículos que circulen por un carril adicional circunstancial o por un carril habilitado para circular en sentido contrario al normalmente utilizado en la calzada donde se encuentre situado.",
+            "b": "Las motocicletas que circulen por cualquier vía objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.",
+            "c": "Las bicletas que circulen por cualquier vía objeto de la legislación sobre tráfico, circulación de vehículos a motor y seguridad vial.",
+            "d": "Todos los vehículos que circulen por un carril reversible."
+        },
+        "tema": "Tema 4. La circulación de vehículos (II) / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "¿Qué ocurre con aquellas autorizaciones que, siendo anteriores a la entrada en vigor del RD 990/2022, tengan vigencia indefinida?",
+        "respuestas": {
+            "a": "Mantendrán dicha vigencia de forma indefinida.",
+            "b": "Deberán adecuarse a las reglas del RD 990/2022 en el plazo de 6 meses desde su entrada en vigor.",
+            "c": "Deberán adecuarse a las reglas del RD 990/2022 en el plazo de un año desde su entrada en vigor.",
+            "d": "Deberán adecuarse a las reglas del RD 990/2022 en el plazo de 3 meses desde su entrada en vigor."
+        },
+        "tema": "Tema 12. El transporte de mercancías peligrosas / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538848",
+        "pregunta": "En las intersecciones la preferencia de paso:",
+        "respuestas": {
+            "a": "En las glorietas, los que pretendan acceder a ellas tendrán preferencia sobre los que se hallen dentro de las mismas.",
+            "b": "Se ajustará siempre a la señalización que la regule.",
+            "c": "Los vehículos que circulen por raíles nunca tienen preferencia.",
+            "d": "Aun existiendo señal que regule tienen preferencia siempre los vehículos que se aproximen por la derecha."
+        },
+        "tema": "Tema 3. La circulación de vehículos (I) / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-538870",
+        "pregunta": "Salvo los supuestos previstos en la norma, las velocidades máximas que no deberán ser rebasadas por turismos en autopista son de:",
+        "respuestas": {
+            "a": "100 km/h.",
+            "b": "90 km/h.",
+            "c": "120 km/h.",
+            "d": "80 km/h."
+        },
+        "tema": "Tema 3. La circulación de vehículos (I) / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Según lo dispuesto en Reglamento General de Conductores, ¿en qué casos el titular de un permiso de conducción deberá devolver el original de éste cuando se hubiera expedido duplicado?",
+        "respuestas": {
+            "a": "Cuando el duplicado haya sido expedido por sustracción o extravío, en todo caso.",
+            "b": "Cuando el duplicado haya sido expedido por sustracción, extravío o deterioro  y el titular lo encuentre.",
+            "c": "En ningún caso.",
+            "d": "Cuando el duplicado haya sido expedido por sustracción o extravío y el titular lo encuentre."
+        },
+        "tema": "Tema 6. Las autorizaciones administrativas para conducir / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539979",
+        "pregunta": {
+            "pregunta": "¿Qué nos indica esta señal?",
+            "img": "https://admin.opositatest.com/media/cache/resolve/question_thumb_big/6149f4d16524f558385481.png"
+        },
+        "respuestas": {
+            "a": "Nos indica un lugar apropiado para iniciar excursiones a pie.",
+            "b": "Nos indica la situación de un albergue cuya utilización está reservada a organizaciones juveniles.",
+            "c": "Nos indica la situación de un sitio pintoresco.",
+            "d": "Nos indica la situación de un merendero."
+        },
+        "tema": "Tema 5. La señalización / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "De acuerdo con el RDL 6/2015, ¿cuál de las siguientes afirmaciones no es correcta?",
+        "respuestas": {
+            "a": "Se prohíbe instalar o llevar en los vehículos inhibidores de radares o cinemómetros o cualesquiera otros instrumentos encaminados a eludir o a interferir en el correcto funcionamiento de los sistemas de vigilancia del tráfico, así como emitir o hacer señales con dicha finalidad.",
+            "b": "Se prohíbe utilizar mecanismos de detección de radares o cinemómetros.",
+            "c": "Se prohíbe utilizar los mecanismos de aviso que informan de la posición de los sistemas de vigilancia del tráfico.",
+            "d": "Se prohíbe la utilización durante la conducción de dispositivos de telefonía móvil, navegadores o cualquier otro medio o sistema de comunicación, excepto cuando el desarrollo de la comunicación tenga lugar sin emplear las manos ni usar cascos, auriculares o instrumentos similares."
+        },
+        "tema": "Tema 2. Las normas de comportamiento en la circulación / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "¿Cómo se llama el órgano de cooperación entre la Administración General del Estado y las Administraciones de las Comunidades Autónomas que hayan asumido, competencias para la protección de personas y bienes y el mantenimiento del orden público y que hayan recibido el traspaso de funciones y servicios en materia de tráfico y circulación de vehículos a motor?",
+        "respuestas": {
+            "a": "La Jefatura Central de Tráfico.",
+            "b": "El Observatorio Nacional de Seguridad Vial.",
+            "c": "La  Conferencia Sectorial de Tráfico y Seguridad Vial.",
+            "d": "La Subdirección General de Gestión de la Movilidad y Tecnología."
+        },
+        "tema": "Tema 1. Las Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "De conformidad con el RDL 6/2015, ¿en qué consistirán las pruebas para la detección de alcohol?",
+        "respuestas": {
+            "a": "En un análisis de una muestra de sangre en cantidad suficiente.",
+            "b": "En una prueba salival mediante un dispositivo autorizado.",
+            "c": "En la verificación del aire espirado mediante dispositivos autorizados.",
+            "d": "En un análisis de una muestra salival en cantidad suficiente."
+        },
+        "tema": "Tema 2. Las normas de comportamiento en la circulación / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-539733",
+        "pregunta": "Respecto a la parada y el estacionamiento del vehículo, el Reglamento General de Circulación establece lo siguiente:",
+        "respuestas": {
+            "a": "Todo conductor que pare o estacione su vehículo deberá hacerlo de forma que permita la mejor utilización del restante espacio disponible.",
+            "b": "Los estacionamientos se realizarán, en todo caso, situando el vehículo paralelamente al borde de la calzada.",
+            "c": "La parada y el estacionamiento se realizarán situando el vehículo lo más próximo al borde de la calzada.",
+            "d": "El régimen de parada y estacionamiento se regulará por ordenanza municipal en todos los casos."
+        },
+        "tema": "Tema 4. La circulación de vehículos (II) / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-756676",
+        "pregunta": "De acuerdo con el RDL 6/2015, ¿cuál de las siguientes actividades necesita autorización previa del titular de las vías para poder llevarse a cabo?",
+        "respuestas": {
+            "a": "La colocación de contenedores en la vía pública.",
+            "b": "La ocupación de parte de la vía por un objeto de forma permanente.",
+            "c": "La ocupación de parte de la vía por un objeto de forma provisional.",
+            "d": "Todas las respuestas anteriores son correctas."
+        },
+        "tema": "Tema 2. Las normas de comportamiento en la circulación / III. Grupo tráfico, circulación de vehículos a motor y seguridad vial - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541264",
+        "pregunta": "En el delito de prevaricación de los funcionarios públicos: Señale la proposición INCORRECTA:",
+        "respuestas": {
+            "a": "La resolución ha de ser en un asunto administrativo, no penal.",
+            "b": "Para que se consume el delito no es necesario que produzca unos efectos determinados.",
+            "c": "Es punible la conducta imprudente.",
+            "d": "La consumación tiene lugar, entre otras formas, con el acto material de perfeccionarse la resolución."
+        },
+        "tema": "Tema 8 Código Penal: Parte especial VI / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Podrá progresarse a tercer grado a una persona condenada a la pena de prisión permanente revisable:",
+        "respuestas": {
+            "a": "En todos los casos, tras el cumplimiento de 15 años de prisión efectiva.",
+            "b": "En todos los casos, tras el cumplimiento de 20 años de prisión efectiva.",
+            "c": "Tras el cumplimiento de 20 años de prisión efectiva, salvo en casos excepcionales, pero nunca por periodo inferior a cinco años de prisión.",
+            "d": "Sin tener en cuenta los plazos de prisión efectiva, por los motivos recogidos en el apartado 4º del Artículo 36 del vigente Código Penal."
+        },
+        "tema": "Tema 1. Código Penal: Parte General I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-573089",
+        "pregunta": "Según el Código Penal, el que exigiere de otro una cantidad o recompensa para no revelar o difundir hechos referentes a la vida privada que no sean públicamente conocidos y pueda afectar a su fama, comete delito de:",
+        "respuestas": {
+            "a": "Amenazas.",
+            "b": "Acoso",
+            "c": "Coacciones.",
+            "d": "Extorsión."
+        },
+        "tema": "Tema 3. Código Penal: Parte especial I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541531",
+        "pregunta": "Si una madre dejare de alimentar a su hijo de 1 año de edad, estaríamos ante un delito:",
+        "respuestas": {
+            "a": "De comisión por omisión",
+            "b": "De comisión propia",
+            "c": "De mera actividad",
+            "d": "Todas las respuestas son correctas"
+        },
+        "tema": "Tema 1. Código Penal: Parte General I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Según el art. 20 CP, en caso de defensa de la morada se reputará agresión ilegítima:",
+        "respuestas": {
+            "a": "La entrada con fuerza en las cosas o violencia en las personas.",
+            "b": "La entrada o intento de entrada indebida.",
+            "c": "La entrada con violencia.",
+            "d": "La entrada indebida."
+        },
+        "tema": "Tema 2. Código Penal: Parte General II. El proceso penal / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541242",
+        "pregunta": "¿Cuál de los siguientes elementos será necesario para rebajar la pena en uno o dos grados dentro del delito de malversación?",
+        "respuestas": {
+            "a": "Que el culpable hubiera reparado de modo efectivo e íntegro el perjuicio causado al patrimonio antes del juicio oral.",
+            "b": "Que el culpable hubiera colaborado activa y eficazmente con las autoridades o sus agentes para obtener pruebas decisivas para la identificación de otros responsables.",
+            "c": "Que el culpable hubiera colaborado activa y eficazmente con las autoridades o sus agentes para obtener pruebas decisivas para el completo esclarecimiento de los hechos delictivos .",
+            "d": "Todas las respuestas son correctas."
+        },
+        "tema": "Tema 8 Código Penal: Parte especial VI / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "¿Cuál de las siguientes circunstancias impide iniciar el procedimiento para el enjuiciamiento rápido de determinados delitos?",
+        "respuestas": {
+            "a": "Que no se haya detenido a ninguna persona en calidad de denunciado para ponerla a disposición de la Sección en turno de guardia.",
+            "b": "Que se trate de un delito de lesiones.",
+            "c": "Que se trate de procedimiento en el que sea procedente acordar el secreto de las actuaciones del artículo 302 de la LECrim.",
+            "d": "Que se trate de delito castigado con pena privativa de libertad de cinco años."
+        },
+        "tema": "Tema 2. Código Penal: Parte General II. El proceso penal / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541232",
+        "pregunta": "Comete un delito de cohecho pasivo propio del art. 419 CP:",
+        "respuestas": {
+            "a": "La autoridad o funcionario público que, en provecho propio o de un tercero, recibiere o solicitare, por sí o por persona interpuesta, dádiva, favor o retribución de cualquier clase o aceptare ofrecimiento o promesa para realizar en el ejercicio de su cargo un acto contrario a los deberes inherentes al mismo o para no realizar o retrasar injustificadamente el que debiera practicar.",
+            "b": "La autoridad o funcionario público que, en provecho propio o de un tercero, recibiere o solicitare, por sí o por persona interpuesta, dádiva, favor o retribución de cualquier clase o aceptare ofrecimiento o promesa para realizar un acto propio de su cargo.",
+            "c": "La autoridad o funcionario público que, en provecho propio o de un tercero, admitiera, por sí o por persona interpuesta, dádiva o regalo que le fueren ofrecidos en consideración a su cargo o función.",
+            "d": "Las respuestas by c son correctas."
+        },
+        "tema": "Tema 8 Código Penal: Parte especial VI / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "El abogado que en el ejercicio de sus funciones presentare a sabiendas testigos falsos, será castigado:",
+        "respuestas": {
+            "a": "Con la misma pena que la correspondiente al testigo que faltare a la verdad en su testimonio y además, inhabilitación especial.",
+            "b": "Con la pena que la correspondiente al testigo que faltare a la verdad en su testimonio en su mitad superior y además, inhabilitación especial.",
+            "c": "Con la pena superior en grado a la correspondiente al testigo que faltare a la verdad en su testimonio y además, inhabilitación especial.",
+            "d": "Con la pena inferior en grado a la correspondiente al testigo que faltare a la verdad en su testimonio y además, inhabilitación especial."
+        },
+        "tema": "Tema 9. Código Penal: Parte especial VII / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541661",
+        "pregunta": "De acuerdo con el artículo 31 bis del Código Penal (CP), las personas jurídicas:",
+        "respuestas": {
+            "a": "Pueden ser responsables criminalmente en cuanto a tales",
+            "b": "Sólo pueden quedar sujetas a responsabilidad civil",
+            "c": "Sólo pueden quedar sujetos a responsabilidad criminal sus representantes legales y administradores",
+            "d": "Nunca pueden ser responsables criminalmente en su condición de tales"
+        },
+        "tema": "Tema 1. Código Penal: Parte General I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-540922",
+        "pregunta": "El que causara a otro, por cualquier medio o procedimiento, la pérdida o la inutilidad de un órgano principal:",
+        "respuestas": {
+            "a": "Comete un delito de lesiones del artículo 149 del Código Penal.",
+            "b": "Comete un delito de lesiones agravadas del artículo 148 del Código Penal.",
+            "c": "Realiza una conducta atipica.",
+            "d": "Comete un delito de lesiones del artículo 150 del Código Penal."
+        },
+        "tema": "Tema 3. Código Penal: Parte especial I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Toda declaración del menor detenido se llevará a cabo en presencia de:",
+        "respuestas": {
+            "a": "Su letrado, aquellos que ejerzan la patria potestad, tutela o guarda del menor -de hecho o de derecho- en cualquier caso y del Equipo técnico adscrito la Sección de Menores del Tribunal de Instancia correspondiente.",
+            "b": "Su letrado únicamente.",
+            "c": "Su letrado y de aquellos que ejerzan la patria potestad, tutela o guarda del menor -de hecho o de derecho-, salvo que, en este último caso las circunstancias aconsejen lo contrario.",
+            "d": "Su letrado y de aquellos que ejerzan la patria potestad, tutela o guarda del menor -de hecho o de derecho- en cualquier caso."
+        },
+        "tema": "Tema 10. La Policía Local como Policía Judicial / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541387",
+        "pregunta": "De la instrucción y enjuiciamiento de las causas contra el Defensor del Pueblo conoce:",
+        "respuestas": {
+            "a": "La Sala de lo Penal del Tribunal Supremo.",
+            "b": "Las Cortes Generales.",
+            "c": "Ninguna es correcta, porque goza de inmunidad.",
+            "d": "La Sala Primera del Tribunal Supremo."
+        },
+        "tema": "Tema 2. Código Penal: Parte General II. El proceso penal / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541648",
+        "pregunta": "Respecto a la imposición de la pena de privación del derecho a conducir vehículos a motor y ciclomotores, ¿en qué caso comportará la pérdida de vigencia del permiso o licencia?",
+        "respuestas": {
+            "a": "Cuando la pena impuesta lo fuere por un tiempo superior a tres años.",
+            "b": "Cuando la pena impuesta lo fuere por un tiempo superior a cinco años.",
+            "c": "Cuando la pena impuesta lo fuere por un tiempo superior a dos años.",
+            "d": "Cuando la pena impuesta lo fuere por un tiempo superior a seis años."
+        },
+        "tema": "Tema 1. Código Penal: Parte General I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-573118",
+        "pregunta": "De acuerdo con el Código Penal, de las siguientes opciones sobre los delitos de homicidio y asesinato, SEÑALE LA RESPUESTA INCORRECTA:",
+        "respuestas": {
+            "a": "El asesinato será castigado con pena de prisión permanente revisable cuando el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal.",
+            "b": "El que matare a otro será castigado, como reo de homicidio, con la pena de prisión de diez a quince años.",
+            "c": "El asesinato será castigado con pena de prisión permanente revisable cuando la víctima sea menor de dieciséis años de edad, o se trate de una persona especialmente vulnerable por razón de su edad, enfermedad o discapacidad.",
+            "d": "El que matare a otro concurriendo la circunstancia de precio, recompensa o promesa será castigado como reo de homicidio."
+        },
+        "tema": "Tema 3. Código Penal: Parte especial I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-708712",
+        "pregunta": "En función de lo dispuesto en el art. 84 de la Ley Orgánica del Poder judicial, señale la afirmación incorrecta sobre los Tribunales de Instancia:",
+        "respuestas": {
+            "a": "Los Tribunales de Instancia estarán integrados por una Sección Única, de Civil y de Instrucción.",
+            "b": "Cada Tribunal de Instancia contará con una Presidencia.",
+            "c": "Se podrá establecer que algunas de las Secciones que integren los Tribunales de Instancia extiendan su jurisdicción a uno o varios partidos judiciales de la misma provincia, o de varias provincias limítrofes dentro del ámbito de un mismo Tribunal Superior de Justicia.",
+            "d": "En los supuestos determinados por la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial, el Tribunal de Instancia se integrará por una Sección Civil y otra Sección Penal."
+        },
+        "tema": "Tema 11. El proceso civil / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "d",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-92216",
+        "pregunta": "Señale la afirmación correcta en relación con el error de tipo:",
+        "respuestas": {
+            "a": "Si el error es invencible, podrá dar lugar a una responsabilidad por imprudencia; en el caso de que fuera vencible, se produce la exclusión de la responsabilidad civil.",
+            "b": "Si el error es invencible, podrá dar lugar a una responsabilidad por imprudencia; en el caso de que fuera vencible, se produce la exclusión de la responsabilidad penal.",
+            "c": "Si el error es vencible, podrá dar lugar a una responsabilidad por imprudencia; en el caso de que fuera invencible, se produce la exclusión de la responsabilidad penal."
+        },
+        "tema": "Tema 1. Código Penal: Parte General I / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-542184",
+        "pregunta": "Conforme a lo dispuesto en la Ley de Enjuiciamiento Criminal, en la inspección ocular, cuando fuere conveniente para mayor claridad o comprobación de los hechos delictivos:",
+        "respuestas": {
+            "a": "Se hará una copia o diseño de los efectos o instrumentos del delito que se hubiesen hallado.",
+            "b": "Se hará el retrato de las personas que hubiesen sido objeto del delito.",
+            "c": "Todas las respuestas son correctas.",
+            "d": "Se levantará el plano del lugar suficientemente detallado."
+        },
+        "tema": "Tema 10. La Policía Local como Policía Judicial / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "c",
+        "explicacion": ""
+    },
+    {
+        "id": "",
+        "pregunta": "Indique cuál de las siguientes conductas recoge el delito de cohecho pasivo impropio:",
+        "respuestas": {
+            "a": "Ninguna respuesta es correcta.",
+            "b": "La autoridad o funcionario público que, en provecho propio o de un tercero, recibiere o solicitare, por sí o por persona interpuesta, dádiva, favor o retribución de cualquier clase o aceptare ofrecimiento o promesa para realizar un acto propio de su cargo.",
+            "c": "El particular que ofreciere o entregare dádiva o retribución de cualquier otra clase a una autoridad, funcionario público o persona que participe en el ejercicio de la función pública para que realice un acto contrario a los deberes inherentes a su cargo o un acto propio de su cargo.",
+            "d": "La autoridad o funcionario público que, en provecho propio o de un tercero, recibiere o solicitare, por sí o por persona interpuesta, dádiva, favor o retribución de cualquier clase o aceptare ofrecimiento o promesa para realizar en el ejercicio de su cargo un acto contrario a los deberes inherentes al mismo o para no realizar o retrasar injustificadamente el que debiera practicar."
+        },
+        "tema": "Tema 8 Código Penal: Parte especial VI / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "b",
+        "explicacion": ""
+    },
+    {
+        "id": "question-title-541079",
+        "pregunta": "El allanamiento de morada en nuestro Código Penal es:",
+        "respuestas": {
+            "a": "Un delito previsto y penado en el artículo 202 Código Penal que comete aquel que sin habitar en ella, entra en morada ajena o se mantiene en ella contra la voluntad de su morador",
+            "b": "Un delito previsto y penado en el artículo 202 Código Penal siempre que se ejecute mediando violencia e intimidación en el morador o su familia, y una falta del artículo 635 si el acceso a la morada ajena se produce aprovechando un descuido del mismo",
+            "c": "Un delito previsto y penado en el artículo 202 Código Penal que consiste en el acceso a la morada ajena con ánimo de hacerse con cuanto de valor halle en el interior",
+            "d": "Un delito previsto en el artículo 205 Código Penal que consiste en entrar en morada ajena mediante engaño del morador para viciar su consentimiento"
+        },
+        "tema": "Tema 4. Código Penal: Parte especial II / IV. Grupo penal y procesal - Policía local de Asturias",
+        "solucion": "a",
+        "explicacion": ""
+    }
+]

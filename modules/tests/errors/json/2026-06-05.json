@@ -1,0 +1,254 @@
+[
+    {
+        "timestamp": 1780685186.688653,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "4. En la situación anterior (pregunta 3), ¿qué carriles tienen permitido utilizar los vehículos mencionados?",
+        "opciones_respuesta": {
+            "a": "a) Solo el derecho.",
+            "b": "b) El derecho y el inmediato (central), pero nunca el resto.",
+            "c": "c) Todos los carriles si el tráfico es fluido.",
+            "d": "d) El derecho y el izquierdo, dejando libre el central para adelantamientos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780685222.704966,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿En qué lugar NO es aplicable la norma de mantener los 50 metros de separación mínima mencionada en la pregunta anterior?",
+        "opciones_respuesta": {
+            "a": "a) En poblado.",
+            "b": "b) Donde esté prohibido el adelantamiento.",
+            "c": "c) Donde la calzada tenga más de un carril destinado al mismo sentido.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780685246.8090394,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "7. Según el Reglamento, ¿quién determina el número de ocupantes necesarios para que un vehículo sea considerado \"de alta ocupación\" (VAO)?",
+        "opciones_respuesta": {
+            "a": "a) El Ministerio del Interior directamente en la Ley.",
+            "b": "b) La Jefatura Central de Tráfico o la autoridad autonómica o local responsable.",
+            "c": "c) La ordenanza municipal de cada ayuntamiento exclusivamente.",
+            "d": "d) El fabricante del vehículo en su ficha técnica."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780685276.6498568,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "9. En un carril habilitado para ser utilizado en sentido contrario al habitual por razones de fluidez, ¿qué vehículos tienen prohibido el acceso?",
+        "opciones_respuesta": {
+            "a": "a) Motocicletas y turismos con remolque.",
+            "b": "b) Solo camiones de más de 3.500 kg.",
+            "c": "c) Turismos con remolque y el resto de vehículos que no sean motocicletas o turismos sin remolque.",
+            "d": "d) Vehículos de transporte colectivo de viajeros."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780685350.138154,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "13. Un carril adicional circunstancial de circulación se habilita mediante el uso de arcenes cuando:",
+        "opciones_respuesta": {
+            "a": "a) La anchura de la plataforma lo permita.",
+            "b": "b) Haya obras en la calzada únicamente.",
+            "c": "c) Lo decida un agente de la autoridad en ese momento sin necesidad de señalización.",
+            "d": "d) La visibilidad sea reducida por niebla."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780685439.6342964,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "19. Un vehículo especial en régimen de transporte especial que excede las dimensiones establecidas, ¿por dónde circulará en una autopista?",
+        "opciones_respuesta": {
+            "a": "a) Por el arcén derecho obligatoriamente.",
+            "b": "b) Por la calzada, y excepcionalmente por el arcén si así se indica en su autorización.",
+            "c": "c) Por el carril izquierdo para facilitar las incorporaciones.",
+            "d": "d) Tienen prohibida la circulación por autopistas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780685462.4903064,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "21. ¿Cuál es el límite de velocidad en una vía urbana de un único carril por sentido de circulación?",
+        "opciones_respuesta": {
+            "a": "a) 50 km/h.",
+            "b": "b) 20 km/h.",
+            "c": "c) 30 km/h.",
+            "d": "d) 40 km/h."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780685618.499014,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "32. ¿Qué lugar ocupa en el orden de preferencia un conjunto de vehículos con remolque de hasta 750 kg?",
+        "opciones_respuesta": {
+            "a": "a) El segundo lugar, tras los transportes especiales.",
+            "b": "b) El cuarto lugar.",
+            "c": "c) El último lugar.",
+            "d": "d) El mismo que un turismo sin remolque."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780685708.5233068,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "37. Un vehículo no prioritario que realiza un servicio de urgencia debe:",
+        "opciones_respuesta": {
+            "a": "a) Utilizar el avisador acústico de forma intermitente y conectar la luz de emergencia.",
+            "b": "b) Saltarse todos los semáforos en rojo sin frenar.",
+            "c": "c) Circular por la izquierda en todo momento.",
+            "d": "d) No tiene ninguna obligación especial."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780685846.9803278,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "47. ¿A qué distancia se deben colocar los dispositivos de preseñalización de peligro (triángulos) en caso de inmovilización?",
+        "opciones_respuesta": {
+            "a": "a) A 50 metros como mínimo.",
+            "b": "b) A 100 metros.",
+            "c": "c) A 15 metros.",
+            "d": "d) Los triángulos ya no son obligatorios en ningún tipo de vía."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780685947.4765587,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "53. Los refugios, isletas o dispositivos de guía en calzadas de doble sentido se pasarán:",
+        "opciones_respuesta": {
+            "a": "a) Por la derecha de los mismos.",
+            "b": "b) Por la izquierda.",
+            "c": "c) Por cualquier lado.",
+            "d": "d) Por el centro si hay espacio."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780688825.0593057,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "66. ¿Cuál es la velocidad máxima de un tractor agrícola con remolque?",
+        "opciones_respuesta": {
+            "a": "a) 40 km/h.",
+            "b": "b) 25 km/h.",
+            "c": "c) 20 km/h.",
+            "d": "d) 30 km/h."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780688905.4197874,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "71. ¿A qué velocidad máxima circulará un ciclomotor por una travesía?",
+        "opciones_respuesta": {
+            "a": "a) 50 km/h.",
+            "b": "b) 45 km/h.",
+            "c": "c) 30 km/h.",
+            "d": "d) 25 km/h."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780688946.7640185,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "74. ¿Un vehículo especial que excede las masas y dimensiones tiene prioridad sobre un conjunto de vehículos en un estrechamiento?",
+        "opciones_respuesta": {
+            "a": "a) No, el conjunto va primero.",
+            "b": "b) Sí, es el primero en el orden de prioridad del Art. 62.",
+            "c": "c) Depende de quién llegó antes.",
+            "d": "d) Solo si es un camión."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780688971.2121024,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "75. ¿Qué distancia debe dejar un vehículo de más de 3.500 kg en una vía donde está prohibido el adelantamiento?",
+        "opciones_respuesta": {
+            "a": "a) 50 metros.",
+            "b": "b) Solo la distancia que le permita detenerse en caso de frenado brusco (no se aplican los 50m).",
+            "c": "c) 100 metros.",
+            "d": "d) 7 metros."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780689003.5081644,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "76. ¿Está permitido que un turismo circule por el arcén para adelantar por la derecha a un vehículo que gira a la izquierda?",
+        "opciones_respuesta": {
+            "a": "a) Sí, siempre.",
+            "b": "b) No, no se puede utilizar el arcén para adelantar salvo que se sea un vehículo obligado a circular por él.",
+            "c": "c) Solo si el arcén mide más de 1,5 metros.",
+            "d": "d) Solo en poblado."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780689032.9966335,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "77. El límite de velocidad para un triciclo asimilado a motocicleta en cualquier tipo de vía es de:",
+        "opciones_respuesta": {
+            "a": "a) 70 km/h.",
+            "b": "b) 90 km/h.",
+            "c": "c) 120 km/h.",
+            "d": "d) 45 km/h."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780689060.2925358,
+        "path": "/trafico_tema_3.json",
+        "id": "id2340234",
+        "pregunta": "80. Un camión que circula por un carril habilitado en sentido contrario al habitual por OBRAS, ¿a qué velocidad máxima puede circular?",
+        "opciones_respuesta": {
+            "a": "a) 80 km/h.",
+            "b": "b) La genérica de la vía.",
+            "c": "c) 60 km/h.",
+            "d": "d) No puede circular por ese carril."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    }
+]

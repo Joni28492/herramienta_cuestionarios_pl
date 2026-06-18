@@ -1,0 +1,752 @@
+[
+    {
+        "timestamp": 1781290583.07923,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "1. Los delitos contra la salud pública se encuentran regulados en el Código Penal dentro de:",
+        "respuestas": {
+            "a": "a) Título XVII, Capítulo II.",
+            "b": "b) Título XVII, Capítulo III.",
+            "c": "c) Título XVI, Capítulo III.",
+            "d": "d) Título XVIII, Capítulo IV."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Art. 341-385 ter. El Título XVII es \"Seguridad Colectiva\" y el Capítulo III es Salud Pública."
+    },
+    {
+        "timestamp": 1781290591.1970382,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Qué rango de artículos comprende específicamente el Capítulo III \"De los delitos contra la salud pública\"?",
+        "respuestas": {
+            "a": "a) Del 341 al 385.",
+            "b": "b) Del 359 al 378.",
+            "c": "c) Del 368 al 378.",
+            "d": "d) Del 359 al 384."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Art. 359-378. Es el bloque específico del examen."
+    },
+    {
+        "timestamp": 1781290604.1332235,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "3. El artículo 359 castiga al que, sin hallarse debidamente autorizado, elabore sustancias nocivas o productos químicos que puedan causar estragos, con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a tres años y multa de seis a doce meses.",
+            "b": "b) Prisión de uno a tres años y multa de doce a veinticuatro meses.",
+            "c": "c) Multa de seis a doce meses e inhabilitación.",
+            "d": "d) Prisión de seis meses a dos años únicamente."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "Art. 359. Pena exacta para elaboración no autorizada."
+    },
+    {
+        "timestamp": 1781290622.0452518,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "4. El artículo 360 castiga al que, hallándose autorizado para el tráfico de sustancias nocivas, las despache o suministre sin cumplir las formalidades previstas, con la pena de:",
+        "respuestas": {
+            "a": "a) Prisión de seis meses a tres años.",
+            "b": "b) Multa de seis a doce meses e inhabilitación de seis meses a dos años.",
+            "c": "c) Multa de doce a veinticuatro meses.",
+            "d": "d) Solo inhabilitación especial para profesión u oficio."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La clave es \"hallándose autorizado\" pero incumpliendo formalidades."
+    },
+    {
+        "timestamp": 1781290643.0214536,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "5. El que fabrique, importe o exporte medicamentos que carezcan de la necesaria autorización exigida por la ley se castiga (Art. 361) si:",
+        "respuestas": {
+            "a": "a) Se genera un riesgo para la vida o la salud de las personas.",
+            "b": "b) Se comercializan por valor superior a 400 euros.",
+            "c": "c) La sustancia es considerada \"droga dura\".",
+            "d": "d) No se requiere ningún resultado, el delito es de mera actividad."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "Es un delito de peligro que requiere que \"se genere un riesgo\"."
+    },
+    {
+        "timestamp": 1781290656.8453324,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Qué pena se impone por la distribución pública a través de Internet de contenidos destinados a promover el consumo de productos que generen riesgo para la salud (Art. 361 bis)?",
+        "respuestas": {
+            "a": "a) Prisión de uno a tres años siempre.",
+            "b": "b) Multa de seis a doce meses o prisión de uno a tres años.",
+            "c": "c) Multa de doce a veinticuatro meses únicamente.",
+            "d": "d) Solo el bloqueo de los contenidos."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Castiga la promoción de productos peligrosos."
+    },
+    {
+        "timestamp": 1781290673.9574764,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "7. El tipo agravado del artículo 362 quater se aplica a los delitos de medicamentos y productos sanitarios engañosos cuando el culpable:",
+        "respuestas": {
+            "a": "a) Pertenezca a una organización o grupo criminal.",
+            "b": "b) Sea un particular sin conocimientos médicos.",
+            "c": "c) Actúe en un establecimiento privado cerrado al público.",
+            "d": "d) Lo haga por imprudencia leve."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "El prevalecimiento de organización es agravante en productos sanitarios."
+    },
+    {
+        "timestamp": 1781290694.7496426,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "8. En el delito de dopaje (Art. 362 quinquies), el sujeto pasivo (víctima) sobre el que recae la acción de prescribir o suministrar sustancias prohibidas debe ser:",
+        "respuestas": {
+            "a": "a) Cualquier ciudadano que practique deporte.",
+            "b": "b) Deportistas federados no competitivos o deportistas que participen en competiciones organizadas en España.",
+            "c": "c) Menores de edad únicamente.",
+            "d": "d) Solo deportistas de élite con contrato profesional."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Sujeto pasivo específico: federados o participantes en competiciones."
+    },
+    {
+        "timestamp": 1781290707.0935278,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿Cuál de las siguientes es una agravante específica del delito de dopaje según el Art. 362 quinquies.2?",
+        "respuestas": {
+            "a": "a) Que la víctima sea menor de edad.",
+            "b": "b) Que se haya empleado engaño o intimidación.",
+            "c": "c) Que el responsable se haya prevalido de una relación de superioridad laboral o profesional.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "Recoge todas las agravantes específicas del dopaje."
+    },
+    {
+        "timestamp": 1781290724.901581,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "10. Según el Art. 367, si los hechos previstos en los artículos anteriores (sustancias nocivas, medicamentos, alimentos) se realizan por IMPRUDENCIA GRAVE, la pena será:",
+        "respuestas": {
+            "a": "a) La misma que el tipo doloso.",
+            "b": "b) Las penas inferiores en grado.",
+            "c": "c) Multa de tres a seis meses.",
+            "d": "d) El hecho es atípico."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La imprudencia grave siempre rebaja en un grado."
+    },
+    {
+        "timestamp": 1781290737.4301684,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "11. El artículo 368 define el tráfico de drogas como actos de cultivo, elaboration, tráfico o los que promuevan, favorezcan o faciliten el consumo ilegal de:",
+        "respuestas": {
+            "a": "a) Drogas tóxicas, estupefacientes o sustancias psicotrópicas.",
+            "b": "b) Solo estupefacientes naturales.",
+            "c": "c) Bebidas alcohólicas y tabaco a menores.",
+            "d": "d) Sustancias químicas industriales exclusivamente."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "Definición clásica del tráfico."
+    },
+    {
+        "timestamp": 1781290745.190534,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "12. La pena de prisión para el tráfico de sustancias que causen GRAVE DAÑO a la salud (drogas duras) es de:",
+        "respuestas": {
+            "a": "a) Tres a seis años.",
+            "b": "b) Seis a nueve años.",
+            "c": "c) Nueve a doce años.",
+            "d": "d) Uno a tres años."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "Seis a nueve años para drogas duras."
+    },
+    {
+        "timestamp": 1781290768.0945578,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "13. La pena de prisión para el tráfico de sustancias que NO causen grave daño a la salud (drogas blandas) es de:",
+        "respuestas": {
+            "a": "a) Seis meses a dos años.",
+            "b": "b) Uno a tres años.",
+            "c": "c) Tres a seis años.",
+            "d": "d) Multa de seis a doce meses."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "Uno a tres años para drogas blandas."
+    },
+    {
+        "timestamp": 1781290779.998096,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "14. Además de la prisión, el Art. 368 impone una pena de multa en el tráfico de drogas duras de:",
+        "respuestas": {
+            "a": "a) El tanto al duplo del valor de la droga.",
+            "b": "b) El tanto al triplo del valor de la droga objeto del delito.",
+            "c": "c) El duplo al cuádruplo del valor.",
+            "d": "d) Una cuantía fija de 30.000 a 60.000 euros."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Multa del tanto al triplo."
+    },
+    {
+        "timestamp": 1781290789.430009,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "15. Según el Tribunal Supremo, ¿cuál de estas sustancias se considera que causa \"grave daño a la salud\"?",
+        "respuestas": {
+            "a": "a) Hachís.",
+            "b": "b) Marihuana.",
+            "c": "c) MDMA y éxtasis.",
+            "d": "d) Aceite de hachís."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "El Supremo incluye MDMA, anfetaminas y cocaína como grave daño."
+    },
+    {
+        "timestamp": 1781290800.1904993,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cuál de estas sustancias NO se considera de \"grave daño a la salud\" según tus apuntes?",
+        "respuestas": {
+            "a": "a) Morfina.",
+            "b": "b) LSD.",
+            "c": "c) Marihuana.",
+            "d": "d) Anfetaminas."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "Marihuana y hachís NO causan grave daño según el Supremo."
+    },
+    {
+        "timestamp": 1781290823.4383113,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "17. El Tribunal podrá imponer la pena inferior en grado (Art. 368) basándose en la escasa entidad del hecho y circunstancias personales, SIEMPRE QUE:",
+        "respuestas": {
+            "a": "a) El autor sea reincidente.",
+            "b": "b) Concurra alguna de las circunstancias de los artículos 369 bis o 370.",
+            "c": "c) NO concurra ninguna de las circunstancias de los artículos 369 bis o 370.",
+            "d": "d) La droga sea cocaína."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La atenuación por escasa entidad requiere no ser agravado."
+    },
+    {
+        "timestamp": 1781290833.966308,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿A partir de cuántas dosis de consumo diario considera el Tribunal Supremo que la cantidad está dirigida al tráfico?",
+        "respuestas": {
+            "a": "a) Más de 3 dosis.",
+            "b": "b) Más de 5 dosis.",
+            "c": "c) Más de 10 dosis.",
+            "d": "d) Basta con 1 dosis si hay báscula."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "El límite jurisprudencial para presumir tráfico son 5 dosis diarias."
+    },
+    {
+        "timestamp": 1781290838.926469,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "19. El límite de tenencia de COCAÍNA para autoconsumo fijado en tus apuntes es de:",
+        "respuestas": {
+            "a": "a) 3 gramos.",
+            "b": "b) 7,5 gramos.",
+            "c": "c) 25 gramos.",
+            "d": "d) 1,5 gramos."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "7,5 g. Cifra límite para autoconsumo en apuntes."
+    },
+    {
+        "timestamp": 1781290841.8144197,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "20. El límite de tenencia de MARIHUANA para autoconsumo fijado en tus apuntes es de:",
+        "respuestas": {
+            "a": "a) 20 gramos.",
+            "b": "b) 100 gramos.",
+            "c": "c) 50 gramos.",
+            "d": "d) 250 gramos."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "100 g. Límite máximo para autoconsumo de marihuana."
+    },
+    {
+        "timestamp": 1781290846.4863136,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "21. El límite de tenencia de HACHÍS para autoconsumo fijado en tus apuntes es de:",
+        "respuestas": {
+            "a": "a) 5 gramos.",
+            "b": "b) 10 gramos.",
+            "c": "c) 25 gramos.",
+            "d": "d) 50 gramos."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "25 g. Límite máximo para autoconsumo de hachís."
+    },
+    {
+        "timestamp": 1781290852.974368,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "22. El límite de tenencia de HEROÍNA para autoconsumo fijado en tus apuntes es de:",
+        "respuestas": {
+            "a": "a) 0,6 gramos.",
+            "b": "b) 1,5 gramos.",
+            "c": "c) 3 gramos.",
+            "d": "d) 7,5 gramos."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "OJO: 0,6 g es la dosis diaria, 3 g es el límite de tenencia para consumo."
+    },
+    {
+        "timestamp": 1781290872.5983472,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "23. El Art. 369 establece penas superiores en grado y multa del tanto al cuádruplo cuando el culpable sea:",
+        "respuestas": {
+            "a": "a) Un particular sin antecedentes.",
+            "b": "b) Autoridad, funcionario público, facultativo, trabajador social o docente y obre en ejercicio de su cargo.",
+            "c": "c) Un consumidor habitual.",
+            "d": "d) Familiar de segundo grado del consumidor."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Agravante por la condición del sujeto activo."
+    },
+    {
+        "timestamp": 1781290883.8948977,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "24. Es una agravante del Art. 369 que la droga se facilite a:",
+        "respuestas": {
+            "a": "a) Personas mayores de 65 años.",
+            "b": "b) Menores de 18 años, disminuidos psíquicos o personas en tratamiento de rehabilitación.",
+            "c": "c) Personas con deudas económicas.",
+            "d": "d) Familiares directos en el domicilio."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Protección de colectivos vulnerables."
+    },
+    {
+        "timestamp": 1781290898.0869887,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "25. Se considera que la cantidad de droga es de \"notoria importancia\" (Art. 369.5ª) cuando alcanza:",
+        "respuestas": {
+            "a": "a) Las 100 dosis de consumo diario.",
+            "b": "b) Las 500 dosis de consumo diario.",
+            "c": "c) Las 1.000 dosis de consumo diario.",
+            "d": "d) El kilo de peso independientemente de la sustancia."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "500 dosis diarias definen la notoria importancia."
+    },
+    {
+        "timestamp": 1781290905.926625,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "26. La cantidad de NOTORIA IMPORTANCIA para la COCAÍNA es de:",
+        "respuestas": {
+            "a": "a) 500 gramos.",
+            "b": "b) 750 gramos.",
+            "c": "c) 1.500 gramos.",
+            "d": "d) 120 gramos."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "750 g. Cifra exacta de notoria importancia para cocaína."
+    },
+    {
+        "timestamp": 1781290914.4946873,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "27. La cantidad de NOTORIA IMPORTANCIA para el HACHÍS es de:",
+        "respuestas": {
+            "a": "a) 1 kilogramo.",
+            "b": "b) 2,5 kilogramos.",
+            "c": "c) 10 kilogramos.",
+            "d": "d) 500 gramos."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "2,5 kg. Notoria importancia hachís."
+    },
+    {
+        "timestamp": 1781290919.6788704,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "28. La cantidad de NOTORIA IMPORTANCIA para la MARIHUANA es de:",
+        "respuestas": {
+            "a": "a) 2,5 kilogramos.",
+            "b": "b) 5 kilogramos.",
+            "c": "c) 10 kilogramos.",
+            "d": "d) 25 kilogramos."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "10 kg. Notoria importancia marihuana."
+    },
+    {
+        "timestamp": 1781290924.8636165,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "29. La cantidad de NOTORIA IMPORTANCIA para la HEROÍNA es de:",
+        "respuestas": {
+            "a": "a) 150 gramos.",
+            "b": "b) 300 gramos.",
+            "c": "c) 600 gramos.",
+            "d": "d) 1 kilogramo."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "300 g. Notoria importancia heroína."
+    },
+    {
+        "timestamp": 1781290937.575167,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "30. Si los hechos del Art. 368 se realizan por quienes pertenecen a una ORGANIZACIÓN DELICTIVA, a los JEFES se les impondrá la pena (Art. 369 bis):",
+        "respuestas": {
+            "a": "a) Inferior en grado.",
+            "b": "b) Superior en grado.",
+            "c": "c) Superior en uno o dos grados.",
+            "d": "d) Prisión permanente revisable."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "Los jefes de organización suben 1 o 2 grados."
+    },
+    {
+        "timestamp": 1781290954.4869022,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "31. El tipo SUPERAGRAVADO del artículo 370 permite imponer la pena superior en uno o dos grados cuando:",
+        "respuestas": {
+            "a": "a) Se utilicen a menores de 18 años para cometer los delitos.",
+            "b": "b) Se trate de jefes de organizaciones del Art. 369.2.",
+            "c": "c) Las conductas sean de \"extrema gravedad\".",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "Resume los tres casos de superagravación."
+    },
+    {
+        "timestamp": 1781290968.9750574,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "32. Se considera que existe EXTREMA GRAVEDAD (Art. 370.3) cuando la cantidad de sustancia excede notablemente de la notoria importancia o:",
+        "respuestas": {
+            "a": "a) Se hayan utilizado buques, embarcaciones o aeronaves como medio de transporte específico.",
+            "b": "b) Se hayan llevado a cabo mediante operaciones de comercio internacional para simular operaciones lícitas.",
+            "c": "c) Concurran tres o más de las circunstancias previstas en el Art. 369.1.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "Define los medios que implican \"extrema gravedad\"."
+    },
+    {
+        "timestamp": 1781290990.391519,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "33. El artículo 371 castiga el tráfico de precursores (equipos, materiales o sustancias de las tablas del Convenio de Viena) con la pena de prisión de:",
+        "respuestas": {
+            "a": "a) Dos a cinco años y multa del tanto al triplo.",
+            "b": "b) Tres a seis años y multa.",
+            "c": "c) Seis meses a dos años.",
+            "d": "d) Uno a tres años."
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "Penas para el tráfico de precursores."
+    },
+    {
+        "timestamp": 1781291009.983397,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "34. Si el tráfico de precursores lo realiza una persona integrada en una organización, se impondrá la pena de prisión (Art. 371.2):",
+        "respuestas": {
+            "a": "a) Superior en grado.",
+            "b": "b) Señalada en su mitad superior.",
+            "c": "c) Inferior en grado.",
+            "d": "d) De nueve a doce años."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Subtipo agravado para precursores."
+    },
+    {
+        "timestamp": 1781291036.463652,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "35. Según el Art. 372, si el delito lo comete un facultativo (médico, psicólogo, farmacéutico, etc.) en el ejercicio de su cargo, se impondrá:",
+        "respuestas": {
+            "a": "a) Solo la pena de prisión.",
+            "b": "b) Además de las penas correspondientes, la de inhabilitación especial de tres a diez años.",
+            "c": "c) Una multa reducida.",
+            "d": "d) Se le exime de responsabilidad si acredita que era para investigación."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Inhabilitación obligatoria para profesionales sanitarios y agentes."
+    },
+    {
+        "timestamp": 1781291043.9036536,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "36. El castigo para la provocación, conspiración y proposición (Art. 373) para los delitos de tráfico de drogas es la pena:",
+        "respuestas": {
+            "a": "a) Superior en grado.",
+            "b": "b) Inferior en uno o dos grados.",
+            "c": "c) Misma que la del delito consumado.",
+            "d": "d) No se castigan los actos preparatorios."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Regla general de actos preparatorios en este capítulo."
+    },
+    {
+        "timestamp": 1781291074.7117999,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "37. En los delitos de tráfico de drogas, los bienes, medios, instrumentos y GANANCIAS serán objeto de (Art. 374):",
+        "respuestas": {
+            "a": "a) Custodia policial permanente.",
+            "b": "b) Decomiso.",
+            "c": "c) Devolución a los familiares del reo si no sabían nada.",
+            "d": "d) Subasta inmediata antes de la sentencia."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "El decomiso es la consecuencia patrimonial principal."
+    },
+    {
+        "timestamp": 1781291080.1116138,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "38. Los bienes decomisados por sentencia firme que no puedan aplicarse a responsabilidades civiles ni costas (Art. 374.2) serán adjudicados:",
+        "respuestas": {
+            "a": "a) A los Ayuntamientos donde se incautaron.",
+            "b": "b) Íntegramente al Estado.",
+            "c": "c) A asociaciones de víctimas del terrorismo.",
+            "d": "d) Al Colegio de Abogados."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Los bienes pasan al Estado."
+    },
+    {
+        "timestamp": 1781291089.3518522,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "39. Respecto a la REINCIDENCIA (Art. 375), las condenas de Jueces o Tribunales EXTRANJEROS por delitos de la misma naturaleza:",
+        "respuestas": {
+            "a": "a) No computan en España.",
+            "b": "b) Producirán los efectos de reincidencia, salvo que el antecedente haya sido cancelado o pueda serlo según derecho español.",
+            "c": "c) Solo computan si son de la Unión Europea.",
+            "d": "d) Solo computan para la expulsión del territorio."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Reincidencia internacional reconocida."
+    },
+    {
+        "timestamp": 1781291104.5757651,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "40. El tipo atenuado del artículo 376 permite bajar la pena en uno o dos grados si el sujeto:",
+        "respuestas": {
+            "a": "a) Es drogadicto.",
+            "b": "b) Ha abandonado voluntariamente sus actividades y colaborado activamente con las autoridades para impedir el delito o capturar a otros.",
+            "c": "c) No tiene antecedentes.",
+            "d": "d) Es menor de 21 años."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "El \"arrepentido\" o colaborador tiene beneficio penal."
+    },
+    {
+        "timestamp": 1781291121.0079732,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "41. Para que un drogadicto se beneficie de la atenuación del Art. 376, debe acreditar que:",
+        "respuestas": {
+            "a": "a) Ha consumido el día de los hechos.",
+            "b": "b) Ha finalizado con éxito un tratamiento de deshabituación, siempre que la cantidad no fuese de notoria importancia o extrema gravedad.",
+            "c": "c) Tiene una receta médica.",
+            "d": "d) Su familia lo apoya."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Requisito de éxito en deshabituación para el drogodependiente."
+    },
+    {
+        "timestamp": 1781291133.1997597,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "42. ¿En qué orden se imputarán los pagos efectuados por el penado según el Art. 378?",
+        "respuestas": {
+            "a": "a) 1º Multa, 2º Costas, 3º Indemnización.",
+            "b": "b) 1º Reparación del daño e indemnización, 2º Indemnización al Estado por gastos, 3º Multa, 4º Costas del acusador, 5º Resto de costas.",
+            "c": "c) 1º Costas, 2º Multa, 3º Indemnización.",
+            "d": "d) Al libre arbitrio del Juez."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Orden legal de prelación de pagos."
+    },
+    {
+        "timestamp": 1781291156.2161133,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "43. La Ley 4/2015 del Principado de Asturias define la DROGODEPENDENCIA como la adicción a:",
+        "respuestas": {
+            "a": "a) Solo sustancias ilegales.",
+            "b": "b) Una o más sustancias psicoactivas o la alteración de la conducta caracterizada por el deseo fuerte e insuperable de consumir.",
+            "c": "c) Alcohol exclusivamente.",
+            "d": "d) Sustancias que solo afecten al sistema motor."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Definición legal asturiana de drogodependencia."
+    },
+    {
+        "timestamp": 1781291170.4003212,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "44. El proceso terapéutico que tiene como objetivo la interrupción de la intoxicación producida por una sustancia psicoactiva exógena se denomina:",
+        "respuestas": {
+            "a": "a) Deshabituación.",
+            "b": "b) Desintoxicación.",
+            "c": "c) Reinserción.",
+            "d": "d) Reducción de daños."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Desintoxicación es la fase física/interrupción."
+    },
+    {
+        "timestamp": 1781291180.4485059,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "45. Los recursos de \"primer nivel\" en la red de atención a drogodependencias en Asturias include:",
+        "respuestas": {
+            "a": "a) Unidades de Desintoxicación Hospitalaria.",
+            "b": "b) Centros o equipos de atención primaria o recursos de reducción de daños.",
+            "c": "c) Comunidades Terapéuticas.",
+            "d": "d) Centros de día únicamente."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "Recursos de base o proximidad son primer nivel."
+    },
+    {
+        "timestamp": 1781291195.2244473,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "46. Según los efectos sobre el Sistema Nervioso Central (SNC), la cocaína y las anfetaminas se clasifican como:",
+        "respuestas": {
+            "a": "a) Depresoras.",
+            "b": "b) Perturbadoras.",
+            "c": "c) Estimulantes.",
+            "d": "d) Alucinógenas."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "Aceleran el SNC."
+    },
+    {
+        "timestamp": 1781291207.4488952,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "47. Según los efectos sobre el SNC, el opio, sus derivados y el alcohol son:",
+        "respuestas": {
+            "a": "a) Estimulantes.",
+            "b": "b) Depresoras.",
+            "c": "c) Alucinógenas.",
+            "d": "d) Legales siempre."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Ralentizan el SNC."
+    },
+    {
+        "timestamp": 1781291213.576278,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "48. El cannabis y el LSD se clasifican por sus efectos como:",
+        "respuestas": {
+            "a": "a) Depresoras.",
+            "b": "b) Estimulantes.",
+            "c": "c) Perturbadoras o alucinógenas.",
+            "d": "d) Blandas."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "Alteran la percepción."
+    },
+    {
+        "timestamp": 1781291223.6964517,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "49. Según la aceptación social, las drogas \"duras\" son aquellas que:",
+        "respuestas": {
+            "a": "a) Son de mayor aceptación en la comunidad.",
+            "b": "b) Son de menor aceptación y capaces de generar efectos nocivos a corto plazo.",
+            "c": "c) Solo incluyen las sustancias sintéticas.",
+            "d": "d) Se venden en farmacias."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Clasificación por peligrosidad social."
+    },
+    {
+        "timestamp": 1781291239.7125509,
+        "path": "/delitos_contra_la_salud_publica.json",
+        "id": "id2340234",
+        "pregunta": "50. Las drogas semi-sintéticas son aquellas que:",
+        "respuestas": {
+            "a": "a) Se encuentran así en la naturaleza (marihuana).",
+            "b": "b) Proceden de la naturaleza pero son sometidas a transformación química (cocaína, heroína).",
+            "c": "c) Son elaboradas íntegramente en laboratorio (éxtasis).",
+            "d": "d) Son legales en dosis pequeñas."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "Cocaína y heroína vienen de plantas pero llevan proceso químico."
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "timestamp": 1780817282.531695,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿A quién corresponde el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Al Rey. ",
+            "b": "b. Al Ministro del Interior. ",
+            "c": "c. Al Ministro de Defensa. ",
+            "d": "d. Al Director de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817362.9483974,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "20. El título IV de la Ley Orgánica 2/86, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. De la colaboración y coordinación entre el Estado y las Comunidades Autónomas. ",
+            "b": "b. De la colaboración entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "c": "c. De la adscripción de Unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas. ",
+            "d": "d. De los órganos de coordinación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817790.9106174,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "10. Cuando se cometa delito de atentado, empleando en su ejecución armas de fuego, explosivos u otros medios de agresión de análoga peligrosidad, que puedan poner en peligro grave la integridad física de los miembros de las Fuerzas y Cuerpos de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Tendrán al efecto de su protección penal la consideración de autoridad. ",
+            "b": "b. Tendrán a todos los efectos legales la consideración de autoridad. ",
+            "c": "c. Tendrán a todos los efectos legales la consideración de Agentes de la autoridad. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817847.71119,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Qué funciones puede ejercer el Cuerpo Nacional de Policía en todo el territorio nacional, sin tener en cuenta el ámbito territorial?",
+        "opciones_respuesta": {
+            "a": "a. Investigación y coordinación de datos. ",
+            "b": "b. Velar por el cumplimiento de las Leyes. ",
+            "c": "c. Prevención de actos delictivos. ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817939.8397987,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "23. Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales. No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo.",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, previa autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, previa autorización del Delegado del Gobierno. ",
+            "c": "c. Verdadero, previa autorización del Director General de la Policía. ",
+            "d": "d. Falso. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817961.3197818,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "25. El Consejo de Política de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Estará presidido por el Ministro del Interior e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, entre otros. ",
+            "b": "b. Estará presidido por el Director de Seguridad del Estado e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, entre otros. ",
+            "c": "c. Estará presidido por el Delegado del Gobierno e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, entre otros. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832059.5371423,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "1. Según la reciente actualización de la Ley 8/2002 (LEPAR), ¿cuál es el nuevo título de la Sección 2ª del Capítulo II?",
+        "opciones_respuesta": {
+            "a": "A) Licencias municipales de apertura.",
+            "b": "B) Régimen de establecimientos y locales.",
+            "c": "C) Régimen de licencias y declaraciones responsables.",
+            "d": "D) Condiciones de seguridad in los establecimientos."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832097.113539,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿A qué materia se refiere el Decreto 38/2007, de 12 de abril?",
+        "opciones_respuesta": {
+            "a": "A) Al ejercicio del derecho de admisión.",
+            "b": "B) A las hojas de reclamaciones.",
+            "c": "C) A los seguros obligatorios de responsabilidad civil.",
+            "d": "D) Al régimen de horarios de apertura y cierre."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832131.4016201,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "8. En el caso de instalaciones eventuales o desmontables que no posean un aforo determinado, el capital mínimo asegurado será:",
+        "opciones_respuesta": {
+            "a": "A) 300.507,00 euros.",
+            "b": "B) El que determine el ayuntamiento en la licencia.",
+            "c": "C) 150.253,03 euros.",
+            "d": "D) No es obligatorio el seguro para instalaciones eventuales."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832143.7293172,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "9. Las franquicias en los seguros obligatorios de responsabilidad civil no podrán superar:",
+        "opciones_respuesta": {
+            "a": "A) Los 300,05 euros.",
+            "b": "B) Los 602,00 euros.",
+            "c": "C) El 10% del capital asegurado.",
+            "d": "D) No se permiten franquicias en este tipo de seguros."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832210.962028,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "15. La licencia de apertura se entenderá desestimada por silencio administrativo si:",
+        "opciones_respuesta": {
+            "a": "A) Transcurren tres meses sin notificación de resolución oportuna.",
+            "b": "B) No se recibe respuesta en 15 días desde la inspección.",
+            "c": "C) El solicitante no subsana deficiencias en 10 días.",
+            "d": "D) Transcurren seis meses desde la solicitud."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780832234.3060954,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cuál de los siguientes datos NO es obligatorio que figure en la licencia de apertura según el artículo 11?",
+        "opciones_respuesta": {
+            "a": "A) Aforo máximo.",
+            "b": "B) Denominación del establecimiento.",
+            "c": "C) Número de póliza del seguro.",
+            "d": "D) Medidas correctoras de obligado cumplimiento."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832389.483009,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "29. El establecimiento debe conservar la copia rosa a disposición de la inspección durante un plazo de:",
+        "opciones_respuesta": {
+            "a": "A) Tres meses.",
+            "b": "B) Seis meses desde que se formuló la reclamación.",
+            "c": "C) Un año.",
+            "d": "D) Hasta que prescriba la posible infracción."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832492.7157273,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "38. ¿Cuántas veces al año, como mínimo, se reunirá el Pleno del Consejo Asesor en sesión ordinaria?",
+        "opciones_respuesta": {
+            "a": "A) Una vez al mes.",
+            "b": "B) Una vez al trimestre.",
+            "c": "C) Dos veces al año.",
+            "d": "D) Una vez al año."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832510.5158277,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "40. Para un establecimiento con un aforo de entre 501 y 750 personas, ¿cuántos vigilantes de seguridad son obligatorios?",
+        "opciones_respuesta": {
+            "a": "A) 2 vigilantes.",
+            "b": "B) 3 vigilantes.",
+            "c": "C) 4 vigilantes.",
+            "d": "D) 5 vigilantes."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832558.0521529,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "45. Una discoteca se define como un local que cuenta con pista de baile y un diámetro mínimo de:",
+        "opciones_respuesta": {
+            "a": "A) Cinco metros.",
+            "b": "B) Siete metros.",
+            "c": "C) Diez metros.",
+            "d": "D) No existe diámetro mínimo reglamentario."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832638.6605992,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "56. ¿Qué recurso cabe contra las resoluciones dictadas por el titular de la Viceconsejería o Dirección General competente?",
+        "opciones_respuesta": {
+            "a": "A) Recurso de alzada ante el órgano superior jerárquico.",
+            "b": "B) Recurso de súplica.",
+            "c": "C) Recurso extraordinario de revisión únicamente.",
+            "d": "D) No cabe recurso en vía administrativa."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832663.4767036,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "57. Las medidas cautelares se extinguirán:",
+        "opciones_respuesta": {
+            "a": "A) Al mes de su adopción.",
+            "b": "B) En todo caso con la resolución administrativa que ponga fin al procedimiento.",
+            "c": "C) Cuando lo pida el abogado del titular.",
+            "d": "D) A los seis meses si no hay propuesta de sanción."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832677.0608006,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "58. ¿Quién actúa como Secretario del Consejo Asesor?",
+        "opciones_respuesta": {
+            "a": "A) El titular de la Consejería.",
+            "b": "B) Un funcionario de la Consejería competente designado por su titular.",
+            "c": "C) El representante de la FACC.",
+            "d": "D) Un representante de los sindicatos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    }
+]

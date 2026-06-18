@@ -1,0 +1,1626 @@
+[
+    {
+        "timestamp": 1780817227.884234,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Cuántos artículos tiene la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 56 ",
+            "b": "b. 36 ",
+            "c": "c. 65 ",
+            "d": "d. 54 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817230.5233884,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Qué título habla de los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. Título 4 ",
+            "b": "b. Título 5 ",
+            "c": "c. Título 6 ",
+            "d": "d. Ninguno de los anteriores "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817235.3231237,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "3. La seguridad pública es competencia…",
+        "opciones_respuesta": {
+            "a": "a. Del Estado y de las Comunidades Autónomas. ",
+            "b": "b. Exclusiva del Estado. ",
+            "c": "c. Del Estado, de las Comunidades Autónomas y de las Corporaciones Locales. ",
+            "d": "d. Ninguna de las anteriores. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817241.1622503,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "4. Son Fuerzas y Cuerpos de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Los Cuerpos de Policía Local. ",
+            "b": "b. El Cuerpo Nacional de Policía y la Guardia Civil. ",
+            "c": "c. Los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817248.6354475,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Quiénes tienen especial obligación de auxiliar o colaborar con las Fuerzas y Cuerpos de Seguridad en todo momento?",
+        "opciones_respuesta": {
+            "a": "a. Todos. ",
+            "b": "b. Las personas que ejerzan funciones de vigilancia, seguridad o custodia referidas a personal y bienes o servicios de titularidad pública o privada. ",
+            "c": "c. Las entidades que ejerzan funciones de vigilancia, seguridad o custodia referidas a personal y bienes o servicios de titularidad pública o privada. ",
+            "d": "d. B) y c) son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817251.6995003,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "6. Los principios básicos de actuación se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 4 ",
+            "b": "b. 5 ",
+            "c": "c. 6 ",
+            "d": "d. 7 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817257.675333,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "7. ¿Cuál de los siguientes no es un principio básico de actuación?",
+        "opciones_respuesta": {
+            "a": "a. Relaciones con la comunidad. ",
+            "b": "b. Dedicación Profesional. ",
+            "c": "c. Responsabilidad. ",
+            "d": "d. Cooperación institucional. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817261.0833058,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "8. Las fuerzas y cuerpos de seguridad se regirán en la utilización de armas y medios a su alcance por los siguientes principios:",
+        "opciones_respuesta": {
+            "a": "a. Congruencia, Oportunidad y Proporcionalidad. ",
+            "b": "b. Intervención mínima y Seguridad. ",
+            "c": "c. Proporcionalidad y menor lesividad. ",
+            "d": "d. Decisión necesaria y sin demora. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817268.7797499,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "9. Los miembros de las Fuerzas y Cuerpos de Seguridad, respecto al derecho de huelga:",
+        "opciones_respuesta": {
+            "a": "a. No lo podrán ejercer en ningún caso, y tampoco acciones sustitutivas del mismo. ",
+            "b": "b. No lo podrán ejercer en ningún caso, pero sí acciones sustitutivas del mismo. ",
+            "c": "c. Lo podrán ejercer, exclusivamente, conforme a la legislación específica en la materia. ",
+            "d": "d. Lo podrán ejercer al ser considerado un derecho constitucional, salvo que se altere el normal funcionamiento del servicio. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817272.8514771,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Qué consideración tienen los miembros de los Cuerpos de Policía Local en el ejercicio de sus funciones?",
+        "opciones_respuesta": {
+            "a": "a. Autoridad. ",
+            "b": "b. Agentes de la Autoridad. ",
+            "c": "c. Fuerza Armada. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817276.5876644,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Cuándo dependerá la Guardia Civil, exclusivamente, del Ministerio de Defensa?",
+        "opciones_respuesta": {
+            "a": "a. En todo momento. ",
+            "b": "b. En ningún caso. ",
+            "c": "c. En tiempo de guerra y durante el estado de sitio. ",
+            "d": "d. En tiempo de guerra, exclusivamente. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817282.531695,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿A quién corresponde el mando superior de las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Al Rey. ",
+            "b": "b. Al Ministro del Interior. ",
+            "c": "c. Al Ministro de Defensa. ",
+            "d": "d. Al Director de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817301.7315795,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "13.Las Fuerzas y Cuerpos de Seguridad del Estado tienen como misión:",
+        "opciones_respuesta": {
+            "a": "a. Proteger el libre ejercicio de los derechos y libertades. ",
+            "b": "b. Garantizar la seguridad ciudadana. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817307.4919946,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "14. Como norma general, ¿Quién ejerce sus funciones en el mar territorial?",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía. ",
+            "b": "b. La Guardia Civil. ",
+            "c": "c. A) y b) son correctas. ",
+            "d": "d. La Policía portuaria. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817316.8357494,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Cuál de las siguientes no es una función del Cuerpo Nacional de Policía?",
+        "opciones_respuesta": {
+            "a": "a. Prestar auxilio a las Policías de otros países. ",
+            "b": "b. Inspección en materia de juego. ",
+            "c": "c. El control de las actuaciones del personal de seguridad privada. ",
+            "d": "d. Todas son funciones. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817323.4436142,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cuál de las siguientes no es una función de la Guardia Civil?",
+        "opciones_respuesta": {
+            "a": "a. La conducción interurbana de presos y detenidos. ",
+            "b": "b. La custodia de puertos. ",
+            "c": "c. Resguardo fiscal del Estado. ",
+            "d": "d. Persecución de delitos relacionados con la droga. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817331.3077204,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿Qué Comunidades Autónomas podrán crear cuerpos de Policía propios?",
+        "opciones_respuesta": {
+            "a": "a. Todas las que lo soliciten al Ministerio del Interior. ",
+            "b": "b. Las que lo prevean en sus Estatutos de Autonomía. ",
+            "c": "c. Las que firmen acuerdos de cooperación específica con el Estado. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817343.3800223,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "18. Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas es una función:",
+        "opciones_respuesta": {
+            "a": "a. Que realizan los Cuerpos de Policía de las Comunidades Autónomas en colaboración con las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "b": "b. A) es correcta, y su ejercicio corresponderá con carácter prioritario a los Cuerpos de Policía de la Comunidad Autónoma. ",
+            "c": "c. A) es correcta, y su ejercicio corresponderá con carácter prioritario a las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "d": "d. Que realizan los Cuerpos de Policía de las Comunidades Autónomas, prestando dicho servicio de modo simultáneo e indiferenciado con las Fuerzas y Cuerpos de Seguridad del Estado. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817348.3000555,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿A quién corresponde la coordinación de los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. A las respectivas Corporaciones Locales. ",
+            "b": "b. A la Comunidad Autónoma. ",
+            "c": "c. Al Ministerio del Interior. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817362.9483974,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "20. El título IV de la Ley Orgánica 2/86, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. De la colaboración y coordinación entre el Estado y las Comunidades Autónomas. ",
+            "b": "b. De la colaboración entre las Fuerzas y Cuerpos de Seguridad del Estado y los Cuerpos de Policía de las Comunidades Autónomas. ",
+            "c": "c. De la adscripción de Unidades del Cuerpo Nacional de Policía a las Comunidades Autónomas. ",
+            "d": "d. De los órganos de coordinación. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817370.74829,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "21. Los artículos referidos a los Cuerpos de Policía Local, comprenden:",
+        "opciones_respuesta": {
+            "a": "a. Del 49 al 54 ",
+            "b": "b. Del 51 al 54 ",
+            "c": "c. Del 50 al 56. ",
+            "d": "d. Del 53 al 56. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817374.7961574,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Qué ámbito territorial tienen los Cuerpos de Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. El municipio. ",
+            "b": "b. La provincia. ",
+            "c": "c. La Comunidad Autónoma. ",
+            "d": "d. El territorio nacional. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817385.116367,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "23. ¿Quién puede autorizar la prestación de determinadas funciones sin uniforme reglamentario a un Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. La Junta Local de Seguridad. ",
+            "b": "b. El Alcalde. ",
+            "c": "c. El Gobernador Civil (actual Subdelegado del Gobierno). ",
+            "d": "d. La Junta de Seguridad. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817389.6523082,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "24. ¿Cuál de las siguientes no es una función de la Policía Local?",
+        "opciones_respuesta": {
+            "a": "a. Instruir Atestados por accidentes de circulación en casco urbano y carreteras de titularidad municipal. ",
+            "b": "b. Participar en funciones de Policía Judicial. ",
+            "c": "c. Cooperar en la resolución de conflictos privados cuando sean requeridos para ello. ",
+            "d": "d. Todas son funciones. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817393.700447,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "25. Las funciones de los cuerpos de Policía Local se establecen en el artículo:",
+        "opciones_respuesta": {
+            "a": "a. 51 ",
+            "b": "b. 53 ",
+            "c": "c. 54 ",
+            "d": "d. 56 "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817405.1563854,
+        "path": "/_plan_pl_2.1.json",
+        "id": "id2340234",
+        "pregunta": "26. El órgano competente para establecer las formas y procedimientos de colaboración entre los miembros de las Fuerzas y Cuerpos de Seguridad en el municipio, se denomina:",
+        "opciones_respuesta": {
+            "a": "a. Junta de Seguridad ",
+            "b": "b. Junta Local de Seguridad ",
+            "c": "c. Junta de Gobierno Local ",
+            "d": "d. Centro Local de Cooperación Policial "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817661.9099555,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué artículos constitucionales inspiran el marco normativo de la Ley Orgánica 2/86?",
+        "opciones_respuesta": {
+            "a": "a. 104, 148.1.22 y 149.1.29. ",
+            "b": "b. 105, 148.1.29 y 149.1.22. ",
+            "c": "c. 104, 148.1.29 y 149.1.22. ",
+            "d": "d. 105, 148.1.22 y 149.1.29. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817679.3741527,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Quién ejercerá el mantenimiento de la Seguridad Pública?",
+        "opciones_respuesta": {
+            "a": "a. El Estado, como competencia exclusiva. ",
+            "b": "b. El Estado, las Comunidades Autónomas y las Corporaciones Locales. ",
+            "c": "c. Las Administraciones Públicas, a través de las Fuerzas y Cuerpos de Seguridad. ",
+            "d": "d. Las Fuerzas y Cuerpos de Seguridad del Estado. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817696.9261277,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "3. Son Fuerzas y Cuerpos de Seguridad del Estado:",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía y la Guardia Civil. ",
+            "b": "b. Los Cuerpos de Policía dependientes de las Comunidades Autónomas. ",
+            "c": "c. Los Cuerpos de Policía dependientes de las Corporaciones Locales. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817703.718236,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "4. Los miembros de las Fuerzas y Cuerpos de Seguridad ajustarán su actuación al principio de:",
+        "opciones_respuesta": {
+            "a": "a. Colaboración recíproca. ",
+            "b": "b. Cooperación recíproca. ",
+            "c": "c. Coordinación recíproca. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817712.7900422,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "5. ¿Cuando tiene cualquier persona el deber de prestar el auxilio necesario a las FCSEG?",
+        "opciones_respuesta": {
+            "a": "a. En todo momento. ",
+            "b": "b. En la investigación y persecución de delitos. ",
+            "c": "c. En defensa de la Ley y la Seguridad ciudadana. ",
+            "d": "d. En ningún caso, solamente quienes ejerzan funciones de vigilancia, seguridad o custodia. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817726.1262457,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "6. Corresponde al principio básico de actuación de Adecuación al Ordenamiento Jurídico…",
+        "opciones_respuesta": {
+            "a": "a. Impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral. ",
+            "b": "b. Actuar con integridad y dignidad. En particular, deberán abstenerse de todo acto de corrupción y oponerse a él resueltamente. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817752.6070256,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "7. Corresponde al principio básico de actuación de Dedicación Profesional…",
+        "opciones_respuesta": {
+            "a": "a. Deberán llevar a cabo sus funciones con total dedicación, debiendo intervenir siempre, en cualquier tiempo y lugar, se hallaren o no de servicio, en defensa de la Ley y de la seguridad ciudadana. ",
+            "b": "b. Observar en todo momento un trato correcto y esmerado en sus relaciones con los ciudadanos, a quienes procurarán auxiliar y proteger, siempre que las circunstancias lo aconsejen o fueren requeridos para ello. En todas sus intervenciones, proporcionarán información cumplida, y tan amplia como sea posible, sobre las causas y finalidad de las mismas. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817766.9907248,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "8. Señale la opción correcta respecto a los Principios básicos de actuación de los cuerpos y fuerzas de seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Estarán obligados a revelar las fuentes de información salvo que el ejercicio de sus funciones o las disposiciones de la Ley les impongan actuar de otra manera. ",
+            "b": "b. Los miembros de las Fuerzas y Cuerpos de Seguridad deberán identificarse debidamente como tales en el momento de iniciar una intervención ",
+            "c": "c. Deberán sujetarse en su actuación profesional, a los principios de honor y dignidad. ",
+            "d": "d. Todas son incorrectas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817776.1746454,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "9. Objetividad, igualdad de oportunidades, mérito y capacidad, son los principios a los que se ajustará:",
+        "opciones_respuesta": {
+            "a": "a. La promoción. ",
+            "b": "b. La formación y perfeccionamiento. ",
+            "c": "c. La provisión de puestos de trabajo. ",
+            "d": "d. La remuneración. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817790.9106174,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "10. Cuando se cometa delito de atentado, empleando en su ejecución armas de fuego, explosivos u otros medios de agresión de análoga peligrosidad, que puedan poner en peligro grave la integridad física de los miembros de las Fuerzas y Cuerpos de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Tendrán al efecto de su protección penal la consideración de autoridad. ",
+            "b": "b. Tendrán a todos los efectos legales la consideración de autoridad. ",
+            "c": "c. Tendrán a todos los efectos legales la consideración de Agentes de la autoridad. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817804.550666,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "11. La iniciación de procedimiento penal contra miembros de las Fuerzas y Cuerpos de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Impedirá la incoación y tramitación de expedientes gubernativos o disciplinarios por los mismos hechos. ",
+            "b": "b. No impedirá la incoación y tramitación de expedientes gubernativos o disciplinarios por los mismos hechos. ",
+            "c": "c. Impedirá la incoación y tramitación de expedientes gubernativos o disciplinarios por los mismos hechos, salvo en determinadas circunstancias. ",
+            "d": "d. No impedirá la incoación, pero si la tramitación de expedientes gubernativos o disciplinarios por los mismos hechos. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817814.6628764,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿A quien le corresponde la responsabilidad de las relaciones de colaboración y auxilio con las Autoridades policiales de otros países?",
+        "opciones_respuesta": {
+            "a": "a. Al Ministro del Interior. ",
+            "b": "b. Al Ministro de Defensa. ",
+            "c": "c. Al Director General de la Policía. ",
+            "d": "d. Al Director de Seguridad del Estado. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817820.5910463,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "13. Como norma general, la figura del Gobernador Civil, en la actualidad es:",
+        "opciones_respuesta": {
+            "a": "a. El Subdelegado de Gobierno. ",
+            "b": "b. El Delegado de Gobierno. ",
+            "c": "c. El Secretario de Estado de Seguridad. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817829.8069625,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "14. ¿Quién ejerce en cada provincia el mando directo de las FCSEG del Estado?",
+        "opciones_respuesta": {
+            "a": "a. El Gobernador Civil. ",
+            "b": "b. El Director de Seguridad. ",
+            "c": "c. El Presidente de la Comunidad Autónoma. ",
+            "d": "d. El Ministro del Interior. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817847.71119,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "15. ¿Qué funciones puede ejercer el Cuerpo Nacional de Policía en todo el territorio nacional, sin tener en cuenta el ámbito territorial?",
+        "opciones_respuesta": {
+            "a": "a. Investigación y coordinación de datos. ",
+            "b": "b. Velar por el cumplimiento de las Leyes. ",
+            "c": "c. Prevención de actos delictivos. ",
+            "d": "d. Todas son correctas "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817860.127348,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿En qué casos actuarán fuera de su ámbito competencial el CNP o la GC?",
+        "opciones_respuesta": {
+            "a": "a. Por mandato judicial. ",
+            "b": "b. Por mandato del Ministerio Fiscal. ",
+            "c": "c. En casos excepcionales, cuando lo requiera la eficacia de la actuación. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817866.7830899,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "17. En caso de conflicto de competencias, ya sea positivo o negativo, se hará cargo del servicio:",
+        "opciones_respuesta": {
+            "a": "a. El Cuerpo Nacional de Policía. ",
+            "b": "b. La Guardia Civil. ",
+            "c": "c. Quien haya realizado las primeras actuaciones. ",
+            "d": "d. Quien haya tenido conocimiento de los hechos en primer lugar. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817873.431065,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Quien dispondrá todo lo referente a la selección,formación, perfeccionamiento, armamento y despliegue territorial de la Guardia Civil?",
+        "opciones_respuesta": {
+            "a": "a. El Ministro del Interior. ",
+            "b": "b. El Ministro de Defensa. ",
+            "c": "c. Ambos conjuntamente. ",
+            "d": "d. El Director General de la Guardia Civil y la Policía. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780817884.2714744,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "19. Los miembros de la Guardia Civil:",
+        "opciones_respuesta": {
+            "a": "a. No podrán pertenecer a sindicatos. ",
+            "b": "b. No podrán pertenecer a partidos políticos. ",
+            "c": "c. No podrán ejercer el derecho de huelga. ",
+            "d": "d. Todas son correctas. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817893.5433688,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "20. Los miembros de la Guardia Civil podrán ejercer el derecho de petición:",
+        "opciones_respuesta": {
+            "a": "a. Falso, no pueden ejercerlo. ",
+            "b": "b. Verdadero, pero solo de manera individual. ",
+            "c": "c. Verdadero, pero solo de manera colectiva. ",
+            "d": "d. Falso, según los términos de la legislación específica. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817907.6314101,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "21. En el cumplimiento de sus funciones, los funcionarios adscritos a Unidades de Policía Judicial dependen:",
+        "opciones_respuesta": {
+            "a": "a. Orgánicamente de los Jueces, tribunales y del Ministerio Fiscal. ",
+            "b": "b. Funcionalmente del Ministerio del Interior. ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817926.543571,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "22. En las diligencias o actuaciones que lleven a cabo, por encargo y bajo la supervisión de los Jueces, Tribunales o Fiscales competentes de lo Penal, los funcionarios integrantes de las Unidades de Policía Judicial tendrán el carácter de:",
+        "opciones_respuesta": {
+            "a": "a. Comisionados de dichos Jueces, Tribunales y Fiscales. ",
+            "b": "b. Autoridad. ",
+            "c": "c. Miembros del Poder Judicial. ",
+            "d": "d. Peritos judiciales. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780817939.8397987,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "23. Los cuerpos de policía de las comunidades autónomas sólo podrán actuar en el ámbito territorial de la comunidad autónoma respectiva, salvo en situaciones de emergencia, previo requerimiento de las autoridades estatales. No obstante, cuando ejerzan funciones de protección de autoridades públicas de la comunidad autónoma, podrán actuar fuera del ámbito territorial respectivo.",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, previa autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, previa autorización del Delegado del Gobierno. ",
+            "c": "c. Verdadero, previa autorización del Director General de la Policía. ",
+            "d": "d. Falso. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817951.9514747,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "24. Los Mandos de los Cuerpos de Policía de las Comunidades Autónomas se designarán por las Autoridades competentes de la Comunidad Autónoma, entre:",
+        "opciones_respuesta": {
+            "a": "a. Los Agentes con mayor categoría entre los distintos Cuerpos de la Comunidad Autónoma. ",
+            "b": "b. Los Jefes, Oficiales y Mandos de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "c": "c. Los Agentes con mayor antigüedad dentro del propio cuerpo. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817961.3197818,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "25. El Consejo de Política de Seguridad:",
+        "opciones_respuesta": {
+            "a": "a. Estará presidido por el Ministro del Interior e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, entre otros. ",
+            "b": "b. Estará presidido por el Director de Seguridad del Estado e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, entre otros. ",
+            "c": "c. Estará presidido por el Delegado del Gobierno e integrado por los Consejeros de Interior o Gobernación de las Comunidades Autónomas, entre otros. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780817971.2717276,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "26. ¿Cuantos integrantes tiene el Comité de Expertos del Consejo de Política de Seguridad?:",
+        "opciones_respuesta": {
+            "a": "a. 4 ",
+            "b": "b. 5 ",
+            "c": "c. 6 ",
+            "d": "d. 8 "
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780817994.9358337,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "27. Los Cuerpos de Policía Local cuando ejerzan funciones de protección de autoridades de las corporaciones locales, podrán actuar fuera del término municipal respectivo:",
+        "opciones_respuesta": {
+            "a": "a. Verdadero, con autorización del Ministerio del Interior. ",
+            "b": "b. Verdadero, con autorización de la correspondiente autoridad de la comunidad autónoma que cuente con cuerpo de policía autonómica, cuando desarrollen íntegramente esas actuaciones en el ámbito territorial de dicha comunidad autónoma. ",
+            "c": "c. a) y b) son correctas ",
+            "d": "d. Falso, no podrán ejercer dicha función fuera de su ámbito territorial. "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780818009.0319412,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "28. Respecto al ejercicio de los derechos sindicales por parte de los Cuerpos de Policía Local:",
+        "opciones_respuesta": {
+            "a": "a. Les será de aplicación la Ley que se dicte en cumplimiento de lo establecido en la disposición adicional primera, apartado 2, de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical. ",
+            "b": "b. Les será de aplicación la Ley que se dicte en cumplimiento de lo establecido en la disposición adicional segunda, apartado 2, de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical. ",
+            "c": "c. Les será de aplicación la Ley que se dicte en cumplimiento de lo establecido en la disposición adicional tercera, apartado 3, de la Ley Orgánica 11/1985, de 2 de agosto, de Libertad Sindical. ",
+            "d": "d. No podrán ser ejercidos por dichos miembros. "
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780818018.4639547,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "29. ¿Qué funciones que practiquen los Cuerpos de Policía Local deben ser comunicadas a las Fuerzas y Cuerpos de Seguridad del Estado?",
+        "opciones_respuesta": {
+            "a": "a. Instruir atestados por accidentes de circulación dentro del casco urbano (53/c). ",
+            "b": "b. Efectuar diligencias de prevención y cuantas actuaciones tiendan a evitar la comisión de actos delictivos en el marco de colaboración establecido en las Juntas de Seguridad (53/g). ",
+            "c": "c. a) y b) son correctas. ",
+            "d": "d. La prestación de auxilio, en los casos de accidente, catástrofe o calamidad pública, participando, en la forma prevista en las Leyes, en la ejecución de los planes de Protección Civil (53/f). "
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780818030.1922092,
+        "path": "/_plan_pl_2.2.json",
+        "id": "id2340234",
+        "pregunta": "30. En los municipios de gran población y en las Ciudades con Estatuto de Autonomía podrá asignarse, por el Pleno de la Corporación o por sus respectivas Asambleas, al ejercicio exclusivo de las funciones previstas en el párrafo b) del apartado 1 a parte de los funcionarios pertenecientes a las mismas:",
+        "opciones_respuesta": {
+            "a": "a. Que tendrán la consideración de agentes de la autoridad, subordinados a los miembros de los respectivos Cuerpos de Policía Local, sin integrarse en las Fuerzas y Cuerpos de Seguridad. ",
+            "b": "b. Que no tendrán la consideración de agentes de la autoridad, serán subordinados a los miembros de los respectivos Cuerpos de Policía Local, sin integrarse en las Fuerzas y Cuerpos de Seguridad. ",
+            "c": "c. Que tendrán la consideración de agentes de la autoridad, subordinados a los miembros de los respectivos Cuerpos de Policía Local, integrándose en las Fuerzas y Cuerpos de Seguridad. ",
+            "d": "d. Las Ciudades con Estatuto de Autonomía no podrán crear dicha figura, sino exclusivamente los municipios de gran población. "
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832059.5371423,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "1. Según la reciente actualización de la Ley 8/2002 (LEPAR), ¿cuál es el nuevo título de la Sección 2ª del Capítulo II?",
+        "opciones_respuesta": {
+            "a": "A) Licencias municipales de apertura.",
+            "b": "B) Régimen de establecimientos y locales.",
+            "c": "C) Régimen de licencias y declaraciones responsables.",
+            "d": "D) Condiciones de seguridad in los establecimientos."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832084.7533765,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "2. Quedan excluidas del ámbito de aplicación de la LEPAR:",
+        "opciones_respuesta": {
+            "a": "A) Las actividades recreativas de carácter extraordinario.",
+            "b": "B) Las actividades privadas de carácter familiar o social no abiertas a la pública concurrencia.",
+            "c": "C) Los espectáculos taurinos, que se rigen íntegramente por esta Ley.",
+            "d": "D) Los establecimientos que reúnan condiciones de seguridad ciudadana exigidas por la Ley."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832091.7289546,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿Qué Decreto regula específicamente el Catálogo de los Espectáculos Públicos, las Actividades Recreativas y los Establecimientos en el Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "A) Decreto 90/2004.",
+            "b": "B) Decreto 91/2004.",
+            "c": "C) Decreto 100/2006.",
+            "d": "D) Decreto 38/2007."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832097.113539,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿A qué materia se refiere el Decreto 38/2007, de 12 de abril?",
+        "opciones_respuesta": {
+            "a": "A) Al ejercicio del derecho de admisión.",
+            "b": "B) A las hojas de reclamaciones.",
+            "c": "C) A los seguros obligatorios de responsabilidad civil.",
+            "d": "D) Al régimen de horarios de apertura y cierre."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832105.7534986,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "5. El Decreto 63/2007 regula:",
+        "opciones_respuesta": {
+            "a": "A) Los servicios de vigilancia y seguridad.",
+            "b": "B) Las hojas de reclamaciones.",
+            "c": "C) Los espectáculos de carácter extraordinario.",
+            "d": "D) El Consejo Asesor de Espectáculos Públicos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832112.585236,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "6. El seguro de responsabilidad civil para un local con un aforo de hasta 300 personas debe cubrir una cuantía mínima de:",
+        "opciones_respuesta": {
+            "a": "A) 150.253,03 euros.",
+            "b": "B) 300.507,00 euros.",
+            "c": "C) 450.000,00 euros.",
+            "d": "D) 60.000,00 euros."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832118.1213038,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "7. Según el Decreto 38/2007, para establecimientos con aforo entre 301 y 1.500 personas, el capital mínimo asegurado es de:",
+        "opciones_respuesta": {
+            "a": "A) 150.253,03 euros.",
+            "b": "B) 300.507,00 euros.",
+            "c": "C) 450.000,00 euros.",
+            "d": "D) 602,00 euros."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832131.4016201,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "8. En el caso de instalaciones eventuales o desmontables que no posean un aforo determinado, el capital mínimo asegurado será:",
+        "opciones_respuesta": {
+            "a": "A) 300.507,00 euros.",
+            "b": "B) El que determine el ayuntamiento en la licencia.",
+            "c": "C) 150.253,03 euros.",
+            "d": "D) No es obligatorio el seguro para instalaciones eventuales."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832143.7293172,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "9. Las franquicias en los seguros obligatorios de responsabilidad civil no podrán superar:",
+        "opciones_respuesta": {
+            "a": "A) Los 300,05 euros.",
+            "b": "B) Los 602,00 euros.",
+            "c": "C) El 10% del capital asegurado.",
+            "d": "D) No se permiten franquicias en este tipo de seguros."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832148.5613322,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "10. Según el artículo 8 bis, ¿con qué antelación mínima debe presentarse la declaración responsable ante el Ayuntamiento?",
+        "opciones_respuesta": {
+            "a": "A) 24 horas.",
+            "b": "B) 48 horas.",
+            "c": "C) 5 días hábiles.",
+            "d": "D) 10 días naturales."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832155.121491,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "11. Los spectacles en directo de escasa incidencia en terrazas al aire libre deben situarse a una distancia de, al menos:",
+        "opciones_respuesta": {
+            "a": "A) 20 metros de las viviendas.",
+            "b": "B) 30 metros de edificios residenciales.",
+            "c": "C) 40 metros respecto de las viviendas o edificios residenciales.",
+            "d": "D) 50 metros de centros hospitalarios."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832162.9378414,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "12. ¿Cuál es el horario permitido para los espectáculos de \"escasa incidencia\" según la disposición transitoria única?",
+        "opciones_respuesta": {
+            "a": "A) Entre las 09:00 y las 22:00 horas.",
+            "b": "B) Entre las 10:00 y las 23:00 horas.",
+            "c": "C) De 11:00 a 00:00 horas.",
+            "d": "D) El que marque la licencia de apertura del local."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832188.329825,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "13. No se considerará espectáculo de \"escasa incidencia\" aquel que:",
+        "opciones_respuesta": {
+            "a": "A) Se desarrolle in el interior de espacios cerrados.",
+            "b": "B) Requiera escenario ni camerinos.",
+            "c": "C) Suponga una modificación de las condiciones técnicas y de aislamiento acústico generales.",
+            "d": "D) Tenga un aforo inferior a 50 personas."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832195.1777549,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "14. El plazo máximo de tramitación del procedimiento para la obtención de licencias de apertura será de:",
+        "opciones_respuesta": {
+            "a": "A) Un mes.",
+            "b": "B) Dos meses.",
+            "c": "C) Tres meses.",
+            "d": "D) Seis meses."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832210.962028,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "15. La licencia de apertura se entenderá desestimada por silencio administrativo si:",
+        "opciones_respuesta": {
+            "a": "A) Transcurren tres meses sin notificación de resolución oportuna.",
+            "b": "B) No se recibe respuesta en 15 días desde la inspección.",
+            "c": "C) El solicitante no subsana deficiencias en 10 días.",
+            "d": "D) Transcurren seis meses desde la solicitud."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780832234.3060954,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "16. ¿Cuál de los siguientes datos NO es obligatorio que figure en la licencia de apertura según el artículo 11?",
+        "opciones_respuesta": {
+            "a": "A) Aforo máximo.",
+            "b": "B) Denominación del establecimiento.",
+            "c": "C) Número de póliza del seguro.",
+            "d": "D) Medidas correctoras de obligado cumplimiento."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832245.0021167,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "17. La licencia de apertura caducará si la actividad no comienza a ejercerse en el plazo de:",
+        "opciones_respuesta": {
+            "a": "A) Seis meses desde su concesión.",
+            "b": "B) Un año a contar desde su concesión.",
+            "c": "C) Dos años desde la solicitud.",
+            "d": "D) Tres meses desde la notificación."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832257.1540623,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "18. Si el ejercicio de la actividad autorizada se paraliza, la licencia caducará si dicha paralización es superior a:",
+        "opciones_respuesta": {
+            "a": "A) Seis meses.",
+            "b": "B) Un año, salvo supuestos de fuerza mayor o caso fortuito.",
+            "c": "C) Dieciocho meses.",
+            "d": "D) Dos años ininterrumpidos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832267.3301713,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "19. El plazo máximo para la concesión de licencias para instalaciones eventuales, portátiles o desmontables es de:",
+        "opciones_respuesta": {
+            "a": "A) 15 días.",
+            "b": "B) 30 días.",
+            "c": "C) 45 días.",
+            "d": "D) Dos meses."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832283.7784774,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "20. ¿A quién corresponde la inspección de los establecimientos y el control del desarrollo de los espectáculos?",
+        "opciones_respuesta": {
+            "a": "A) Exclusivamente al Principado de Asturias.",
+            "b": "B) Únicamente a los Ayuntamientos.",
+            "c": "C) Tanto al Principado de Asturias como a los Ayuntamientos, en sus respectivos ámbitos de competencia.",
+            "d": "D) Solo a las Fuerzas y Cuerpos de Seguridad del Estado."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832293.0423634,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "21. Según el artículo 24, ¿pueden las autoridades suspender un espectáculo sin audiencia previa del interesado?",
+        "opciones_respuesta": {
+            "a": "A) No, en ningún caso por el principio de defensa.",
+            "b": "B) Sí, en caso de apreciarse peligro inminente.",
+            "c": "C) Solo si lo autoriza un juez.",
+            "d": "D) Sí, pero solo si es un espectáculo taurino."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832309.7943966,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "22. La cuantía de las multas coercitivas no excederá en ningún caso de:",
+        "opciones_respuesta": {
+            "a": "A) 601,02 euros.",
+            "b": "B) La mitad del importe mínimo que se disponga para la sanción aplicable al caso.",
+            "c": "C) El 10% de la sanción principal.",
+            "d": "D) 3.000 euros por cada día de retraso."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832330.3302436,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "23. ¿A qué edad se prohíbe el acceso a los menores a los establecimientos públicos en los que lo tengan prohibido?",
+        "opciones_respuesta": {
+            "a": "A) Menores de 14 años.",
+            "b": "B) Menores de 16 años.",
+            "c": "C) Menores de 18 años.",
+            "d": "D) La ley no establece una edad fija, depende del ayuntamiento."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832339.6345305,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "24. En los locales destinados a menores de 16 años, el horario de finalización no podrá superar las:",
+        "opciones_respuesta": {
+            "a": "A) 21:30 horas.",
+            "b": "B) 22:00 horas.",
+            "c": "C) 22:30 horas.",
+            "d": "D) 23:00 horas."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832355.2748086,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "25. El ejercicio del derecho de admisión NO puede ser utilizado para:",
+        "opciones_respuesta": {
+            "a": "A) Impedir el acceso a personas con actitudes violentas.",
+            "b": "B) Restringir el acceso de manera discriminatoria o arbitraria.",
+            "c": "C) Expulsar a quien consuma drogas tóxicas en el interior.",
+            "d": "D) Impedir la entrada una vez completado el aforo."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832366.7708588,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "26. Los titulares de discotecas deben presentar las condiciones de admisión ante la Consejería competente en materia de seguridad pública para su:",
+        "opciones_respuesta": {
+            "a": "A) Información simple.",
+            "b": "B) Visado y colocación en los accesos.",
+            "c": "C) Aprobación por el Consejo de Ministros.",
+            "d": "D) No es necesario presentarlas si son las generales de la ley."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832374.410782,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Qué color tiene la copia de la hoja de reclamaciones que se queda el reclamante?",
+        "opciones_respuesta": {
+            "a": "A) Blanco.",
+            "b": "B) Rosa.",
+            "c": "C) Verde.",
+            "d": "D) Amarillo."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832380.626766,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "28. La copia rosa de la hoja de reclamaciones es para:",
+        "opciones_respuesta": {
+            "a": "A) La Administración.",
+            "b": "B) El reclamante.",
+            "c": "C) El establecimiento o instalación.",
+            "d": "D) El Consejo Asesor."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832389.483009,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "29. El establecimiento debe conservar la copia rosa a disposición de la inspección durante un plazo de:",
+        "opciones_respuesta": {
+            "a": "A) Tres meses.",
+            "b": "B) Seis meses desde que se formuló la reclamación.",
+            "c": "C) Un año.",
+            "d": "D) Hasta que prescriba la posible infracción."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832399.211015,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "30. Las infracciones muy graves prescribirán a los:",
+        "opciones_respuesta": {
+            "a": "A) Seis meses.",
+            "b": "B) Un año.",
+            "c": "C) Dos años.",
+            "d": "D) Tres años."
+        },
+        "opcion_correcta": "d",
+        "opcion_selecionada": "d"
+    },
+    {
+        "timestamp": 1780832406.7631423,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "31. Las infracciones leves prescriben a los:",
+        "opciones_respuesta": {
+            "a": "A) Seis meses.",
+            "b": "B) Un año.",
+            "c": "C) Dos años.",
+            "d": "D) Tres años."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832421.043092,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "32. La sanción de multa por una infracción grave oscila entre:",
+        "opciones_respuesta": {
+            "a": "A) Hasta 601,01 euros.",
+            "b": "B) 601,02 euros a 6.010,12 euros.",
+            "c": "C) 6.010,20 euros a 60.101,21 euros.",
+            "d": "D) 1.000 a 30.000 euros."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832443.5712852,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "33. ¿Qué órgano es competente para sancionar infracciones graves en concejos de más de 10.000 habitantes?",
+        "opciones_respuesta": {
+            "a": "A) El Alcalde.",
+            "b": "B) El Pleno del Ayuntamiento.",
+            "c": "C) El Consejero de Presidencia.",
+            "d": "D) La Junta de Gobierno Local."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832451.339492,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "34. Contra las resoluciones dictadas por el titular de la Consejería competente en materia de seguridad pública podrá interponerse:",
+        "opciones_respuesta": {
+            "a": "A) Recurso de alzada.",
+            "b": "B) Recurso de súplica ante el Consejo de Gobierno.",
+            "c": "C) Recurso de reposición ante el Alcalde.",
+            "d": "D) No cabe recurso administrativo."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832465.227299,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "35. ¿Cuál de estas es una medida cautelar que puede recaer tras iniciar un expediente sancionador?",
+        "opciones_respuesta": {
+            "a": "A) La multa coercitiva inmediata.",
+            "b": "B) El decomiso de los bienes o animales relacionados con el espectáculo.",
+            "c": "C) La inhabilitación permanente del titular.",
+            "d": "D) La retirada definitiva de la licencia."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832477.2994058,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "36. ¿Quién preside el Consejo Asesor de Espectáculos Públicos del Principado de Asturias?",
+        "opciones_respuesta": {
+            "a": "A) El Presidente del Principado.",
+            "b": "B) El titular de la Consejería competente en materia de seguridad pública.",
+            "c": "C) El titular de la presidencia de la Federación Asturiana de Concejos (FACC).",
+            "d": "D) El Director General de la Policía."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832485.6514676,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "37. En la composición del Consejo Asesor, ¿cuántos vocales representan a los concejos?",
+        "opciones_respuesta": {
+            "a": "A) 5 vocales.",
+            "b": "B) 3 vocales designados por la FACC.",
+            "c": "C) 2 vocales.",
+            "d": "D) 10 vocales."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832492.7157273,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "38. ¿Cuántas veces al año, como mínimo, se reunirá el Pleno del Consejo Asesor en sesión ordinaria?",
+        "opciones_respuesta": {
+            "a": "A) Una vez al mes.",
+            "b": "B) Una vez al trimestre.",
+            "c": "C) Dos veces al año.",
+            "d": "D) Una vez al año."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832505.4596462,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "39. Es obligatorio disponer de servicio de vigilancia y seguridad (vigilantes de seguridad) en locales con música amplificada a partir de un aforo de:",
+        "opciones_respuesta": {
+            "a": "A) 100 personas.",
+            "b": "B) 250 personas.",
+            "c": "C) 350 personas.",
+            "d": "D) 500 personas."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832510.5158277,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "40. Para un establecimiento con un aforo de entre 501 y 750 personas, ¿cuántos vigilantes de seguridad son obligatorios?",
+        "opciones_respuesta": {
+            "a": "A) 2 vigilantes.",
+            "b": "B) 3 vigilantes.",
+            "c": "C) 4 vigilantes.",
+            "d": "D) 5 vigilantes."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832522.6917174,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "41. En locales con un aforo superior a 1.000 personas, se añadirá un vigilante adicional por cada fracción de:",
+        "opciones_respuesta": {
+            "a": "A) 500 personas.",
+            "b": "B) 1.000 personas.",
+            "c": "C) 1.500 personas.",
+            "d": "D) 2.000 personas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832533.075756,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "42. Los vigilantes de seguridad en espectáculos públicos tienen, entre otras funciones:",
+        "opciones_respuesta": {
+            "a": "A) Sancionar a los asistentes que incumplan la ley.",
+            "b": "B) Proceder a la expulsión de personas que dificulten el normal desarrollo del espectáculo.",
+            "c": "C) Dirigir el tráfico en los exteriores del local.",
+            "d": "D) Autorizar el consumo de estupefacientes en zonas privadas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832541.0919728,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "43. ¿Qué decreto regula el catálogo de establecimientos según el tipo de actividad?",
+        "opciones_respuesta": {
+            "a": "A) Decreto 91/2004.",
+            "b": "B) Decreto 100/2006.",
+            "c": "C) Decreto 63/2007.",
+            "d": "D) Decreto 38/2007."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832551.0601568,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "44. Se entiende por \"espectáculo taurino\" aquel en el que intervienen:",
+        "opciones_respuesta": {
+            "a": "A) Caballos y bueyes.",
+            "b": "B) Reses de lidia en plazas y recintos autorizados.",
+            "c": "C) Animales domésticos en general.",
+            "d": "D) Solo los encierros por vías públicas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832558.0521529,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "45. Una discoteca se define como un local que cuenta con pista de baile y un diámetro mínimo de:",
+        "opciones_respuesta": {
+            "a": "A) Cinco metros.",
+            "b": "B) Siete metros.",
+            "c": "C) Diez metros.",
+            "d": "D) No existe diámetro mínimo reglamentario."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832571.7959132,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "46. Los \"tablaos flamencos\" son locales destinados principalmente a ofrecer espectáculos de:",
+        "opciones_respuesta": {
+            "a": "A) Teatro clásico.",
+            "b": "B) Naturaleza flamenca.",
+            "c": "C) Música amplificada de discoteca.",
+            "d": "D) Competiciones deportivas."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832581.4439483,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "47. El plan de emergencia en los establecimientos es responsabilidad de:",
+        "opciones_respuesta": {
+            "a": "A) Los bomberos del ayuntamiento.",
+            "b": "B) Los titulares de los establecimientos, locales e instalaciones.",
+            "c": "C) La Policía Local.",
+            "d": "D) La Delegación del Gobierno."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832585.764279,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "48. El incumplimiento de tener suscrito el contrato de seguro exigido es una infracción de carácter:",
+        "opciones_respuesta": {
+            "a": "A) Leve.",
+            "b": "B) Grave.",
+            "c": "C) Muy grave.",
+            "d": "D) No es infracción si se suscribe antes de la sanción."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832591.2922502,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "49. La admisión de menores de 16 años en locales donde lo tengan prohibido es una infracción:",
+        "opciones_respuesta": {
+            "a": "A) Grave.",
+            "b": "B) Muy grave.",
+            "c": "C) Leve.",
+            "d": "D) Administrativa pero no sancionable por la LEPAR."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832595.5401635,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "50. La negativa de acceso a los agentes de la autoridad en el ejercicio de sus funciones es una infracción:",
+        "opciones_respuesta": {
+            "a": "A) Grave.",
+            "b": "B) Muy grave.",
+            "c": "C) Leve.",
+            "d": "D) De desobediencia, pero no figura en la LEPAR."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832599.1402376,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "51. El retraso en el comienzo o finalización de los espectáculos es una infracción:",
+        "opciones_respuesta": {
+            "a": "A) Muy grave.",
+            "b": "B) Grave.",
+            "c": "C) Leve.",
+            "d": "D) Solo es sancionable si supera la hora de retraso."
+        },
+        "opcion_correcta": "c",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832602.9318922,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "52. La publicidad fraudulenta que distorsione la capacidad electiva del público es una infracción:",
+        "opciones_respuesta": {
+            "a": "A) Leve.",
+            "b": "B) Grave.",
+            "c": "C) Muy grave.",
+            "d": "D) Solo es infracción de consumo, no de la LEPAR."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832608.7321692,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "53. Las sanciones impuestas por faltas graves prescribirán a los:",
+        "opciones_respuesta": {
+            "a": "A) Un año.",
+            "b": "B) Dos años.",
+            "c": "C) Tres años.",
+            "d": "D) No prescriben si hay reincidencia."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832620.18832,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "54. ¿Cuándo asumirá el Principado de Asturias la competencia sancionadora en lugar de un concejo de más de 10.000 habitantes?",
+        "opciones_respuesta": {
+            "a": "A) Nunca, es competencia delegada.",
+            "b": "B) Cuando se produzca dejación de funciones por parte del ayuntamiento.",
+            "c": "C) Siempre que el infractor sea una persona jurídica.",
+            "d": "D) Si el ayuntamiento no tiene Policía Local."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832628.044422,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "55. Las sanciones muy graves firmes se publicarán en:",
+        "opciones_respuesta": {
+            "a": "A) El tablón de anuncios del Ayuntamiento.",
+            "b": "B) El Boletín Oficial del Principado de Asturias (BOPA).",
+            "c": "C) El BOE.",
+            "d": "D) No se publican por protección de datos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832638.6605992,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "56. ¿Qué recurso cabe contra las resoluciones dictadas por el titular de la Viceconsejería o Dirección General competente?",
+        "opciones_respuesta": {
+            "a": "A) Recurso de alzada ante el órgano superior jerárquico.",
+            "b": "B) Recurso de súplica.",
+            "c": "C) Recurso extraordinario de revisión únicamente.",
+            "d": "D) No cabe recurso en vía administrativa."
+        },
+        "opcion_correcta": "a",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832663.4767036,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "57. Las medidas cautelares se extinguirán:",
+        "opciones_respuesta": {
+            "a": "A) Al mes de su adopción.",
+            "b": "B) En todo caso con la resolución administrativa que ponga fin al procedimiento.",
+            "c": "C) Cuando lo pida el abogado del titular.",
+            "d": "D) A los seis meses si no hay propuesta de sanción."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "a"
+    },
+    {
+        "timestamp": 1780832677.0608006,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "58. ¿Quién actúa como Secretario del Consejo Asesor?",
+        "opciones_respuesta": {
+            "a": "A) El titular de la Consejería.",
+            "b": "B) Un funcionario de la Consejería competente designado por su titular.",
+            "c": "C) El representante de la FACC.",
+            "d": "D) Un representante de los sindicatos."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "c"
+    },
+    {
+        "timestamp": 1780832694.5967166,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "59. Los espectáculos de variedades en circos se caracterizan por emplear:",
+        "opciones_respuesta": {
+            "a": "A) Solo payasos y malabaristas.",
+            "b": "B) Elementos mecánicos como trapecios, cables, etc.",
+            "c": "C) Únicamente animales salvajes.",
+            "d": "D) No están permitidos los espectáculos de variedades en Asturias."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    },
+    {
+        "timestamp": 1780832701.3728802,
+        "path": "/lepar_actualizado.json",
+        "id": "id2340234",
+        "pregunta": "60. ¿Cuál es el plazo de adaptación normativa para los Decretos 90/2004 y 91/2004 tras la reforma de 2026?",
+        "opciones_respuesta": {
+            "a": "A) Seis meses.",
+            "b": "B) Nueve meses desde su entrada en vigor.",
+            "c": "C) Un año.",
+            "d": "D) Inmediato."
+        },
+        "opcion_correcta": "b",
+        "opcion_selecionada": "b"
+    }
+]
