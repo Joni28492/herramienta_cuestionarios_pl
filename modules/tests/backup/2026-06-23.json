@@ -1,0 +1,1922 @@
+[
+    {
+        "timestamp": 1782205757.364708,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "2. La iniciación de procedimiento penal contra miembros de las Fuerzas y Cuerpos de Seguridad, ¿impedirá la incoación y tramitación de expedientes disciplinarios por los mismos hechos?",
+        "respuestas": {
+            "a": "Sí, conforme al principio non bis in ídem. ",
+            "b": "Sí, hasta que recaiga resolución judicial al efecto. ",
+            "c": "No, conforme a lo dispuesto en el artículo 8.3 de la Ley Orgánica 2/86. ",
+            "d": "Impedirá la tramitación hasta que recaiga resolución judicial al efecto, pero permitirá la incoación, conforme a lo dispuesto en el artículo 8.3 de la Ley Orgánica 2/86. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c. No, conforme a lo dispuesto en el artículo 8.3 de la Ley Orgánica 2/86."
+    },
+    {
+        "timestamp": 1782205767.797194,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "4. Las Comunidades Autónomas que cuenten con cuerpos de policía propios podrán ejercer las siguientes funciones de prestación simultánea e indiferenciada con las Fuerzas y Cuerpos de Seguridad del Estado:",
+        "respuestas": {
+            "a": "Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza. ",
+            "b": "Velar por el cumplimiento de las Leyes y demás disposiciones del Estado y garantizar el funcionamiento de los servicios públicos esenciales. ",
+            "c": "Participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de la Ley Orgánica 2/86. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a. Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza."
+    },
+    {
+        "timestamp": 1782205773.3088403,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "11. La definición correcta de “parada” es:",
+        "respuestas": {
+            "a": "Inmovilización de un vehículo durante un tiempo inferior a dos minutos, en todo caso. ",
+            "b": "Inmovilización de un vehículo durante un tiempo no superior a dos minutos. ",
+            "c": "Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782205783.6767735,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "15. Un vehículo de tracción animal, en el caso de que no exista vía o parte de la misma que les esté especialmente destinada, ¿Por dónde debe circular?",
+        "respuestas": {
+            "a": "Por el arcén de su izquierda, si fuera transitable y suficiente. ",
+            "b": "Por el carril derecho de la vía, pudiendo utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga. ",
+            "c": "Por la parte imprescindible de la calzada. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782205798.9811099,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "25. Indique cuál de los siguientes derechos NO puede ser suspendido en el estado de excepción:",
+        "respuestas": {
+            "a": "Derecho a elegir libremente residencia. ",
+            "b": "Derecho de reunión pacífica y sin armas. ",
+            "c": "Derecho de los trabajadores a adoptar medidas de conflicto colectivo. ",
+            "d": "Derecho a la propiedad privada. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. Derecho a la propiedad privada."
+    },
+    {
+        "timestamp": 1782205804.9489808,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "33. Indique cuál de las siguientes es una señal de reglamentación:",
+        "respuestas": {
+            "a": "Señal de orientación. ",
+            "b": "Señal de intersección con prioridad. ",
+            "c": "Señal de visibilidad reducida. ",
+            "d": "Ninguna de las anteriores. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. Ninguna de las anteriores."
+    },
+    {
+        "timestamp": 1782205825.1411426,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "41. El cumplimiento de la sanción de suspensión prevista en el artículo 80 de la LSV, la cual afecta a los centros de enseñanza y reconocimiento de conductores, ¿Cuándo se iniciará?",
+        "respuestas": {
+            "a": "En el momento que haya adquirido firmeza en vía administrativa. ",
+            "b": "Al día siguiente de adquirir firmeza en vía administrativa. ",
+            "c": "Transcurrido un mes desde que haya adquirido firmeza en vía administrativa. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c. Transcurrido un mes desde que haya adquirido firmeza en vía administrativa."
+    },
+    {
+        "timestamp": 1782205831.869225,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "62. Dejar suelto a un animal potencialmente peligroso…",
+        "respuestas": {
+            "a": "Es una infracción leve a la Ley 13/2002, del 23 de diciembre. ",
+            "b": "Es una infracción grave a la Ley 13/2002, del 23 de diciembre. ",
+            "c": "Es una infracción muy grave a la Ley 13/2002, del 23 de diciembre. ",
+            "d": "La Ley 13/2002, del 23 de diciembre, no recoge esa infracción. Se debe acudir a la Ley 50/99. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b. Es una infracción grave a la Ley 13/2002, del 23 de diciembre."
+    },
+    {
+        "timestamp": 1782205845.1412718,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "69. El error vencible sobre la ilicitud del hecho constitutivo de la infracción penal…",
+        "respuestas": {
+            "a": "Excluye la responsabilidad criminal. ",
+            "b": "La infracción será castigada, en su caso, como imprudente. ",
+            "c": "Se aplicará la pena inferior en uno o dos grados. ",
+            "d": "Se aplicará la pena en su mitad inferior. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c. Se aplicará la pena inferior en uno o dos grados."
+    },
+    {
+        "timestamp": 1782205867.845143,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "80. Señale la circunstancia que corresponde a la prisión permanente revisable en un asesinato:",
+        "respuestas": {
+            "a": "Que la víctima sea menor de edad, o se trate de una persona especialmente vulnerable por razón de su edad, enfermedad o discapacidad. ",
+            "b": "Que el hecho fuera previo a un delito contra la libertad sexual que el autor hubiera cometido sobre la víctima. ",
+            "c": "Que el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c. Que el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal."
+    },
+    {
+        "timestamp": 1782205883.1098833,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "18. Señale la respuesta incorrecta:",
+        "respuestas": {
+            "a": "a) No se puede ser miembro del Congreso y del Senado, al mismo tiempo. ",
+            "b": "b) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, Senador en Cortes. ",
+            "c": "c) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, miembro del Congreso de los Diputados. ",
+            "d": "d) Se puede ser, a la vez, Concejal de un Ayuntamiento y miembro de la Junta General del Principado."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: c) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, miembro del Congreso de los Diputados."
+    },
+    {
+        "timestamp": 1782205907.1656086,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "53. Señale la incorrecta. El Gobierno cesa en los siguientes casos:",
+        "respuestas": {
+            "a": "a) Tras la celebración de elecciones generales ",
+            "b": "b) Tras la aprobación de una moción de censura ",
+            "c": "c) Tras la pérdida de una cuestión de confianza ",
+            "d": "d) Por la dimisión o fallecimiento del Vicepresidente del Gobierno"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Por la dimisión o fallecimiento del Vicepresidente del Gobierno"
+    },
+    {
+        "timestamp": 1782205918.2057087,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "16) La denominación de los Municipios podrá ser, a todos los efectos,",
+        "respuestas": {
+            "a": "Siempre en castellano ",
+            "b": "Puede utilizarse otra lengua española oficial en la respectiva Comunidad Autónoma pero, en ese caso, debe acompañarse también con el término en castellano ",
+            "c": "en castellano, en cualquier otra lengua española oficial en el territorio nacional, o en ambas. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782205930.8299305,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "33) El Pleno celebra sesión extraordinaria…",
+        "respuestas": {
+            "a": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "b": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente ",
+            "c": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "d": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente"
+    },
+    {
+        "timestamp": 1782205945.6783159,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "4. Corresponde en exclusiva a los funcionarios públicos, con carácter general,…",
+        "respuestas": {
+            "a": "a. a) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas, en todo caso ",
+            "b": "b. b) el ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas ",
+            "c": "c. c) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Gobierno y de las Administraciones Públicas, salvo excepciones ",
+            "d": "d. d) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Gobierno y de las Administraciones Públicas, en todo caso "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas, en todo caso"
+    },
+    {
+        "timestamp": 1782205965.4543128,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cuál de los siguientes no es un sistema selectivo del Personal Laboral fijo de la Administración?",
+        "respuestas": {
+            "a": "a. a) Oposición. ",
+            "b": "b. b) Concurso-oposición. ",
+            "c": "c. c) Concurso de valoración de méritos. ",
+            "d": "d. d) Promoción interna "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Promoción interna"
+    },
+    {
+        "timestamp": 1782205974.5662825,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "9. Los procedimientos de selección del personal laboral temporal se regirán por los principios de…",
+        "respuestas": {
+            "a": "a. a) igualdad, mérito, capacidad ",
+            "b": "b. b) celeridad, igualdad, mérito ",
+            "c": "c. c) igualdad, mérito y antigüedad ",
+            "d": "d. d) igualdad, mérito, capacidad y celeridad "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) igualdad, mérito, capacidad y celeridad"
+    },
+    {
+        "timestamp": 1782206000.0944397,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "11. La carrera vertical consiste en:",
+        "respuestas": {
+            "a": "a. a) la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo ",
+            "b": "b. b) el ascenso desde un cuerpo o escala de un Subgrupo a otro superior ",
+            "c": "c. c) el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos ",
+            "d": "d. d) el acceso a cuerpos o escalas del mismo Subgrupo profesional "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos"
+    },
+    {
+        "timestamp": 1782206011.0624237,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "14. El TREBEP se aprueba mediante…",
+        "respuestas": {
+            "a": "a. a) Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "b": "b. b) Real Decreto Legislativo 5/2016, de 30 de noviembre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "c": "c. c) Real Decreto Legislativo 5/2015, de 30 de noviembre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "d": "d. d) Real Decreto Legislativo 5/2015, de 20 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+    },
+    {
+        "timestamp": 1782206021.7102418,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "17. La condición de personal eventual:",
+        "respuestas": {
+            "a": "a. a) no podrá constituir mérito para el acceso a la Función Pública ",
+            "b": "b. b) no podrá constituir mérito para el acceso a la Función Pública pero podrá constituir mérito para la promoción interna ",
+            "c": "c. c) podrá constituir mérito para la promoción interna y para el acceso a la Función Pública ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) no podrá constituir mérito para el acceso a la Función Pública"
+    },
+    {
+        "timestamp": 1782206031.286612,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "21. La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en:",
+        "respuestas": {
+            "a": "a. a) los convenios colectivos, ya que el Estatuto de los Trabajadores se aplica en exclusiva al personal del sector privado ",
+            "b": "b. b) el Estatuto de los Trabajadores ",
+            "c": "c. c) el contrato de trabajo ",
+            "d": "d. d) b y c son correctas "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) el Estatuto de los Trabajadores"
+    },
+    {
+        "timestamp": 1782206040.7505667,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "24. Será requisito general para el acceso a la función pública el de tener la edad de…",
+        "respuestas": {
+            "a": "a. a) 16 años ",
+            "b": "b. b) 18 años ",
+            "c": "c. c) 21 años ",
+            "d": "d. d) 17 años "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) 16 años"
+    },
+    {
+        "timestamp": 1782206049.7746542,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "14. El auto de entrada y registro en lugar cerrado…",
+        "respuestas": {
+            "a": "a. a. Se notificará a la persona interesada inmediatamente. ",
+            "b": "b. b. Se notificará lo más tarde dentro de las 24 horas de haberse dictado. ",
+            "c": "c. c. Se notificará dentro de las 48 horas de haberse dictado. ",
+            "d": "d. d. A y B son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. A y B son correctas"
+    },
+    {
+        "timestamp": 1782206058.790665,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "15. Señale la respuesta INCORRECTA. Se podrá realizar entrada en domicilio particular…",
+        "respuestas": {
+            "a": "a. a. En caso de flagrante delito ",
+            "b": "b. b. En caso de orden de detención contra el que allí se encuentre ",
+            "c": "c. c. En caso de que el delincuente, inmediatamente perseguido por los agentes de la autoridad, se oculte o refugie en alguna casa. ",
+            "d": "d. d. Todas son correctas. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b. En caso de orden de detención contra el que allí se encuentre"
+    },
+    {
+        "timestamp": 1782206077.654561,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "28. Debe impedirse a los detenidos o presos la libertad de escribir a los funcionarios superiores del orden judicial…",
+        "respuestas": {
+            "a": "a. a. En caso de incomunicación ",
+            "b": "b. b. En caso de delitos contra las personas ",
+            "c": "c. c. En todo caso ",
+            "d": "d. d. En ningún caso "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. En ningún caso"
+    },
+    {
+        "timestamp": 1782206102.4786296,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "29. Señale cuál de los siguientes derechos NO puede ser privado un reo en supuestos de detención o prisión INCOMUNICADAS:",
+        "respuestas": {
+            "a": "a. a. Designar un abogado de su confianza. ",
+            "b": "b. b. Acceder él o su abogado a los elementos esenciales para poder impugnar la legalidad de la detención. ",
+            "c": "c. c. Comunicarse con todas o alguna de las personas con las que tenga derecho a hacerlo, salvo con la autoridad judicial, el Ministerio Fiscal y el Médico Forense. ",
+            "d": "d. d. Entrevistarse reservadamente con su abogado. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b. Acceder él o su abogado a los elementos esenciales para poder impugnar la legalidad de la detención."
+    },
+    {
+        "timestamp": 1782206115.7749014,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "31. Señale la respuesta INCORRECTA. Podrán instar el procedimiento de «Habeas Corpus»…",
+        "respuestas": {
+            "a": "a. a. El privado de libertad, su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes, hermanos y, en su caso, respecto a los menores y personas incapacitadas, sus representantes legales. ",
+            "b": "b. b. El Ministerio Fiscal y el Defensor del Pueblo. ",
+            "c": "c. c. De oficio, el Juez competente. ",
+            "d": "d. d. Todas son correctas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d. Todas son correctas."
+    },
+    {
+        "timestamp": 1782206130.7431529,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "34. En lo que respecta al pago de las costas del procedimiento de “Habeas Corpus”, cabe decir que:",
+        "respuestas": {
+            "a": "a. a. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en todo caso. ",
+            "b": "b. b. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en caso de reincidencia. ",
+            "c": "c. c. En este tipo de procedimiento, las costas no se declararán de oficio. ",
+            "d": "d. d. A y C son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en todo caso."
+    },
+    {
+        "timestamp": 1782206147.879012,
+        "path": "/2026-06-22.json",
+        "id": "id2340234",
+        "pregunta": "35. La ley que regula el procedimiento de “Habeas Corpus” es:",
+        "respuestas": {
+            "a": "a. a. Ley Orgánica 6/1985, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "b": "b. b. Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "c": "c. c. Ley Orgánica 6/1984, de 25 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "d": "d. d. Ley Orgánica 6/1985, de 25 de mayo, reguladora del procedimiento de «Habeas Corpus "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b. Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus"
+    },
+    {
+        "timestamp": 1782210343.160164,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "1)  ¿Qué artículo de la Ley Orgánica 2/86 otorga a los Agentes de Policía Local carácter de Agentes de la Autoridad?",
+        "respuestas": {
+            "a": "cuarto ",
+            "b": "quinto ",
+            "c": "sexto ",
+            "d": "séptimo "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) séptimo"
+    },
+    {
+        "timestamp": 1782210348.8556406,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "2)  ¿Cuantos principios básicos de actuación recoge el artículo 5 de la Ley Orgánica 2/86?",
+        "respuestas": {
+            "a": "4 ",
+            "b": "5 ",
+            "c": "6 ",
+            "d": "El artículo 5 no recoge ningún principio básico de actuación. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) 6"
+    },
+    {
+        "timestamp": 1782210353.8637714,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "3)  En todo caso, será competente para la imposición de la sanción de separación del servicio respecto a la Guardia Civil:",
+        "respuestas": {
+            "a": "El Ministro de Defensa, a propuesta del de Interior. ",
+            "b": "El Ministro de Interior, a propuesta del Ministro de Defensa. ",
+            "c": "El Secretario de Estado de Seguridad, a propuesta del Director General de la Guardia Civil. ",
+            "d": "El Ministro de Defensa, a propuesta del Director General de la Guardia Civil. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) El Ministro de Defensa, a propuesta del de Interior."
+    },
+    {
+        "timestamp": 1782210364.4558752,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "4)  En el cumplimiento de sus funciones, los funcionarios de Policía Judicial dependen funcionalmente:",
+        "respuestas": {
+            "a": "De sus mandos naturales. ",
+            "b": "Del Ministerio del Interior. ",
+            "c": "De los Jueces o Tribunales, exclusivamente. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782210390.4083455,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "5)  Señale la opción INCORRECTA:",
+        "respuestas": {
+            "a": "Los mandos de los cuerpos de Policía de las Comunidades Autónomas se designarán entre Jefes, Oficiales y Mandos de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado. ",
+            "b": "La selección, ingreso, formación y promoción de los miembros de los cuerpos de Policía de las Comunidades Autónomas se regulará y organizará por el Ministerio del Interior. ",
+            "c": "Los cuerpos de Policía de las Comunidades Autónomas deberán vestir el uniforme reglamentario, salvo los casos excepcionales que autorice las Juntas de Seguridad. ",
+            "d": "Las competencias de las Policías de las Comunidades Autónomas se establecen en el artículo 38 de la Ley Orgánica 2/86. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) La selección, ingreso, formación y promoción de los miembros de los cuerpos de Policía de las Comunidades Autónomas se regulará y organizará por el Ministerio del Interior."
+    },
+    {
+        "timestamp": 1782210415.0083554,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "6)  El Órgano competente para establecer las formas y procedimientos de colaboración entre los miembros de las FCSEG en su ámbito territorial es:",
+        "respuestas": {
+            "a": "Junta de Gobierno Local ",
+            "b": "Junta Local de Seguridad ",
+            "c": "Comisión de Coordinación ",
+            "d": "Consejo de Política de Seguridad "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Junta Local de Seguridad"
+    },
+    {
+        "timestamp": 1782210432.2401097,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "7)  ¿Quiénes pueden tener la figura de los Agentes de la Autoridad de \"movilidad\"? (es decir, aquellos subordinados a la Policía Local que menciona el artículo 53.3 de la LO 2/86)",
+        "respuestas": {
+            "a": "Aquellos municipios que cuenten con Cuerpo de Policía Local. ",
+            "b": "Aquellos municipios de Gran Población. ",
+            "c": "Aquellas ciudades con Estatuto de Autonomía propio. ",
+            "d": "b) y c) son correctas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) b) y c) son correctas."
+    },
+    {
+        "timestamp": 1782210450.1922326,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "8)  Se entiende por CONDUCTOR:",
+        "respuestas": {
+            "a": "Persona que, con las excepciones de los peatones, maneja el mecanismo de dirección o va al mando de un vehículo. ",
+            "b": "Persona que, con las excepciones de los peatones, maneja el mecanismo de dirección o va al mando de un vehículo, o a cuyo cargo está un animal o animales. ",
+            "c": "a) es correcta, y en vehículos que circulen en función de aprendizaje, será quien está a cargo de los mandos adicionales. ",
+            "d": "b) es correcta, y en vehículos que circulen en función de aprendizaje, será quien está a cargo de los mandos adicionales. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) b) es correcta, y en vehículos que circulen en función de aprendizaje, será quien está a cargo de los mandos adicionales."
+    },
+    {
+        "timestamp": 1782210463.5687923,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "9)  La Ley de Seguridad Vial tiene como objeto:",
+        "respuestas": {
+            "a": "Regular el tráfico, la circulación de vehículos a motor y la seguridad vial. ",
+            "b": "Regular el tráfico, la circulación de todos los vehículos y la seguridad vial. ",
+            "c": "Regular el tráfico, la circulación de vehículos a motor y bicicletas, así como la seguridad vial. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Regular el tráfico, la circulación de todos los vehículos y la seguridad vial."
+    },
+    {
+        "timestamp": 1782210478.448867,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "10)  Las bicicletas podrán ser retiradas:",
+        "respuestas": {
+            "a": "Cuando estén abandonadas, exclusivamente. ",
+            "b": "Siempre que dificulten la circulación de vehículos o personas. ",
+            "c": "b) es correcto y también siempre que dañen el mobiliario urbano. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782210492.4484694,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "11)  En la modificación de la ley de seguridad vial (a través de la ley 18/2021) se habilitó para utilizar manualmente el teléfono móvil a:",
+        "respuestas": {
+            "a": "Personal Militar en el ejercicio de sus funciones. ",
+            "b": "Vehículos de las Fuerzas Armadas en el ejercicio de sus funciones. ",
+            "c": "Vehículos de las Fuerzas Armadas cuando circulen en convoy. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Vehículos de las Fuerzas Armadas cuando circulen en convoy."
+    },
+    {
+        "timestamp": 1782210508.4249966,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "12)  Respecto a los mecanismos de detección de radar:",
+        "respuestas": {
+            "a": "Está prohibida su utilización. ",
+            "b": "Está prohibido llevarlos en el vehículo, aun estando apagados. ",
+            "c": "Están permitidos. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Está prohibido llevarlos en el vehículo, aun estando apagados."
+    },
+    {
+        "timestamp": 1782210526.912898,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "13)  Jacinto, de 17 años, conduce un ciclomotor con un Permiso AM de más de 2 años de antigüedad. En un control preventivo, arroja una tasa de alcohol en aire de 0,10 mg/l.",
+        "respuestas": {
+            "a": "Jacinto no será sancionado porque no supera la tasa de 0,15 mg/l. ",
+            "b": "Jacinto no será sancionado porque no supera la tasa de 0,25 mg/l. ",
+            "c": "Jacinto será sancionado con 500 euros y 0 puntos por superar la tasa establecida. ",
+            "d": "Jacinto será sancionado con 500 euros y 6 puntos por superar la tasa establecida. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Jacinto será sancionado con 500 euros y 0 puntos por superar la tasa establecida."
+    },
+    {
+        "timestamp": 1782210537.3848534,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "14)  Para realizar una prueba de alcoholemia deben realizarse dos pruebas. Entre ambas pruebas no podrá pasar un tiempo superior a:",
+        "respuestas": {
+            "a": "5 minutos ",
+            "b": "10 minutos ",
+            "c": "15 minutos ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782210546.06519,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "15)  Un vehículo de movilidad personal (VMP) ¿está obligado a someterse a una prueba de alcoholemia?",
+        "respuestas": {
+            "a": "Si, pero solo en caso de accidente. ",
+            "b": "Si, en caso de accidente o infracción. ",
+            "c": "Si, en los mismos casos que un turismo. ",
+            "d": "No, están exentos. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Si, en los mismos casos que un turismo."
+    },
+    {
+        "timestamp": 1782210553.9773004,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "16)  ¿Qué Decreto regula la uniformidad de los cuerpos de Policía Local del Principado?",
+        "respuestas": {
+            "a": "Decreto 95/2020 de 23 de diciembre. ",
+            "b": "Decreto 90/2020 de 23 de diciembre. ",
+            "c": "Decreto 90/2021 de 23 de diciembre. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) Decreto 95/2020 de 23 de diciembre."
+    },
+    {
+        "timestamp": 1782210571.0410469,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "17)  Señale la opción INCORRECTA:",
+        "respuestas": {
+            "a": "El acceso a la categoría de AGENTE se realizará siempre por turno libre. ",
+            "b": "Los concejos reservarán hasta un 50% de las plazas vacantes de Policía Local para su provisión por promoción interna. ",
+            "c": "Los concejos reservarán un 20% de las plazas vacantes de la categoría de AGENTE de Policía Local para su provisión como puestos de trabajo entre los agentes de la escala básica de otros municipios del territorio nacional. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Los concejos reservarán un 20% de las plazas vacantes de la categoría de AGENTE de Policía Local para su provisión como puestos de trabajo entre los agentes de la escala básica de otros municipios del territorio nacional."
+    },
+    {
+        "timestamp": 1782210577.8809996,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "18)  Girar visitas de inspección periódicas y frecuentes a los lugares o zonas en que presten servicio sus subordinados, para comprobar la actuación de éstos y corregir cualquier anomalía que pudiera producirse, es función del:",
+        "respuestas": {
+            "a": "Subinspector ",
+            "b": "Inspector ",
+            "c": "intendente ",
+            "d": "Jefe del cuerpo "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Subinspector"
+    },
+    {
+        "timestamp": 1782210590.4411173,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "19)  A los vehículos de 3 ruedas y cuadriciclos en cualquier tipo de vía donde esté permitida su circulación se aplica el límite de:",
+        "respuestas": {
+            "a": "40 km/h ",
+            "b": "45 km/h ",
+            "c": "70 km/h ",
+            "d": "80 km/h "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) 70 km/h"
+    },
+    {
+        "timestamp": 1782210602.0416546,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "20)  La velocidad máxima en una autopista fuera de poblado de un vehículo mixto adaptable es:",
+        "respuestas": {
+            "a": "120 km/h ",
+            "b": "80 km/h ",
+            "c": "90 km/h ",
+            "d": "100 km/h "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) 100 km/h"
+    },
+    {
+        "timestamp": 1782210620.9295347,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "21)  Conforme el artículo 62 del Reglamento General de Circulación, tendrá preferencia de paso cuando en un estrechamiento uno de ellos tenga que dar marcha atrás:",
+        "respuestas": {
+            "a": "Vehículo destinado a transporte colectivo de viajeros ",
+            "b": "Tractocamión ",
+            "c": "Autocaravana ",
+            "d": "Vehículo derivado de turismo. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) Autocaravana"
+    },
+    {
+        "timestamp": 1782210651.1620183,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "22)  El conductor de un vehículo que pretenda realizar un adelantamiento a un ciclomotor, cuando la calzada cuente con más de un carril por sentido, debe realizarlo:",
+        "respuestas": {
+            "a": "Ocupando la totalidad del carril contiguo. ",
+            "b": "Ocupando parte del carril contiguo. ",
+            "c": "Ocupando la totalidad o parte del carril contiguo. ",
+            "d": "Sin ocupar en ningún caso el carril contiguo. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) Ocupando la totalidad del carril contiguo."
+    },
+    {
+        "timestamp": 1782210670.737561,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "23)  Se considera que un estacionamiento obstaculiza gravemente la circulación:",
+        "respuestas": {
+            "a": "Cuando se efectúa en una isleta. ",
+            "b": "Cuando se realiza en doble fila, incluso con conductor. ",
+            "c": "Cuando se efectúa sobre la acera. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Cuando se efectúa en una isleta."
+    },
+    {
+        "timestamp": 1782210674.9055233,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "24)  ¿En qué artículo de la Ley de Seguridad Vial se menciona la Publicidad en relación con vehículos a motor?",
+        "respuestas": {
+            "a": "42 ",
+            "b": "46 ",
+            "c": "50 ",
+            "d": "52 "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) 52"
+    },
+    {
+        "timestamp": 1782210689.2018034,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "25)  Respecto a la regencia: SEÑALE LA OPCIÓN INCORRECTA",
+        "respuestas": {
+            "a": "Se ejercerá por mandato constitucional y siempre en nombre del rey. ",
+            "b": "Si no hubiera ninguna persona a quien le corresponda, esta será nombrada por las Cortes Generales, y se compondrá de 1, 3 o 5 personas. ",
+            "c": "Para ejercerla es preciso ser español y mayor de edad. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas."
+    },
+    {
+        "timestamp": 1782210705.4416866,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "26)  Está legitimado para interponer el recurso de amparo:",
+        "respuestas": {
+            "a": "El Presidente del Gobierno ",
+            "b": "50 Senadores ",
+            "c": "Ministerio Fiscal ",
+            "d": "a) y b) son correctas. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Ministerio Fiscal"
+    },
+    {
+        "timestamp": 1782210713.0501564,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "27)  Señale cuál de los siguientes estados NO será declarado por el Gobierno:",
+        "respuestas": {
+            "a": "Alarma ",
+            "b": "Excepción ",
+            "c": "Sitio ",
+            "d": "Todos los anteriores son declarados por el Gobierno "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) Sitio"
+    },
+    {
+        "timestamp": 1782210718.4418173,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "28)  El defensor del pueblo será elegido por:",
+        "respuestas": {
+            "a": "3 años ",
+            "b": "4 años ",
+            "c": "5 años ",
+            "d": "9 años "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) 5 años"
+    },
+    {
+        "timestamp": 1782210723.9702325,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "29)  La justicia será gratuita:",
+        "respuestas": {
+            "a": "En todo caso. ",
+            "b": "Cuando así lo disponga la Ley. ",
+            "c": "Para quienes acrediten insuficiencia de recursos, exclusivamente. ",
+            "d": "A petición del interesado. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) Cuando así lo disponga la Ley."
+    },
+    {
+        "timestamp": 1782210734.6744077,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "30)  Entre los miembros del Consejo General del Poder Judicial, serán nombrados 12 entre Jueces y Magistrados de todas las categorías judiciales:",
+        "respuestas": {
+            "a": "4 a propuesta del Congreso, 4 a propuesta del Senado, elegidos en ambos casos por mayoría de 3/5, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio de su profesión. ",
+            "b": "4 a propuesta del Congreso, 4 a propuesta del Senado, elegidos en ambos casos por mayoría de 3/5, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de 20 años de ejercicio de su profesión. ",
+            "c": "4 a propuesta del Congreso, 4 a propuesta del Senado, elegidos en ambos casos por mayoría de 3/4, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio de su profesión. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) 4 a propuesta del Congreso, 4 a propuesta del Senado, elegidos en ambos casos por mayoría de 3/5, entre abogados y otros juristas, todos ellos de reconocida competencia y con más de 15 años de ejercicio de su profesión."
+    },
+    {
+        "timestamp": 1782210748.1463518,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "31)  Las Comunidades Autónomas podrán asumir competencias en:",
+        "respuestas": {
+            "a": "Bases de régimen minero. ",
+            "b": "Legislación sobre productos farmacéuticos. ",
+            "c": "Marina mercante. ",
+            "d": "Aeropuertos deportivos. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Aeropuertos deportivos."
+    },
+    {
+        "timestamp": 1782210763.1625543,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "32)  Si una Comunidad Autónoma no cumpliere las obligaciones que la Constitución u otras leyes le impongan, ¿quién podrá adoptar las medidas necesarias para obligar a aquella al cumplimiento forzoso de dichas obligaciones?",
+        "respuestas": {
+            "a": "El Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en caso de no ser atendido, con la aprobación por mayoría simple del Senado. ",
+            "b": "El Gobierno, previo requerimiento al Presidente de la Comunidad Autónoma y, en caso de no ser atendido, con la aprobación por mayoría simple del Congreso. ",
+            "c": "Las Cortes Generales, por mayoría de cada una de sus cámaras. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782210771.0584133,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "33)  ¿A quién le corresponde el ejercicio de la potestad reglamentaria del Principado de Asturias?",
+        "respuestas": {
+            "a": "Al Consejo de Gobierno. ",
+            "b": "A la Junta General. ",
+            "c": "Al Tribunal Superior de Justicia. ",
+            "d": "Al Presidente del Principado. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) Al Consejo de Gobierno."
+    },
+    {
+        "timestamp": 1782210784.8746977,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "34)  Tras unas elecciones autonómicas, la Junta General electa será convocada por el Consejo de Gobierno cesante:",
+        "respuestas": {
+            "a": "Dentro de los 15 días siguientes a la celebración de las elecciones. ",
+            "b": "Dentro de los 20 días siguientes a la celebración de las elecciones. ",
+            "c": "Dentro de los 30 días siguientes a la celebración de las elecciones. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782210799.7468379,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "35)  Señale cuál de las siguientes NO es una señal horizontal de circulación:",
+        "respuestas": {
+            "a": "Flecha de selección de carriles. ",
+            "b": "Estacionamiento reservado para personas de movilidad reducida. ",
+            "c": "Stop. ",
+            "d": "Flecha de fin de carril. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) Flecha de selección de carriles."
+    },
+    {
+        "timestamp": 1782210807.050436,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "36)  ¿Que indica un damero blanco y rojo?",
+        "respuestas": {
+            "a": "Zona de frenado de emergencia ",
+            "b": "Zona reservada a vehículos de urgencia ",
+            "c": "Zona de retención ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Zona de frenado de emergencia"
+    },
+    {
+        "timestamp": 1782210812.042806,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "37)  ¿En qué título de la LSV se regula la señalización?",
+        "respuestas": {
+            "a": "III ",
+            "b": "IV ",
+            "c": "V ",
+            "d": "II "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) III"
+    },
+    {
+        "timestamp": 1782210829.3708618,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "38)  Señale cuál de los siguientes hechos NO detrae 4 PUNTOS:",
+        "respuestas": {
+            "a": "Adelantamiento peligroso. ",
+            "b": "Conducir un vehículo con un permiso que no habilita para ello. ",
+            "c": "Marcha atrás en autopista o autovías. ",
+            "d": "Arrojar objetos que puedan producir accidentes. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Arrojar objetos que puedan producir accidentes."
+    },
+    {
+        "timestamp": 1782210837.1544716,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "39)  La solicitud de prórroga de vigencia del permiso de conducir podrá presentarse, como norma general, con una antelación:",
+        "respuestas": {
+            "a": "máxima de 3 meses a su fecha de caducidad. ",
+            "b": "máxima de 6 meses a su fecha de caducidad. ",
+            "c": "máxima de 9 meses a su fecha de caducidad. ",
+            "d": "máxima de 2 meses a su fecha de caducidad. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) máxima de 3 meses a su fecha de caducidad."
+    },
+    {
+        "timestamp": 1782210848.1629288,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "40)  La Jefatura Provincial de Tráfico iniciará el procedimiento para declarar la pérdida de vigencia de un permiso mediante la remisión de una relación detallada de las resoluciones sancionadoras firmes que hubieran dado lugar a la pérdida de puntos. En dicho acuerdo se concederá al interesado un plazo de alegaciones de:",
+        "respuestas": {
+            "a": "10 días ",
+            "b": "15 días ",
+            "c": "20 días ",
+            "d": "30 días "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) 10 días"
+    },
+    {
+        "timestamp": 1782210877.6112,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "41)  Una persona podrá obtener el PERMISO D1:",
+        "respuestas": {
+            "a": "Como norma general, a los 18 años ",
+            "b": "Como norma general, a los 21 años. ",
+            "c": "b) es correcta, pudiendo obtenerlo a los 18 años si obtiene el CAP y no sale de territorio nacional. ",
+            "d": "b) es correcta, pudiendo obtenerlo a los 18 años si obtiene el CAP. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) b) es correcta, pudiendo obtenerlo a los 18 años si obtiene el CAP y no sale de territorio nacional."
+    },
+    {
+        "timestamp": 1782210891.6588707,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "42)  Señale la opción INCORRECTA respecto a las sanciones en materia de tráfico:",
+        "respuestas": {
+            "a": "Las infracciones leves serán sancionadas con 100 euros, las graves con 200 euros y las muy graves con 500 euros. ",
+            "b": "Superar la tasa de alcohol reglamentaria tras haber sido sancionado en el año inmediatamente anterior por el mismo hecho, será sancionado con 1.000 euros. ",
+            "c": "La cuantía de las sanciones graves podrán ser incrementadas en un 30% en base a criterios como el peligro potencial creado para sí mismo. ",
+            "d": "Las sanciones por límites de velocidad están establecidas en el anexo IV. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Las infracciones leves serán sancionadas con 100 euros, las graves con 200 euros y las muy graves con 500 euros."
+    },
+    {
+        "timestamp": 1782210901.178911,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "43)  En una motocicleta viajan el conductor con casco reglamentario y el pasajero sin hacer uso del mismo. ¿Quién será responsable?",
+        "respuestas": {
+            "a": "El pasajero, como autor del hecho. ",
+            "b": "El conductor. ",
+            "c": "Ambos. ",
+            "d": "El titular de la motocicleta por no impedir la comisión de la infracción. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) El conductor."
+    },
+    {
+        "timestamp": 1782210912.6591427,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "44)  Las sanciones de Multa a la LSV prescribirán:",
+        "respuestas": {
+            "a": "Al año ",
+            "b": "A los 4 años ",
+            "c": "A los 3 meses las leves y a los 6 meses el resto. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) A los 4 años"
+    },
+    {
+        "timestamp": 1782210932.0114114,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "45)  Los gastos originados por la inmovilización de un vehículo deberán ser abonados por:",
+        "respuestas": {
+            "a": "El titular del mismo ",
+            "b": "El conductor ",
+            "c": "El autor del hecho que originó la inmovilización ",
+            "d": "El conductor habitual, si tuviera designado. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) El conductor"
+    },
+    {
+        "timestamp": 1782210949.5392148,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "46)  Señale la pena del delito tipificado en el artículo 385 el Código Penal:",
+        "respuestas": {
+            "a": "Prisión de 6 meses a 2 años o Multa de 12 a 24 meses y Trabajos en beneficios de la comunidad de 10 a 40 días. ",
+            "b": "Prisión de 6 meses a 2 años o Multa de 12 a 24 meses y Trabajos en beneficios de la comunidad de 31 a 90 días. ",
+            "c": "Prisión de 3 a 6 meses o Multa de 12 a 24 meses y Trabajos en beneficios de la comunidad de 10 a 40 días. ",
+            "d": "Prisión de 3 a 6 meses o Multa de 12 a 24 meses y Trabajos en beneficios de la comunidad de 31 a 90 días. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Prisión de 6 meses a 2 años o Multa de 12 a 24 meses y Trabajos en beneficios de la comunidad de 10 a 40 días."
+    },
+    {
+        "timestamp": 1782210961.7478538,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "47)  Conforme el artículo 385 ter, ¿Qué delitos podrán ser rebajados en grado en atención a la menor entidad del riesgo?",
+        "respuestas": {
+            "a": "Los delitos contra la seguridad vial ",
+            "b": "379, 380, 383 y 384. ",
+            "c": "379, 380, 381 y 384. ",
+            "d": "379, 383, 384 y 385 "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) 379, 383, 384 y 385"
+    },
+    {
+        "timestamp": 1782210989.6036751,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "48)  ¿Cómo son las matriculas temporales para empresas?",
+        "respuestas": {
+            "a": "Fondo rojo y letras en blanco. Siglas: S si no están matriculados y V en caso de que lo estén. ",
+            "b": "Fondo rojo y letras en blanco. Siglas: S si están matriculados y V en caso negativo. ",
+            "c": "Fondo verde y letras en blanco. Sigla: P. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Fondo rojo y letras en blanco. Siglas: S si no están matriculados y V en caso de que lo estén."
+    },
+    {
+        "timestamp": 1782210995.2758873,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "49)  ¿Qué normativa regula el reglamento general de vehículos?",
+        "respuestas": {
+            "a": "RD 1428/2003, de 21 de noviembre. ",
+            "b": "RD 2822/1999, de 23 de diciembre. ",
+            "c": "RD 2042/1994, de 14 de octubre. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782211011.4999013,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "50)  Los vehículos de categoría N2 serán sometidos a inspección técnica con la siguiente frecuencia:",
+        "respuestas": {
+            "a": "Hasta 10 años de forma anual. ",
+            "b": "De 2 a 6 años de forma bienal. ",
+            "c": "Hasta 2 años exentos. ",
+            "d": "a) y c) son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) Hasta 10 años de forma anual."
+    },
+    {
+        "timestamp": 1782211028.3957405,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "51)  Los defectos que disminuyen las condiciones de seguridad del vehículo o ponen en riesgo a otros usuarios de las vías públicas SON:",
+        "respuestas": {
+            "a": "Defectos leves ",
+            "b": "Defectos menos graves ",
+            "c": "Defectos graves ",
+            "d": "Defectos muy graves "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Defectos graves"
+    },
+    {
+        "timestamp": 1782211032.707737,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "52)  Señale cuál de las siguientes señales corresponde al distintivo ITV:",
+        "respuestas": {
+            "a": "V-19 ",
+            "b": "V-24 ",
+            "c": "V-18 ",
+            "d": "V-24 "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) V-19"
+    },
+    {
+        "timestamp": 1782211045.436119,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "53)  A los cómplices de un delito intentado se les impondrá la siguiente pena:",
+        "respuestas": {
+            "a": "Pena inferior en grado. ",
+            "b": "Pena inferior en 1 o 2 grados. ",
+            "c": "Pena en su mitad inferior. ",
+            "d": "Ninguna es correcta, el delito debe ser consumado para penar a los cómplices. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) Pena inferior en grado."
+    },
+    {
+        "timestamp": 1782211061.1162279,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "54)  Cuando un hecho sea susceptible de ser calificado con arreglo a 2 o más preceptos:",
+        "respuestas": {
+            "a": "El precepto general se aplicará con preferencia al especial. ",
+            "b": "El precepto penal más grave excluirá al resto, en todo caso. ",
+            "c": "EL precepto subsidiario se aplicará solo en defecto del principal, ya se declare expresamente dicha subsidiariedad, ya sea esta tácitamente deducible. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) EL precepto subsidiario se aplicará solo en defecto del principal, ya se declare expresamente dicha subsidiariedad, ya sea esta tácitamente deducible."
+    },
+    {
+        "timestamp": 1782211070.523916,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "55)  Señale cuál de las siguientes es una circunstancia agravante de manera específica en el Código Penal:",
+        "respuestas": {
+            "a": "Cometer el hecho por motivos antigitanos. ",
+            "b": "Cometer el hecho por motivos antisemitas. ",
+            "c": "Cometer el hecho por motivos racistas. ",
+            "d": "Todas son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas"
+    },
+    {
+        "timestamp": 1782211074.524112,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "56)  ¿En qué artículo del Código penal se establece la circunstancia mixta de parentesco?",
+        "respuestas": {
+            "a": "21 ",
+            "b": "22 ",
+            "c": "23 ",
+            "d": "24 "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) 23"
+    },
+    {
+        "timestamp": 1782211083.3083057,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "57)  La localización permanente tiene consideración de:",
+        "respuestas": {
+            "a": "Pena LEVE ",
+            "b": "Pena MENOS GRAVE ",
+            "c": "Pena GRAVE ",
+            "d": "Pena LEVE o MENOS GRAVE, según la duración de la misma. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Pena LEVE"
+    },
+    {
+        "timestamp": 1782211089.0926988,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "58)  ¿Cuántas Salas tiene la Audiencia Nacional?",
+        "respuestas": {
+            "a": "3 ",
+            "b": "4 ",
+            "c": "5 ",
+            "d": "6 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) 4"
+    },
+    {
+        "timestamp": 1782211172.1485224,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "59)  Cuando un hecho sea consecuencia de una infracción grave de las normas de tráfico, que no se encuentre en relación directa con los hechos tipificados en el artículo 379 del Código penal, como norma general se reputará el siguiente tipo de imprudencia:",
+        "respuestas": {
+            "a": "Leve ",
+            "b": "Menos Grave ",
+            "c": "Grave ",
+            "d": "Menos Grave, salvo superar la velocidad o las tasas de alcohol, que siempre será Grave. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Menos Grave"
+    },
+    {
+        "timestamp": 1782211179.0451314,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "60)  ¿En qué artículo se tipifica el delito de SECUESTRO?",
+        "respuestas": {
+            "a": "173 ",
+            "b": "174 ",
+            "c": "165 ",
+            "d": "Ninguno de los anteriores "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Ninguno de los anteriores"
+    },
+    {
+        "timestamp": 1782211191.524721,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "61)  Las amenazas de un mal no constitutivo de delito:",
+        "respuestas": {
+            "a": "No son delito, debiendo acudirse a la vía civil. ",
+            "b": "Son castigadas en el artículo 171.1 ",
+            "c": "Son castigadas en el artículo 171.3 ",
+            "d": "Son castigadas en el artículo 171.6 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Son castigadas en el artículo 171.1"
+    },
+    {
+        "timestamp": 1782211206.7490275,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "62)  Será responsable del delito de AGRESIÓN SEXUAL:",
+        "respuestas": {
+            "a": "Quien realice cualquier acto que atente contra la libertad sexual de otra persona sin su consentimiento. ",
+            "b": "a) es correcta, pero debe utilizarse violencia o intimidación. ",
+            "c": "b) es correcta, pero debe existir acceso carnal. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Quien realice cualquier acto que atente contra la libertad sexual de otra persona sin su consentimiento."
+    },
+    {
+        "timestamp": 1782211221.348819,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "63)  La clasificación en 3er grado de un penado a prisión permanente revisable, no podrá efectuarse:",
+        "respuestas": {
+            "a": "En ningún caso. ",
+            "b": "Hasta el cumplimiento de 20 años de prisión efectiva en caso de delitos contra el orden público cometidos por organizaciones y grupos terroristas, o delitos de terrorismo. ",
+            "c": "b) es correcta, y 15 años en el resto de delitos. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) b) es correcta, y 15 años en el resto de delitos."
+    },
+    {
+        "timestamp": 1782211234.1571565,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "64)  ¿Qué normativa modificó el Código Penal respecto a los Delitos sexuales?",
+        "respuestas": {
+            "a": "Ley Orgánica 10/2022, de 6 de septiembre. ",
+            "b": "RD 10/2022, de 6 de septiembre. ",
+            "c": "Ley Orgánica 11/2022, de 5 de septiembre. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) Ley Orgánica 10/2022, de 6 de septiembre."
+    },
+    {
+        "timestamp": 1782211249.1491303,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "65)  El delito de homicidio por imprudencia menos grave tipificado en el artículo 142.2 del Código Penal.",
+        "respuestas": {
+            "a": "Solo será perseguible mediante denuncia de la persona agraviada o de su representante legal. ",
+            "b": "a) es correcta, salvo que se utilice un vehículo de motor o ciclomotor. ",
+            "c": "a) es correcta, salvo en caso de reincidencia. ",
+            "d": "Es un delito público por lo que se perseguirá de oficio. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) a) es correcta, salvo que se utilice un vehículo de motor o ciclomotor."
+    },
+    {
+        "timestamp": 1782211264.5011969,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "66)  La ocupación de la vía pública para la venta ambulante no autorizada:",
+        "respuestas": {
+            "a": "Es infracción LEVE a la Ley Orgánica de Protección de la Seguridad Ciudadana. ",
+            "b": "Es infracción GRAVE a la Ley Orgánica de Protección de la Seguridad Ciudadana. ",
+            "c": "Es infracción MUY GRAVE a la Ley Orgánica de Protección de la Seguridad Ciudadana. ",
+            "d": "Es materia de Ordenanza Municipal, no de la Ley Orgánica de Protección de la Seguridad Ciudadana. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Es infracción LEVE a la Ley Orgánica de Protección de la Seguridad Ciudadana."
+    },
+    {
+        "timestamp": 1782211276.3493674,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "67)  Tiene consideración de actividad relevante para la seguridad ciudadana:",
+        "respuestas": {
+            "a": "Todo centro gestor de residuos. ",
+            "b": "Establecimientos abiertos al público con acceso comercial a servicios telemáticos de uso público. ",
+            "c": "Venta de productos químicos peligrosos a empresas profesionales. ",
+            "d": "Todas las anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Establecimientos abiertos al público con acceso comercial a servicios telemáticos de uso público."
+    },
+    {
+        "timestamp": 1782211288.805502,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "68)  El traslado a dependencias policiales al efecto de realizar una identificación no podrá superar el siguiente plazo:",
+        "respuestas": {
+            "a": "4 horas ",
+            "b": "6 horas ",
+            "c": "8 horas ",
+            "d": "24 horas "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) 6 horas"
+    },
+    {
+        "timestamp": 1782211308.5975568,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "69)  La licencia de apertura de un establecimiento público debe recoger, al menos, los siguientes extremos:",
+        "respuestas": {
+            "a": "Nombre y DNI del titular, Actividad, Denominación del establecimiento, Emplazamiento y Aforo máximo. ",
+            "b": "Nombre y DNI del titular, Actividad, Denominación del establecimiento, Vigencia de la licencia, Emplazamiento, Aforo máximo y Condiciones o medidas correctoras, en su caso. ",
+            "c": "Nombre y DNI del titular, Actividad, Denominación del establecimiento, Vigencia de la licencia, Aforo máximo y Condiciones o medidas correctoras, en su caso. ",
+            "d": "Nombre y DNI del titular, Actividad, Denominación del establecimiento, Emplazamiento, Aforo máximo y Condiciones o medidas correctoras, en su caso. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Nombre y DNI del titular, Actividad, Denominación del establecimiento, Emplazamiento, Aforo máximo y Condiciones o medidas correctoras, en su caso."
+    },
+    {
+        "timestamp": 1782211326.0617871,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "70)  Respecto a los establecimientos denominados \"Cafés-Teatro\":",
+        "respuestas": {
+            "a": "Se ofrece servicio de bebidas. ",
+            "b": "Poseen pista de baile para el público. ",
+            "c": "No pueden realizar actividades de variedades en directo. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) Se ofrece servicio de bebidas."
+    },
+    {
+        "timestamp": 1782211339.0297437,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "71)  Conforme al Decreto 100/2006, de 6 de septiembre, los locales con música amplificada, excepto discotecas, deberán tener un número mínimo de 3 vigilantes de seguridad:",
+        "respuestas": {
+            "a": "En todo caso ",
+            "b": "A partir de 350 personas de aforo. ",
+            "c": "Cuando posean entre 501 y 750 personas de aforo. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Cuando posean entre 501 y 750 personas de aforo."
+    },
+    {
+        "timestamp": 1782211349.189533,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "72)  ¿A qué hora debe cerrar un Salón recreativo?",
+        "respuestas": {
+            "a": "22:30 ",
+            "b": "23:00 ",
+            "c": "00:00 ",
+            "d": "02:30 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) 23:00"
+    },
+    {
+        "timestamp": 1782211361.9577703,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "73)  La venta de alcohol a menores tiene la siguiente sanción:",
+        "respuestas": {
+            "a": "Multa hasta 300 euros ",
+            "b": "Multa de 300 a 10.000 euros ",
+            "c": "Multa de 750 a 1.500 euros. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782211368.0537086,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "74)  ¿En qué plazo máximo se debe denunciar el extravío de un animal?",
+        "respuestas": {
+            "a": "24 horas ",
+            "b": "48 horas ",
+            "c": "72 horas ",
+            "d": "8 días hábiles "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) 48 horas"
+    },
+    {
+        "timestamp": 1782211381.6298597,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "75)  Dejar suelto a un animal potencialmente peligroso...",
+        "respuestas": {
+            "a": "Es una infracción GRAVE sancionada con multa de 600 a 3.000 euros. ",
+            "b": "Es una infracción GRAVE sancionada con multa de 300 a 6.000 euros. ",
+            "c": "Es una infracción MUY GRAVE sancionada con multa de 3.000 a 90.000 euros. ",
+            "d": "Es una infracción MUY GRAVE sancionada con multa de 6.000 a 90.000 euros. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Es una infracción GRAVE sancionada con multa de 600 a 3.000 euros."
+    },
+    {
+        "timestamp": 1782211395.8939497,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "76)  ¿De quién es competencia ejercer la jefatura de la Policía Local en un municipio de Gran Población?",
+        "respuestas": {
+            "a": "Del Alcalde, pudiendo delegar dicha competencia en la Junta de Gobierno Local. ",
+            "b": "Del Alcalde, no pudiendo delegar dicha competencia. ",
+            "c": "Del Alcalde, pudiendo delegar dicha competencia en los demás concejales. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Del Alcalde, no pudiendo delegar dicha competencia."
+    },
+    {
+        "timestamp": 1782211409.6300926,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "77)  El pleno de un ayuntamiento de 25.000 habitantes, se reunirá ORDINARIAMENTE, como mínimo:",
+        "respuestas": {
+            "a": "Cada mes ",
+            "b": "Cada 2 meses ",
+            "c": "Cada 3 meses ",
+            "d": "Cada 6 meses "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Cada mes"
+    },
+    {
+        "timestamp": 1782211435.526196,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "78)  Señale la opción INCORRECTA:",
+        "respuestas": {
+            "a": "Los municipios deben ser uniprovinciales. ",
+            "b": "La denominación de los municipios deberá ser, a todos los efectos, en castellano. ",
+            "c": "El Alcalde y los miembros de la Junta de Gobierno Local son órganos superiores. ",
+            "d": "Todos los municipios deben prestar servicio de cementerio y recogida de residuos. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) La denominación de los municipios deberá ser, a todos los efectos, en castellano."
+    },
+    {
+        "timestamp": 1782211445.5181108,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "79)  Los tributos se clasifican en:",
+        "respuestas": {
+            "a": "Tasas, contribuciones especiales e impuestos. ",
+            "b": "Tasas e impuestos. ",
+            "c": "Tasas, precios públicos e impuestos. ",
+            "d": "Contribuciones y tasas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Tasas, contribuciones especiales e impuestos."
+    },
+    {
+        "timestamp": 1782211461.9506085,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "80)  Las cuentas anuales se someterán a informe de la Comisión Especial de Cuentas de la entidad local, con anterioridad a:",
+        "respuestas": {
+            "a": "El 1 de junio ",
+            "b": "El 31 de diciembre ",
+            "c": "El último trimestre del año ",
+            "d": "La aprobación del presupuesto general "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) El 1 de junio"
+    },
+    {
+        "timestamp": 1782211474.1586938,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "81)  Armas accionadas por aire u otro gas comprimido, sean lisas o rayadas, siempre que la energía cinética del proyectil en boca exceda de 24,2 julios:",
+        "respuestas": {
+            "a": "Categoría 3.2 ",
+            "b": "Categoría 3.3 ",
+            "c": "Categoría 4.1 ",
+            "d": "Categoría 4.2 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Categoría 3.3"
+    },
+    {
+        "timestamp": 1782211489.2466094,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "82)  ¿En qué artículo del Reglamento de Armas se recogen las armas prohibidas?",
+        "respuestas": {
+            "a": "4 y 5 ",
+            "b": "5 y 6 ",
+            "c": "7 y 8 ",
+            "d": "Artículo 5 "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) 4 y 5"
+    },
+    {
+        "timestamp": 1782211494.6624374,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "83)  Para utilizar un arma larga rayada para caza mayor se requiere la siguiente Licencia:",
+        "respuestas": {
+            "a": "A ",
+            "b": "D ",
+            "c": "E ",
+            "d": "F "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) D"
+    },
+    {
+        "timestamp": 1782211526.1826375,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "84)  Señale cuál de las siguientes conductas corresponde a una FALTA GRAVE del régimen disciplinario de la Policía Local:",
+        "respuestas": {
+            "a": "Embriagarse o consumir drogas tóxicas fuera de servicio. ",
+            "b": "La omisión intencionada de saludo a un superior. ",
+            "c": "No prestar servicio, alegando supuesta enfermedad. ",
+            "d": "Todas las anteriores. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) No prestar servicio, alegando supuesta enfermedad."
+    },
+    {
+        "timestamp": 1782211534.7908874,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "85)  Será requisito necesario para autorizar la compatibilidad de actividades públicas el que la cantidad total percibida por ambos puestos o actividades no supere la remuneración prevista en los Presupuestos Generales del Estado para el cargo de Director General, ni supere la correspondiente al principal, estimada en régimen de dedicación ordinaria, incrementada en:",
+        "respuestas": {
+            "a": "Un 20% para los funcionarios del Grupo C. ",
+            "b": "Un 30% para los funcionarios del Grupo C ",
+            "c": "Un 40% para los funcionarios del Grupo C ",
+            "d": "Un 50% para los funcionarios del Grupo C "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Un 40% para los funcionarios del Grupo C"
+    },
+    {
+        "timestamp": 1782211545.1030576,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "86)  El denominado SILENCIO ADMINISTRATIVO es un acto:",
+        "respuestas": {
+            "a": "Expreso ",
+            "b": "Presunto ",
+            "c": "De Gravamen ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Presunto"
+    },
+    {
+        "timestamp": 1782211553.118885,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "87)  Si en un procedimiento administrativo una persona es recusada y esta niega dicha causa de recusación, el superior resolverá en el plazo de:",
+        "respuestas": {
+            "a": "24 horas ",
+            "b": "3 días ",
+            "c": "7 días ",
+            "d": "15 días "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) 3 días"
+    },
+    {
+        "timestamp": 1782211561.310993,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "88)  Los actos dictados por un órgano manifiestamente incompetente por razón de la materia o territorio son actos:",
+        "respuestas": {
+            "a": "Nulos de pleno derecho ",
+            "b": "Anulables ",
+            "c": "Viciados ",
+            "d": "Convalidados "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Nulos de pleno derecho"
+    },
+    {
+        "timestamp": 1782211575.495213,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "89)  Señale cuál de los siguientes actos pone fin a la vía administrativa:",
+        "respuestas": {
+            "a": "Resolución de un recurso de alzada ",
+            "b": "Resolución administrativa de un procedimiento de responsabilidad patrimonial. ",
+            "c": "Acto administrativo de un miembro del Gobierno ",
+            "d": "Todos los anteriores "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todos los anteriores"
+    },
+    {
+        "timestamp": 1782211583.5273435,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "90)  El artículo 241 del Código Penal trata sobre:",
+        "respuestas": {
+            "a": "Hurto en casa habitada ",
+            "b": "Robo en casa habitada ",
+            "c": "Concepto de llaves falsas ",
+            "d": "Ninguno de los anteriores "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Robo en casa habitada"
+    },
+    {
+        "timestamp": 1782211593.823107,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "91)  ¿Qué cantidad establece el Código Penal para distinguir el HURTO del delito de ROBO?",
+        "respuestas": {
+            "a": "300 euros ",
+            "b": "400 euros ",
+            "c": "500 euros ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782211600.9030447,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "92)  Respecto a los daños por imprudencia grave:",
+        "respuestas": {
+            "a": "Se regulan en el artículo 267 y deben superar los 40.000 euros ",
+            "b": "Se regulan en el artículo 267 y deben superar los 80.000 euros ",
+            "c": "Se regulan en el artículo 269 y deben superar los 40.000 euros ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Se regulan en el artículo 267 y deben superar los 80.000 euros"
+    },
+    {
+        "timestamp": 1782211610.1434326,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "93)  ¿Qué artículos comprenden los delitos contra la salud pública?",
+        "respuestas": {
+            "a": "359 a 368 ",
+            "b": "368 a 379 ",
+            "c": "359 a 378 ",
+            "d": "359 a 379 "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) 359 a 378"
+    },
+    {
+        "timestamp": 1782211627.0076396,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "94) ¿En qué casos deberá la autoridad administrativa poner en conocimiento de la autoridad judicial la producción de un accidente de tráfico, acompañando la comunicación del oportuno atestado?\n ",
+        "respuestas": {
+            "a": "En todo caso ",
+            "b": "Sólo en caso de resultado de muerte ",
+            "c": "Sólo en caso de resultado de muerte o lesiones graves del 147.1 ",
+            "d": "Sólo en caso de resultado de muerte o lesiones "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) Sólo en caso de resultado de muerte o lesiones"
+    },
+    {
+        "timestamp": 1782211647.975819,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "95) El delito tipificado en el artículo 142, apartado 2, del vigente Código Penal, se persigue: ",
+        "respuestas": {
+            "a": "De oficio ",
+            "b": "Mediante denuncia únicamente de la persona agraviada ",
+            "c": "Mediante denuncia de la persona agraviada o de su representante legal ",
+            "d": "De oficio o mediante denuncia de la persona agraviada o de su representante legal "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) De oficio o mediante denuncia de la persona agraviada o de su representante legal"
+    },
+    {
+        "timestamp": 1782211670.5914264,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "96) Para apreciar el tipo penal del artículo 382 bis, de \"Abandono del lugar del accidente\", se requiere",
+        "respuestas": {
+            "a": "a. Que el conductor que abandona el lugar del accidente lo haga en contra de su voluntad ",
+            "b": "b. Que el conductor que abandona el lugar de accidente lo haga voluntariamente, aun concurriendo riesgo propio o de terceros ",
+            "c": "c. Que en el accidente en cuestión fallecieren una o varias personas ",
+            "d": "d. Que en el accidente en cuestión se les causare alguna de las lesiones a que se refieren los artículos 147, 149 y 150. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Que en el accidente en cuestión fallecieren una o varias personas"
+    },
+    {
+        "timestamp": 1782211678.167344,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "97) El sistema \"eCall\"...",
+        "respuestas": {
+            "a": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio/video, basado en el número 062 ",
+            "b": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio, basado en el número 112 ",
+            "c": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio, basado en el número 062 ",
+            "d": "es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio/video, basado en el número 112 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) es un sistema de emergencia que transmite un conjunto mínimo de datos y establece un canal audio, basado en el número 112"
+    },
+    {
+        "timestamp": 1782211688.2239466,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "98) El Reglamento (UE) relativo a la homologación de los vehículos de dos otres ruedas y los cuatriciclos, y a la vigilancia del mercado de dichos vehículos, es:",
+        "respuestas": {
+            "a": "a. Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013 ",
+            "b": "b. Reglamento (UE) n.º 167/2013 del Parlamento Europeo y del Consejo, de 5 de febrero de 2013 ",
+            "c": "c. Reglamento (UE) n.º 2018/858 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018 ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013"
+    },
+    {
+        "timestamp": 1782211699.1597776,
+        "path": "/_repaso-unidades-1-20.json",
+        "id": "id2340234",
+        "pregunta": "99) El secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial, se garantiza en...",
+        "respuestas": {
+            "a": "a. El artículo 19.1 de la CE ",
+            "b": "b. El artículo 17.2 de la CE ",
+            "c": "c. El artículo 18.3 de la CE ",
+            "d": "d. El artículo 16.3 de la CE "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: El artículo 18.3 de la CE"
+    }
+]

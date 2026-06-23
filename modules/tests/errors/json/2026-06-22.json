@@ -1,0 +1,437 @@
+[
+    {
+        "timestamp": 1782132366.97308,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "2. La iniciación de procedimiento penal contra miembros de las Fuerzas y Cuerpos de Seguridad, ¿impedirá la incoación y tramitación de expedientes disciplinarios por los mismos hechos?",
+        "respuestas": {
+            "a": "Sí, conforme al principio non bis in ídem. ",
+            "b": "Sí, hasta que recaiga resolución judicial al efecto. ",
+            "c": "No, conforme a lo dispuesto en el artículo 8.3 de la Ley Orgánica 2/86. ",
+            "d": "Impedirá la tramitación hasta que recaiga resolución judicial al efecto, pero permitirá la incoación, conforme a lo dispuesto en el artículo 8.3 de la Ley Orgánica 2/86. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c. No, conforme a lo dispuesto en el artículo 8.3 de la Ley Orgánica 2/86."
+    },
+    {
+        "timestamp": 1782132386.8131275,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "4. Las Comunidades Autónomas que cuenten con cuerpos de policía propios podrán ejercer las siguientes funciones de prestación simultánea e indiferenciada con las Fuerzas y Cuerpos de Seguridad del Estado:",
+        "respuestas": {
+            "a": "Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza. ",
+            "b": "Velar por el cumplimiento de las Leyes y demás disposiciones del Estado y garantizar el funcionamiento de los servicios públicos esenciales. ",
+            "c": "Participar en las funciones de Policía Judicial, en la forma establecida en el artículo 29.2 de la Ley Orgánica 2/86. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a. Velar por el cumplimiento de las disposiciones que tiendan a la conservación de la naturaleza y medio ambiente, recursos hidráulicos, así como la riqueza cinegética, piscícola, forestal y de cualquier otra índole relacionada con la naturaleza."
+    },
+    {
+        "timestamp": 1782132463.3735156,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "11. La definición correcta de “parada” es:",
+        "respuestas": {
+            "a": "Inmovilización de un vehículo durante un tiempo inferior a dos minutos, en todo caso. ",
+            "b": "Inmovilización de un vehículo durante un tiempo no superior a dos minutos. ",
+            "c": "Inmovilización de un vehículo por emergencia, por necesidades de la circulación o para cumplir algún precepto reglamentario. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d. Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782132518.2699037,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "15. Un vehículo de tracción animal, en el caso de que no exista vía o parte de la misma que les esté especialmente destinada, ¿Por dónde debe circular?",
+        "respuestas": {
+            "a": "Por el arcén de su izquierda, si fuera transitable y suficiente. ",
+            "b": "Por el carril derecho de la vía, pudiendo utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, a condición de que no entorpezca la marcha de otro vehículo que le siga. ",
+            "c": "Por la parte imprescindible de la calzada. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d. Ninguna es correcta."
+    },
+    {
+        "timestamp": 1782132623.4382956,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "25. Indique cuál de los siguientes derechos NO puede ser suspendido en el estado de excepción:",
+        "respuestas": {
+            "a": "Derecho a elegir libremente residencia. ",
+            "b": "Derecho de reunión pacífica y sin armas. ",
+            "c": "Derecho de los trabajadores a adoptar medidas de conflicto colectivo. ",
+            "d": "Derecho a la propiedad privada. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d. Derecho a la propiedad privada."
+    },
+    {
+        "timestamp": 1782132692.0867877,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "33. Indique cuál de las siguientes es una señal de reglamentación:",
+        "respuestas": {
+            "a": "Señal de orientación. ",
+            "b": "Señal de intersección con prioridad. ",
+            "c": "Señal de visibilidad reducida. ",
+            "d": "Ninguna de las anteriores. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d. Ninguna de las anteriores."
+    },
+    {
+        "timestamp": 1782132779.0392425,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "41. El cumplimiento de la sanción de suspensión prevista en el artículo 80 de la LSV, la cual afecta a los centros de enseñanza y reconocimiento de conductores, ¿Cuándo se iniciará?",
+        "respuestas": {
+            "a": "En el momento que haya adquirido firmeza en vía administrativa. ",
+            "b": "Al día siguiente de adquirir firmeza en vía administrativa. ",
+            "c": "Transcurrido un mes desde que haya adquirido firmeza en vía administrativa. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c. Transcurrido un mes desde que haya adquirido firmeza en vía administrativa."
+    },
+    {
+        "timestamp": 1782133032.264733,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "62. Dejar suelto a un animal potencialmente peligroso…",
+        "respuestas": {
+            "a": "Es una infracción leve a la Ley 13/2002, del 23 de diciembre. ",
+            "b": "Es una infracción grave a la Ley 13/2002, del 23 de diciembre. ",
+            "c": "Es una infracción muy grave a la Ley 13/2002, del 23 de diciembre. ",
+            "d": "La Ley 13/2002, del 23 de diciembre, no recoge esa infracción. Se debe acudir a la Ley 50/99. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b. Es una infracción grave a la Ley 13/2002, del 23 de diciembre."
+    },
+    {
+        "timestamp": 1782133127.8491554,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "69. El error vencible sobre la ilicitud del hecho constitutivo de la infracción penal…",
+        "respuestas": {
+            "a": "Excluye la responsabilidad criminal. ",
+            "b": "La infracción será castigada, en su caso, como imprudente. ",
+            "c": "Se aplicará la pena inferior en uno o dos grados. ",
+            "d": "Se aplicará la pena en su mitad inferior. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c. Se aplicará la pena inferior en uno o dos grados."
+    },
+    {
+        "timestamp": 1782133246.7619026,
+        "path": "/_repaso-unidades_1-15.json",
+        "id": "id2340234",
+        "pregunta": "80. Señale la circunstancia que corresponde a la prisión permanente revisable en un asesinato:",
+        "respuestas": {
+            "a": "Que la víctima sea menor de edad, o se trate de una persona especialmente vulnerable por razón de su edad, enfermedad o discapacidad. ",
+            "b": "Que el hecho fuera previo a un delito contra la libertad sexual que el autor hubiera cometido sobre la víctima. ",
+            "c": "Que el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c. Que el delito se hubiera cometido por quien perteneciere a un grupo u organización criminal."
+    },
+    {
+        "timestamp": 1782133668.5081449,
+        "path": "/2026-06-21.json",
+        "id": "id2340234",
+        "pregunta": "18. Señale la respuesta incorrecta:",
+        "respuestas": {
+            "a": "a) No se puede ser miembro del Congreso y del Senado, al mismo tiempo. ",
+            "b": "b) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, Senador en Cortes. ",
+            "c": "c) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, miembro del Congreso de los Diputados. ",
+            "d": "d) Se puede ser, a la vez, Concejal de un Ayuntamiento y miembro de la Junta General del Principado."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: c) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, miembro del Congreso de los Diputados."
+    },
+    {
+        "timestamp": 1782133832.1332126,
+        "path": "/2026-06-21.json",
+        "id": "id2340234",
+        "pregunta": "53. Señale la incorrecta. El Gobierno cesa en los siguientes casos:",
+        "respuestas": {
+            "a": "a) Tras la celebración de elecciones generales ",
+            "b": "b) Tras la aprobación de una moción de censura ",
+            "c": "c) Tras la pérdida de una cuestión de confianza ",
+            "d": "d) Por la dimisión o fallecimiento del Vicepresidente del Gobierno"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Por la dimisión o fallecimiento del Vicepresidente del Gobierno"
+    },
+    {
+        "timestamp": 1782133945.9019356,
+        "path": "/2026-06-21.json",
+        "id": "id2340234",
+        "pregunta": "16) La denominación de los Municipios podrá ser, a todos los efectos,",
+        "respuestas": {
+            "a": "Siempre en castellano ",
+            "b": "Puede utilizarse otra lengua española oficial en la respectiva Comunidad Autónoma pero, en ese caso, debe acompañarse también con el término en castellano ",
+            "c": "en castellano, en cualquier otra lengua española oficial en el territorio nacional, o en ambas. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782133983.7180648,
+        "path": "/2026-06-21.json",
+        "id": "id2340234",
+        "pregunta": "33) El Pleno celebra sesión extraordinaria…",
+        "respuestas": {
+            "a": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "b": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente ",
+            "c": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "d": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente"
+    },
+    {
+        "timestamp": 1782134443.4405122,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "4. Corresponde en exclusiva a los funcionarios públicos, con carácter general,…",
+        "respuestas": {
+            "a": "a. a) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas, en todo caso ",
+            "b": "b. b) el ejercicio de las funciones que impliquen la participación directa en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas ",
+            "c": "c. c) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Gobierno y de las Administraciones Públicas, salvo excepciones ",
+            "d": "d. d) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Gobierno y de las Administraciones Públicas, en todo caso "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas, en todo caso"
+    },
+    {
+        "timestamp": 1782134488.3529382,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cuál de los siguientes no es un sistema selectivo del Personal Laboral fijo de la Administración?",
+        "respuestas": {
+            "a": "a. a) Oposición. ",
+            "b": "b. b) Concurso-oposición. ",
+            "c": "c. c) Concurso de valoración de méritos. ",
+            "d": "d. d) Promoción interna "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d) Promoción interna"
+    },
+    {
+        "timestamp": 1782134527.0972085,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "9. Los procedimientos de selección del personal laboral temporal se regirán por los principios de…",
+        "respuestas": {
+            "a": "a. a) igualdad, mérito, capacidad ",
+            "b": "b. b) celeridad, igualdad, mérito ",
+            "c": "c. c) igualdad, mérito y antigüedad ",
+            "d": "d. d) igualdad, mérito, capacidad y celeridad "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) igualdad, mérito, capacidad y celeridad"
+    },
+    {
+        "timestamp": 1782134556.825532,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "11. La carrera vertical consiste en:",
+        "respuestas": {
+            "a": "a. a) la progresión de grado, categoría, escalón u otros conceptos análogos, sin necesidad de cambiar de puesto de trabajo ",
+            "b": "b. b) el ascenso desde un cuerpo o escala de un Subgrupo a otro superior ",
+            "c": "c. c) el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos ",
+            "d": "d. d) el acceso a cuerpos o escalas del mismo Subgrupo profesional "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) el ascenso en la estructura de puestos de trabajo por los procedimientos de provisión establecidos"
+    },
+    {
+        "timestamp": 1782134630.1777658,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "14. El TREBEP se aprueba mediante…",
+        "respuestas": {
+            "a": "a. a) Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "b": "b. b) Real Decreto Legislativo 5/2016, de 30 de noviembre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "c": "c. c) Real Decreto Legislativo 5/2015, de 30 de noviembre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. ",
+            "d": "d. d) Real Decreto Legislativo 5/2015, de 20 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público."
+    },
+    {
+        "timestamp": 1782134721.0345192,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "17. La condición de personal eventual:",
+        "respuestas": {
+            "a": "a. a) no podrá constituir mérito para el acceso a la Función Pública ",
+            "b": "b. b) no podrá constituir mérito para el acceso a la Función Pública pero podrá constituir mérito para la promoción interna ",
+            "c": "c. c) podrá constituir mérito para la promoción interna y para el acceso a la Función Pública ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) no podrá constituir mérito para el acceso a la Función Pública"
+    },
+    {
+        "timestamp": 1782134757.9465148,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "21. La carrera profesional y la promoción del personal laboral se hará efectiva a través de los procedimientos previstos en:",
+        "respuestas": {
+            "a": "a. a) los convenios colectivos, ya que el Estatuto de los Trabajadores se aplica en exclusiva al personal del sector privado ",
+            "b": "b. b) el Estatuto de los Trabajadores ",
+            "c": "c. c) el contrato de trabajo ",
+            "d": "d. d) b y c son correctas "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) el Estatuto de los Trabajadores"
+    },
+    {
+        "timestamp": 1782134795.2345634,
+        "path": "/_plan_pl_1.9.json",
+        "id": "id2340234",
+        "pregunta": "24. Será requisito general para el acceso a la función pública el de tener la edad de…",
+        "respuestas": {
+            "a": "a. a) 16 años ",
+            "b": "b. b) 18 años ",
+            "c": "c. c) 21 años ",
+            "d": "d. d) 17 años "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) 16 años"
+    },
+    {
+        "timestamp": 1782136711.4136057,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "14. El auto de entrada y registro en lugar cerrado…",
+        "respuestas": {
+            "a": "a. a. Se notificará a la persona interesada inmediatamente. ",
+            "b": "b. b. Se notificará lo más tarde dentro de las 24 horas de haberse dictado. ",
+            "c": "c. c. Se notificará dentro de las 48 horas de haberse dictado. ",
+            "d": "d. d. A y B son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d. A y B son correctas"
+    },
+    {
+        "timestamp": 1782136729.2057805,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "15. Señale la respuesta INCORRECTA. Se podrá realizar entrada en domicilio particular…",
+        "respuestas": {
+            "a": "a. a. En caso de flagrante delito ",
+            "b": "b. b. En caso de orden de detención contra el que allí se encuentre ",
+            "c": "c. c. En caso de que el delincuente, inmediatamente perseguido por los agentes de la autoridad, se oculte o refugie en alguna casa. ",
+            "d": "d. d. Todas son correctas. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b. En caso de orden de detención contra el que allí se encuentre"
+    },
+    {
+        "timestamp": 1782136914.870723,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "28. Debe impedirse a los detenidos o presos la libertad de escribir a los funcionarios superiores del orden judicial…",
+        "respuestas": {
+            "a": "a. a. En caso de incomunicación ",
+            "b": "b. b. En caso de delitos contra las personas ",
+            "c": "c. c. En todo caso ",
+            "d": "d. d. En ningún caso "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: d. En ningún caso"
+    },
+    {
+        "timestamp": 1782136941.9188704,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "29. Señale cuál de los siguientes derechos NO puede ser privado un reo en supuestos de detención o prisión INCOMUNICADAS:",
+        "respuestas": {
+            "a": "a. a. Designar un abogado de su confianza. ",
+            "b": "b. b. Acceder él o su abogado a los elementos esenciales para poder impugnar la legalidad de la detención. ",
+            "c": "c. c. Comunicarse con todas o alguna de las personas con las que tenga derecho a hacerlo, salvo con la autoridad judicial, el Ministerio Fiscal y el Médico Forense. ",
+            "d": "d. d. Entrevistarse reservadamente con su abogado. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b. Acceder él o su abogado a los elementos esenciales para poder impugnar la legalidad de la detención."
+    },
+    {
+        "timestamp": 1782136971.3590207,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "31. Señale la respuesta INCORRECTA. Podrán instar el procedimiento de «Habeas Corpus»…",
+        "respuestas": {
+            "a": "a. a. El privado de libertad, su cónyuge o persona unida por análoga relación de afectividad, descendientes, ascendientes, hermanos y, en su caso, respecto a los menores y personas incapacitadas, sus representantes legales. ",
+            "b": "b. b. El Ministerio Fiscal y el Defensor del Pueblo. ",
+            "c": "c. c. De oficio, el Juez competente. ",
+            "d": "d. d. Todas son correctas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d. Todas son correctas."
+    },
+    {
+        "timestamp": 1782137021.127286,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "34. En lo que respecta al pago de las costas del procedimiento de “Habeas Corpus”, cabe decir que:",
+        "respuestas": {
+            "a": "a. a. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en todo caso. ",
+            "b": "b. b. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en caso de reincidencia. ",
+            "c": "c. c. En este tipo de procedimiento, las costas no se declararán de oficio. ",
+            "d": "d. d. A y C son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a. Si se apreciase temeridad o mala fe, el solicitante del “Habeas Corpus” será condenado al pago de las costas, en todo caso."
+    },
+    {
+        "timestamp": 1782137029.815272,
+        "path": "/_plan_pl_4.10.json",
+        "id": "id2340234",
+        "pregunta": "35. La ley que regula el procedimiento de “Habeas Corpus” es:",
+        "respuestas": {
+            "a": "a. a. Ley Orgánica 6/1985, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "b": "b. b. Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "c": "c. c. Ley Orgánica 6/1984, de 25 de mayo, reguladora del procedimiento de «Habeas Corpus ",
+            "d": "d. d. Ley Orgánica 6/1985, de 25 de mayo, reguladora del procedimiento de «Habeas Corpus "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b. Ley Orgánica 6/1984, de 24 de mayo, reguladora del procedimiento de «Habeas Corpus"
+    }
+]

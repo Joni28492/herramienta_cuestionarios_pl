@@ -1,0 +1,452 @@
+[
+    {
+        "timestamp": 1782061405.526235,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "7. Señale la incorrecta. El Defensor del Pueblo puede ser cesado…",
+        "respuestas": {
+            "a": "a) Por renuncia ",
+            "b": "b) Por expiración del plazo de su nombramiento. ",
+            "c": "c) Por muerte o por incapacidad sobrevenida. ",
+            "d": "d) Por haber sido condenado, en primera instancia, por delito doloso."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: d) Por haber sido condenado, en primera instancia, por delito doloso."
+    },
+    {
+        "timestamp": 1782061415.2221954,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "8. El Defensor del Pueblo podrá proponer para su nombramiento y cese a…",
+        "respuestas": {
+            "a": "a) Un Adjunto ",
+            "b": "b) Dos Adjuntos ",
+            "c": "c) Tres Adjuntos ",
+            "d": "d) El Defensor del Pueblo no puede proponer, sólo pueden hacerlo las Cortes Generales"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: b) Dos Adjuntos"
+    },
+    {
+        "timestamp": 1782061463.2862773,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "11. El título III de la CE lleva por nombre:",
+        "respuestas": {
+            "a": "a) De las Cámaras ",
+            "b": "b) De las Cortes ",
+            "c": "c) De las Cortes Generales ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: c) De las Cortes Generales"
+    },
+    {
+        "timestamp": 1782061519.5427709,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "15. Se podrá delegar en la Comisión Legislativa Permanente…",
+        "respuestas": {
+            "a": "a) La reforma constitucional ",
+            "b": "b) La aprobación de una ley orgánica ",
+            "c": "c) Los Presupuestos Generales del Estado ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782061545.999004,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "17. Serán inelegibles para ser miembro de las Cortes Generales…",
+        "respuestas": {
+            "a": "a) Los condenados por sentencia firme, en cualquier caso ",
+            "b": "b) Los condenados por rebelión, siempre que sea en firme ",
+            "c": "c) Los condenados por delito de terrorismo, aunque no sea firme, en todo caso ",
+            "d": "d) Los condenados por delitos contra las Instituciones del Estado, aunque no sea firme, cuando la misma haya establecido la pena de inhabilitación para el ejercicio del derecho de sufragio pasivo"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: d) Los condenados por delitos contra las Instituciones del Estado, aunque no sea firme, cuando la misma haya establecido la pena de inhabilitación para el ejercicio del derecho de sufragio pasivo"
+    },
+    {
+        "timestamp": 1782061583.5270946,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "18. Señale la respuesta incorrecta:",
+        "respuestas": {
+            "a": "a) No se puede ser miembro del Congreso y del Senado, al mismo tiempo. ",
+            "b": "b) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, Senador en Cortes. ",
+            "c": "c) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, miembro del Congreso de los Diputados. ",
+            "d": "d) Se puede ser, a la vez, Concejal de un Ayuntamiento y miembro de la Junta General del Principado."
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: c) Se puede ser miembro de la Junta General del Principado y, al mismo tiempo, miembro del Congreso de los Diputados."
+    },
+    {
+        "timestamp": 1782061609.535258,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "20. El Congreso de los Diputados viene regulado en el art. ___ de la CE",
+        "respuestas": {
+            "a": "a) 66 ",
+            "b": "b) 67 ",
+            "c": "c) 68 ",
+            "d": "d) 69"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: c) 68"
+    },
+    {
+        "timestamp": 1782061615.903289,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "21. El Senado viene regulado en el art. ___ de la CE",
+        "respuestas": {
+            "a": "a) 66 ",
+            "b": "b) 67 ",
+            "c": "c) 68 ",
+            "d": "d) 69"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: d) 69"
+    },
+    {
+        "timestamp": 1782061717.5916078,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "30. El aforamiento de los miembros de las Cámaras consiste en que…",
+        "respuestas": {
+            "a": "a) Gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones ",
+            "b": "b) Que sólo podrán ser detenidos en caso de flagrante delito ",
+            "c": "c) No pueden ser procesados sin la previa autorización de la Cámara respectiva ",
+            "d": "d) Que los miembros de las cortes no son juzgados ante los tribunales ordinarios que les correspondería sino ante la Sala de lo Penal del Tribunal Supremo"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Que los miembros de las cortes no son juzgados ante los tribunales ordinarios que les correspondería sino ante la Sala de lo Penal del Tribunal Supremo"
+    },
+    {
+        "timestamp": 1782061766.2001123,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "34. Los textos presentados por el Gobierno ante las Cámaras para su debate y aprobación se denominan",
+        "respuestas": {
+            "a": "a) Proposiciones de ley ",
+            "b": "b) Proyectos de ley ",
+            "c": "c) Anteproyectos de ley ",
+            "d": "d) Anteproposiciones de ley"
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: b) Proyectos de ley"
+    },
+    {
+        "timestamp": 1782061800.3204572,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "36. La iniciativa legislativa de las Asambleas de las Comunidades Autónomas:",
+        "respuestas": {
+            "a": "a) La Asamblea Legislativa podrá delegar ante el Congreso un máximo de cinco miembros para su defensa. ",
+            "b": "b) Exige la presentación de no menos de 50.000 firmas acreditadas. ",
+            "c": "c) Podrá ser ejercida a través del Gobierno, al que se solicitará la adopción de una proposición de Ley. ",
+            "d": "d) Podrá ser ejercitada mediante la remisión a la Mesa del Congreso de una proposición de ley."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Podrá ser ejercitada mediante la remisión a la Mesa del Congreso de una proposición de ley."
+    },
+    {
+        "timestamp": 1782061830.9766529,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "38. En caso de veto del Senado a un proyecto de ley, puede ser sometido al Rey para sanción…",
+        "respuestas": {
+            "a": "a) El Congreso podrá pronunciarse respecto a las enmiendas, aceptándolas o no por mayoría absoluta. ",
+            "b": "b) Siempre y cuando el Congreso ratifique por mayoría simple el texto inicial de forma inmediata. ",
+            "c": "c) Cuando el Senado veta un proyecto de ley no puede ser tramitado. ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782061922.0091999,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "44. Para el caso de decisiones políticas de especial transcendencia existe la figura del Referéndum, del que cabe decir que…",
+        "respuestas": {
+            "a": "a) Será convocado por el Gobierno, mediante propuesta del Congreso de los Diputados ",
+            "b": "b) Será convocado por el Rey, mediante propuesta del Congreso de los Diputados ",
+            "c": "c) Será convocado por el Presidente del Gobierno, mediante autorización del Congreso de los Diputados ",
+            "d": "d) Será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados"
+    },
+    {
+        "timestamp": 1782061947.6411717,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "46. El Gobierno…",
+        "respuestas": {
+            "a": "a) El Gobierno dirige la política interior, la Administración civil y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria ",
+            "b": "b) El Gobierno dirige la política interior, la Administración civil y la defensa del Estado. Ejerce la función reglamentaria y la potestad ejecutiva ",
+            "c": "c) El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria ",
+            "d": "d) El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función reglamentaria y la potestad ejecutiva"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: c) El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria"
+    },
+    {
+        "timestamp": 1782061968.9055848,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "48. ¿Quién propone el candidato a la Presidencia del Gobierno?",
+        "respuestas": {
+            "a": "a) El Congreso ",
+            "b": "b) El Senado ",
+            "c": "c) El Rey ",
+            "d": "d) El Gobierno cesante"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: c) El Rey"
+    },
+    {
+        "timestamp": 1782061979.2812042,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "49. La confianza del Congreso de los Diputados otorga su confianza al candidato a la Presidencia del Gobierno, en primera votación,",
+        "respuestas": {
+            "a": "a) Mediante mayoría absoluta ",
+            "b": "b) Mediante mayoría simple ",
+            "c": "c) Mediante mayoría de 3/5 ",
+            "d": "d) Mediante mayoría de 2/3"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: a) Mediante mayoría absoluta"
+    },
+    {
+        "timestamp": 1782062022.4895928,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "53. Señale la incorrecta. El Gobierno cesa en los siguientes casos:",
+        "respuestas": {
+            "a": "a) Tras la celebración de elecciones generales ",
+            "b": "b) Tras la aprobación de una moción de censura ",
+            "c": "c) Tras la pérdida de una cuestión de confianza ",
+            "d": "d) Por la dimisión o fallecimiento del Vicepresidente del Gobierno"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Por la dimisión o fallecimiento del Vicepresidente del Gobierno"
+    },
+    {
+        "timestamp": 1782064244.4625518,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "56. Las Fuerzas y Cuerpos de seguridad, bajo la dependencia del Gobierno, tendrán como misión…",
+        "respuestas": {
+            "a": "a) proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana ",
+            "b": "b) garantizar el libre ejercicio de los derechos y libertades y proteger la seguridad ciudadana ",
+            "c": "c) garantizar el libre ejercicio de los derechos y libertades la seguridad ciudadana ",
+            "d": "d) proteger el libre ejercicio de los derechos y la seguridad ciudadana"
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: a) proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana"
+    },
+    {
+        "timestamp": 1782064311.383196,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "59. “De las relaciones entre el Gobierno y las Cortes Generales” constituye el Título ___ de la CE, que abarca los artículos ________, ambos inclusive.",
+        "respuestas": {
+            "a": "a) V - 97 al 107 ",
+            "b": "b) IV - 108 - 118 ",
+            "c": "c) V - 108 - 116 ",
+            "d": "d) IV - 107 - 116"
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: c) V - 108 - 116"
+    },
+    {
+        "timestamp": 1782064368.5193086,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "63. En caso de negación de la confianza…",
+        "respuestas": {
+            "a": "a) El Congreso presentará su dimisión al Rey ",
+            "b": "b) El Gobierno presentará su dimisión al Congreso ",
+            "c": "c) El Senado presentará su dimisión al Congreso ",
+            "d": "d) El Gobierno presentará su dimisión al Rey"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) El Gobierno presentará su dimisión al Rey"
+    },
+    {
+        "timestamp": 1782064461.0401525,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "69. Los estados de alarma, excepción y sitio se regulan en…",
+        "respuestas": {
+            "a": "a) El art 115 de la CE y en la L.O. 4/1981, de 1 de junio. ",
+            "b": "b) El art 116 de la CE y en la L.O. 4/1981, de 1 de junio. ",
+            "c": "c) El art 115 de la CE y en la L.O. 5/1981, de 1 de junio. ",
+            "d": "d) El art 116 de la CE y en la L.O. 6/1981, de 1 de junio."
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: b) El art 116 de la CE y en la L.O. 4/1981, de 1 de junio."
+    },
+    {
+        "timestamp": 1782064485.679921,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "71. El estado de alarma es declarado por un plazo de:",
+        "respuestas": {
+            "a": "a) 30 días, sin posibilidad de prórroga. ",
+            "b": "b) 15 días, sin posibilidad de prórroga. ",
+            "c": "c) 15 días, pudiendo ser prorrogado por las Cortes Generales ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782064503.070791,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "72. El estado de excepción es declarado por…",
+        "respuestas": {
+            "a": "a) El Presidente del Gobierno, mediante Orden de Presidencia. ",
+            "b": "b) El Congreso de los Diputados, mediante Decreto Ley ",
+            "c": "c) (...no lo capturo...)",
+            "d": "d) El Gobierno, mediante decreto acordado en Consejo de Ministros."
+        },
+        "solucion": "d",
+        "opcion_selecionada": "",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: d) El Gobierno, mediante decreto acordado en Consejo de Ministros."
+    },
+    {
+        "timestamp": 1782064544.8565474,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "73. La declaración del estado de excepción…",
+        "respuestas": {
+            "a": "a) Deberá contar con la autorización del Congreso de los Diputados, al igual que el de alarma ",
+            "b": "b) Deberá contar sólo con la comunicación al Congreso de los Diputados, al igual que el de alarma ",
+            "c": "c) No es necesaria la autorización del Congreso ni dar cuenta al mismo ",
+            "d": "d) Ninguna es correcta"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "Respuesta correctaLa respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782064562.9205732,
+        "path": "/_plan_pl_1.2.json",
+        "id": "id2340234",
+        "pregunta": "75. El estado de sitio es declarado por ",
+        "respuestas": {
+            "a": "a) Las Cortes Generales ",
+            "b": "b) El Gobierno ",
+            "c": "c) El Presidente del Gobierno ",
+            "d": "d) El Congreso de los Diputados"
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "Respuesta incorrecta.La respuesta correcta es: d) El Congreso de los Diputados"
+    },
+    {
+        "timestamp": 1782064798.001708,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "16) La denominación de los Municipios podrá ser, a todos los efectos,",
+        "respuestas": {
+            "a": "Siempre en castellano ",
+            "b": "Puede utilizarse otra lengua española oficial en la respectiva Comunidad Autónoma pero, en ese caso, debe acompañarse también con el término en castellano ",
+            "c": "en castellano, en cualquier otra lengua española oficial en el territorio nacional, o en ambas. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782064825.5856414,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "18) A efectos de la Ley de Bases de Régimen Local, el Padrón municipal …",
+        "respuestas": {
+            "a": "es un registro civil ",
+            "b": "es un registro informático ",
+            "c": "es un registro administrativo ",
+            "d": "ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) es un registro administrativo"
+    },
+    {
+        "timestamp": 1782064855.8499575,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "20) La inscripción en el Padrón municipal contendrá como obligatorios los siguientes datos: (SEÑALE LA INCORRECTA)",
+        "respuestas": {
+            "a": "En nombre y los apellidos ",
+            "b": "El sexo ",
+            "c": "El número de teléfono ",
+            "d": "Certificado o título escolar o académico que se posea. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) El número de teléfono"
+    },
+    {
+        "timestamp": 1782065053.4271114,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "33) El Pleno celebra sesión extraordinaria…",
+        "respuestas": {
+            "a": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "b": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente ",
+            "c": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "d": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente"
+    },
+    {
+        "timestamp": 1782065106.427479,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "36) La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento: ",
+        "respuestas": {
+            "a": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 15 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno. ",
+            "b": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Alcalde. ",
+            "c": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 15 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Alcalde. ",
+            "d": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno."
+    }
+]
