@@ -1,0 +1,452 @@
+[
+    {
+        "timestamp": 1782717637.023494,
+        "path": "/2026-06-28.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuál de los siguientes títulos pertenece al Estatuto de Autonomía del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) 7/81, de 30 de diciembre ",
+            "b": "b) 7/80, de 30 de diciembre ",
+            "c": "c) 7/85, de 30 de octubre ",
+            "d": "d) 7/85, de 2 de abril "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) 7/81, de 30 de diciembre"
+    },
+    {
+        "timestamp": 1782717678.5118039,
+        "path": "/2026-06-28.json",
+        "id": "id2340234",
+        "pregunta": "21. Señale la opción correcta.",
+        "respuestas": {
+            "a": "a) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "b": "b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "c": "c) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "d": "d) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación."
+    },
+    {
+        "timestamp": 1782717704.0959003,
+        "path": "/2026-06-28.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Quién nombra al Presidente del Tribunal Superior de Justicia del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) El Presidente del Principado, a propuesta del Consejo de Gobierno. ",
+            "b": "b) El Rey, a propuesta del Consejo General del Poder Judicial. ",
+            "c": "c) El Rey, a propuesta del Presidente del Principado, oído el Consejo General del Poder Judicial. ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) El Rey, a propuesta del Consejo General del Poder Judicial."
+    },
+    {
+        "timestamp": 1782718848.0376153,
+        "path": "/_plan_pl_2.9.1.json",
+        "id": "id2340234",
+        "pregunta": "4. El ingreso de una persona con adicción a las drogas y/o las bebidas alcohólicas en un centro o servicio de carácter específico, según la ley,…",
+        "respuestas": {
+            "a": "a. a) No necesita de ningún trámite administrativo ",
+            "b": "b. b) Deberá ir precedido de un contrato terapéutico ",
+            "c": "c. c) Necesita la prescripción de un médico ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Deberá ir precedido de un contrato terapéutico"
+    },
+    {
+        "timestamp": 1782718887.045886,
+        "path": "/_plan_pl_2.9.1.json",
+        "id": "id2340234",
+        "pregunta": "8. El consumo de bebidas alcohólicas por el personal de los centros sanitarios, sociales o educativos, públicos o privados…",
+        "respuestas": {
+            "a": "a. a) Está permitido, en todo caso ",
+            "b": "b. b) Está prohibido, en todo caso ",
+            "c": "c. c) Está prohibido, en cierto caso ",
+            "d": "d. d) Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Está prohibido, en cierto caso"
+    },
+    {
+        "timestamp": 1782718935.9340415,
+        "path": "/_plan_pl_2.9.1.json",
+        "id": "id2340234",
+        "pregunta": "11. Todos los establecimientos habilitados para la expedición de bebidas alcohólicas deberán hacer constar…",
+        "respuestas": {
+            "a": "a. a) mediante el correspondiente cartel, situado en el lugar que más convenga, la prohibición de venta de bebidas alcohólicas a menores de 18 años ",
+            "b": "b. b) mediante el correspondiente cartel, situado en lugar perfectamente visible, la prohibición de venta de bebidas alcohólicas a menores de 18 años ",
+            "c": "c. c) mediante el correspondiente cartel, situado en el lugar que más convenga, la prohibición de venta de bebidas alcohólicas a menores de 18 años y de su consumo por estos ",
+            "d": "d. d) mediante el correspondiente cartel, situado en lugar perfectamente visible, la prohibición de venta de bebidas alcohólicas a menores de 18 años y de su consumo por estos "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) mediante el correspondiente cartel, situado en lugar perfectamente visible, la prohibición de venta de bebidas alcohólicas a menores de 18 años y de su consumo por estos"
+    },
+    {
+        "timestamp": 1782718950.9182796,
+        "path": "/_plan_pl_2.9.1.json",
+        "id": "id2340234",
+        "pregunta": "12. El cartel al que hace referencia la pregunta anterior…",
+        "respuestas": {
+            "a": "a. a) deberá ser utilizado obligatoriamente el formato de cartel que para ello ha creado la Consejería de Salud del Principado de Asturias ",
+            "b": "b. b) podrá utilizarse el cartel de las dimensiones que se estime convenientes, siempre y cuando contenga la frase especificada en el artículo 2 de la Resolución de 20 de mayo de 2015, de la Consejería de Sanidad ",
+            "c": "c. c) La b) es correcta, siempre y cuando la letra sea clara y legible, y de tamaño no inferior a 9 milímetros ",
+            "d": "d. d) ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: d) ninguna es correcta"
+    },
+    {
+        "timestamp": 1782719015.3908765,
+        "path": "/_plan_pl_2.9.1.json",
+        "id": "id2340234",
+        "pregunta": "16. Señale la respuesta incorrecta, en relación con la publicidad en materia de bebidas alcohólicas.",
+        "respuestas": {
+            "a": "a. a) Está prohibida cualquier publicidad dirigida específicamente a embarazadas en la que se induzca, directa o indirectamente, al consumo de bebidas alcohólicas ",
+            "b": "b. b) Queda prohibido el uso de imágenes de menores de 18 años en la publicidad, promoción y patrocinio de bebidas alcohólicas; pudiendo utilizarse únicamente su voz ",
+            "c": "c. c) No se sugerirá que el consumo de estas bebidas contribuye al éxito social, sexual o mejora en el rendimiento físico o deportivo ",
+            "d": "d. d) Ninguna es incorrecta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) Queda prohibido el uso de imágenes de menores de 18 años en la publicidad, promoción y patrocinio de bebidas alcohólicas; pudiendo utilizarse únicamente su voz"
+    },
+    {
+        "timestamp": 1782719070.270903,
+        "path": "/_plan_pl_2.9.1.json",
+        "id": "id2340234",
+        "pregunta": "17. En relación con la prohibición de publicidad de bebidas alcohólicas en cualquier tipo de soporte de titularidad pública o ubicado en terrenos de titularidad pública, ya sea digital, audiovisual o físico, como vallas publicitarias, marquesinas, mupis, mobiliario urbano o publicaciones.",
+        "respuestas": {
+            "a": "a. a) Esta prohibición no afectará a la publicidad de bebidas cuya graduación no supere los veinte grados centesimales y deberá, además, situarse a más de 300 metros del perímetro de centros educativos de enseñanza infantil, primaria y secundaria o de centros sociales destinados al apoyo de personas con problemas de alcoholismo ",
+            "b": "b. b) Esta prohibición no afectará a la publicidad de bebidas cuya graduación no supere los quince grados centesimales y deberá, además, situarse a más de 200 metros del perímetro de cualquier centro educativo o de centros sociales destinados al apoyo de personas con problemas de alcoholismo ",
+            "c": "c. c) Esta prohibición no afectará a la publicidad de bebidas cuya graduación no supere los veinte grados centesimales y deberá, además, situarse a más de 200 metros del perímetro de centros educativos de enseñanza infantil, primaria y secundaria o de centros sociales destinados al apoyo de personas con problemas de alcoholismo ",
+            "d": "d. d) Esta prohibición no afectará a la publicidad de bebidas cuya graduación no supere los veinte grados centesimales y deberá, además, situarse a más de 200 metros del perímetro de cualquier centro educativo o de centros sociales destinados al apoyo de personas con problemas de alcoholismo "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "v",
+        "explicacion": "La respuesta correcta es: c) Esta prohibición no afectará a la publicidad de bebidas cuya graduación no supere los veinte grados centesimales y deberá, además, situarse a más de 200 metros del perímetro de centros educativos de enseñanza infantil, primaria y secundaria o de centros sociales destinados al apoyo de personas con problemas de alcoholismo"
+    },
+    {
+        "timestamp": 1782729330.5437994,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "3. ¿En cuántas ocasiones se ha reformado la Constitución Española desde su publicación?",
+        "respuestas": {
+            "a": "a) Ninguna ",
+            "b": "b) Una ",
+            "c": "c) Dos ",
+            "d": "d) Tres "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "",
+        "explicacion": "La respuesta correcta es: d) Tres"
+    },
+    {
+        "timestamp": 1782729385.8970158,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "9. La creación y ejercicio de la actividad de los partidos políticos será:",
+        "respuestas": {
+            "a": "a) Democrática. ",
+            "b": "b) Libre dentro del respeto a la Constitución y a la ley. ",
+            "c": "c) Regulada por ley. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Libre dentro del respeto a la Constitución y a la ley."
+    },
+    {
+        "timestamp": 1782729404.60125,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "10. ¿Qué lenguas serán oficiales en las Comunidades Autónomas?",
+        "respuestas": {
+            "a": "a) Únicamente el castellano ",
+            "b": "b) El castellano, y aquellas otras lenguas españolas de acuerdo a los Estatutos respectivos. ",
+            "c": "c) El castellano, y aquellas otras lenguas de acuerdo a los Estatutos respectivos. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) El castellano, y aquellas otras lenguas españolas de acuerdo a los Estatutos respectivos."
+    },
+    {
+        "timestamp": 1782729427.3693306,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "12. El artículo 9.3 de la Constitución Española garantiza los siguientes principios:",
+        "respuestas": {
+            "a": "a) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. ",
+            "b": "b) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad y la interdicción de la arbitrariedad de los poderes públicos. ",
+            "c": "c) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica,  y la interdicción de la arbitrariedad de los poderes públicos. ",
+            "d": "d) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras favorables o restrictivas de derechos individuales, seguridad jurídica,  y la interdicción de la arbitrariedad de los poderes públicos. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) Legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad y la interdicción de la arbitrariedad de los poderes públicos."
+    },
+    {
+        "timestamp": 1782729446.9055314,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "14. El título I se llama:",
+        "respuestas": {
+            "a": "a) Derechos y deberes fundamentales. ",
+            "b": "b) Derechos fundamentales y libertades públicas. ",
+            "c": "c) Derechos y libertades. ",
+            "d": "d) Derechos y deberes de los ciudadanos. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: a) Derechos y deberes fundamentales."
+    },
+    {
+        "timestamp": 1782729460.1134913,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "15. Los derechos fundamentales y las libertades públicas abarcan los artículos:",
+        "respuestas": {
+            "a": "a) 15 a 29 ",
+            "b": "b) 14 a 29 ",
+            "c": "c) 10 a 55 ",
+            "d": "d) 15 a 55 "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) 15 a 29"
+    },
+    {
+        "timestamp": 1782729470.5936549,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "16. El título I de la CE se divide en:",
+        "respuestas": {
+            "a": "a) 5 capítulos, siendo el capítulo II subdividido en 2 secciones. ",
+            "b": "b) 4 capítulos, siendo el capítulo II subdividido en 2 secciones. ",
+            "c": "c) 5 capítulos, siendo el capítulo II subdividido en 3 secciones. ",
+            "d": "d) Ninguna de las anteriores. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: a) 5 capítulos, siendo el capítulo II subdividido en 2 secciones."
+    },
+    {
+        "timestamp": 1782729491.4817476,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "17. ¿Qué principios son fundamento del orden político y la paz social?",
+        "respuestas": {
+            "a": "a) Libertad, igualdad, justicia y pluralismo político. ",
+            "b": "b) Legalidad, igualdad y justicia. ",
+            "c": "c) Dignidad de la persona, derechos inviolables inherentes, libre desarrollo de la personalidad y el respeto a la Ley y a los derechos de los demás. ",
+            "d": "d) Legalidad, dignidad de la persona y los derechos inviolables que les son inherentes. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) Dignidad de la persona, derechos inviolables inherentes, libre desarrollo de la personalidad y el respeto a la Ley y a los derechos de los demás."
+    },
+    {
+        "timestamp": 1782729518.433661,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "20. Quedan excluidos de la extradición:",
+        "respuestas": {
+            "a": "a) los delitos políticos ",
+            "b": "b) a) es correcta, no considerándose como tales los actos de terrorismo. ",
+            "c": "c) a) es correcta, considerándose como tales los actos de terrorismo. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: b) a) es correcta, no considerándose como tales los actos de terrorismo."
+    },
+    {
+        "timestamp": 1782729644.0343792,
+        "path": "/_plan_pl_1.1.1.json",
+        "id": "id2340234",
+        "pregunta": "28. ¿Puede una persona ser condenada a la realización de trabajos forzosos?",
+        "respuestas": {
+            "a": "a) Si, en caso de resolución judicial. ",
+            "b": "b) No, según el artículo 25 de la CE. ",
+            "c": "c) No, pero la CE indica que se regulará dicho hecho por Ley Orgánica. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) No, según el artículo 25 de la CE."
+    },
+    {
+        "timestamp": 1782732757.4582016,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "4. De conformidad con la LECRIM, como norma general y a excepción de casos de competencia de las secciones en materia de violencia sobre la mujer, para el conocimiento y fallo de los juicios por delito leve será competente:",
+        "respuestas": {
+            "a": "a. Los juzgados de Instrucción ",
+            "b": "b. El Juez de Paz ",
+            "c": "c. La sección de Instrucción de los Tribunales de Instancia ",
+            "d": "d. La sección de Penal de los Tribunales de Instancia "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: La sección de Instrucción de los Tribunales de Instancia"
+    },
+    {
+        "timestamp": 1782732846.707222,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "8. Conforme a la LOFFCCS, indique cuál de las siguientes funciones de los cuerpos de Policía Autonómica se podrán ejercer de prestación simultánea e indiferenciada con las Fuerzas y Cuerpos de Seguridad del Estado:",
+        "respuestas": {
+            "a": "a. La cooperación a la resolución amistosa de los conflictos privados cuando sean requeridos para ello ",
+            "b": "b. Velar por el cumplimiento de las disposiciones y órdenes singulares dictadas por los órganos de la Comunidad Autónoma ",
+            "c": "c. Velar por el cumplimiento de las Leyes y demás disposiciones del Estado y garantizar el funcionamiento de los servicios públicos esenciales ",
+            "d": "d. Vigilar los espacios públicos, proteger las manifestaciones y mantener el orden en grandes concentraciones humanas "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: La cooperación a la resolución amistosa de los conflictos privados cuando sean requeridos para ello"
+    },
+    {
+        "timestamp": 1782732864.5074582,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "9. Conforme al Reglamento de las Juntas Locales de Seguridad:",
+        "respuestas": {
+            "a": "a. Las convocatorias de las reuniones serán efectuadas por acuerdo de la Presidencia, acompañadas del orden del día, fecha y lugar de la reunión, debiendo notificarse con diez días de antelación, como mínimo, las de carácter ordinario y con anticipación suficiente de, al menos, 48 horas, las extraordinarias ",
+            "b": "b. Las convocatorias de las reuniones serán efectuadas por acuerdo de la Presidencia, acompañadas del orden del día, fecha y lugar de la reunión, debiendo notificarse con diez días de antelación, como mínimo, las de carácter ordinario y con anticipación suficiente de, al menos, 24 horas, las extraordinarias ",
+            "c": "c. Las convocatorias de las reuniones serán efectuadas por acuerdo de la Presidencia, acompañadas del orden del día, fecha y lugar de la reunión, debiendo notificarse con siete días de antelación, como mínimo, las de carácter ordinario y con anticipación suficiente de, al menos, 48 horas, las extraordinarias ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Las convocatorias de las reuniones serán efectuadas por acuerdo de la Presidencia, acompañadas del orden del día, fecha y lugar de la reunión, debiendo notificarse con diez días de antelación, como mínimo, las de carácter ordinario y con anticipación suficiente de, al menos, 48 horas, las extraordinarias"
+    },
+    {
+        "timestamp": 1782732962.9711192,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "11. Conforme al artículo 5 de la Constitución Española:",
+        "respuestas": {
+            "a": "a. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas. ",
+            "b": "b. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales. ",
+            "c": "c. A y B son correctas ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782732977.875803,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "12. Según lo dispuesto en la Ley Orgánica del Régimen Disciplinario de Cuerpo Nacional de Policía, en los procedimientos por faltas leves, el plazo para alegaciones frente a la propuesta de resolución es de:",
+        "respuestas": {
+            "a": "a. 1 mes ",
+            "b": "b. 15 días ",
+            "c": "c. 10 días ",
+            "d": "d. 20 días "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: 10 días"
+    },
+    {
+        "timestamp": 1782733058.6195827,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "18. Para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos cuya masa o dimensiones máximas autorizadas no excedan de los límites establecidos para los vehículos ordinarios o cuya velocidad máxima por construcción no exceda de 45 km/h, la edad mínima para la obtención de su licencia será de:",
+        "respuestas": {
+            "a": "a. Catorce años ",
+            "b": "b. Dieciséis años ",
+            "c": "c. Quince años ",
+            "d": "d. Dieciocho años "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Dieciséis años"
+    },
+    {
+        "timestamp": 1782733133.6439044,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "22. Señale la respuesta correcta. Conforme a la legislación sobre tráfico y circulación de vehículos a motor, el límite genérico de velocidad en vías urbanas para los vehículos que transporten mercancías peligrosas será de:",
+        "respuestas": {
+            "a": "a. 20 km/h en vías que dispongan de plataforma única de calzada y acera, y 30 km/h en vías de un único carril por sentido de circulación. ",
+            "b": "b. 50 km/h en vías de dos o más carriles por sentido de circulación. ",
+            "c": "c. Serán las incluidas en los apartados A y B, disminuidas en 10km. ",
+            "d": "d. Todas son incorrectas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: 20 km/h en vías que dispongan de plataforma única de calzada y acera, y 30 km/h en vías de un único carril por sentido de circulación."
+    },
+    {
+        "timestamp": 1782733149.043994,
+        "path": "/_TB-4.json",
+        "id": "id2340234",
+        "pregunta": "23. Conforme al Código Penal, el conductor de un vehículo a motor o ciclomotor que incurra en la conducta tipificada en el artículo 383 se enfrenta a una pena de:",
+        "respuestas": {
+            "a": "a. Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años ",
+            "b": "b. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años ",
+            "c": "c. Prisión de seis meses a dos años y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta seis años ",
+            "d": "d. Prisión de dos a cinco años, multa de doce a veinticuatro meses y privación del derecho a conducir vehículos a motor y ciclomotores durante un período de seis a diez años "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años"
+    },
+    {
+        "timestamp": 1782738202.6013608,
+        "path": "/_TB-5.json",
+        "id": "id2340234",
+        "pregunta": "De acuerdo al artículo 149 de la Constitución Española, el Estado tiene competencia exclusiva sobre la siguiente materia:",
+        "respuestas": {
+            "a": "a. Derecho de asilo. ",
+            "b": "b. Legislación básica sobre contratos y concesiones administrativas. ",
+            "c": "c. Cables aéreos. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Todas son correctas."
+    },
+    {
+        "timestamp": 1782738238.1450546,
+        "path": "/_TB-5.json",
+        "id": "id2340234",
+        "pregunta": "El acceso a cuerpos o escalas del mismo Subgrupo profesional, se conoce como:",
+        "respuestas": {
+            "a": "a. Promoción interna horizontal ",
+            "b": "b. Promoción interna vertical ",
+            "c": "c. Carrera horizontal ",
+            "d": "d. Carrera vertical "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Promoción interna horizontal"
+    },
+    {
+        "timestamp": 1782738420.8658884,
+        "path": "/_TB-5.json",
+        "id": "id2340234",
+        "pregunta": "¿En qué título se establecen los delitos contra la integridad moral?",
+        "respuestas": {
+            "a": "a. Título 5 ",
+            "b": "b. Título 6 ",
+            "c": "c. Título 7 ",
+            "d": "d. Título 8 "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: Título 7"
+    }
+]

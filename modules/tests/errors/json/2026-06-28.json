@@ -1,0 +1,332 @@
+[
+    {
+        "timestamp": 1782672678.128928,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "3) El Estado se organiza territorialmente en…",
+        "respuestas": {
+            "a": "municipios, en provincias y en las Comunidades Autónomas, en todo caso ",
+            "b": "municipios, en comarcas,  en provincias y en Comunidades Autónomas ",
+            "c": "municipios, en provincias y en las Comunidades Autónomas que se constituyan ",
+            "d": "ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) municipios, en provincias y en las Comunidades Autónomas que se constituyan"
+    },
+    {
+        "timestamp": 1782672708.1050725,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "5) El gobierno y administración de los municipios corresponde: ",
+        "respuestas": {
+            "a": "Al Alcalde y los Concejales ",
+            "b": "Al Acalde, los Tenientes de Alcalde y a los Concejales ",
+            "c": "sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales ",
+            "d": "sus respectivos Ayuntamientos, integrados por los Alcaldes, Tenientes de Alcalde y los Concejales "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales"
+    },
+    {
+        "timestamp": 1782673039.8588758,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "33) El Pleno celebra sesión extraordinaria…",
+        "respuestas": {
+            "a": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "b": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente ",
+            "c": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "d": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente"
+    },
+    {
+        "timestamp": 1782673100.1072469,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "36) La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento: ",
+        "respuestas": {
+            "a": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 15 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno. ",
+            "b": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Alcalde. ",
+            "c": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 15 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Alcalde. ",
+            "d": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno."
+    },
+    {
+        "timestamp": 1782673155.3394358,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuál de los siguientes títulos pertenece al Estatuto de Autonomía del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) 7/81, de 30 de diciembre ",
+            "b": "b) 7/80, de 30 de diciembre ",
+            "c": "c) 7/85, de 30 de octubre ",
+            "d": "d) 7/85, de 2 de abril "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) 7/81, de 30 de diciembre"
+    },
+    {
+        "timestamp": 1782673175.275394,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿Cuántos títulos tiene el Estatuto de Autonomía del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) Un título preliminar y 5 títulos adicionales. ",
+            "b": "b) Un título preliminar y 6 títulos adicionales. ",
+            "c": "c) Un título preliminar y 7 títulos adicionales. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Un título preliminar y 7 títulos adicionales."
+    },
+    {
+        "timestamp": 1782673200.9555333,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "7. Forma tradicional de convivencia y asentamiento de la población asturiana.",
+        "respuestas": {
+            "a": "a) Concejo ",
+            "b": "b) Comarca ",
+            "c": "c) Parroquia rural ",
+            "d": "d) Pedanía "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) Parroquia rural"
+    },
+    {
+        "timestamp": 1782673238.0758047,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "10. Respecto a los presupuestos del Principado de Asturias",
+        "respuestas": {
+            "a": "a) Son elaborados por la Junta General y aprobados por el Tribunal de Cuentas. ",
+            "b": "b) Son elaborados por la Junta General y aprobados por el Consejo de Gobierno. ",
+            "c": "c) Son elaborados por el Consejo de Gobierno y aprobados por la Junta General. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Son elaborados por el Consejo de Gobierno y aprobados por la Junta General."
+    },
+    {
+        "timestamp": 1782673347.956277,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "21. Señale la opción correcta.",
+        "respuestas": {
+            "a": "a) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "b": "b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "c": "c) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "d": "d) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación."
+    },
+    {
+        "timestamp": 1782673362.5883715,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "23. El Presidente del Principado de Asturias es también presidente de:",
+        "respuestas": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Tribunal de Cuentas ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) El Consejo de Gobierno"
+    },
+    {
+        "timestamp": 1782673417.1566374,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Quién nombra al Presidente del Tribunal Superior de Justicia del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) El Presidente del Principado, a propuesta del Consejo de Gobierno. ",
+            "b": "b) El Rey, a propuesta del Consejo General del Poder Judicial. ",
+            "c": "c) El Rey, a propuesta del Presidente del Principado, oído el Consejo General del Poder Judicial. ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) El Rey, a propuesta del Consejo General del Poder Judicial."
+    },
+    {
+        "timestamp": 1782677152.6551466,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.",
+        "respuestas": {
+            "a": "Masa en carga ",
+            "b": "Tara ",
+            "c": "Masa máxima autorizada ",
+            "d": "Masa por eje "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Masa en carga"
+    },
+    {
+        "timestamp": 1782677190.8236995,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Para conducir Triciclos cuya potencia máxima no exceda de 15 kW, se requerirá al menos:",
+        "respuestas": {
+            "a": "a. Permiso AM ",
+            "b": "b. Permiso A1 ",
+            "c": "c. Permiso A2 ",
+            "d": "d. Permiso A "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Permiso A1"
+    },
+    {
+        "timestamp": 1782677208.063447,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Conducir un vehículo teniendo el permiso de conducción suspendido como medida cautelar o teniendo prohibido su uso, es infracción:",
+        "respuestas": {
+            "a": "a. Leve ",
+            "b": "b. Menos grave ",
+            "c": "c. Grave ",
+            "d": "d. Muy grave "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: Grave"
+    },
+    {
+        "timestamp": 1782677273.6476202,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "El que condujere un vehículo de motor o un ciclomotor a velocidad superior en 60 km/h en vía urbana o en 80 km/h en vía interurbana a la permitida reglamentariamente, será castigado con la pena de:",
+        "respuestas": {
+            "a": "a. Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "b": "b. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "c": "c. Prisión de tres a seis meses o con la de multa de seis a doce meses y con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años."
+    },
+    {
+        "timestamp": 1782677455.7446835,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "5. Conforme al Código Penal, señale cuál de las siguientes penas no es menos grave.",
+        "respuestas": {
+            "a": "a. La suspensión de empleo o cargo público hasta cinco años ",
+            "b": "b. La multa de más de tres meses ",
+            "c": "c. La privación del derecho a la tenencia y porte de armas de tres meses a un año ",
+            "d": "d. Los trabajos en beneficio de la comunidad de treinta y un días a un año "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: La privación del derecho a la tenencia y porte de armas de tres meses a un año"
+    },
+    {
+        "timestamp": 1782677504.688813,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "9. Según el RD 920/2017, de 23 de octubre, en el caso de vehículos mixtos, la frecuencia de inspección aplicable será la correspondiente a:",
+        "respuestas": {
+            "a": "a. La categoría N en la que el vehículo pueda catalogarse ",
+            "b": "b. La categoría M en la que el vehículo pueda catalogarse ",
+            "c": "c. La categoría L1 en la que el vehículo pueda catalogarse ",
+            "d": "d. La categoría T en la que el vehículo pueda catalogarse "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: La categoría N en la que el vehículo pueda catalogarse"
+    },
+    {
+        "timestamp": 1782677560.3854132,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "12. Conforme al TRLSV, ¿cuál será el plazo de prescripción de la sanción en el supuesto de la infracción recogida en el artículo 77. q)?",
+        "respuestas": {
+            "a": "a. La sanción podrá durar un año pero su plazo de prescripción será de dos años ",
+            "b": "b. La sanción podrá durar un año y su plazo de prescripción será también de un año ",
+            "c": "c. La sanción podrá durar un año pero su plazo de prescripción será de tres años ",
+            "d": "d. La sanción podrá durar un año pero su plazo de prescripción será de cuatro años, como el resto de sanciones al TRLSV "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: La sanción podrá durar un año y su plazo de prescripción será también de un año"
+    },
+    {
+        "timestamp": 1782677595.2094252,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "15. Conforme a la Ley 39/2015, el plazo máximo para dictar y notificar la resolución del recurso de reposición será de:",
+        "respuestas": {
+            "a": "a. Tres meses ",
+            "b": "b. Un mes ",
+            "c": "c. Dos meses ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Un mes"
+    },
+    {
+        "timestamp": 1782677662.4098501,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "21. Conforme a la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, la sanción a la infracción consistente en la perturbación del desarrollo de una reunión o manifestación lícita, cuando no constituya infracción penal, prescribirá:",
+        "respuestas": {
+            "a": "a. Al año ",
+            "b": "b. A los dos años ",
+            "c": "c. A los seis meses ",
+            "d": "d. A los tres años "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: A los dos años"
+    },
+    {
+        "timestamp": 1782677714.226406,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "24. Conforme al Reglamento General de Conductores, para conducir dentro del territorio nacional automóviles sin remolque impulsados por combustibles alternativos destinados al transporte de mercancías con una masa máxima autorizada superior a 3.500 kg pero que no exceda los 4.250 kg, siempre que la masa que supere los 3.500 kg provenga exclusivamente del exceso de masa del sistema de propulsión respecto al sistema de propulsión de un vehículo de las mismas dimensiones que esté equipado con un motor convencional de combustión interna con encendido por chispa o por compresión, y siempre que no se incremente la capacidad de carga respecto al mismo vehículo; será necesario contar con una antigüedad de dos años en…",
+        "respuestas": {
+            "a": "a. El permiso de la clase C1 ",
+            "b": "b. El permiso de la clase B ",
+            "c": "c. El permiso de la clase B, con la autorización B96 ",
+            "d": "d. El permiso de la clase C. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: El permiso de la clase B"
+    },
+    {
+        "timestamp": 1782677729.5234277,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "25. Jacinto, propietario y regente del bar homónimo, abre su local un domingo 20 de Junio, ¿de qué hora no podrá excederse su horario de cierre conforme al Decreto 90/2004?",
+        "respuestas": {
+            "a": "a. A las 01:30 horas ",
+            "b": "b. A las 2:30 horas ",
+            "c": "c. A las 2:00 horas ",
+            "d": "d. A las 2:30 horas, más los 30 minutos de operación material de cierre "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: A las 2:00 horas"
+    }
+]

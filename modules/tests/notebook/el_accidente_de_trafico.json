@@ -1,0 +1,442 @@
+[
+    {
+        "pregunta": "1. Según la definición de Stannard Baker, ¿cuál de estos elementos NO es indispensable para que un suceso sea considerado accidente de tráfico?",
+        "respuestas": {
+            "a": "a) Que sea un suceso eventual producido como consecuencia del tráfico.",
+            "b": "b) Que intervenga al menos una unidad de tráfico en movimiento.",
+            "c": "c) Que se produzcan daños materiales superiores a una cuantía mínima establecida.",
+            "d": "d) Que el suceso sea involuntario o fortuito."
+        },
+        "solucion": "c",
+        "explicacion": "La definición de Baker solo exige daños materiales en general (\"daños en las cosas\"), sin establecer cuantías."
+    },
+    {
+        "pregunta": "2. ¿En qué caso se EXCLUYE un suceso de la consideración de accidente de tráfico con víctimas según los criterios de cumplimentación del Anexo II?",
+        "respuestas": {
+            "a": "a) Accidentes provocados por muertes naturales confirmadas, sin otros daños.",
+            "b": "b) Accidentes derivados de un intento de suicidio que produzca daños a terceras personas.",
+            "c": "c) Colisiones múltiples sucesivas consideradas como un único accidente.",
+            "d": "d) Accidentes en los que solo resultan heridos el conductor y los pasajeros."
+        },
+        "solucion": "a",
+        "explicacion": "Se excluyen expresamente por el punto 1.a) del Anexo II, a menos que produzcan daños a terceros."
+    },
+    {
+        "pregunta": "3. Un accidente \"in itinere\" se define como aquel que ocurre:",
+        "respuestas": {
+            "a": "a) Durante la jornada laboral del trabajador.",
+            "b": "b) En el espacio-tiempo habitual entre el domicilio y el centro de trabajo o viceversa.",
+            "c": "c) Únicamente cuando el trabajador utiliza transporte público.",
+            "d": "d) Solo si ocurre en vías interurbanas."
+        },
+        "solucion": "b",
+        "explicacion": "Definición literal del concepto en atención a la jornada laboral."
+    },
+    {
+        "pregunta": "4. Si en un accidente interviene solo una unidad de tráfico en movimiento (por ejemplo, un choque contra un vehículo estacionado), se clasifica como:",
+        "respuestas": {
+            "a": "a) Accidente complejo.",
+            "b": "b) Accidente múltiple.",
+            "c": "c) Accidente simple.",
+            "d": "d) Accidente por alcance."
+        },
+        "solucion": "c",
+        "explicacion": "Se define como simple cuando solo interviene una unidad de tráfico en movimiento."
+    },
+    {
+        "pregunta": "5. La salida de vía en la que el vehículo realiza un giro longitudinal sobre su eje transversal se denomina:",
+        "respuestas": {
+            "a": "a) Vuelco lateral.",
+            "b": "b) Vuelco de tonel.",
+            "c": "c) Vuelco de campana.",
+            "d": "d) Salida por caída."
+        },
+        "solucion": "c",
+        "explicacion": "El vuelco de campana es un giro longitudinal sobre el eje transversal. El de tonel es sobre el eje longitudinal."
+    },
+    {
+        "pregunta": "6. El impacto de un vehículo en movimiento contra un elemento fijo de la vía (como un quitamiedos) se define técnicamente como:",
+        "respuestas": {
+            "a": "a) Colisión.",
+            "b": "b) Choque.",
+            "c": "c) Raspado positivo.",
+            "d": "d) Embestida."
+        },
+        "solucion": "b",
+        "explicacion": "El choque es contra un elemento fijo o inmóvil. La colisión es entre vehículos en movimiento."
+    },
+    {
+        "pregunta": "7. La colisión que tiene lugar cuando la parte frontal de un vehículo impacta contra la parte lateral de otro se denomina:",
+        "respuestas": {
+            "a": "a) Topetazo.",
+            "b": "b) Raspado.",
+            "c": "c) Embestida.",
+            "d": "d) Alcance."
+        },
+        "solucion": "c",
+        "explicacion": "Definición de impacto frontal contra lateral."
+    },
+    {
+        "pregunta": "8. En una colisión por raspado, se considera \"negativo\" cuando:",
+        "respuestas": {
+            "a": "a) Ambos vehículos circulan en sentido opuesto.",
+            "b": "b) Ambos vehículos circulan en el mismo sentido.",
+            "c": "c) Un vehículo está parado y el otro en movimiento.",
+            "d": "d) Los daños materiales son inferiores a la tara del vehículo."
+        },
+        "solucion": "b",
+        "explicacion": "El raspado positivo es en sentido opuesto; el negativo es en el mismo sentido."
+    },
+    {
+        "pregunta": "9. ¿Cuál de las siguientes es considerada una causa MEDIATA relativa al vehículo?",
+        "respuestas": {
+            "a": "a) Velocidad excesiva.",
+            "b": "b) Fallo mecánico o eléctrico.",
+            "c": "c) Error en la maniobra evasiva.",
+            "d": "d) Retraso en la percepción real."
+        },
+        "solucion": "b",
+        "explicacion": "Las causas mediatas ayudan a la producción pero no intervienen directamente en la cadena final, el fallo del vehículo es una de ellas."
+    },
+    {
+        "pregunta": "10. Dentro de la evolución del accidente, el punto en el que un conductor diligente pudo darse cuenta de la situación anormal es:",
+        "respuestas": {
+            "a": "a) El punto de percepción real.",
+            "b": "b) El punto de percepción posible.",
+            "c": "c) El punto de decisión.",
+            "d": "d) El área de maniobra."
+        },
+        "solucion": "b",
+        "explicacion": "Es un punto objetivo donde un conductor \"diligente\" pudo notar la anomalía."
+    },
+    {
+        "pregunta": "11. El tiempo de percepción se define como el intervalo que media entre:",
+        "respuestas": {
+            "a": "a) El punto de percepción posible y el punto de percepción real.",
+            "b": "b) El punto de percepción real y el punto de conflicto.",
+            "c": "c) El punto de decisión y la posición final.",
+            "d": "d) El punto de conflicto y el resultado lesivo."
+        },
+        "solucion": "a",
+        "explicacion": "Definición técnica de este intervalo temporal."
+    },
+    {
+        "pregunta": "12. ¿Qué elemento de los siguientes forma parte de la SEGURIDAD PASIVA del vehículo?",
+        "respuestas": {
+            "a": "a) Sistema de control de estabilidad (ESP).",
+            "b": "b) Sistema de alumbrado.",
+            "c": "c) Sistema de anclaje Isofix.",
+            "d": "d) Sistema antibloqueo de frenos (ABS)."
+        },
+        "solucion": "c",
+        "explicacion": "Los sistemas pasivos (airbag, cinturón, casco, isofix) actúan para reducir daños una vez producido el accidente."
+    },
+    {
+        "pregunta": "13. El sistema que orienta su eficacia a dotar de mayor estabilidad al vehículo para EVITAR que se produzca el accidente es:",
+        "respuestas": {
+            "a": "a) Seguridad pasiva.",
+            "b": "b) Seguridad activa.",
+            "c": "c) Carrocería de deformación programada.",
+            "d": "d) Sistema de airbag."
+        },
+        "solucion": "b",
+        "explicacion": "Su objetivo es dotar de estabilidad para evitar que el accidente ocurra (ABS, ESP, etc.)."
+    },
+    {
+        "pregunta": "14. Según la Orden INT/2222/2014, cuando hay al menos un fallecido o un herido con traslado al hospital, los agentes deben remitir la información en un plazo MÁXIMO de:",
+        "respuestas": {
+            "a": "a) 12 horas.",
+            "b": "b) 24 horas.",
+            "c": "c) 48 horas.",
+            "d": "d) 10 días naturales."
+        },
+        "solucion": "b",
+        "explicacion": "Plazo máximo para datos de suministro rápido en casos de fallecidos o heridos hospitalizados (Art. 3 Orden INT/2222/2014)."
+    },
+    {
+        "pregunta": "15. Para accidentes con víctimas que no cumplan el criterio de fallecido o traslado hospitalario, el plazo para remitir el formulario con datos de suministro rápido es de:",
+        "respuestas": {
+            "a": "a) 24 horas.",
+            "b": "b) 5 días hábiles.",
+            "c": "c) 10 días naturales.",
+            "d": "d) Un mes."
+        },
+        "solucion": "c",
+        "explicacion": "Plazo para el resto de accidentes con víctimas según el apartado 2 del Art. 3 de la citada Orden."
+    },
+    {
+        "pregunta": "16. El formulario totalmente cumplimentado del accidente debe enviarse en un plazo no superior a:",
+        "respuestas": {
+            "a": "a) Diez días naturales desde el suceso.",
+            "b": "b) Quince días hábiles.",
+            "c": "c) Un mes desde la fecha del accidente.",
+            "d": "d) Tres meses si hay heridos graves."
+        },
+        "solucion": "c",
+        "explicacion": "Plazo para la remisión del formulario totalmente cumplimentado (Art. 3.3)."
+    },
+    {
+        "pregunta": "17. A efectos estadísticas, una persona se considera \"Fallecido a veinticuatro horas\" cuando fallece:",
+        "respuestas": {
+            "a": "a) En el acto únicamente.",
+            "b": "b) Dentro de las 24 horas siguientes al accidente.",
+            "c": "c) Durante el traslado al hospital.",
+            "d": "d) Las opciones B y C son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Incluye a quien muere en el acto, en el traslado o dentro de las 24 horas."
+    },
+    {
+        "pregunta": "18. Para la elaboración de los indicadores principales del Registro Nacional de Víctimas, se considera \"Fallecido\" a quien muere por el accidente dentro de los:",
+        "respuestas": {
+            "a": "a) 24 horas siguientes.",
+            "b": "b) 7 días naturales.",
+            "c": "c) 30 días siguientes.",
+            "d": "d) 15 días naturales."
+        },
+        "solucion": "c",
+        "explicacion": "Plazo estadístico para el indicador consolidado de \"Fallecido\"."
+    },
+    {
+        "pregunta": "19. Un \"Herido con hospitalización superior a veinticuatro horas\" es aquel que precisa ingreso por un tiempo superior a dicho plazo en un periodo de:",
+        "respuestas": {
+            "a": "a) 24 horas desde el accidente.",
+            "b": "b) 48 horas desde el accidente.",
+            "c": "c) 30 días desde el accidente.",
+            "d": "d) 10 días desde el accidente."
+        },
+        "solucion": "c",
+        "explicacion": "Definición estadística (Anexo III) para este tipo de herido grave."
+    },
+    {
+        "pregunta": "20. ¿Quién es el responsable de los daños en un accidente por atropello de especies cinegéticas de forma genérica?",
+        "respuestas": {
+            "a": "a) El titular de la vía.",
+            "b": "b) El propietario del terreno.",
+            "c": "c) El conductor del vehículo.",
+            "d": "d) El titular del aprovechamiento cinegético."
+        },
+        "solucion": "c",
+        "explicacion": "Responsabilidad genérica establecida en la Disposición Adicional Séptima de la LSV."
+    },
+    {
+        "pregunta": "21. ¿Cuándo será responsable el titular del aprovechamiento cinegético por el atropello de un animal?",
+        "respuestas": {
+            "a": "a) Siempre que el animal sea caza menor.",
+            "b": "b) Cuando sea consecuencia directa de una acción de caza colectiva de caza mayor el mismo día o hasta 12 horas después.",
+            "c": "c) Cuando la valla de cerramiento esté en mal estado.",
+            "d": "d) Solo si el conductor circulaba a la velocidad permitida."
+        },
+        "solucion": "b",
+        "explicacion": "Excepción a la responsabilidad del conductor."
+    },
+    {
+        "pregunta": "22. ¿En qué caso el titular de la vía pública será responsable del atropello de una especie cinegética?",
+        "respuestas": {
+            "a": "a) Por no disponer de señalización específica de animales sueltos en tramos con alta accidentalidad.",
+            "b": "b) Siempre que el accidente ocurra en autopista.",
+            "c": "c) Solo si el animal es un jabalí o corzo.",
+            "d": "d) Si el accidente ocurre de noche y no hay alumbrado."
+        },
+        "solucion": "a",
+        "explicacion": "Segunda excepción donde la responsabilidad recae en el titular de la vía por falta de mantenimiento/señalización."
+    },
+    {
+        "pregunta": "23. A efectos de la cumplimentación de formularios (datos estadísticos), ¿quién tiene la consideración de peatón?",
+        "respuestas": {
+            "a": "a) Personas que guían un animal o animales.",
+            "b": "b) Personas que conducen a pie un ciclo.",
+            "c": "c) Personas que se desplazan sobre patines o artefactos parecidos.",
+            "d": "d) Todas las anteriores son correctas."
+        },
+        "solucion": "d",
+        "explicacion": "Definiciones específicas a efectos de los formularios de accidentes (Anexo II)."
+    },
+    {
+        "pregunta": "24. Una persona que está reparando su vehículo fuera del mismo en la vía en el momento del accidente se considera:",
+        "respuestas": {
+            "a": "a) Conductor.",
+            "b": "b) Pasajero.",
+            "c": "c) Peatón.",
+            "d": "d) Unidad de tráfico."
+        },
+        "solucion": "c",
+        "explicacion": "Se consideran peatones las personas que se encuentran reparando el vehículo en la vía."
+    },
+    {
+        "pregunta": "25. El \"Punto de conflicto\" es aquel en el que:",
+        "respuestas": {
+            "a": "a) Se inicia la maniobra evasiva.",
+            "b": "b) Se consuma el accidente.",
+            "c": "c) El vehículo queda inmóvil tras el suceso.",
+            "d": "d) El conductor percibe el peligro real."
+        },
+        "solucion": "b",
+        "explicacion": "Es el momento del impacto o resultado dañoso final."
+    },
+    {
+        "pregunta": "26. La salida de vía en la que el vehículo realiza un giro transversal sobre el eje longitudinal se denomina:",
+        "respuestas": {
+            "a": "a) Vuelco de campana.",
+            "b": "b) Vuelco de tonel.",
+            "c": "c) Vuelco total.",
+            "d": "d) Caída a distinto nivel."
+        },
+        "solucion": "b",
+        "explicacion": "Giro transversal sobre el eje longitudinal."
+    },
+    {
+        "pregunta": "27. Una colisión \"en cadena\" implica:",
+        "respuestas": {
+            "a": "a) El impacto de un vehículo contra un obstáculo fijo.",
+            "b": "b) Varias colisiones entre los vehículos implicados de manera sucesiva, siendo unas consecuencia de otras.",
+            "c": "c) Dos vehículos que chocan frontalmente.",
+            "d": "d) El roce lateral de dos vehículos en el mismo sentido."
+        },
+        "solucion": "b",
+        "explicacion": "Definición técnica de colisión en cadena."
+    },
+    {
+        "pregunta": "28. ¿Cuál de estos es un elemento de SEGURIDAD ACTIVA?",
+        "respuestas": {
+            "a": "a) Casco.",
+            "b": "b) Cinturón de seguridad.",
+            "c": "c) Control de presión de inflado de los neumáticos.",
+            "d": "d) Diseño del chasis para reducir energía."
+        },
+        "solucion": "c",
+        "explicacion": "Es un sistema de seguridad activa (ayuda a evitar el fallo previo)."
+    },
+    {
+        "pregunta": "29. Un conductor que ha dejado de llevar la dirección del vehículo y es arrollado mientras baja del mismo se considera:",
+        "respuestas": {
+            "a": "a) Conductor.",
+            "b": "b) Peatón.",
+            "c": "c) Pasajero.",
+            "d": "d) Implicado ileso."
+        },
+        "solucion": "c",
+        "explicacion": "Los conductores que han dejado la dirección y son arrollados mientras suben o bajan se consideran pasajeros a efectos estadísticos."
+    },
+    {
+        "pregunta": "30. ¿Qué se entiende por \"Causa Inmediata\" o directa?",
+        "respuestas": {
+            "a": "a) Hechos que ayudan a la producción pero no intervienen directamente.",
+            "b": "b) Comportamientos o condiciones sin los cuales el accidente no se hubiera producido, interviniendo directamente.",
+            "c": "c) Condiciones atmosféricas como la lluvia o niebla.",
+            "d": "d) Fallos mecánicos del vehículo."
+        },
+        "solucion": "b",
+        "explicacion": "Definición de causas directas o inmediatas."
+    },
+    {
+        "pregunta": "31. El área de maniobra se inicia en el punto en el que:",
+        "respuestas": {
+            "a": "a) El conductor se apercibe del peligro.",
+            "b": "b) El conductor ha podido comenzar a realizar la maniobra decidida.",
+            "c": "c) El vehículo impacta contra el otro.",
+            "d": "d) El conductor finaliza la frenada."
+        },
+        "solucion": "b",
+        "explicacion": "Definición de inicio del área de maniobra."
+    },
+    {
+        "pregunta": "32. El seguimiento de los heridos que precisaron hospitalización para determinar si fallecen dentro de las 24 horas es responsabilidad de:",
+        "respuestas": {
+            "a": "a) El centro hospitalario únicamente.",
+            "b": "b) Los agentes encargados de la vigilancia y control del tráfico.",
+            "c": "c) El Registro Nacional de Víctimas de oficio.",
+            "d": "d) El seguro del vehículo."
+        },
+        "solucion": "b",
+        "explicacion": "Obligación específica recogida en el Anexo II.B.1.a)."
+    },
+    {
+        "pregunta": "33. ¿Qué información NO se incluye en los \"Datos de suministro rápido\"?",
+        "respuestas": {
+            "a": "a) Matrícula, marca y modelo del vehículo.",
+            "b": "b) Resultado de las pruebas de alcohol y drogas del conductor.",
+            "c": "c) Fecha de primera matriculación del vehículo (si la matrícula es española).",
+            "d": "d) Uso de accesorios de seguridad por parte del peatón."
+        },
+        "solucion": "c",
+        "explicacion": "Este dato solo es obligatorio para matrículas NO españolas."
+    },
+    {
+        "pregunta": "34. Un vehículo se considera \"implicado\" en un accidente cuando:",
+        "respuestas": {
+            "a": "a) Entra en colisión con otro vehículo, peatón o animal.",
+            "b": "b) Sin haber entrado en colisión, el conductor o pasajero resultan fallecidos o heridos como consecuencia del accidente.",
+            "c": "c) Está parado o estacionado de forma peligrosa constituyendo un factor del accidente.",
+            "d": "d) Todas las opciones anteriores son supuestos de implicación."
+        },
+        "solucion": "d",
+        "explicacion": "Recogidos todos en el punto 2 del Anexo II."
+    },
+    {
+        "pregunta": "35. La colisión por \"alcance\" ocurre cuando:",
+        "respuestas": {
+            "a": "a) Dos vehículos en sentidos opuestos chocan frontalmente.",
+            "b": "b) La parte delantera de un vehículo impacta contra la trasera del que circula delante en el mismo sentido.",
+            "c": "c) Los vehículos rozan sus laterales.",
+            "d": "d) Un vehículo impacta contra un animal."
+        },
+        "solucion": "b",
+        "explicacion": "Definición técnica de alcance."
+    },
+    {
+        "pregunta": "36. Se considera \"Ileso\" a la persona implicada que:",
+        "respuestas": {
+            "a": "a) No presenta heridas externas.",
+            "b": "b) No le son aplicables las definiciones de fallecido a 24 horas o herido.",
+            "c": "c) Solo presenta daños en su vestimenta.",
+            "d": "d) Rechaza la asistencia sanitaria en el lugar."
+        },
+        "solucion": "b",
+        "explicacion": "Definición técnica de ileso."
+    },
+    {
+        "pregunta": "37. En el caso de vehículos con matrícula NO española, ¿qué dato adicional debe suministrarse de forma rápida?",
+        "respuestas": {
+            "a": "a) Nombre del propietario extranjero.",
+            "b": "b) Color del vehículo.",
+            "c": "c) Fecha de primera matriculación, marca, modelo, tipo de vehículo y MMA.",
+            "d": "d) Kilometraje actual del vehículo."
+        },
+        "solucion": "c",
+        "explicacion": "Requisito adicional para vehículos extranjeros."
+    },
+    {
+        "pregunta": "38. El \"Área de percepción\" es aquella que media entre:",
+        "respuestas": {
+            "a": "a) El punto de percepción posible y el punto de conflicto.",
+            "b": "b) El punto de percepción real y el punto de decisión.",
+            "c": "c) El punto de conflicto y la posición final.",
+            "d": "d) El punto de decisión y el área de maniobra."
+        },
+        "solucion": "a",
+        "explicacion": "Definición del área espacial de percepción."
+    },
+    {
+        "pregunta": "39. La \"Posición final\" en un accidente es:",
+        "respuestas": {
+            "a": "a) El lugar donde se produce el impacto.",
+            "b": "b) El lugar donde los vehículos quedan inmóviles tras el accidente.",
+            "c": "c) El punto donde se detiene el primer vehículo implicado.",
+            "d": "d) El área donde se dispersan los restos del accidente."
+        },
+        "solucion": "b",
+        "explicacion": "Definición técnica del final de la fase de conflicto."
+    },
+    {
+        "pregunta": "40. ¿A quién remitirá el responsable del Registro Nacional de Víctimas la información sobre accidentes en las vías de su titularidad?",
+        "respuestas": {
+            "a": "a) Al Ministerio del Interior.",
+            "b": "b) A la Dirección General de Carreteras del Ministerio de Fomento.",
+            "c": "c) Al Ayuntamiento correspondiente exclusivamente.",
+            "d": "d) A la Jefatura Provincial de Tráfico."
+        },
+        "solucion": "b",
+        "explicacion": "Obligación de comunicación para identificar tramos de concentración de accidentes."
+    }
+]

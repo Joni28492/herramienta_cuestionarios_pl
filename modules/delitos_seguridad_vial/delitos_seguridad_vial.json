@@ -1,0 +1,229 @@
+[
+    {
+        "art": "379.1",
+        "concepto": "velocidad superior a 60km/h en via urbana o 80km/h en interurbana",
+        "penas": {
+            "prision": {
+                "ini": "3m",
+                "fin": "6m",
+                "fallos": 0
+            },
+            "multa": {
+                "ini": "6m",
+                "fin": "12m",
+                "fallos": 0
+            },
+            "TBC": {
+                "ini": "31d",
+                "fin": "90d",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "1a",
+                "fin": "4a",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "o",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "379.2",
+        "concepto": "influencia alcohol o drogas/ tasa superior 0,60mg/l ",
+        "penas": {
+            "prision": {
+                "ini": "3m",
+                "fin": "6m",
+                "fallos": 0
+            },
+            "multa": {
+                "ini": "6m",
+                "fin": "12m",
+                "fallos": 0
+            },
+            "TBC": {
+                "ini": "31d",
+                "fin": "90d",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "1a",
+                "fin": "4a",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "o",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "380",
+        "concepto": "conduccion temeraria",
+        "penas": {
+            "prision": {
+                "ini": "6m",
+                "fin": "2a",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "1a",
+                "fin": "6a",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "381",
+        "concepto": "Kamickaze => 380 + manifiesto desprecio por la vida de los demas ",
+        "penas": {
+            "prision": {
+                "ini": "2a",
+                "fin": "5a",
+                "fallos": 0
+            },
+            "multa": {
+                "ini": "12m",
+                "fin": "24m",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "6a",
+                "fin": "10a",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "y",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "381",
+        "concepto": "Kamickaze => 381 sin poner en concreto peligro ",
+        "penas": {
+            "prision": {
+                "ini": "1a",
+                "fin": "2a",
+                "fallos": 0
+            },
+            "multa": {
+                "ini": "6m",
+                "fin": "12m",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "y",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "382 bis",
+        "concepto": "abandono del lugar del accidente (IMPRUDENTE), fuera de los casos del 195 & fallecimiento o lesion 147.1, 149 y 150 ",
+        "penas": {
+            "prision": {
+                "ini": "6m",
+                "fin": "4m",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "1a",
+                "fin": "4a",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "y",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "382 bis",
+        "concepto": "abandono del lugar del accidente (FORTUITO), fuera de los casos del 195 & fallecimiento o lesion 147.1, 149 y 150 ",
+        "penas": {
+            "prision": {
+                "ini": "3m",
+                "fin": "6m",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "6M",
+                "fin": "2a",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "y",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "383",
+        "concepto": "NEGATIVA ",
+        "penas": {
+            "prision": {
+                "ini": "6m",
+                "fin": "1a",
+                "fallos": 0
+            },
+            "PDC": {
+                "ini": "1a",
+                "fin": "4a",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "384",
+        "concepto": "perdida total puntos - tras privacion judicial - sin haber obtenido nunca permiso ",
+        "penas": {
+            "prision": {
+                "ini": "3m",
+                "fin": "6m",
+                "fallos": 0
+            },
+            "multa": {
+                "ini": "12m",
+                "fin": "24m",
+                "fallos": 0
+            },
+            "TBC": {
+                "ini": "31d",
+                "fin": "90d",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "o",
+                "fallos": 0
+            }
+        }
+    },
+    {
+        "art": "385",
+        "concepto": "obstaculos en la via - modificacion señales - no restablecer ",
+        "penas": {
+            "prision": {
+                "ini": "6m",
+                "fin": "2a",
+                "fallos": 0
+            },
+            "multa": {
+                "ini": "12m",
+                "fin": "24m",
+                "fallos": 0
+            },
+            "TBC": {
+                "ini": "10d",
+                "fin": "40d",
+                "fallos": 0
+            },
+            "yo": {
+                "union": "o",
+                "fallos": 0
+            }
+        }
+    }
+]

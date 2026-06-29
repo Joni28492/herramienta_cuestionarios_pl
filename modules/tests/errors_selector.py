@@ -47,7 +47,7 @@ class ErrosSelector():
                 self.data_errors.append(pregunta)
     
     def volcar_errores_json(self):
-        with open(os.path.join(self.erros_folder_path, 'json',str(self.today)+'.json'), 'w', encoding='utf-8') as f:
+        with open(os.path.join(self.erros_folder_path, 'json',str(self.today+'_errors')+'.json'), 'w', encoding='utf-8') as f:
             json.dump(self.data_errors,f,indent=4, ensure_ascii=False)
     
     def volcar_errores_csv(self):
@@ -72,7 +72,7 @@ class ErrosSelector():
         
         # df = pd.DataFrame(self.data_errors)
         df = pd.DataFrame(data_errors_falten)
-        df.to_csv( os.path.join(self.erros_folder_path,'csv', str(self.today)+'.csv'), encoding='utf-8', index=False )
+        df.to_csv( os.path.join(self.erros_folder_path,'csv', str(self.today+'_errors')+'.csv'), encoding='utf-8', index=False )
         
         
         

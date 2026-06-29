@@ -1,0 +1,1727 @@
+[
+    {
+        "timestamp": 1782672656.7124946,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "1) La regulación del Municipio como entidad territorial se contiene en:",
+        "respuestas": {
+            "a": "La Constitución Española de 1978 ",
+            "b": "La Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local ",
+            "c": "Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de Régimen Local. ",
+            "d": "Todas son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas"
+    },
+    {
+        "timestamp": 1782672664.112663,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "2) La regulación de la Municipio como entidad territorial del Estado se contiene en:",
+        "respuestas": {
+            "a": "El Título VII de la Constitución Española de 1978 ",
+            "b": "El Título VIII de la Constitución Española de 1978 ",
+            "c": "El Título VI de la Constitución Española de 1978 ",
+            "d": "El Título V de la Constitución Española de 1978 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) El Título VIII de la Constitución Española de 1978"
+    },
+    {
+        "timestamp": 1782672678.128928,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "3) El Estado se organiza territorialmente en…",
+        "respuestas": {
+            "a": "municipios, en provincias y en las Comunidades Autónomas, en todo caso ",
+            "b": "municipios, en comarcas,  en provincias y en Comunidades Autónomas ",
+            "c": "municipios, en provincias y en las Comunidades Autónomas que se constituyan ",
+            "d": "ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) municipios, en provincias y en las Comunidades Autónomas que se constituyan"
+    },
+    {
+        "timestamp": 1782672687.5207973,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "4) Las diferencias entre los Estatutos de las distintas Comunidades Autónomas no podrán implicar:",
+        "respuestas": {
+            "a": "en algún caso, privilegios económicos o sociales. ",
+            "b": "en ningún caso, privilegios económicos o sociales. ",
+            "c": "En ningún caso, privilegios económicos, solamente. ",
+            "d": "En ningún caso, privilegios sociales, solamente. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) en ningún caso, privilegios económicos o sociales."
+    },
+    {
+        "timestamp": 1782672708.1050725,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "5) El gobierno y administración de los municipios corresponde: ",
+        "respuestas": {
+            "a": "Al Alcalde y los Concejales ",
+            "b": "Al Acalde, los Tenientes de Alcalde y a los Concejales ",
+            "c": "sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales ",
+            "d": "sus respectivos Ayuntamientos, integrados por los Alcaldes, Tenientes de Alcalde y los Concejales "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) sus respectivos Ayuntamientos, integrados por los Alcaldes y los Concejales"
+    },
+    {
+        "timestamp": 1782672714.840857,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "6) Los Alcaldes serán elegidos por:",
+        "respuestas": {
+            "a": "por los vecinos, únicamente ",
+            "b": "por los Concejales, únicamente ",
+            "c": "los Concejales o por los vecinos ",
+            "d": "ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) los Concejales o por los vecinos"
+    },
+    {
+        "timestamp": 1782672723.7528453,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "7) Las Haciendas Locales…",
+        "respuestas": {
+            "a": "Se nutrirán fundamentalmente de tributos propios pudiendo participar también en los de las Comunidades Autónomas pero no en los del Estado ",
+            "b": "Se nutrirán fundamentalmente de tributos propios, exclusivamente; para no desestabilizar la balanza de pagos del resto de Administraciones ",
+            "c": "Se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las Comunidades Autónomas"
+    },
+    {
+        "timestamp": 1782672737.4888344,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "8) Las entidades básicas de la organización territorial del Estado son:",
+        "respuestas": {
+            "a": "Los Municipios ",
+            "b": "Las Provincias ",
+            "c": "Las Comunidades Autónomas ",
+            "d": "Las Islas "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Los Municipios"
+    },
+    {
+        "timestamp": 1782672742.0568855,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "9) Señale cuál de las siguientes no son Entidades Locales territoriales: ",
+        "respuestas": {
+            "a": "Los Municipios ",
+            "b": "Las Provincias ",
+            "c": "Las Comunidades Autónomas ",
+            "d": "Las Islas en los archipiélagos balear y canario "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Las Comunidades Autónomas"
+    },
+    {
+        "timestamp": 1782672756.513173,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "10) Señale la incorrecta. Las entidades locales sirven con objetividad los intereses públicos que les están encomendados y actúan de acuerdo con los principios de…",
+        "respuestas": {
+            "a": "eficacia ",
+            "b": "descentralización ",
+            "c": "desconcentración ",
+            "d": "Cooperación "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Cooperación"
+    },
+    {
+        "timestamp": 1782672783.6093245,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "11) Señale la respuesta correcta en relación con las competencias del municipio.",
+        "respuestas": {
+            "a": "Las competencias de las Entidades Locales son propias o atribuidas por delegación, en todo caso ",
+            "b": "El Estado y las Comunidades Autónomas, en el ejercicio de sus respectivas competencias, no podrán delegar en las Entidades Locales el ejercicio de sus competencias ",
+            "c": "Las Entidades Locales solo podrán ejercer competencias distintas de las propias y de las atribuidas por delegación únicamente cuando no se ponga en riesgo la sostenibilidad financiera del conjunto de la Hacienda municipal. ",
+            "d": "Todas son incorrectas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son incorrectas"
+    },
+    {
+        "timestamp": 1782672788.3771086,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "12) ¿Cuál de los siguientes no es un elemento del Municipio?",
+        "respuestas": {
+            "a": "El Territorio ",
+            "b": "Las Edificaciones ",
+            "c": "La Población ",
+            "d": "La Organización "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Las Edificaciones"
+    },
+    {
+        "timestamp": 1782672794.161249,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "13) El término municipal es ",
+        "respuestas": {
+            "a": "la población en la que el ayuntamiento ejerce sus competencias ",
+            "b": "la organización en la que el ayuntamiento ejerce sus competencias ",
+            "c": "las edificaciones en las que el ayuntamiento ejerce sus competencias ",
+            "d": "el territorio en que el ayuntamiento ejerce sus competencias "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) el territorio en que el ayuntamiento ejerce sus competencias"
+    },
+    {
+        "timestamp": 1782672818.985792,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "14) Señale la respuesta incorrecta en lo que respecta a la creación o supresión de municipios, así como la alteración de términos municipales",
+        "respuestas": {
+            "a": "Requerirán en todo caso audiencia de los municipios interesados y dictamen del Consejo de Estado o del órgano consultivo superior de los Consejos de Gobierno de las Comunidades Autónomas, si existiere. ",
+            "b": "La anterior es correcta, necesitando además el informe de la Administración que ejerza la tutela financiera ",
+            "c": "La alteración de términos municipales puede suponer, en algún caso, la modificación de los límites provinciales. ",
+            "d": "La creación de nuevos municipios solo podrá realizarse sobre la base de núcleos de población territorialmente diferenciados, de al menos 4.000 habitantes, siempre que cumplan con determinados requisitos en cuanto a sus recursos financieros y a la calidad de sus servicios "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) La alteración de términos municipales puede suponer, en algún caso, la modificación de los límites provinciales."
+    },
+    {
+        "timestamp": 1782672825.22535,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "15) El convenio de fusión de municipios deberá ser aprobado por:",
+        "respuestas": {
+            "a": "mayoría absoluta de cada uno de los plenos de los municipios fusionados. ",
+            "b": "mayoría de 3/5 de cada uno de los plenos de los municipios fusionados. ",
+            "c": "mayoría de 2/3 de cada uno de los plenos de los municipios fusionados. ",
+            "d": "mayoría simple de cada uno de los plenos de los municipios fusionados. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) mayoría simple de cada uno de los plenos de los municipios fusionados."
+    },
+    {
+        "timestamp": 1782672835.5135016,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "16) La denominación de los Municipios podrá ser, a todos los efectos,",
+        "respuestas": {
+            "a": "Siempre en castellano ",
+            "b": "Puede utilizarse otra lengua española oficial en la respectiva Comunidad Autónoma pero, en ese caso, debe acompañarse también con el término en castellano ",
+            "c": "en castellano, en cualquier otra lengua española oficial en el territorio nacional, o en ambas. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782672847.529621,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "17) Señale la respuesta incorrecta en relación al Padrón de habitantes…",
+        "respuestas": {
+            "a": "Toda persona que viva en España está obligada a inscribirse en el Padrón del municipio en el que resida habitualmente. ",
+            "b": "Quien viva en varios municipios deberá inscribirse, podrá inscribirse en dos a la vez, como máximo. ",
+            "c": "El conjunto de personas inscritas en el Padrón municipal constituye la población del municipio. ",
+            "d": "La condición de vecino se adquiere en el mismo momento de su inscripción en el Padrón. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Quien viva en varios municipios deberá inscribirse, podrá inscribirse en dos a la vez, como máximo."
+    },
+    {
+        "timestamp": 1782672851.8656013,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "18) A efectos de la Ley de Bases de Régimen Local, el Padrón municipal …",
+        "respuestas": {
+            "a": "es un registro civil ",
+            "b": "es un registro informático ",
+            "c": "es un registro administrativo ",
+            "d": "ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) es un registro administrativo"
+    },
+    {
+        "timestamp": 1782672861.9297078,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "19) La inscripción en el Padrón Municipal (...) deberá ser objeto de renovación periódica:",
+        "respuestas": {
+            "a": "cada dos años cuando se trate de la inscripción de extranjeros no comunitarios sin autorización de residencia permanente. ",
+            "b": "cada tres años cuando se trate de la inscripción de extranjeros no comunitarios sin autorización de residencia permanente. ",
+            "c": "cada dos años cuando se trate de la inscripción de extranjeros sin autorización de residencia de larga duración, no pertenecientes a un Estado miembro de la UE, a Estados parte en el Acuerdo sobre el Espacio Económico Europeo o a otros Estados a los que, en virtud de un convenio internacional se extienda el régimen jurídico ",
+            "d": "cada tres años cuando se trate de la inscripción de extranjeros sin autorización de residencia de larga duración, no pertenecientes a un Estado miembro de la UE, a Estados parte en el Acuerdo sobre el Espacio Económico Europeo o a otros Estados a los que, en virtud de un convenio internacional se extienda el régimen jurídico "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) cada dos años cuando se trate de la inscripción de extranjeros sin autorización de residencia de larga duración, no pertenecientes a un Estado miembro de la UE, a Estados parte en el Acuerdo sobre el Espacio Económico Europeo o a otros Estados a los que, en virtud de un convenio internacional se extienda el régimen jurídico"
+    },
+    {
+        "timestamp": 1782672867.0096014,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "20) La inscripción en el Padrón municipal contendrá como obligatorios los siguientes datos: (SEÑALE LA INCORRECTA)",
+        "respuestas": {
+            "a": "En nombre y los apellidos ",
+            "b": "El sexo ",
+            "c": "El número de teléfono ",
+            "d": "Certificado o título escolar o académico que se posea. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) El número de teléfono"
+    },
+    {
+        "timestamp": 1782672880.170057,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "21) Señale la incorrecta. Son derechos y deberes de los vecinos:",
+        "respuestas": {
+            "a": "Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral, salvo los vecinos de nacionalidad extranjera que solo podrán ser electores y no elegibles. ",
+            "b": "Participar en la gestión municipal de acuerdo con lo dispuesto en las leyes y, en su caso, cuando la colaboración con carácter voluntario de los vecinos sea interesada por los órganos de gobierno y administración municipal. ",
+            "c": "Utilizar los servicios públicos municipales, y acceder a los aprovechamientos comunales, conforme a las normas aplicables. ",
+            "d": "Ser informado, previa petición razonada, y dirigir solicitudes a la Administración municipal en relación a todos los expedientes y documentación municipal. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Ser elector y elegible de acuerdo con lo dispuesto en la legislación electoral, salvo los vecinos de nacionalidad extranjera que solo podrán ser electores y no elegibles."
+    },
+    {
+        "timestamp": 1782672883.8739703,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "22) Los Concejales son elegidos…",
+        "respuestas": {
+            "a": "mediante sufragio universal, libre, directo y secreto ",
+            "b": "mediante sufragio igual, libre, indirecto y secreto ",
+            "c": "mediante sufragio universal, igual, libre, directo y secreto ",
+            "d": "ninguna de las anteriores "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) mediante sufragio universal, igual, libre, directo y secreto"
+    },
+    {
+        "timestamp": 1782672892.505787,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "23) Existen en todos los ayuntamientos…",
+        "respuestas": {
+            "a": "El Alcalde y los Concejales y, en determinados casos, los Tenientes de Alcalde. ",
+            "b": "El Alcalde, los Tenientes de Alcalde y a los Concejales ",
+            "c": "Sólo el Alcalde y los Concejales, los Tenientes de Alcalde son opcionales. ",
+            "d": "Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) El Alcalde, los Tenientes de Alcalde y a los Concejales"
+    },
+    {
+        "timestamp": 1782672899.641727,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "24) La Junta de Gobierno Local existe:",
+        "respuestas": {
+            "a": "En todos los municipios en los que así sea aprobado por el Pleno. ",
+            "b": "En todos los municipios con población superior a 5.000 habitantes ",
+            "c": "En los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento. ",
+            "d": "B y C son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) B y C son correctas"
+    },
+    {
+        "timestamp": 1782672902.6738443,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "25)  La Comisión Especial de Cuentas existe:",
+        "respuestas": {
+            "a": "En todos los municipios ",
+            "b": "En todos los municipios con población superior a 5.000 habitantes ",
+            "c": "En los de menos, cuando así lo disponga su reglamento orgánico o así lo acuerde el Pleno de su ayuntamiento. ",
+            "d": "B y C son correctas "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) En todos los municipios"
+    },
+    {
+        "timestamp": 1782672917.6259031,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "26) La Comisión Especial de Sugerencias y Reclamaciones existe: ",
+        "respuestas": {
+            "a": "existe en los municipios señalados en el título X, y en aquellos otros en que el Pleno así lo acuerde, por el voto favorable de la mayoría absoluta del número legal de sus miembros, o así lo disponga su Reglamento orgánico. ",
+            "b": "existe en los municipios señalados en el título X, y en aquellos otros en que el Pleno así lo acuerde, por el voto favorable de la mayoría simple del número legal de sus miembros, o así lo disponga su Reglamento orgánico. ",
+            "c": "existe en los municipios señalados en el título X, y en aquellos otros en que el Pleno así lo acuerde, por el voto favorable de la mayoría de 2/3 del número legal de sus miembros, o así lo disponga su Reglamento orgánico. ",
+            "d": "Ninguna de las anteriores "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) existe en los municipios señalados en el título X, y en aquellos otros en que el Pleno así lo acuerde, por el voto favorable de la mayoría absoluta del número legal de sus miembros, o así lo disponga su Reglamento orgánico."
+    },
+    {
+        "timestamp": 1782672932.850153,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "27) ¿Cuál de la siguientes atribuciones no corresponde al Alcalde?",
+        "respuestas": {
+            "a": "Aprobar la oferta de empleo público ",
+            "b": "La aprobación de la plantilla de personal y de la relación de puestos de trabajo ",
+            "c": "Ejercer la jefatura de la Policía Municipal ",
+            "d": "Dictar bandos "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) La aprobación de la plantilla de personal y de la relación de puestos de trabajo"
+    },
+    {
+        "timestamp": 1782672943.1701164,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "28) ¿Cuál de la siguientes atribuciones no corresponde al Alcalde?",
+        "respuestas": {
+            "a": "Dirigir el gobierno y la administración municipal. ",
+            "b": "El ejercicio de las acciones judiciales y administrativas y la defensa del ayuntamiento en las materias de su competencia ",
+            "c": "La aprobación del reglamento orgánico y de las ordenanzas ",
+            "d": "Representar al ayuntamiento. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) La aprobación del reglamento orgánico y de las ordenanzas"
+    },
+    {
+        "timestamp": 1782672959.466033,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "29) La Junta de Gobierno Local…",
+        "respuestas": {
+            "a": "se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por el Pleno, dando cuenta al Alcalde. ",
+            "b": "se integra por el Alcalde y un número de Concejales no superior a la mitad del número legal de los mismos, nombrados y separados libremente por el Alcalde, dando cuenta al Pleno. ",
+            "c": "se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por el Alcalde, dando cuenta al Pleno. ",
+            "d": "se integra por el Alcalde y un número de Concejales no superior a la mitad del número legal de los mismos, nombrados y separados libremente por el Pleno, dando cuenta al Alcalde. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) se integra por el Alcalde y un número de Concejales no superior al tercio del número legal de los mismos, nombrados y separados libremente por el Alcalde, dando cuenta al Pleno."
+    },
+    {
+        "timestamp": 1782672973.338017,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "30) El Municipio ejercerá en todo caso como competencias propias:",
+        "respuestas": {
+            "a": "Urbanismo ",
+            "b": "Policía local, protección civil, prevención y extinción de incendios. ",
+            "c": "Ferias, abastos, mercados, lonjas y comercio ambulante. ",
+            "d": "Todas son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas"
+    },
+    {
+        "timestamp": 1782673005.1783726,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "31) Señale la respuesta correcta. Los Municipios deberán prestar, en todo caso, los servicios siguientes: ",
+        "respuestas": {
+            "a": "En todos los Municipios: alumbrado público, cementerio, recogida de residuos, parque público, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de las vías públicas. ",
+            "b": "En los Municipios con población superior a 5.000 habitantes, además: cementerio, biblioteca pública y tratamiento de residuos. ",
+            "c": "En los Municipios con población superior a 20.000 habitantes, además: protección civil, evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público. ",
+            "d": "En los Municipios con población superior a 50.000 habitantes, además: protección civil, transporte colectivo urbano de viajeros y medio ambiente urbano. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) En los Municipios con población superior a 20.000 habitantes, además: protección civil, evaluación e información de situaciones de necesidad social y la atención inmediata a personas en situación o riesgo de exclusión social, prevención y extinción de incendios e instalaciones deportivas de uso público."
+    },
+    {
+        "timestamp": 1782673019.0903533,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "32) El Pleno celebra sesión ordinaria como mínimo:",
+        "respuestas": {
+            "a": "cada dos meses en los Ayuntamientos de municipios de más de 20.000 habitantes y en las Diputaciones Provinciales ",
+            "b": "cada tres meses en los Ayuntamientos de los municipios de una población entre 5.001 habitantes y 20.000 habitantes ",
+            "c": "cada cuatro meses en los municipios de hasta 5.000 habitantes ",
+            "d": "cada mes en los Ayuntamientos de municipios de más de 20.000 habitantes y en las Diputaciones Provinciales "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) cada mes en los Ayuntamientos de municipios de más de 20.000 habitantes y en las Diputaciones Provinciales"
+    },
+    {
+        "timestamp": 1782673039.8588758,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "33) El Pleno celebra sesión extraordinaria…",
+        "respuestas": {
+            "a": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "b": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente ",
+            "c": "cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente ",
+            "d": "cuando así lo decida el Presidente o lo solicite la tercera parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de dos anualmente "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: c) cuando así lo decida el Presidente o lo solicite la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente"
+    },
+    {
+        "timestamp": 1782673056.4666338,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "34) Los acuerdos de las corporaciones locales se adoptan, como regla general…",
+        "respuestas": {
+            "a": "por mayoría simple de los miembros presentes. ",
+            "b": "por mayoría absoluta de los miembros presentes. ",
+            "c": "por mayoría de 3/5 de los miembros presentes. ",
+            "d": "por mayoría de 2/3 de los miembros presentes. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) por mayoría simple de los miembros presentes."
+    },
+    {
+        "timestamp": 1782673070.5226178,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "35) Se requiere el voto favorable de la mayoría absoluta del número legal de miembros de las corporaciones para la adopción de acuerdos en las siguientes materias…",
+        "respuestas": {
+            "a": "Creación y supresión de municipios y alteración de términos municipales. ",
+            "b": "Alteración del nombre y de la capitalidad del municipio. ",
+            "c": "Aprobación y modificación del reglamento orgánico propio de la corporación. ",
+            "d": "Todas son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas"
+    },
+    {
+        "timestamp": 1782673100.1072469,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "36) La aprobación de las Ordenanzas locales se ajustará al siguiente procedimiento: ",
+        "respuestas": {
+            "a": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 15 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno. ",
+            "b": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Alcalde. ",
+            "c": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 15 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Alcalde. ",
+            "d": "Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: d) Aprobación inicial por el Pleno, Información pública y audiencia a los interesados por el plazo mínimo de 30 días para la presentación de reclamaciones y sugerencias y Resolución de todas las reclamaciones y sugerencias presentadas dentro del plazo y aprobación definitiva por el Pleno."
+    },
+    {
+        "timestamp": 1782673114.122941,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "37) Se consideran municipios de Gran población ",
+        "respuestas": {
+            "a": "municipios capitales de provincia cuya población sea superior a los 150.000 habitantes. ",
+            "b": "municipios que sean capitales de provincia, capitales autonómicas o sedes de las instituciones autonómicas. ",
+            "c": "municipios cuya población supere los 75.000 habitantes, que presenten circunstancias económicas, sociales, históricas o culturales especiales. ",
+            "d": "b) y c) son correctas siempre que así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos ayuntamientos. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) b) y c) son correctas siempre que así lo decidan las Asambleas Legislativas correspondientes a iniciativa de los respectivos ayuntamientos."
+    },
+    {
+        "timestamp": 1782673123.546727,
+        "path": "/_plan_pl_1.5.json",
+        "id": "id2340234",
+        "pregunta": "38 ) Conforme al TRHL 781/86, los Alcaldes de las demás capitales de provincia, a excepción de Madrid y Barcelona, tendrán el tratamiento de:",
+        "respuestas": {
+            "a": "Señoría ",
+            "b": "Ilustrísima ",
+            "c": "Excelencia ",
+            "d": "Ninguna de las anteriores "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Ilustrísima"
+    },
+    {
+        "timestamp": 1782673147.906839,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "1. ¿Qué tipo de norma se utiliza para aprobar el Estatuto de Autonomía?",
+        "respuestas": {
+            "a": "a) Ley de bases ",
+            "b": "b) Ley Ordinaria ",
+            "c": "c) Ley Orgánica ",
+            "d": "d) Real Decreto Legislativo "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) Ley Orgánica"
+    },
+    {
+        "timestamp": 1782673155.3394358,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "2. ¿Cuál de los siguientes títulos pertenece al Estatuto de Autonomía del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) 7/81, de 30 de diciembre ",
+            "b": "b) 7/80, de 30 de diciembre ",
+            "c": "c) 7/85, de 30 de octubre ",
+            "d": "d) 7/85, de 2 de abril "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: a) 7/81, de 30 de diciembre"
+    },
+    {
+        "timestamp": 1782673168.2030652,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "3. Según el artículo 147 de la CE, ¿Qué debe contener todo Estatuto de Autonomía?",
+        "respuestas": {
+            "a": "a) Denominación de la Comunidad y delimitación del territorio. ",
+            "b": "b) a) es correcta, y también la sede de las instituciones autónomas propias ",
+            "c": "c) b) es correcta, y también las competencias asumidas. ",
+            "d": "d) c) es correcta, y también la bandera y escudo de representación autonómica. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) b) es correcta, y también las competencias asumidas."
+    },
+    {
+        "timestamp": 1782673175.275394,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "4. ¿Cuántos títulos tiene el Estatuto de Autonomía del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) Un título preliminar y 5 títulos adicionales. ",
+            "b": "b) Un título preliminar y 6 títulos adicionales. ",
+            "c": "c) Un título preliminar y 7 títulos adicionales. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Un título preliminar y 7 títulos adicionales."
+    },
+    {
+        "timestamp": 1782673186.4991639,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "5. Señale la opción incorrecta",
+        "respuestas": {
+            "a": "a) La bandera del Principado de Asturias es la tradicional con la Cruz de Covadonga en amarillo sobre fondo azul. ",
+            "b": "b) El Principado de Asturias tiene escudo propio. ",
+            "c": "c) El aprendizaje del bable será voluntario. ",
+            "d": "d) Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) La bandera del Principado de Asturias es la tradicional con la Cruz de Covadonga en amarillo sobre fondo azul."
+    },
+    {
+        "timestamp": 1782673195.7151964,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "6. ¿Cómo se organiza territorialmente el Principado de Asturias?",
+        "respuestas": {
+            "a": "a) En municipios, parroquias rurales y comarcas. ",
+            "b": "b) En parroquias y comarcas. ",
+            "c": "c) En municipios y concejos. ",
+            "d": "d) En concejos y comarcas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) En concejos y comarcas."
+    },
+    {
+        "timestamp": 1782673200.9555333,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "7. Forma tradicional de convivencia y asentamiento de la población asturiana.",
+        "respuestas": {
+            "a": "a) Concejo ",
+            "b": "b) Comarca ",
+            "c": "c) Parroquia rural ",
+            "d": "d) Pedanía "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: c) Parroquia rural"
+    },
+    {
+        "timestamp": 1782673220.419587,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "8. ¿Quienes gozan de los derechos políticos asturianos?",
+        "respuestas": {
+            "a": "a) Los ciudadanos españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Asturias y acrediten esta condición en el Consulado. ",
+            "b": "b) Los ciudadanos españoles residentes en el extranjero que hayan tenido la primera vecindad administrativa en Asturias y acrediten esta condición en el Consulado. ",
+            "c": "c) a) es correcta, y también sus descendientes inscritos como españoles. ",
+            "d": "d) b) es correcta, y también sus descendientes inscritos como españoles. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) a) es correcta, y también sus descendientes inscritos como españoles."
+    },
+    {
+        "timestamp": 1782673227.611364,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "9. ¿Cuáles son los órganos institucionales del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) La Junta General, el Tribunal de cuentas y el Consejo de Gobierno. ",
+            "b": "b) La Junta de Gobierno, el Consejo General y el Presidente del Principado. ",
+            "c": "c) La Junta General, el Consejo de Gobierno y el Presidente del Principado. ",
+            "d": "d) Ninguna es correcta. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) La Junta General, el Consejo de Gobierno y el Presidente del Principado."
+    },
+    {
+        "timestamp": 1782673238.0758047,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "10. Respecto a los presupuestos del Principado de Asturias",
+        "respuestas": {
+            "a": "a) Son elaborados por la Junta General y aprobados por el Tribunal de Cuentas. ",
+            "b": "b) Son elaborados por la Junta General y aprobados por el Consejo de Gobierno. ",
+            "c": "c) Son elaborados por el Consejo de Gobierno y aprobados por la Junta General. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: c) Son elaborados por el Consejo de Gobierno y aprobados por la Junta General."
+    },
+    {
+        "timestamp": 1782673249.4753659,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "11. ¿Quien ejerce la potestad legislativa del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Tribunal Superior de Justicia del Principado ",
+            "d": "d) El Presidente del Principado. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) La Junta General"
+    },
+    {
+        "timestamp": 1782673258.4994435,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "12. La Junta General podrá delegar en el Consejo de Gobierno la potestad de dictar normas con rango de Ley. ¿Cómo podrá efectuarse esta delegación?",
+        "respuestas": {
+            "a": "a) Mediante una Ley de bases, para la formación de textos articulados. ",
+            "b": "b) Mediante una Ley ordinaria, para refundir varios textos legales en uno. ",
+            "c": "c) a) y b) son correctas ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) a) y b) son correctas"
+    },
+    {
+        "timestamp": 1782673265.4595559,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "13. ¿Cuantos miembros componen la Junta General?",
+        "respuestas": {
+            "a": "a) Según el Estatuto, entre 35 y 45. Actualmente, existen 45. ",
+            "b": "b) Según el Estatuto, 45. ",
+            "c": "c) Según el Estatuto, entre 30 y 40. Actualmente, existen 35. ",
+            "d": "d) Según el Estatuto, 35. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Según el Estatuto, entre 35 y 45. Actualmente, existen 45."
+    },
+    {
+        "timestamp": 1782673278.0117161,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "14. El Presidente del Principado, previa deliberación del Consejo de Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Cámara, con anticipación al término natural de la legislatura. ¿En qué casos no podrá disolverla?",
+        "respuestas": {
+            "a": "a) En el primer periodo de sesiones ",
+            "b": "b) Cuando se encuentre una moción de censura en trámite ",
+            "c": "c) Cuando reste menos de un año para la finalización de la legislatura. ",
+            "d": "d) Todas son correctas "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: d) Todas son correctas"
+    },
+    {
+        "timestamp": 1782673284.908652,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "15. Tras la celebración de elecciones, ¿En qué plazo convocará el Presidente del Principado a la Junta General electa?",
+        "respuestas": {
+            "a": "a) Dentro de los 15 días siguientes a las elecciones. ",
+            "b": "b) Dentro de los 20 días siguientes a las elecciones. ",
+            "c": "c) Dentro de los 25 días siguientes a las elecciones. ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Dentro de los 15 días siguientes a las elecciones."
+    },
+    {
+        "timestamp": 1782673297.147869,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "16. Los miembros de la Junta General durante su mandato no podrán ser detenidos ni retenidos por los actos delictivos cometidos en el territorio de Asturias, sino en caso de flagrante delito, correspondiendo decidir en todo caso sobre su inculpación, prisión, procesamiento y juicio:",
+        "respuestas": {
+            "a": "a) Al Tribunal Superior de Justicia de la Comunidad Autónoma. ",
+            "b": "b) Sala de lo penal del Tribunal Supremo ",
+            "c": "c) A la Audiencia Provincial ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Al Tribunal Superior de Justicia de la Comunidad Autónoma."
+    },
+    {
+        "timestamp": 1782673309.2758687,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "17. En relación a la pregunta anterior, si los actos delictivos fueran cometidos fuera del territorio de Asturias, corresponderá dicha competencia a:",
+        "respuestas": {
+            "a": "a) Al Tribunal Superior de Justicia de la Comunidad Autónoma. ",
+            "b": "b) Sala de lo penal del Tribunal Supremo ",
+            "c": "c) A la Audiencia Provincial ",
+            "d": "d) Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Sala de lo penal del Tribunal Supremo"
+    },
+    {
+        "timestamp": 1782673316.4438002,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "18. ¿Entre que meses está comprendido el segundo periodo de sesiones ordinarias de la Junta General?",
+        "respuestas": {
+            "a": "a) Febrero y Junio ",
+            "b": "b) Septiembre y Diciembre ",
+            "c": "c) Enero y Mayo ",
+            "d": "d) Agosto y Noviembre "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Febrero y Junio"
+    },
+    {
+        "timestamp": 1782673325.5879345,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "19. ¿De cuántos miembros de la Junta General se requiere su petición para convocar una sesión extraordinaria?",
+        "respuestas": {
+            "a": "a) 1/3 ",
+            "b": "b) 2/3 ",
+            "c": "c) 1/4 ",
+            "d": "d) Mayoría absoluta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) 1/4"
+    },
+    {
+        "timestamp": 1782673334.5558817,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "20. ¿Cómo son las comisiones de la Junta General?",
+        "respuestas": {
+            "a": "a) Permanentes, especiales o de investigación. ",
+            "b": "b) Permanentes o temporales. ",
+            "c": "c) Especiales o de trabajo. ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Permanentes, especiales o de investigación."
+    },
+    {
+        "timestamp": 1782673347.956277,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "21. Señale la opción correcta.",
+        "respuestas": {
+            "a": "a) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "b": "b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. ",
+            "c": "c) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 20 días desde su aprobación. ",
+            "d": "d) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Consejo de Gobierno, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) Las leyes del Principado de Asturias son aprobadas por la Junta General, promulgadas, en nombre del Rey, por el Presidente del Principado, y serán publicadas en el BOPA en el plazo de 15 días desde su aprobación."
+    },
+    {
+        "timestamp": 1782673355.5880268,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "22. ¿Quién nombra al Presidente del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Rey ",
+            "d": "d) El Presidente del Gobierno de la Nación. "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: c) El Rey"
+    },
+    {
+        "timestamp": 1782673362.5883715,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "23. El Presidente del Principado de Asturias es también presidente de:",
+        "respuestas": {
+            "a": "a) La Junta General ",
+            "b": "b) El Consejo de Gobierno ",
+            "c": "c) El Tribunal de Cuentas ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: b) El Consejo de Gobierno"
+    },
+    {
+        "timestamp": 1782673382.6118822,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "24. La elección como Presidente del Principado se hará por mayoría absoluta de los miembros de la Junta en primera convocatoria, y por mayoría simple en las posteriores, debiendo mediar entre cada convocatoria:",
+        "respuestas": {
+            "a": "a) Al menos 24 horas ",
+            "b": "b) Al menos 48 horas ",
+            "c": "c) Al menos 72 horas ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Al menos 48 horas"
+    },
+    {
+        "timestamp": 1782673391.3242147,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "25. La Junta General puede exigir la responsabilidad política del Consejo de Gobierno mediante la adopción por mayoría absoluta de la moción de censura. La moción de censura debe ser propuesta:",
+        "respuestas": {
+            "a": "a) Por 1/4 de la Junta General ",
+            "b": "b) Por un 15 % de la Junta General ",
+            "c": "c) Por mayoría simple de la Junta General ",
+            "d": "d) Ninguna de las anteriores "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: b) Por un 15 % de la Junta General"
+    },
+    {
+        "timestamp": 1782673397.3882515,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "26. La moción de censura no podrá ser votada:",
+        "respuestas": {
+            "a": "a) Hasta que transcurran 5 días desde su presentación. ",
+            "b": "b) Hasta que transcurran 7 días desde su presentación. ",
+            "c": "c) Hasta que transcurran 48 horas desde su presentación. ",
+            "d": "d) Hasta que transcurran 15 días desde su presentación. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: a) Hasta que transcurran 5 días desde su presentación."
+    },
+    {
+        "timestamp": 1782673417.1566374,
+        "path": "/_plan_pl_1.4.json",
+        "id": "id2340234",
+        "pregunta": "27. ¿Quién nombra al Presidente del Tribunal Superior de Justicia del Principado de Asturias?",
+        "respuestas": {
+            "a": "a) El Presidente del Principado, a propuesta del Consejo de Gobierno. ",
+            "b": "b) El Rey, a propuesta del Consejo General del Poder Judicial. ",
+            "c": "c) El Rey, a propuesta del Presidente del Principado, oído el Consejo General del Poder Judicial. ",
+            "d": "d) Ninguno de los anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: b) El Rey, a propuesta del Consejo General del Poder Judicial."
+    },
+    {
+        "timestamp": 1782677046.3743227,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cuál de los siguientes derechos NO forma parte de los derechos fundamentales y libertades públicas contemplados en la Constitución Española:",
+        "respuestas": {
+            "a": "a. Derecho de petición ",
+            "b": "b. Derecho de participación en los asuntos públicos ",
+            "c": "c. Derecho a la propiedad privada ",
+            "d": "d. Derecho al honor "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Derecho a la propiedad privada"
+    },
+    {
+        "timestamp": 1782677061.1180422,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cual de los siguientes servicios NO está obligado a prestar un municipio de 15.000 habitantes:",
+        "respuestas": {
+            "a": "a. Tratamiento de residuos ",
+            "b": "b. Instalaciones deportivas de uso público ",
+            "c": "c. Biblioteca pública ",
+            "d": "d. Está obligado a todos los anteriores. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Instalaciones deportivas de uso público"
+    },
+    {
+        "timestamp": 1782677065.7420368,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Las fuerzas y cuerpos de seguridad deben “impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral” en base al siguiente principio básico de actuación:",
+        "respuestas": {
+            "a": "a. Adecuación al ordenamiento jurídico ",
+            "b": "b. Relaciones con la comunidad ",
+            "c": "c. Tratamiento de detenidos ",
+            "d": "d. Dedicación profesional "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Relaciones con la comunidad"
+    },
+    {
+        "timestamp": 1782677072.1982772,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La exhibición de los distintivos de identificación sin causa justificada, constituye al régimen disciplinario aplicable a la Policía Local:",
+        "respuestas": {
+            "a": "a. Falta leve ",
+            "b": "b. Falta menos grave ",
+            "c": "c. Falta grave ",
+            "d": "d. Falta muy grave "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Falta leve"
+    },
+    {
+        "timestamp": 1782677084.6304386,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La realización o incitación a la realización de actos que atenten contra la libertad e indemnidad sexual, o ejecutar actos de exhibición obscena, cuando no constituya infracción penal, constituyen a la Ley Orgánica 4/2015, de 30 de marzo:",
+        "respuestas": {
+            "a": "a. Falta leve ",
+            "b": "b. Falta menos grave ",
+            "c": "c. Falta grave ",
+            "d": "d. Falta muy grave "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Falta leve"
+    },
+    {
+        "timestamp": 1782677098.7904873,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Una discoteca abre sus puertas el jueves 20 de junio, ¿A qué hora debe proceder al cierre?",
+        "respuestas": {
+            "a": "05.00 horas del día siguiente de apertura. ",
+            "b": "06.00 horas del día siguiente de apertura. ",
+            "c": "07.30 horas del día siguiente de apertura. ",
+            "d": "Ninguna es correcta. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: 06.00 horas del día siguiente de apertura."
+    },
+    {
+        "timestamp": 1782677112.40652,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Constituye infracción GRAVE a la Ley 13/2002, de 23 de diciembre:",
+        "respuestas": {
+            "a": "a. No poseer cartilla sanitaria, ni certificado de vacunación obligatoria, para los animales que preceptivamente la requieran. ",
+            "b": "b. No tener identificados reglamentariamente los perros y los gatos. ",
+            "c": "c. Circular con perros de ataque sin bozal o sin correa.       ",
+            "d": "d. Todas son correctas.         "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: No tener identificados reglamentariamente los perros y los gatos."
+    },
+    {
+        "timestamp": 1782677129.6705837,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cual de las siguientes armas NO pertenece a la categoría 6ª:",
+        "respuestas": {
+            "a": "a. En general, las armas de avancarga. ",
+            "b": "b. Las armas de sistema «Flobert». ",
+            "c": "c. Armas de fuego antiguas o históricas. ",
+            "d": "d. Todas las anteriores pertenecen a la categoría 6ª. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Las armas de sistema «Flobert»."
+    },
+    {
+        "timestamp": 1782677139.0947297,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Las infracciones LEVES a la Ley 4/2015, de 6 de marzo, de atención integral en materia de drogas y bebidas alcohólicas, del Principado de Asturias, se sancionarán con la siguiente cuantía:",
+        "respuestas": {
+            "a": "a. Hasta 300 euros ",
+            "b": "b. Hasta 600 euros ",
+            "c": "c. De 60,10 euros a 601,01 euros. ",
+            "d": "d. De 100 a 600 euros. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Hasta 600 euros"
+    },
+    {
+        "timestamp": 1782677152.6551466,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La masa efectiva del vehículo y de su carga, incluida la masa del personal de servicio y de los pasajeros.",
+        "respuestas": {
+            "a": "Masa en carga ",
+            "b": "Tara ",
+            "c": "Masa máxima autorizada ",
+            "d": "Masa por eje "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Masa en carga"
+    },
+    {
+        "timestamp": 1782677171.0069919,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "¿De quién es competencia: Las normas especiales que posibiliten la circulación de vehículos históricos y fomenten la conservación y restauración de los que integran el patrimonio histórico?",
+        "respuestas": {
+            "a": "a. Administración General del Estado ",
+            "b": "b. Ministerio del Interior ",
+            "c": "c. Municipios ",
+            "d": "d. b) y c) son correctas. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Ministerio del Interior"
+    },
+    {
+        "timestamp": 1782677174.0629847,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La señal indicadora de “servicio público” es la señal:",
+        "respuestas": {
+            "a": "V-7 ",
+            "b": "V-8 ",
+            "c": "V-9 ",
+            "d": "V-10 "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: V-9"
+    },
+    {
+        "timestamp": 1782677179.639214,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "En las vías sin pavimentar el límite de velocidad máximo será de:",
+        "respuestas": {
+            "a": "a. 20 KM/H ",
+            "b": "b. 25 KM/H ",
+            "c": "c. 30 KM/H ",
+            "d": "d. 40 KM/H "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: 30 KM/H"
+    },
+    {
+        "timestamp": 1782677190.8236995,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Para conducir Triciclos cuya potencia máxima no exceda de 15 kW, se requerirá al menos:",
+        "respuestas": {
+            "a": "a. Permiso AM ",
+            "b": "b. Permiso A1 ",
+            "c": "c. Permiso A2 ",
+            "d": "d. Permiso A "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Permiso A1"
+    },
+    {
+        "timestamp": 1782677208.063447,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Conducir un vehículo teniendo el permiso de conducción suspendido como medida cautelar o teniendo prohibido su uso, es infracción:",
+        "respuestas": {
+            "a": "a. Leve ",
+            "b": "b. Menos grave ",
+            "c": "c. Grave ",
+            "d": "d. Muy grave "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: Grave"
+    },
+    {
+        "timestamp": 1782677217.4792197,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Un vehículo especial destinado a obras y servicios cuya velocidad por construcción sea inferior a 25 km/h, deberá someterse a inspección técnica con la siguiente periodicidad:",
+        "respuestas": {
+            "a": "Hasta 4 años, exento ",
+            "b": "Más de 16 años, anual ",
+            "c": "Hasta 6 años, exento ",
+            "d": "No está obligado a someterse a inspección técnica periódica "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: No está obligado a someterse a inspección técnica periódica"
+    },
+    {
+        "timestamp": 1782677231.3031616,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Es una circunstancia eximente de responsabilidad penal:",
+        "respuestas": {
+            "a": "a. El que, por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad. ",
+            "b": "b. La de obrar por causas o estímulos tan poderosos que hayan producido arrebato, obcecación u otro estado pasional de entidad semejante. ",
+            "c": "c. La de actuar el culpable a causa de su grave adicción. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: El que, por sufrir alteraciones en la percepción desde el nacimiento o desde la infancia, tenga alterada gravemente la conciencia de la realidad."
+    },
+    {
+        "timestamp": 1782677244.2712047,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Es pena menos grave:",
+        "respuestas": {
+            "a": "a. La multa de 5 meses. ",
+            "b": "b. Los trabajos en beneficio de la comunidad de 31 dias. ",
+            "c": "c. La privación del derecho a residir en determinado lugar por 5 años. ",
+            "d": "d. Todas son correctas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: Todas son correctas."
+    },
+    {
+        "timestamp": 1782677273.6476202,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "El que condujere un vehículo de motor o un ciclomotor a velocidad superior en 60 km/h en vía urbana o en 80 km/h en vía interurbana a la permitida reglamentariamente, será castigado con la pena de:",
+        "respuestas": {
+            "a": "a. Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "b": "b. Prisión de seis meses a un año y privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "c": "c. Prisión de tres a seis meses o con la de multa de seis a doce meses y con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años. ",
+            "d": "d. Ninguna es correcta. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Prisión de tres a seis meses o con la de multa de seis a doce meses o con la de trabajos en beneficio de la comunidad de treinta y uno a noventa días, y, en cualquier caso, con la de privación del derecho a conducir vehículos a motor y ciclomotores por tiempo superior a uno y hasta cuatro años."
+    },
+    {
+        "timestamp": 1782677295.6715016,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Cuando el que ha resuelto cometer un delito invita a otra u otras personas a participar en él.",
+        "respuestas": {
+            "a": "a. Conspiración ",
+            "b": "b. Provocación ",
+            "c": "c. Proposición ",
+            "d": "d. Apología "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Proposición"
+    },
+    {
+        "timestamp": 1782677313.7836747,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "En un municipio de régimen común, será competencia del ALCALDE:",
+        "respuestas": {
+            "a": "Aprobar la oferta de empleo público. ",
+            "b": "La aceptación de la delegación de competencias hecha por otras Administraciones. ",
+            "c": "La aprobación de la plantilla de personal y de la relación de puestos de trabajo. ",
+            "d": "Todas son correctas. "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Aprobar la oferta de empleo público."
+    },
+    {
+        "timestamp": 1782677329.5678136,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Es infracción LEVE a la ley 8/2002, de 21 de octubre…",
+        "respuestas": {
+            "a": "a. El incumplimiento de las condiciones de insonorización de los establecimientos, locales e instalaciones. ",
+            "b": "b. El incumplimiento de las condiciones de venta de las entradas y abonos. ",
+            "c": "c. La publicidad fraudulenta que pueda distorsionar la capacidad electiva del público. ",
+            "d": "d. El incumplimiento de los horarios de apertura y cierre de los locales en los que se desarrollen espectáculos y actividades recreativas. "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: El incumplimiento de los horarios de apertura y cierre de los locales en los que se desarrollen espectáculos y actividades recreativas."
+    },
+    {
+        "timestamp": 1782677344.8636997,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Las infracciones GRAVES a la Ley Orgánica de Protección de la Seguridad Ciudadana prescribirán:",
+        "respuestas": {
+            "a": "a. A los 3 meses ",
+            "b": "b. A los 6 meses ",
+            "c": "c. Al año ",
+            "d": "d. A los 2 años "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Al año"
+    },
+    {
+        "timestamp": 1782677351.3199825,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "La señal V-6 indica que el vehículo:",
+        "respuestas": {
+            "a": "a. Tiene una longitud superior a 6 metros ",
+            "b": "b. Tiene una longitud superior a 12 metros ",
+            "c": "c. No puede sobrepasar los 25 km/h ",
+            "d": "d. No puede sobrepasar los 40 m/h "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Tiene una longitud superior a 12 metros"
+    },
+    {
+        "timestamp": 1782677363.943937,
+        "path": "/_TB-1.json",
+        "id": "id2340234",
+        "pregunta": "Señale cuál de las siguientes infracciones detrae 4 puntos:",
+        "respuestas": {
+            "a": "a. Conducción negligente ",
+            "b": "b. Conducir un vehículo con un permiso que no le habilita para ello ",
+            "c": "c. Adelantar entorpeciendo a ciclistas ",
+            "d": "d. Cambio de sentido prohibido "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Conducir un vehículo con un permiso que no le habilita para ello"
+    },
+    {
+        "timestamp": 1782677384.4639366,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "1.Conforme al TRLSV, la coordinación de la prestación de la asistencia sanitaria en las vías públicas o de uso público, es competencia de:",
+        "respuestas": {
+            "a": "a. Los ayuntamientos ",
+            "b": "b. El Ministerio del Interior ",
+            "c": "c. La Administración General del Estado ",
+            "d": "d. La Jefatura Central de Tráfico "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: La Administración General del Estado"
+    },
+    {
+        "timestamp": 1782677393.2241175,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "2. Conforme al TRLSV, las autorizaciones o permisos temporales y provisionales para la circulación de vehículos, es competencia de:",
+        "respuestas": {
+            "a": "a. El Ministerio del Interior ",
+            "b": "b. Los ayuntamientos ",
+            "c": "c. La Administración General del Estado ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: El Ministerio del Interior"
+    },
+    {
+        "timestamp": 1782677412.8961186,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "3. Conforme al TRLSV, no facilitar al agente de la autoridad encargado de la vigilancia del tráfico en el ejercicio de las funciones que tenga encomendadas su identidad, ni los datos del vehículo solicitados por los afectados en un accidente de circulación, estando implicado en el mismo, constituye…",
+        "respuestas": {
+            "a": "a. Infracción muy grave ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave o grave, dependiendo de si el accidente es responsabilidad suya o no ",
+            "d": "d. Infracción leve "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Infracción grave"
+    },
+    {
+        "timestamp": 1782677427.2723174,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "4. Conforme al Reglamento de Armas, la tenencia de una ballesta ¿está sujeta a licencia?",
+        "respuestas": {
+            "a": "a. Sí, conforme al Reglamento será necesaria Licencia D ",
+            "b": "b. No, conforme al Reglamento será necesaria únicamente tarjeta de armas al no tener proyectil detonante ",
+            "c": "c. Sí, conforme al Reglamento será necesaria Licencia E ",
+            "d": "d. Sí, conforme al Reglamento será necesaria Licencia F "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Sí, conforme al Reglamento será necesaria Licencia E"
+    },
+    {
+        "timestamp": 1782677455.7446835,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "5. Conforme al Código Penal, señale cuál de las siguientes penas no es menos grave.",
+        "respuestas": {
+            "a": "a. La suspensión de empleo o cargo público hasta cinco años ",
+            "b": "b. La multa de más de tres meses ",
+            "c": "c. La privación del derecho a la tenencia y porte de armas de tres meses a un año ",
+            "d": "d. Los trabajos en beneficio de la comunidad de treinta y un días a un año "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: La privación del derecho a la tenencia y porte de armas de tres meses a un año"
+    },
+    {
+        "timestamp": 1782677468.8325083,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "6. Conforme al TRLSV, en infracciones de velocidad, se podrán detraer…",
+        "respuestas": {
+            "a": "a. 2, 4 ó 6 puntos, en todo caso ",
+            "b": "b. 0, 2, 4 puntos sin es infracción grave, ó 6 sólo si es muy grave ",
+            "c": "c. 0, 2, 4, 6 puntos sin es infracción grave, ó 6 si es muy grave ",
+            "d": "d. 0, 2, 3, 4 puntos sin es infracción grave, ó 6 sólo si es grave "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: 0, 2, 4, 6 puntos sin es infracción grave, ó 6 si es muy grave"
+    },
+    {
+        "timestamp": 1782677475.9443228,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "7. Conforme al TRLSV, efectuar el cambio de sentido incumpliendo las disposiciones recogidas en esta Ley y en los términos establecidos reglamentariamente conlleva la pérdida de:",
+        "respuestas": {
+            "a": "a. 2 puntos ",
+            "b": "b. 6 puntos ",
+            "c": "c. 4 puntos ",
+            "d": "d. 3 puntos "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: 3 puntos"
+    },
+    {
+        "timestamp": 1782677491.808488,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "8. Conforme al Reglamento de Armas, las escopetas y demás armas de fuego largas de ánima lisa, o que tengan cañón con rayas para facilitar el plomeo, que los bancos de pruebas reconocidos hayan marcado con punzón de escopeta de caza, no incluidas entre las armas de guerra; se incardinan en:",
+        "respuestas": {
+            "a": "a. La 2º Categoría ",
+            "b": "b. La 3º Categoría ",
+            "c": "c. La 4ª Categoría ",
+            "d": "d. Dependiendo si es para caza o no, pueden estar entre la 2º y la 4º Categoría "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: La 3º Categoría"
+    },
+    {
+        "timestamp": 1782677504.688813,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "9. Según el RD 920/2017, de 23 de octubre, en el caso de vehículos mixtos, la frecuencia de inspección aplicable será la correspondiente a:",
+        "respuestas": {
+            "a": "a. La categoría N en la que el vehículo pueda catalogarse ",
+            "b": "b. La categoría M en la que el vehículo pueda catalogarse ",
+            "c": "c. La categoría L1 en la que el vehículo pueda catalogarse ",
+            "d": "d. La categoría T en la que el vehículo pueda catalogarse "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: La categoría N en la que el vehículo pueda catalogarse"
+    },
+    {
+        "timestamp": 1782677525.9686525,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "10. Según el RD 920/2017, de 23 de octubre, en el caso de vehículos mixtos, la frecuencia de inspección aplicable a vehículos de motor concebidos y fabricados principalmente para el transporte de mercancías y cuya masa máxima no sea superior a 3,5 toneladas, con una antigüedad de 6 a 10 años será:",
+        "respuestas": {
+            "a": "a. Bienal ",
+            "b": "b. Semestral ",
+            "c": "c. Anual ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Anual"
+    },
+    {
+        "timestamp": 1782677538.1687937,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "11. Señale cuál de las siguientes faltas no se considera grave, conforme al Ley Orgánica 4/2010, de 20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía.",
+        "respuestas": {
+            "a": "a. La tenencia de drogas tóxicas, estupefacientes o sustancias psicotrópicas, excepto que esa tenencia se derive de actuaciones propias del servicio ",
+            "b": "b. Emplear, o autorizar la utilización para usos no relacionados con el servicio o con ocasión de este, o sin que medie causa justificada, de medios o recursos inherentes a la función policial ",
+            "c": "c. Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitar las mismas ",
+            "d": "d. Todas son las faltas graves "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Prescindir del conducto reglamentario para formular cualquier solicitud, reclamación o queja relacionada con el servicio, así como no tramitar las mismas"
+    },
+    {
+        "timestamp": 1782677560.3854132,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "12. Conforme al TRLSV, ¿cuál será el plazo de prescripción de la sanción en el supuesto de la infracción recogida en el artículo 77. q)?",
+        "respuestas": {
+            "a": "a. La sanción podrá durar un año pero su plazo de prescripción será de dos años ",
+            "b": "b. La sanción podrá durar un año y su plazo de prescripción será también de un año ",
+            "c": "c. La sanción podrá durar un año pero su plazo de prescripción será de tres años ",
+            "d": "d. La sanción podrá durar un año pero su plazo de prescripción será de cuatro años, como el resto de sanciones al TRLSV "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: La sanción podrá durar un año y su plazo de prescripción será también de un año"
+    },
+    {
+        "timestamp": 1782677573.8008575,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "13. Como norma general, la cuantía de las infracciones al TRLSV serán las siguientes:",
+        "respuestas": {
+            "a": "a. Las infracciones leves serán sancionadas con multa de hasta 100 euros; las graves, con multa de 200 euros, y las muy graves, con multa de 500 euros ",
+            "b": "b. Las infracciones leves serán sancionadas con multa de 100 euros; las graves, con multa de hasta 200 euros, y las muy graves, con multa de 500 euros ",
+            "c": "c. Las infracciones leves serán sancionadas con multa de 100 euros; las graves, con multa de 200 euros, y las muy graves, con multa de hasta 500 euros ",
+            "d": "d. Las infracciones leves serán sancionadas con multa de hasta 100 euros; las graves, con multa de 200 euros, y las muy graves, con multa de hasta 500 euros "
+        },
+        "solucion": "a",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Las infracciones leves serán sancionadas con multa de hasta 100 euros; las graves, con multa de 200 euros, y las muy graves, con multa de 500 euros"
+    },
+    {
+        "timestamp": 1782677585.4250271,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "14. Conforme a la Ley Orgánica 4/2010, de 20 de mayo, del Régimen disciplinario del Cuerpo Nacional de Policía, las faltas prescribirán:",
+        "respuestas": {
+            "a": "a. A los tres años; las graves, a los dos años, y las leves, a los seis meses ",
+            "b": "b. A los tres años; las graves, a los dos años, y las leves, al mes ",
+            "c": "c. A los tres años; las graves, a los dos años, y las leves, a los tres meses ",
+            "d": "d. A los tres años; las graves, a los dos años, y las leves, al año "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: A los tres años; las graves, a los dos años, y las leves, al mes"
+    },
+    {
+        "timestamp": 1782677595.2094252,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "15. Conforme a la Ley 39/2015, el plazo máximo para dictar y notificar la resolución del recurso de reposición será de:",
+        "respuestas": {
+            "a": "a. Tres meses ",
+            "b": "b. Un mes ",
+            "c": "c. Dos meses ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "a",
+        "explicacion": "La respuesta correcta es: Un mes"
+    },
+    {
+        "timestamp": 1782677605.881322,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "16. Conforme al Reglamento General de Circulación, la señal R-308 significa:",
+        "respuestas": {
+            "a": "a. Prohibición de parada y estacionamiento ",
+            "b": "b. Prohibición de parada ",
+            "c": "c. Prohibición de estacionamiento ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: Prohibición de estacionamiento"
+    },
+    {
+        "timestamp": 1782677611.7049062,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "17. Conforme al RGC, la señal que indica que el vehículo circula en función del aprendizaje de la conducción o de las pruebas de aptitud, será la:",
+        "respuestas": {
+            "a": "a. Señal V-12 ",
+            "b": "b. Señal V-14 ",
+            "c": "c. Señal V-19 ",
+            "d": "d. Señal V-9 "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Señal V-14"
+    },
+    {
+        "timestamp": 1782677623.6331306,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "18. Conforme a la Ley Orgánica 2/1986 de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, la premisa de impedir, en el ejercicio de su actuación profesional, cualquier práctica abusiva, arbitraria o discriminatoria que entrañe violencia física o moral, se enmarca en el principio básico de actuación de:",
+        "respuestas": {
+            "a": "a. Adecuación al ordenamiento jurídico ",
+            "b": "b. Relaciones con la comunidad ",
+            "c": "c. Tratamiento de detenidos ",
+            "d": "d. Responsabilidad "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Relaciones con la comunidad"
+    },
+    {
+        "timestamp": 1782677631.385221,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "19. Conforme a la CE, se reconoce el derecho de reunión pacífica y sin armas en el artículo:",
+        "respuestas": {
+            "a": "a. 22 ",
+            "b": "b. 23 ",
+            "c": "c. 20 ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: Ninguna es correcta"
+    },
+    {
+        "timestamp": 1782677641.7610612,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "20. Conforme a la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, la realización o incitación a la realización de actos que atenten contra la libertad e indemnidad sexual, o ejecutar actos de exhibición obscena, cuando no constituya infracción penal; constituye infracción.",
+        "respuestas": {
+            "a": "a. Grave ",
+            "b": "b. Leve ",
+            "c": "c. Muy grave ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Leve"
+    },
+    {
+        "timestamp": 1782677662.4098501,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "21. Conforme a la Ley Orgánica 4/2015, de 30 de marzo, de Protección de la Seguridad Ciudadana, la sanción a la infracción consistente en la perturbación del desarrollo de una reunión o manifestación lícita, cuando no constituya infracción penal, prescribirá:",
+        "respuestas": {
+            "a": "a. Al año ",
+            "b": "b. A los dos años ",
+            "c": "c. A los seis meses ",
+            "d": "d. A los tres años "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: A los dos años"
+    },
+    {
+        "timestamp": 1782677678.8096008,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "22. Conforme a la LEPAR, la apertura de establecimientos, locales o instalaciones y la celebración de espectáculos públicos o actividades recreativas que, aun contando con la correspondiente licencia o autorización, no adopten, total o parcialmente, las medidas de seguridad o salubridad obligatorias o cuando aquéllas no funcionen o lo hagan defectuosamente, constituirá:",
+        "respuestas": {
+            "a": "a. Infracción leve ",
+            "b": "b. Infracción grave ",
+            "c": "c. Infracción muy grave ",
+            "d": "d. Ninguna es correcta "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: Infracción grave"
+    },
+    {
+        "timestamp": 1782677692.9614666,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "23. Indique la competencia que no deberá tener obligatoriamente un municipio con población superior a 5000 habitantes, conforme a la Ley de Bases de Régimen Local.",
+        "respuestas": {
+            "a": "a. Parque público ",
+            "b": "b. Biblioteca púbica ",
+            "c": "c. Acceso a los núcleos de población ",
+            "d": "d. Todos son servicios obligatorios "
+        },
+        "solucion": "d",
+        "opcion_selecionada": "d",
+        "explicacion": "La respuesta correcta es: Todos son servicios obligatorios"
+    },
+    {
+        "timestamp": 1782677714.226406,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "24. Conforme al Reglamento General de Conductores, para conducir dentro del territorio nacional automóviles sin remolque impulsados por combustibles alternativos destinados al transporte de mercancías con una masa máxima autorizada superior a 3.500 kg pero que no exceda los 4.250 kg, siempre que la masa que supere los 3.500 kg provenga exclusivamente del exceso de masa del sistema de propulsión respecto al sistema de propulsión de un vehículo de las mismas dimensiones que esté equipado con un motor convencional de combustión interna con encendido por chispa o por compresión, y siempre que no se incremente la capacidad de carga respecto al mismo vehículo; será necesario contar con una antigüedad de dos años en…",
+        "respuestas": {
+            "a": "a. El permiso de la clase C1 ",
+            "b": "b. El permiso de la clase B ",
+            "c": "c. El permiso de la clase B, con la autorización B96 ",
+            "d": "d. El permiso de la clase C. "
+        },
+        "solucion": "b",
+        "opcion_selecionada": "c",
+        "explicacion": "La respuesta correcta es: El permiso de la clase B"
+    },
+    {
+        "timestamp": 1782677729.5234277,
+        "path": "/_TB-2.json",
+        "id": "id2340234",
+        "pregunta": "25. Jacinto, propietario y regente del bar homónimo, abre su local un domingo 20 de Junio, ¿de qué hora no podrá excederse su horario de cierre conforme al Decreto 90/2004?",
+        "respuestas": {
+            "a": "a. A las 01:30 horas ",
+            "b": "b. A las 2:30 horas ",
+            "c": "c. A las 2:00 horas ",
+            "d": "d. A las 2:30 horas, más los 30 minutos de operación material de cierre "
+        },
+        "solucion": "c",
+        "opcion_selecionada": "b",
+        "explicacion": "La respuesta correcta es: A las 2:00 horas"
+    }
+]
